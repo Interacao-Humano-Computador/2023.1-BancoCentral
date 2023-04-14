@@ -1,7 +1,7 @@
 # Brasfoot - Grupo 3
 
 <div style="text-align: center">
-<img src="../2023.1-Brasfoot/Docs/img/logo_brasfoot.jpg" alt="logo_brasfoot" style="width: 300px" al>
+<img src="https://github.com/Interacao-Humano-Computador/2023.1-Brasfoot/blob/main/Docs/img/logo_brasfoot.jpg" alt="logo_brasfoot" style="width: 300px" al>
 </div>
 
 ## Introdução
@@ -25,7 +25,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 | <img src="https://avatars.githubusercontent.com/u/98900627?v=4" alt="Igor e Silva" style="width: 10vw"> | Igor e Silva | [igorpenhaa](https://github.com/igorpenhaa) |
 | <img src="https://avatars.githubusercontent.com/u/97994511?v=4" alt="Larissa Gomes" style="width: 10vw"> | Larissa Gomes | [larigs](https://github.com/larigs) |
 | <img src="https://avatars.githubusercontent.com/u/99743571?v=4" alt="Lucas Gobbi" style="width: 10vw"> | Lucas gobbi | [LucasBergholz](https://github.com/LucasBergholz) |
-| <img src="../2023.1-Brasfoot/Docs/img/Foto_RafaelBosi.jpg" alt="Rafael Bosi" style="width: 10vw"> | Rafael Bosi | [StrangeUnit28](https://github.com/StrangeUnit28) |
+| <img src="https://github.com/Interacao-Humano-Computador/2023.1-Brasfoot/blob/main/Docs/img/Foto_RafaelBosi.jpg" alt="Rafael Bosi" style="width: 10vw"> | Rafael Bosi | [StrangeUnit28](https://github.com/StrangeUnit28) |
 
 <div style="text-align: left">
 <p> Tabela 1: Equipe de trabalho (Fonte: autor, 2023).</p>
