@@ -17,25 +17,6 @@
 
 Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
 
-# Brasfoot - Grupo 3
-
-<div style="text-align: center">
-<img src="https://github.com/Interacao-Humano-Computador/2023.1-Brasfoot/blob/main/Docs/img/logo_brasfoot.jpg" alt="logo_brasfoot" style="width: 300px" al>
-</div>
-
-## Introdução
-
- Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de IHC (Interação Humano Computador). O projeto visa avaliar o site [brasfoot](http://www.brasfoot.com/), com base no que aprendemos em IHC e apontar sugestões de melhorias nos problemas encontrados.
-
-## O site
-
- Brasfoot consiste em um site onde é possível realizar o download de um jogo que simula um campeonato de futebol. O site apresenta funcionalidades para associação, download e registro.
-
-
-## Integrantes da equipe
-
-Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
-
 <center>
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
