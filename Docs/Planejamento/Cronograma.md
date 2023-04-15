@@ -17,7 +17,7 @@
 | 8. Gravação da apresentação | ** | ** | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 9. Edição da apresentação | ** | ** | %% | %% |
 <div style="text-align: center">
-<p> Tabela 1: Equipe de trabalho (Fonte: Mizael Santos, 2023).</p>
+    <p> Tabela 1: Pnto de Controle 1 (Fonte: Mizael Santos, 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 5
@@ -31,7 +31,7 @@
 | 6. Gravação da apresentação | 28/05 | 28/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 7. Edição da apresentação | 28/05 | 29/05 | %% | Rafael Bosi |
 <div style="text-align: center">
-<p> Tabela 5: Ponto de Controle 5 (Fonte: Larissa Gomes, 2023).</p>
+    <p> Tabela 5: Ponto de Controle 5 (Fonte: Larissa Gomes, 2023).</p>
 </div>
 
 
@@ -47,7 +47,7 @@
 | 7. Gravação da apresentação | 04/06 | 04/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 8. Edição da apresentação | 04/06 | 05/06 | %% | Rafael Bosi |
 <div style="text-align: center">
-<p> Tabela 6: Ponto de Controle 6.1 (Fonte: Larissa Gomes, 2023).</p>
+    <p> Tabela 6: Ponto de Controle 6.1 (Fonte: Larissa Gomes, 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 6.2
@@ -62,9 +62,15 @@
 | 7. Gravação da apresentação | 18/06 | 18/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 8. Edição da apresentação | 18/06 | 19/06 | %% | Rafael Bosi |
 <div style="text-align: center">
-<p> Tabela 6: Ponto de Controle 6.1 (Fonte: Larissa Gomes, 2023).</p>
+    <p> Tabela 7: Ponto de Controle 6.2 (Fonte: Larissa Gomes, 2023).</p>
 </div>
 
-# Esse documento é só um exemplo, ainda será alterado (Apagar esse Tópico)
+# Histórico de versão
+| Data | Versão | Descrição | Autor | Revisor |
+|------|--------|-----------|-------|---------|
+| 14/04 | 1.0 | Criação do cronograma | Mizael Santos | Larissa Gomes |
+| 15/04 | 1.1 | Criação dos pontos de controle 5, 6.1 e 6.2 | Larissa Gomes | ** |
+
+
 
 
