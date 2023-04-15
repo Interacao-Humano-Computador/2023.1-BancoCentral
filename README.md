@@ -20,7 +20,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 |                                              Foto                                               |       Nome       |                          Github                           |
 | :---------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
 |        <img src="https://avatars.githubusercontent.com/u/87769920?v=4" alt="Bruno Ribeiro" style="width: 10vw">         |   Bruno Ribeiro   |           [brunoriibeiro](https://github.com/BrunoRiibeiro/)           |
-|    <img src="" alt="Francisco Mizael" style="width: 10vw">    |  Francisco Mizael   |    []()    |
+|    <img src="https://github.com/Interacao-Humano-Computador/2023.1-Brasfoot/blob/main/Docs/img/foto_mizael.jpg" alt="Francisco Mizael" style="width: 10vw">    |  Francisco Mizael   |    [frmiza](https://github.com/frmiza)    |
 |        <img src="https://avatars.githubusercontent.com/u/63993401?v=4" alt="Giovanni Alvissus" style="width: 10vw">        |   Giovanni Alvissus   |           [giovanni1106](https://github.com/giovanni1106/)           |
 | <img src="https://avatars.githubusercontent.com/u/98900627?v=4" alt="Igor e Silva" style="width: 10vw"> | Igor e Silva | [igorpenhaa](https://github.com/igorpenhaa) |
 | <img src="https://avatars.githubusercontent.com/u/97994511?v=4" alt="Larissa Gomes" style="width: 10vw"> | Larissa Gomes | [larigs](https://github.com/larigs) |
