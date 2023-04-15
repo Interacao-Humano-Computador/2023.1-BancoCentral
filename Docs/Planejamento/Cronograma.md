@@ -31,7 +31,7 @@
 | 6. Gravação da apresentação | 28/05 | 28/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 7. Edição da apresentação | 28/05 | 29/05 | %% | Rafael Bosi |
 <div style="text-align: center">
-<p> Tabela 5: Ponto de Controle 6(Fonte: Larissa Gomes, 2023).</p>
+<p> Tabela 5: Ponto de Controle 5 (Fonte: Larissa Gomes, 2023).</p>
 </div>
 
 
