@@ -96,9 +96,3 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
 | 13/04/2023 | `1.0` | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
 
-
-## Histórico de Versão
-
-|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
-| :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| 13/04/2023 | `1.0` | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
