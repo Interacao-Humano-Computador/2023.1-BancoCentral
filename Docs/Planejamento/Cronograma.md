@@ -17,6 +17,16 @@
 | 8. Gravação da apresentação | ** | ** | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 9. Edição da apresentação | ** | ** | %% | %% |
 
+## Cronograma Ponto de Controle 5
+| Atividade | Início | Fim | Autores | Revisores |
+|-----------|---------|---------|---------|-----------|
+| 1. Relatar os resultados do Story Board | 23/05 | 27/04 | Rafael Bosi | Giovanni Alvissus e Mizael Santos|
+| 2. Relatar a análise de tarefas | 23/05 | 27/04 | Bruno Ribeiro e Igor Penha | Rafael Bosi |
+| 3. Planejar a avaliação do protótipo de papel | 23/05 | 25/04 | Giovanni Alvissus e Larissa Gomes | Bruno Ribeiro |
+| 4. Planejar o relato dos resultados da avaliação do protótipo de papel | 26/04 | 28/04 | Lucas Gobbi e Mizael Santos | Igor Penha e Larissa Gomes|
+| 5. Atualizar GitPage | 26/04 | 28/04 | Larissa Gomes | Lucas Gobbi |
+| 6. Gravação da apresentação | ** | ** | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
+| 7. Edição da apresentação | ** | ** | %% | %% |
 
 # Esse documento é só um exemplo, ainda será alterado (Apagar esse Tópico)
 
