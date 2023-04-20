@@ -55,4 +55,11 @@
         <a class="hyperlink" href="https://github.com/StrangeUnit28">https://github.com/StrangeUnit28</a>
     </div>
 </div>
+
+## Histórico de Versão
+
+| Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 19/04/2023 | Criação da GitPage | Larissa Gomes | Lucas Gobbi |
+
 </div>
