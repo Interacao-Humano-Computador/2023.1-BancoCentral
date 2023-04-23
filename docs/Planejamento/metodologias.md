@@ -8,10 +8,10 @@ fossem o mais eficiente possível, dentro da realidade do grupo. </br >
 E, também, informar o que dessas metodologias se foi abstraido.
 
 
-## SCRUM
+## SCRUM Adaptado
 
-A fim de assegurar uma quantidade consistente e rápida de entregas, a metodologia ágil SCRUM foi adotada para organização do tempo do time. </br>
-Foi definido o timebox de uma ou duas semanas para cada sprint variado com as necessidades e parzos de entrega, iniciado e finalizado pelas reuniões semanais nas segundas-feira às 20:00.
+A fim de assegurar uma quantidade consistente e rápida de entregas, a metodologia ágil SCRUM foi adotada para organização do tempo do time. Devido à falta de horários livres coincidentes entre os membros do grupo, foi optado por uma adaptação do SCRUM, onde não ocorrerão dailys. </br>
+Foi definido o timebox de uma ou duas semanas para cada sprint variado com as necessidades e prazos de entrega, iniciado e finalizado pelas reuniões semanais nas segundas-feira às 20:00.
 
 As reuniões semanais têm como principais objetivos a realização de um  momento de review (_sprint review_) da sprint finalizada e organização das tarefas da sprint que se inicia (_sprint planning_). </br>
 A atribuição das tarefas foi feita no início do projeto e encontra-se disponível no [cronograma](/docs/planejamento/Cronograma.md). 
@@ -46,7 +46,7 @@ Outrosim, em atividade com maior importãncia há a revisão em grupo para que t
 
 Com o intuito de nos organizarmos e evitar problemas e divergências com as entregas das tarefas, nós nos planejamos em como seria nosso plano de comunicação.
 
-Os membros tem acesso a todas as plataformas disponíveis e essenciais de comunicação que nós planejamos ter durante o processo de desenvolvimento, são elas: Teams, WhatsApp e github.
+Os membros tem acesso a todas as plataformas disponíveis e essenciais de comunicação que nós planejamos ter durante o processo de desenvolvimento, são elas: Teams, WhatsApp e Github.
 
 Assim, sempre que tiver algum imprevisto com o integrante ou possibilidade de ajuda o grupo é avisado em uma da ferramentas de comunicação rápida
 
@@ -109,4 +109,4 @@ E políticas de entregas para termos o padrão, assim, conhecendo uma será capa
 
 | Versão   | Data       | Descrição                     |  Autor(es)    | Revisor(es)   |
 | :------: | :--------: |:----------------------------: | :-----------: | :-----:       |
-| `1.0`    | 20/04/2023 | Criação do documento          |   Igor Penha  | Bruno Ribeiro |
+| `1.0`    | 20/04/2023 | Criação do documento          |   Igor Penha  | Bruno Ribeiro e Lucas Gobbi |
