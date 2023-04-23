@@ -1,9 +1,10 @@
 ## Introdução
 
-    Este documento tem como objetivo apresentar qual foi o real cronograma seguido, seja por dificuldades encontradas no desenvolvimento do projeto ou seja porque outro membro possuia maior afinidade com atividade que deveria ser desenvolvida.
+Este documento tem como objetivo apresentar qual foi o real cronograma seguido, seja por dificuldades encontradas no desenvolvimento do projeto ou seja porque outro membro possuia maior afinidade com atividade que deveria ser desenvolvida.
 
 
 ## Cronograma Realizado Ponto de Controle 1
+A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 1. Segue abaixo:
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
