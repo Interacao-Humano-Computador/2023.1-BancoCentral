@@ -1,8 +1,7 @@
-# Cronograma
- 
 ## Introdução
 
   Desenvolvimento de um planejamento inicial para realização das atividades requeridas pelo trabalho, o cronograma de todos os Pontos de Controle podem ser vistos nas Tabelas de 1 a 9. 
+
 
 ## Cronograma Ponto de Controle 1
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
@@ -53,6 +52,7 @@
     <p> Tabela 4: Ponto de Controle 4 (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
+
 ## Cronograma Ponto de Controle 5
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
@@ -88,6 +88,19 @@
     <p> Tabela 6: Ponto de Controle 6.1 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
+## Cronograma Ponto de Controle 7
+| Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
+| :-----------: | :---------: | :---------: | :---------: | :-----------: |
+| Relato dos resultados do Protótipo de Papel | 05/06/2023 - 08/06/2023 | Giovanni Alvissus e Larissa Gomes | 09/06/2023 - 10/06/2023 | Lucas Gobbi | 
+| Planejamento da avaliação do protótipo de alta fidelidade | 05/06/2023 - 08/06/2023 | Bruno Ribiero e Mizael Santos | 09/06/2023 - 10/06/2023 | Rafael Bosi | 
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 07/06/2023 - 09/06/2023 | Igor Penha e Rafael Bosi | 10/06/2023 - 11/06/2023 | Larissa Gomes | 
+| Gravação da apresentação | 11/06/2023 - 11/06/2023 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 11/06/2023 - 11/06/2023 | Rafael Bosi | 
+| Edição da apresentação | 12/06/2023 - 12/06/2023 | Mizael Santos | 12/06/2023 - 12/06/2023 | Rafael Bosi | 
+| Cronograma executado | 12/06/2023 - 12/06/2023 | Lucas Gobbi | 12/06/2023 - 12/06/2023 | Igor Penha |
+<div style="text-align: center">
+    <p> Tabela 8: Ponto de Controle 7 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
 ## Cronograma Ponto de Controle 6.2
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
@@ -105,13 +118,43 @@
     <p> Tabela 7: Ponto de Controle 6.2 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
+## Cronograma Ponto de Controle 8
+| Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
+| :-----------: | :---------: | :---------: | :---------: | :-----------: |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | 14/06/2023 - 18/06/2023 | Igor Penha e Rafael Bosi | 20/06/2023 - 23/06/2023 | Larissa Gomes | 
+| Planejamento de verificação dos artefatos da Etapa 7 | 13/06/2023 - 18/06/2023 | Mizael Santos e Lucas Gobbi |21/06/2023 - 24/06/2023 | Bruno Ribeiro | 
+| Relato da verificação da Etapa 7 e ajustes nos artefatos | 15/06/2023 - 20/06/2023 | Bruno Ribeiro e Giovanni Alvissus | 21/06/2023 - 24/06/2023 | Igor Penha | 
+| Gravação da apresentação | 25/06/2023 - 25/06/2023 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 25/06/2023 - 25/06/2023 | Rafael Bosi |
+| Edição da apresentação | 26/06/2023 - 26/06/2023 | Mizael Santos | 26/06/2023 - 26/06/2023 | Rafael Bosi | 
+| Cronograma executado | 26/06/2023 - 26/06/2023 | Larissa Gomes | 26/06/2023 - 26/06/2023 | Lucas Gobbi |
+<div style="text-align: center">
+    <p> Tabela 9: Ponto de Controle 8 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
 
-# Histórico de versão
+## Cronograma Entrega Final
+| Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
+| :-----------: | :---------: | :---------: | :---------: | :-----------: |
+| Planejamento de verificação dos artefatos da Etapa 8 | 27/06/2023 - 230/06/2023 | Larissa Gomes e Lucas Gobbi | 01/07/2023 - 03/07/2023 | Igor Penha | 
+| Relato da verificação da Etapa 8 e ajustes nos artefatos | 27/06/2023 - 30/06/2023 | Bruno Ribeiro e Mizael Santos | 01/07/2023 - 03/07/2023 | Giovanni Alvissus | 
+| Gravação da apresentação | 04/07/2023 - 04/07/2023 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 04/07/2023 - 04/07/2023 | Rafael Bosi | 
+| Edição da apresentação | 05/07/2023 - 05/07/2023 | Mizael Santos | 05/07/2023 - 05/07/2023 | Rafael Bosi |
+| Cronograma executado | 05/07/2023 - 05/07/2023 | Rafael Bosi | 05/07/2023 - 05/07/2023 | Giovanni Alvissus |
+<div style="text-align: center">
+    <p> Tabela 10: Ponto de Controle Final (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+## Bibliografia
+
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf). Acesso em: 23 de Abril de 2023;
+
+## Histórico de versão
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |------|--------|-----------|-------|---------|-----------|
-| 14/04 | 1.0 | Criação do cronograma e ponto de controle 1 | Mizael Santos | 15/04 | Larissa Gomes |
-| 15/04 | 1.1 | Criação dos pontos de controle 5, 6.1 e 6.2 | Larissa Gomes | 15/04 | Giovanni Alvissus |
-| 23/04 | 1.2 | Criação dos pontos de controle 3 e 4 | Giovanni Alvissus | 23/04 | Rafael Bosi |
+| 14/04/2023 | 1.0 | Criação do cronograma e ponto de controle 1 | Mizael Santos | 15/04/2023 | Larissa Gomes |
+| 15/04/2023 | 1.1 | Criação dos pontos de controle 5, 6.1 e 6.2 | Larissa Gomes | 15/04/2023 | Giovanni Alvissus |
+| 23/04/2023 | 1.2 | Criação dos pontos de controle 3 e 4 | Giovanni Alvissus | 23/04/2023 | Rafael Bosi |
+| 23/04/2023 | `1.2` | Criação dos pontos de controle 7 e 8 | Rafael Bosi | 23/04/2023 | Lucas Gobbi |
+
 
 
 
