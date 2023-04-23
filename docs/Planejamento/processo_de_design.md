@@ -23,6 +23,7 @@ Figura 1: Ciclo de vida simples (Fonte: [1]).
 ## Ciclo de vida estrela
 <img title="a title" alt="Imagem Ciclo de vida estrela" src="https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/8-Processo-de-design/docs/img/processo-design/cicloestrela.png">
 Figura 2: Ciclo de vida sstrela (Fonte: [1]).
+\
 - Se assemelha ao ciclo de vida simples no entanto possui maior checagem de entre etapas e maior detalhamento
 
 ## Ciclo de vida de Nilsen
@@ -38,13 +39,13 @@ Nielsen definiu engenharia de usabilidade como as seguintes atividades como esse
 - Fazer protótipos
 - Realizar testes empíricos
 - Praticar design iterativo (correção de problemas durante as iterações de design e avaliação)
-
+\
 Lista 1: Ciclo de vida de Nilsen (Fonte: [1]).
 
 ## Ciclo de vida de Mayhew
 <img title="a title" alt="Imagem Ciclo de vida estrela" src="https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/8-Processo-de-design/docs/img/processo-design/ciclodemayhew.png">
 Figura 3: Ciclo de vida de Mayhew (Fonte: [1]).
-
+\
 Mayhew definiu que esse ciclo de vida para engenharia de usabilidade, como uma visão holística, reúne diferentes propostas da área de IHC em um só ciclo de vida. Nessa fase a análise de quesitos é dirigida pelo perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma, ja na fase de design e avaliação tem como objetivo conceber uma solução de IHC, e por fim na fase final de instalação deve-se obter opinioes de usuarios depois de um tempo de uso para possíveis futuras melhorias do sistema. 
 
 #### Vantagens
