@@ -71,4 +71,4 @@ O ciclo de vida escolhido pela equipe foi o de Mayhew pois ele apresenta uma riq
 # Histórico de versão
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |------|--------|-----------|-------|-----------------|---------|
-| 23/04/2023 | 1.0 | Criação do Processo de design | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Igor Penha](htpps://github.com/igorpenhaa) |
+| 23/04/2023 | 1.0 | Criação do Processo de design | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Igor Penha](https://github.com/igorpenhaa) |
