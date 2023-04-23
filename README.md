@@ -1,17 +1,16 @@
-# Brasfoot - Grupo 3
+# VideoLAN - Grupo 3
 
 <div align="center">
-<img src="https://github.com/Interacao-Humano-Computador/2023.1-Brasfoot/blob/main/Docs/img/logo_brasfoot.jpg" alt="logo_brasfoot" style="width: 400px" al>
+<img src="docs/img/logo.png" alt="logo" style="width: 400px">
 </div>
 
 ## Introdução
 
- Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de IHC (Interação Humano Computador). O projeto visa avaliar o site [brasfoot](http://www.brasfoot.com/), com base no que aprendemos em IHC e apontar sugestões de melhorias nos problemas encontrados.
+ Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de IHC (Interação Humano Computador). O projeto visa avaliar o site [VideoLAN](https://www.videolan.org/vlc/index.pt_BR.html), com base no que aprendemos em IHC e apontar sugestões de melhorias nos problemas encontrados.
 
 ## O site
 
- Brasfoot consiste em um site onde é possível realizar o download de um jogo que simula um campeonato de futebol. O site apresenta funcionalidades para associação, download e registro.
-
+ O VideoLAN é um site com intuito de disponibilizar o arquivo de download do app VLC (um software de reprodução de mídia mundialmente reconhecido principalmente no início dos anos 2000, devido a ausência por padrão da funcionalidade pelo sistema operacional), aprensentar informações sobre o produto e projetos da empresa dentre outras funcionalidades de menor escopo.
 
 ## Integrantes da equipe
 
@@ -29,7 +28,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
     <td align="center">
       <a href="https://github.com/giovanni1106">
         <img style="border-radius: 50%;" src="https://github.com/giovanni1106.png" width="150px;"/>
-        <h5 class="text-center">Giovanni Alvissus</h5>
+        <h5 class="text-center">Giovanni</h5>
       </a>
     </td>
     <td align="center">
@@ -75,5 +74,5 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| 13/04/2023 | `1.0` | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
-
+| `1.0` | 13/04/2023 | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
+| `2.0` | 23/04/2023 | Atualização para o VideoLAN | Larissa Gomes | Giovanni Alvissus |
