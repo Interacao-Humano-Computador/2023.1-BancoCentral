@@ -6,13 +6,13 @@
 
 | Nome              | Site                                               | Avaliação        |
 | :-------------:   | :------------------------------------------------: | :--------------: |
-| Bruno Ribeiro     | [Friv](https://friv.com) | [avaliação]()  |
+| Bruno Ribeiro     | [Friv](https://friv.com) | [avaliação](avaliacoes/avaliacaoFRIV.pdf)  |
 | Francisco Mizael  | []() | [avaliação]()  |
-| Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [avaliação]()  | 
-| Igor e Silva      | [SEGAMA](https://segama.com.br) | [avaliação]() |
-| Larissa Gomes     | [HBO](https://hbo.com) | [avaliação]() |
-| Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [avaliação]()  |
-| Rafael Bosi       | [Arch Linux](https://archlinux.org) | [avaliação]() |
+| Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [avaliação](avaliacoes/avaliacaoTAUBATE.pdf)  | 
+| Igor e Silva      | [SEGAMA](https://segama.com.br) | [avaliação](avaliacoes/avaliacaoSEGAMA.pdf) |
+| Larissa Gomes     | [HBO](https://hbo.com) | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
+| Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [avaliação](avaliacoes/avaliacaoBRASFOOT.pdf) |
+| Rafael Bosi       | [Arch Linux](https://archlinux.org) | [avaliação](avaliacoes/avaliacaoARCHLINUX.pdf) |
 
 <div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
 
@@ -50,7 +50,7 @@ Dentre os sites analisados de forma individual, o site escolhido foi o <a href="
 </div>
 
 <div style="text-align : justify;">
-A avaliação deste site selecionado pela equipe encontra-se em <a href="" target="_blank">avaliação VideoLAN</a>
+A avaliação deste site selecionado pela equipe encontra-se em <a href="avaliacoes/avaliacaoVLC.md" target="_blank">avaliação VideoLAN</a>
 </div>
 
 <br/>
