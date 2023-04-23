@@ -3,6 +3,25 @@
   Desenvolvimento de um planejamento inicial para realização das atividades requeridas pelo trabalho, o cronograma de todos os Pontos de Controle podem ser vistos nas Tabelas de 1 a 10. 
 
 
+## Cronograma Geral
+| Etapa | Título | Descrição | Entrega | Apresentação |
+|-----------|------------------|---------|-----------|-----------|
+| 1 | Desenvolvimento do Projeto | Planejamento do Projeto e Processo de Design | 13/04 | 25/04 |
+| 2 | Usuários  | Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas | 26/04 | 08/05 |
+| 3 | Análise  | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e características da plataforma para o projeto (Fase: análise de requisitos) | 09/05 | 16/05 |
+| 4 | Desenvolvimento do Projeto | Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas | 17/05 | 23/05 |
+| 5 | Relatorio e planejamento | Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel | 24/04 | 30/05 |
+| 6.1 | Verificar  | Verificação dos artefatos I | 01/06 | 06/06 |
+| 7 | Relatar | Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo dealta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 07/06 | 13/06 |
+| 6.2 | Verificar  | Verificação dos artefatos II | 14/06 | 20/06 |
+| 8 | Avaliar Protótipo | Relato dos resultados da avaliação do protótipo de alta fidelidade | 21/06 | 27/06 |
+| 9 | Entrega Final | Entrga final | 04/07 | 05/07 |
+
+
+<div style="text-align: center">
+    <p> Tabela 1: Ponto de Controle 1 (Fonte: SANTOS, Mizael. 2023).</p>
+</div>
+
 ## Cronograma Ponto de Controle 1
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
