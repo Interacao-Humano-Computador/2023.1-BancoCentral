@@ -7,7 +7,7 @@
 | Nome              | Site                                               | Planejamento     | Avaliação      |
 | :-------------:   | :------------------------------------------------: | :--------------: | :----------:   |
 | Bruno Ribeiro     | [Friv](https://friv.com) | [planejamento](avaliacoes/planavaliacaoFRIV.pdf) |  [avaliação](avaliacoes/avaliacaoFRIV.pdf)  |
-| Francisco Mizael  | []() | [planejamento]() | [avaliação]()  |
+| Francisco Mizael  | [Last.fm](https://www.last.fm) | [planejamento](avaliacoes/planavaliacaoLASTFM.pdf) | [avaliação](avaliacoes/avaliacaoLASTFM.pdf)  |
 | Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [planejamento](avaliacoes/avaliacaoTAUBATE.pdf) | [avaliação](avaliacoes/avaliacaoTAUBATE.pdf)  | 
 | Igor e Silva      | [SEGAMA](https://segama.com.br) | [planejamento](avaliacoes/planavaliacaoSEGAMA.pdf) | [avaliação](avaliacoes/avaliacaoSEGAMA.pdf) |
 | Larissa Gomes     | [HBO](https://hbo.com) | [planejamento](avaliacoes/planavaliacaoHBO.pdf) | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
@@ -51,7 +51,9 @@ Dentre os sites analisados de forma individual, o site escolhido foi o <a href="
 
 <div style="text-align : justify;">
 O planejamento e a avaliação deste site selecionado pela equipe encontra-se em:
+<br/>
 <a href="avaliacoes/planavaliacaoVLC.md" target="_balck">planejamento VideoLAN</a> 
+<br/>
 <a href="avaliacoes/avaliacaoVLC.md" target="_blank">avaliação VideoLAN</a>
 </div>
 
