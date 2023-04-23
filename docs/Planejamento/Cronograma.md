@@ -21,6 +21,8 @@
 </div>
 
 ## Cronograma Ponto de Controle 2
+A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
+
 | Atividade | Início | Fim | Autores | Revisores |
 |-----------|---------|---------|---------|-----------|
 | 1. Perfil do Usuário | 28/04  | 07/05 | Giovanni Alvissus e Mizael Santos | Bruno Ribeiro |
@@ -30,7 +32,7 @@
 | 8. Gravação da apresentação | 08/05 | 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 9. Edição da apresentação | 08/05 | 08/05 | Giovanni Alvissus | Mizael Santos |
 <div style="text-align: center">
-    <p> Tabela 1: Pnto de Controle 2 (Fonte: Mizael Santos, 2023).</p>
+    <p> Tabela 2: Ponto de Controle 2 (Fonte: Mizael Santos, 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 3
