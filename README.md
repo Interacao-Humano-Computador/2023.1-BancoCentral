@@ -28,7 +28,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
     <td align="center">
       <a href="https://github.com/giovanni1106">
         <img style="border-radius: 50%;" src="https://github.com/giovanni1106.png" width="150px;"/>
-        <h5 class="text-center">Giovanni Alvissus</h5>
+        <h5 class="text-center">Giovanni</h5>
       </a>
     </td>
     <td align="center">
@@ -74,5 +74,5 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| 13/04/2023 | `1.0` | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
-| 23/04/2023 | `1.0` | Atualização para o VideoLAN | Larissa Gomes | Giovanni Alvissus |
+| `1.0` | 13/04/2023 | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
+| `2.0` | 23/04/2023 | Atualização para o VideoLAN | Larissa Gomes | Giovanni Alvissus |
