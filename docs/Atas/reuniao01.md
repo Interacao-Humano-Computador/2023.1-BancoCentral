@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento visa registrar o acontecimento da reunião do dia 13/04/2023, marcar quais membros estavam presentes (Tabela 1), os objetivos gerais da reunião, além de definir e controlar tarefas (Tabela 2). Aqui esta presente, também, a gravação da reunião.
+Esse documento visa registrar o acontecimento da 1ª reunião, marcar quais membros estavam presentes (Tabela 1), os objetivos gerais da reunião, além de definir e controlar tarefas (Tabela 2). Aqui esta presente, também, a gravação da reunião.
 
 ## Dados da reunião
 
@@ -25,7 +25,7 @@ Ficou definido nessa reunião que o melhor dia e horário para os membros do gru
 
 ## Definição das tarefas individuais
 
-Ficou decidido na reunião, que as atividades individuais seguiriam o que esta apresentado na Tabela 2.
+Ficou decidido na reunião, que as atividades individuais seguiriam o que está apresentado na Tabela 2.
 
 | Nome |    Tarefa   |
 | :---------------: | :--------------------------------------------:|
@@ -42,9 +42,9 @@ Tabela 2: definição das tarefas (Fonte: autor, 2023).
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                         |  Autor(es)    | Revisor(es)      |
-| :------: | :--------: |:--------------------------------: | :-----------: | :--------------: |
-| `1.0`    | 13/04/2023     | Criação do Documento         |    Rafael Bosi   |   Giovanni Alvissus   |
+| Versão   | Data       | Descrição                    |  Autor(es)    | Revisor(es)       |
+| :------: | :--------: |:---------------------------: | :-----------: | :---------------: |
+| `1.0`    | 13/04/2023 | Criação do Documento         |  Rafael Bosi  | Giovanni Alvissus |
 
 
 
