@@ -1,7 +1,26 @@
 ## Introdução
 
-  Desenvolvimento de um planejamento inicial para realização das atividades requeridas pelo trabalho, o cronograma de todos os Pontos de Controle podem ser vistos nas Tabelas de 1 a 10. 
+  Desenvolvimento de um planejamento inicial para realização das atividades requeridas pelo trabalho, o cronograma de todos os Pontos de Controle podem ser vistos nas Tabelas de 1 a 11. 
 
+
+## Cronograma Geral
+| Etapa | Título | Descrição | Entrega | Apresentação |
+|-----------|------------------|---------|-----------|-----------|
+| 1 | Desenvolvimento do Projeto | Planejamento do Projeto e Processo de Design | 13/04 | 25/04 |
+| 2 | Usuários  | Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas | 26/04 | 08/05 |
+| 3 | Análise  | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e características da plataforma para o projeto (Fase: análise de requisitos) | 09/05 | 16/05 |
+| 4 | Desenvolvimento do Projeto | Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas | 17/05 | 23/05 |
+| 5 | Relatorio e planejamento | Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel | 24/04 | 30/05 |
+| 6.1 | Verificar  | Verificação dos artefatos I | 01/06 | 06/06 |
+| 7 | Relatar | Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo dealta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 07/06 | 13/06 |
+| 6.2 | Verificar  | Verificação dos artefatos II | 14/06 | 20/06 |
+| 8 | Avaliar Protótipo | Relato dos resultados da avaliação do protótipo de alta fidelidade | 21/06 | 27/06 |
+| 9 | Entrega Final | Entrga final | 04/07 | 05/07 |
+
+
+<div style="text-align: center">
+    <p> Tabela 1: Cronograma Geral (Fonte: SANTOS, Mizael. 2023).</p>
+</div>
 
 ## Cronograma Ponto de Controle 1
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
@@ -17,7 +36,7 @@
 | 9. Edição da apresentação | 23/04 - 24/04 | Mizael Santos | 23/04 - 24/04 | Giovanni Alvissus |
 | 10. Cronograma Executado| 23/04 | Larissa Gomes | 23/04 | Giovanni Alvissus |
 <div style="text-align: center">
-    <p> Tabela 1: Ponto de Controle 1 (Fonte: SANTOS, Mizael. 2023).</p>
+    <p> Tabela 2: Ponto de Controle 1 (Fonte: SANTOS, Mizael. 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 2
@@ -32,7 +51,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | 8. Gravação da apresentação | 08/05 | 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 9. Edição da apresentação | 08/05 | 08/05 | Giovanni Alvissus | Mizael Santos |
 <div style="text-align: center">
-    <p> Tabela 2: Ponto de Controle 2 (Fonte: Mizael Santos, 2023).</p>
+    <p> Tabela 3: Ponto de Controle 2 (Fonte: Mizael Santos, 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 3
@@ -48,7 +67,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | 8. Edição da apresentação | 14/05 - 15/05 | Mizael Santos | 14/05 - 15/05 | Rafael Bosi |
 | 9. Cronograma Executado| 14/04 | Larissa Gomes | 14/04 | Giovanni Alvissus |
 <div style="text-align: center">
-    <p> Tabela 3: Ponto de Controle 3 (Fonte: ALVISSUS, Giovanni. 2023).</p>
+    <p> Tabela 4: Ponto de Controle 3 (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 4
@@ -64,7 +83,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | 8. Edição da apresentação | 22/05 - 23/05 | Mizael Santos | 22/05 - 23/05 | Rafael Bosi |
 | 9. Cronograma Executado| 22/05 | Larissa Gomes | 22/05 | Giovanni Alvissus |
 <div style="text-align: center">
-    <p> Tabela 4: Ponto de Controle 4 (Fonte: ALVISSUS, Giovanni. 2023).</p>
+    <p> Tabela 5: Ponto de Controle 4 (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
 
@@ -81,7 +100,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | 8. Edição da apresentação | 28/05 - 29/05 | Mizael Santos | 29/05 - 29/05 | Rafael Bosi |
 | 9. Cronograma Executado| 28/05 | Larissa Gomes | 28/05 | Giovanni Alvissus |
 <div style="text-align: center">
-    <p> Tabela 5: Ponto de Controle 5 (Fonte: GOMES, Larissa. 2023).</p>
+    <p> Tabela 6: Ponto de Controle 5 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 
@@ -100,7 +119,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | 10. Cronograma Executado| 05/06 | Larissa Gomes | 05/06 | Giovanni Alvissus |
 
 <div style="text-align: center">
-    <p> Tabela 6: Ponto de Controle 6.1 (Fonte: GOMES, Larissa. 2023).</p>
+    <p> Tabela 7: Ponto de Controle 6.1 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 7
@@ -130,7 +149,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | . Edição da apresentação | 18/06 - 19/06 | Mizael Santos | 18/06 - 19/06 | Rafael Bosi |
 | . Cronograma Executado| 18/06 - 19/06 | Larissa Gomes | 18/06 - 19/06 | Giovanni Alvissus |
 <div style="text-align: center">
-    <p> Tabela 7: Ponto de Controle 6.2 (Fonte: GOMES, Larissa. 2023).</p>
+    <p> Tabela 9: Ponto de Controle 6.2 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 8
@@ -143,7 +162,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | Edição da apresentação | 26/06/2023 - 26/06/2023 | Mizael Santos | 26/06/2023 - 26/06/2023 | Rafael Bosi | 
 | Cronograma executado | 26/06/2023 - 26/06/2023 | Larissa Gomes | 26/06/2023 - 26/06/2023 | Lucas Gobbi |
 <div style="text-align: center">
-    <p> Tabela 9: Ponto de Controle 8 (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 10: Ponto de Controle 8 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 ## Cronograma Entrega Final
@@ -155,7 +174,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | Edição da apresentação | 05/07/2023 - 05/07/2023 | Mizael Santos | 05/07/2023 - 05/07/2023 | Rafael Bosi |
 | Cronograma executado | 05/07/2023 - 05/07/2023 | Rafael Bosi | 05/07/2023 - 05/07/2023 | Giovanni Alvissus |
 <div style="text-align: center">
-    <p> Tabela 10: Ponto de Controle Final (Fonte: BOSI, Rafael. 2023).</p>
+    <p> Tabela 11: Ponto de Controle Final (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 ## Bibliografia
@@ -169,6 +188,7 @@ A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
 | 15/04/2023 | `1.1` | Criação dos pontos de controle 5, 6.1 e 6.2 | Larissa Gomes | 15/04/2023 | Giovanni Alvissus |
 | 23/04/2023 | `1.2` | Criação dos pontos de controle 3 e 4 | Giovanni Alvissus | 23/04/2023 | Rafael Bosi |
 | 23/04/2023 | `1.3` | Criação dos pontos de controle 7 e 8 | Rafael Bosi | 23/04/2023 | Lucas Gobbi |
+| 23/04/2023 | `1.4` | Criação do cronograma geral | Mizael Santos | 23/04/2023 | Lucas Gobbi |
 
 
 
