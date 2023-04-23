@@ -14,7 +14,7 @@
 | Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [avaliação]()  |
 | Rafael Bosi       | [Arch Linux](https://archlinux.org) | [avaliação]() |
 
-<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno; GOBBI, Lucas. 2023).</p></div>
+<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
 
 <div style="text-align: center">
 
@@ -37,7 +37,7 @@ Após a análise individual, a equipe avaliou as propostas com base em outros as
 
 <br/>
 
-<img src="img/logo-webdiet.png" alt="WebDiet">
+<img src="img/logo-videoLAN.png" alt="VideoLAN">
 
 <br/>
 
