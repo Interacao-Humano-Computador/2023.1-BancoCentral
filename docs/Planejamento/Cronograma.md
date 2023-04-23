@@ -1,8 +1,8 @@
 # Cronograma
-
+ 
 ## Introdução
 
-  Desenvolvimento de um planejamento inicial para realização das atividades requeridas pelo trabalho, o cronograma de todos os Pontos de Controle podem ser vistos nas Tabelas de 1 a 9.
+  Desenvolvimento de um planejamento inicial para realização das atividades requeridas pelo trabalho, o cronograma de todos os Pontos de Controle podem ser vistos nas Tabelas de 1 a 9. 
 
 ## Cronograma Ponto de Controle 1
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
