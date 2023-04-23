@@ -37,7 +37,7 @@ Após a análise individual, a equipe avaliou as propostas com base em outros as
 
 <br/>
 
-<img src="img/logo-videoLAN.png" alt="VideoLAN">
+<img src="img/videoLAN-icon.png" alt="VideoLAN">
 
 <br/>
 
