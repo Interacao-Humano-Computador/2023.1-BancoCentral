@@ -3,9 +3,10 @@
 ## Introdução
 
   As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
-  desenvolvimento do projeto de Introdução Humano Computador, que foi realizado em volta do site [VLC](https://www.videolan.org/).
+  desenvolvimento do projeto de Introdução Humano Computador, que foi realizado em volta do site [VideoLAN](https://www.videolan.org/).
 
 ## Ferramentas utilizadas
+A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas durante o projeto.
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
