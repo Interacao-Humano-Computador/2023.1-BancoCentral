@@ -1,6 +1,6 @@
 ## Introdução
 
-  Desenvolvimento de um planejamento inicial para realização das atividades requeridas pelo trabalho, o cronograma de todos os Pontos de Controle podem ser vistos nas Tabelas de 1 a 9. 
+  Desenvolvimento de um planejamento inicial para realização das atividades requeridas pelo trabalho, o cronograma de todos os Pontos de Controle podem ser vistos nas Tabelas de 1 a 10. 
 
 
 ## Cronograma Ponto de Controle 1
@@ -150,10 +150,10 @@
 ## Histórico de versão
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |------|--------|-----------|-------|---------|-----------|
-| 14/04/2023 | 1.0 | Criação do cronograma e ponto de controle 1 | Mizael Santos | 15/04/2023 | Larissa Gomes |
-| 15/04/2023 | 1.1 | Criação dos pontos de controle 5, 6.1 e 6.2 | Larissa Gomes | 15/04/2023 | Giovanni Alvissus |
-| 23/04/2023 | 1.2 | Criação dos pontos de controle 3 e 4 | Giovanni Alvissus | 23/04/2023 | Rafael Bosi |
-| 23/04/2023 | `1.2` | Criação dos pontos de controle 7 e 8 | Rafael Bosi | 23/04/2023 | Lucas Gobbi |
+| 14/04/2023 | `1.0` | Criação do cronograma e ponto de controle 1 | Mizael Santos | 15/04/2023 | Larissa Gomes |
+| 15/04/2023 | `1.1` | Criação dos pontos de controle 5, 6.1 e 6.2 | Larissa Gomes | 15/04/2023 | Giovanni Alvissus |
+| 23/04/2023 | `1.2` | Criação dos pontos de controle 3 e 4 | Giovanni Alvissus | 23/04/2023 | Rafael Bosi |
+| 23/04/2023 | `1.3` | Criação dos pontos de controle 7 e 8 | Rafael Bosi | 23/04/2023 | Lucas Gobbi |
 
 
 
