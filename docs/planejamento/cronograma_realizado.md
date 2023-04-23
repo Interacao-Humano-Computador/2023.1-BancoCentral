@@ -1,9 +1,12 @@
+# Cronograma Realizado
+
 ## Introdução
 
-Este documento tem como objetivo apresentar qual foi o real cronograma seguido, seja por dificuldades encontradas no desenvolvimento do projeto ou seja porque outro membro possuia maior afinidade com atividade que deveria ser desenvolvida.
+O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Interação Humano Computador ministrada pelo professor André Barros de Sales para o primeiro semestre de 2023.
 
+Este documento tem como objetivo marcar e mostrar as reais datas e prazoes utilizados para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 
-## Cronograma Realizado Ponto de Controle 1
+### Cronograma Realizado Ponto de Controle 1
 A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 1. Segue abaixo:
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
@@ -22,8 +25,12 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
     <p> Tabela 1: Ponto de Controle Realizado 1 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
-## Histórico de versões
+### Bibliografia
+
+[1] SALES, André Barros. Disponível em: [click aqui](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf)
+
+### Histórico de versões
 
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |------|--------|-----------|-------|---------|-----------|
-| 23/04/2023 | `1.0` | Criação do cronograma realizado 1 | Rafael Bosi | 23/04/2023 | Larissa Gomes |
+| 23/04/2023 | `1.0` | Criação do cronograma realizado 1 | [Rafael Bosi](https://github.com/StrangeUnit28) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
