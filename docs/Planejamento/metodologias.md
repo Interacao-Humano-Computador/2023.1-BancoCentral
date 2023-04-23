@@ -65,13 +65,16 @@ E caso algum participante não possa comparecer à reunião, deixamos ela gravad
 
 ### Política de _commits_
 
-As mensagens dos _commits_ devem seguir o padrão:
+As mensagens dos _commits_ seguirão os padrões estabelecidos pelo [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Dessa forma, devem estar de acordo com o seguinte padrão:
 
-`git commit -m "#issue descrição`
+```bash
+git commit -m "tipoDeMudança(): descrição seguinificativa da alteração #issue"
+```
 
 > Exemplo:
 >
-> O _commit_ referente a criação do arquivo `metodologias.md` pode ter a mensagem `#37 criação do documento de metodologias`
+> O _commit_ referente a criação do arquivo `metodologias.md` pode ter a mensagem `docs: criação do documento de padrões e metodologias #37`
+
 
 
 ### Política de _branchs_
