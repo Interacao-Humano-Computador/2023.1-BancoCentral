@@ -60,7 +60,7 @@
 | 2. Relatar os resultados do Story Board | 23/05 - 27/05 | Rafael Bosi | 27/05 - 28/05 | Bruno Ribeiro |
 | 3. Relatar a análise de tarefas | 23/05 - 27/05 | Bruno Ribeiro e Igor Penha | 27/05 - 28/05 | Giovanni Alvissus e Mizael Santos |
 | 4. Planejar a avaliação do protótipo de papel | 23/05 - 25/05 | Giovanni Alvissus e Larissa Gomes | 25/05 - 26/05 | Igor Penha |
-| 5. Planejar o relato dos resultados da avaliação do protótipo de papel | 26/05 | 28/05 | Lucas Gobbi e Mizael Santos | 28/05 | Larissa Gomes |
+| 5. Planejar o relato dos resultados da avaliação do protótipo de papel | 26/05 - 28/05 | Lucas Gobbi e Mizael Santos | 28/05 | Larissa Gomes |
 | 6. Atualizar GitPage | 26/05 - 27/05 | Larissa Gomes | 27/05 - 28/05 | Lucas Gobbi |
 | 7. Gravação da apresentação | 28/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 28/05 | Rafael Bosi |
 | 8. Edição da apresentação | 28/05 - 29/05 | Mizael Santos | 29/05 - 29/05 | Rafael Bosi |
@@ -73,7 +73,7 @@
 ## Cronograma Ponto de Controle 6.1
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
-| 1. Correção dos artefatos | 30/05 | 02/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 02/06 - 04/06 | Giovanni Alvissus |
+| 1. Correção dos artefatos | 30/05 - 02/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 02/06 - 04/06 | Giovanni Alvissus |
 | 2. Planejar a avaliação dos artefatos da Etapa 1 | 30/05 - 03/06 | Rafael Bosi e Mizael Santos| 03/06 - 04/06 | Larissa Gomes |
 | 3. Planejar a avaliação dos artefatos da Etapa 2 | 30/05 - 03/06 | Bruno Ribeiro | 03/06 - 04/06 | Giovanni Alvissus |
 | 4. Planejar a avaliação dos artefatos da Etapa 3 | 30/05 - 03/06 | Giovanni Alvissus | 03/06 - 04/06 | Igor Penha |
