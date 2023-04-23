@@ -1,5 +1,5 @@
 <div class="body">
-    <h1 class="title">Brasfoot</h1>
+    <h1 class="title">VLC Media Player</h1>
     <p>O <a href="https://www.videolan.org/">VLC Media Player</a> é um software open source e gratuito que permite a reprodução de vários formatos de mídia. Nessa documentação, estão dispostos os artefatos produzidos no decorrer da disciplina de Interação Humano Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é realizar pesquisas com os usuários sobre o aplicativo, além de planejar como ele poderia ser melhorado.</p>
 
 <h2 class="title">Contribuidores</h1>
@@ -60,6 +60,7 @@
 
 | Versão | Data    | Descrição                 | Autor(es)     |  Revisor(es)  |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 19/04/2023 | Criação da GitPage | Larissa Gomes | Lucas Gobbi |
+| `1.0` | 19/04/2023 | Criação da GitPage | Larissa Gomes | Giovanni Alvissus |
+| `1.1` | 22/04/2023 | Criação botão de contraste de cores | Larissa Gomes | Lucas Gobbi |
 
 </div>

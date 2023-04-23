@@ -17,7 +17,7 @@
 | 8. Gravação da apresentação | ** | ** | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
 | 9. Edição da apresentação | ** | ** | %% | %% |
 <div style="text-align: center">
-    <p> Tabela 1: Pnto de Controle 1 (Fonte: Mizael Santos, 2023).</p>
+    <p> Tabela 1: Ponto de Controle 1 (Fonte: Mizael Santos, 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 5
