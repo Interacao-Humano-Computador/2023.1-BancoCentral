@@ -20,6 +20,21 @@
     <p> Tabela 1: Ponto de Controle 1 (Fonte: SANTOS, Mizael. 2023).</p>
 </div>
 
+## Cronograma Ponto de Controle 2
+A Tabela 2 se refere às entregas do Ponto de Controle 2 do trabalho.
+
+| Atividade | Início | Fim | Autores | Revisores |
+|-----------|---------|---------|---------|-----------|
+| 1. Perfil do Usuário | 28/04  | 07/05 | Giovanni Alvissus e Mizael Santos | Bruno Ribeiro |
+| 2. Personas | 01/05 | 07/05 | Bruno Ribeiro e Igor Penha | Larissa Gomes |
+| 3. Análise das tarefas do usuário | 29/04 | 07/05 | Larissa Gomes e Rafael Bosi | Igor Penha |
+| 4. Aspectos éticos de pesquisa envolvendo pessoas | 02/05 | 07/05 | Lucas Gobbi e Bruno Ribeiro | Rafael Bosi |
+| 8. Gravação da apresentação | 08/05 | 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| Rafael Bosi |
+| 9. Edição da apresentação | 08/05 | 08/05 | Giovanni Alvissus | Mizael Santos |
+<div style="text-align: center">
+    <p> Tabela 2: Ponto de Controle 2 (Fonte: Mizael Santos, 2023).</p>
+</div>
+
 ## Cronograma Ponto de Controle 3
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
