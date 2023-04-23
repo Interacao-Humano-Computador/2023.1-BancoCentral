@@ -2,12 +2,13 @@
 ## Introdução
 
 #### O que é processo de design?
-Processo de design dentro da área de Interação Humano Computador consiste em um processo que envolve principalmente três atividades básicas: análise da situação atual( identificar o problema), síntese e avaliação da intervenção sugerida. Na fase de  análise visamos identificar , estudar e entender um problema para então sugerir uma proposta de intervenção e melhoria para tal problema insurgente, na fase de síntese os efeitos causados serão avaliados devidamente, tais problemas devem ser analisados durante toda a etapa de desenvolvimento, da concepção ao produto final de forma cíclica e interativa.\
+Processo de design dentro da área de Interação Humano Computador consiste em um processo que envolve principalmente três atividades básicas: análise da situação atual( identificar o problema), síntese e avaliação da intervenção sugerida. Na fase de  análise visamos identificar , estudar e entender um problema para então sugerir uma proposta de intervenção e melhoria para tal problema insurgente, na fase de síntese os efeitos causados serão avaliados devidamente, tais problemas devem ser analisados durante toda a etapa de desenvolvimento, da concepção ao produto final de forma cíclica e interativa.
 
-A elaboração de uma Interação Humano Computador tem como principal objetivo atender e servir os usuários e os demais envolvidos interessados no projeto, por conseguinte, a maior parte dos processos de design são centrados no usuário, e seguem os princípios de foco no usuário, métricas observáveis e design interativo. Os processos de design de IHC da importancia a participação do usuário no processo, dessa forma quanto mais cedo o usuário estiver inserido no processo mais cedo se descobre as necessidades do mesmo baseando-se em dados fornecidos ao utilizar o sistema.\
+A elaboração de uma Interação Humano Computador tem como principal objetivo atender e servir os usuários e os demais envolvidos interessados no projeto, por conseguinte, a maior parte dos processos de design são centrados no usuário, e seguem os princípios de foco no usuário, métricas observáveis e design interativo. Os processos de design de IHC da importancia a participação do usuário no processo, dessa forma quanto mais cedo o usuário estiver inserido no processo mais cedo se descobre as necessidades do mesmo baseando-se em dados fornecidos ao utilizar o sistema.
 
 ## Ciclo de vida simples
 <img title="a title" alt="Imagem Ciclo de vida simples" src="https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/8-Processo-de-design/docs/img/processo-design/ciclosimples.png">
+Figura 1: Ciclo de vida simples (Fonte: [1]).
 
 #### Vantagens
 - Simples de entender e implementar
@@ -21,7 +22,7 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 
 ## Ciclo de vida estrela
 <img title="a title" alt="Imagem Ciclo de vida estrela" src="https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/8-Processo-de-design/docs/img/processo-design/cicloestrela.png">
-
+Figura 2: Ciclo de vida sstrela (Fonte: [1]).
 - Se assemelha ao ciclo de vida simples no entanto possui maior checagem de entre etapas e maior detalhamento
 
 ## Ciclo de vida de Nilsen
@@ -38,8 +39,11 @@ Nielsen definiu engenharia de usabilidade como as seguintes atividades como esse
 - Realizar testes empíricos
 - Praticar design iterativo (correção de problemas durante as iterações de design e avaliação)
 
+Lista 1: Ciclo de vida de Nilsen (Fonte: [1]).
+
 ## Ciclo de vida de Mayhew
 <img title="a title" alt="Imagem Ciclo de vida estrela" src="https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/8-Processo-de-design/docs/img/processo-design/ciclodemayhew.png">
+Figura 3: Ciclo de vida de Mayhew (Fonte: [1]).
 
 Mayhew definiu que esse ciclo de vida para engenharia de usabilidade, como uma visão holística, reúne diferentes propostas da área de IHC em um só ciclo de vida. Nessa fase a análise de quesitos é dirigida pelo perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma, ja na fase de design e avaliação tem como objetivo conceber uma solução de IHC, e por fim na fase final de instalação deve-se obter opinioes de usuarios depois de um tempo de uso para possíveis futuras melhorias do sistema. 
 
@@ -56,3 +60,9 @@ O ciclo de vida escolhido pela equipe foi o de Mayhew pois ele apresenta uma riq
 
 ## Bibliografia
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
+
+# Histórico de versão
+| Data | Versão | Descrição | Autor | Revisor |
+|------|--------|-----------|-------|---------|
+| 23/04 | 1.0 | Criação do Processo de design | Mizael Santos | Igor Penha |
