@@ -5,7 +5,7 @@
   As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
   desenvolvimento do projeto de Introdução Humano Computador, que foi realizado em volta do site [VideoLAN](https://www.videolan.org/).
 
-## Ferramentas utilizadas
+### Ferramentas utilizadas
 A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas durante o projeto.
 
 | Logo | Ferramenta | Finalidade |
@@ -22,7 +22,7 @@ A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas du
 <p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: ALVISSUS, Giovanni. 2023). </p>
 </div>
 
-## Bibliografia
+### Bibliografia
 
 [1] Ferramenta GitHub, disponível no [link](https://github.com). <br/>
 [2] Ferramenta Whatsapp, disponível no [link](https://www.whatsapp.com/). <br/>
@@ -32,8 +32,8 @@ A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas du
 [6] Ferramenta Docsify, disponível no [link](https://docsify.js.org). <br/>
 [7] Ferramenta This person does not exist, disponível no [link](https://this-person-does-not-exist.com/en). <br/>
 
-## Histórico de Versão
+### Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 23/04/2023 | Adição das ferramentas do projeto | [Giovanni Alvissus](https://github.com/giovanni1106) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 23/04/2023 | Adição das ferramentas do projeto | [Giovanni Alvissus](https://github.com/giovanni1106) | 23/04/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
