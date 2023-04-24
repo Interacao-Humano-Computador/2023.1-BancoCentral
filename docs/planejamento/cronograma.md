@@ -49,11 +49,11 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 ## Cronograma Ponto de Controle 2
 | Atividade | Período para desenvolvimento | Autores| Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| 1. Correção dos artefatos Ponto de Controle 1 | 25/04 - 28/04 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 28/04 - 01/05 | Larissa Gomes |
+| 1. Correção dos artefatos Ponto de Controle 1 | 25/04 - 28/04 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 28/04 - 01/05 | Rafael Bosi |
 | 2. Perfil do Usuário | 25/05 - 06/05 | Giovanni Alvissus e Mizael Santos | 06/05 - 07/05 | Larissa Gomes |
-| 3. Personas | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Larissa Gomes |
-| 4. Análise das tarefas do usuário | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | 06/05 - 07/05 | Larissa Gomes |
-| 5. Aspectos éticos de pesquisa envolvendo pessoas | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | 06/05 - 07/05 | Larissa Gomes |
+| 3. Personas | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Lucas Gobbi |
+| 4. Análise das tarefas do usuário | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | 06/05 - 07/05 | Giovanni Alvissus |
+| 5. Aspectos éticos de pesquisa envolvendo pessoas | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | 06/05 - 07/05 | Igor Penha |
 | 6. Atualizar GitPage | 25/04 - 07/05 | Larissa Gomes | 14/05 | Giovanni Alvissus |
 | 7. Gravação da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
 | 8. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
