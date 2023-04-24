@@ -1,4 +1,6 @@
-# <center>Planejamento da avaliação - VLC Media Player
+<div class="body">
+
+# Planejamento da avaliação - VLC Media Player
 
 <div align="justify">
 
@@ -49,11 +51,17 @@ Como na avaliação heurística não são utilizados usuários, faz-se obsoleta 
 ## 6. Avaliação e Validação dos Dados(Evaluate)
 A validação dos dados ocorrerá após a avaliação do site, por meio da revisão de colegas de grupo da disciplina Interação Humano Computador de todo o processo avaliativo realizado por mim.
 
-## Referências:
+## Bibliografia:
 
 >[1] VLC. Disponível em: https://www.videolan.org/. Acesso em: 20/04/2023. <br>
 >[2] Disponível em: https://aprender3.unb.br/pluginfile.php/2523393/mod_resource/content/3/Apresenta%C3%A7%C3%A3o%20cap09%20Livro%20Simone.pdf. Acesso em: 07/04/2023.
 
+## Histórico de Versões
+
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 23/04/2023 | `1.0`  | Criação do plano de avaliação | [Bruno Ribeiro](https://github.com/giovanni1106) e [Lucas Gobbi](https://github.com/giovanni1106) |    23/04/2023     | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
  
