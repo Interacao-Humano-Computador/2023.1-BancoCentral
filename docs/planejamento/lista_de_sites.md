@@ -1,7 +1,7 @@
 <div class="body">
 
 # Sites avaliados para o projeto da disciplina
-=======
+
 ## Introdução
 
 <div style="text-align: justify;"> <p> Durante a primeira fase do projeto, os estudantes tiveram a oportunidade de escolher individualmente sites governamentais ou de software livre, com o objetivo de trazer propostas para o site que seria estudado pelo grupo durante a disciplina de Interação Humano Computador. Cada estudante fez uma avaliação concisa de sua escolha, seguindo algum dos métodos aprensentados em classe. A partir destas escolhas, foram promovidas discussões para identificar a melhor opção a ser trabalhada pelo grupo ao longo do semestre (2023.1). Na Tabela 1 abaixo, é possível observar a escolha de cada membro do grupo e a respectiva avaliação por ele produzida. </p> </div>
@@ -16,12 +16,8 @@
 | Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [planejamento](avaliacoes/planavaliacaoBRASFOOT.md)| [avaliação](avaliacoes/avaliacaoBRASFOOT.pdf) |
 | Rafael Bosi       | [Arch Linux](https://archlinux.org) | [planejamento](avaliacoes/planavaliacaoARCHLINUX.pdf) | [avaliação](avaliacoes/avaliacaoARCHLINUX.pdf) |
 
-<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
-
-<div style="text-align: center">
-
-<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
-
+<div>
+  <p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p>
 <br/>
 
 <div style="text-align: justify;">
