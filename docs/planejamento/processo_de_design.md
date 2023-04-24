@@ -68,7 +68,8 @@ O ciclo de vida escolhido pela equipe foi o de Mayhew pois ele apresenta uma riq
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 
-# Histórico de versão
-| Data | Versão | Descrição | Autor | Data de revisão | Revisor |
-|------|--------|-----------|-------|-----------------|---------|
-| 23/04/2023 | 1.0 | Criação do Processo de design | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+# Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 20/04/2023 | `1.0`  | Criação do Processo de design | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Igor Penha](https://github.com/igorpenhaa) |

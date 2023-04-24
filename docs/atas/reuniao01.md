@@ -58,8 +58,8 @@ Diálogo sobre a criação do cronograma e a divisão de tarefas entre os membro
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> |  <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--------: | :------: |:---------------------------: | :-----------: | :---------------: | :---------------: |
-| 13/04/2023 | `1.0`    | Criação do Documento         |  Rafael Bosi  |    24/04/2023     | Giovanni Alvissus |
-| 23/04/2023 | `1.1`    | Aterações visuais, adição da conclusao e bibliografia |  Larissa Gomes  |    24/04/2023     | Giovanni Alvissus |
+| 13/04/2023 | `1.0`    | Criação do Documento         |  [Rafael Bosi](https://github.com/StrangeUnit28)  |    24/04/2023     | [Giovanni Alvissus](https://github.com/giovanni1106)  |
+| 23/04/2023 | `1.1`    | Aterações visuais, adição da conclusao e bibliografia |  [Larissa Gomes](https://github.com/larigs)   |    24/04/2023     | [Giovanni Alvissus](https://github.com/giovanni1106)  |
 
 </div>
 

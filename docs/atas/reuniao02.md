@@ -60,7 +60,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 19/04/2023 | `1.0`  | Criação da ata de reunião | Igor Penha | 23/04/2023| Rafael Bosi |
-| 24/04/2023 | `1.1`    | Aterações visuais, adição da conclusao e bibliografia |  Larissa Gomes  |    24/04/2023     | Giovanni Alvissus |
+| 19/04/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | 23/04/2023| [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 24/04/2023 | `1.1`    | Aterações visuais, adição da conclusao e bibliografia |  [Larissa Gomes](https://github.com/larigs)  |    24/04/2023     | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>

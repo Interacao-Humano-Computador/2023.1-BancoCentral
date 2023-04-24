@@ -54,9 +54,10 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 3. Personas | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Larissa Gomes |
 | 4. Análise das tarefas do usuário | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | 06/05 - 07/05 | Larissa Gomes |
 | 5. Aspectos éticos de pesquisa envolvendo pessoas | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | 06/05 - 07/05 | Larissa Gomes |
-| 6. Gravação da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
-| 7. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
-| 8. Cronograma Executado| 07/05 | Larissa Gomes | 07/05 | Giovanni Alvissus |
+| 6. Atualizar GitPage | 25/04 - 07/05 | Larissa Gomes | 14/05 | Giovanni Alvissus |
+| 7. Gravação da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 07/05 - 08/05 | Rafael Bosi |
+| 8. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 07/05 - 08/05 | Rafael Bosi |
+| 9. Cronograma Executado| 07/05 | Larissa Gomes | 07/05 | Giovanni Alvissus |
 
 <div style="text-align: center">
     <p> <b>Tabela 3</b>: Ponto de Controle 2 (Fonte: GOMES, Larissa. 2023).</p>

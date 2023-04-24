@@ -5,17 +5,13 @@
   As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
   desenvolvimento do projeto de Introdução Humano Computador, que foi realizado em volta do site [VideoLAN](https://www.videolan.org/).
 
-<br/>
-
 ## Ferramentas utilizadas
-
-<br/>
 
 A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas durante o projeto.
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="../img/icon/icon-github.png" alt="Github" width=50px> | Github  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
+| <img src="../img/icon/github-icon.png" alt="Github" width=50px> | Github  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
 | <img src="../img/icon/icon-whatsapp.png" alt="Whatsapp" width=50px> | Whatsapp | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
 | <img src="../img/icon/icon-youtube.png" alt="YouTube" width=50px> | Youtube | Utilizado para hospedar as gravações do projeto. |
 | <img src="../img/icon/icon-vscode.png" alt="VScode" width=50px> | VScode | IDE utilizada para modificar. |
@@ -24,7 +20,7 @@ A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas du
 | <img src="../img/icon/icon-thisperson.png" alt="This person does not exist" width=50px> | This person does not exist | Utilizado para coletar imagens das personas. |
 
 <div align= "center">
-<p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte: ALVISSUS, Giovanni. 2023). </p>
+<p><b>Tabela 1</b>: Descrição das ferramentas utilizadas no projeto (Fonte: ALVISSUS, Giovanni. 2023). </p>
 </div>
 
 ### Bibliografia
@@ -45,10 +41,11 @@ A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas du
 
 <br/>
 
-### Histórico de Versão
+### Histórico de Versões
 
 <br/>
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 23/04/2023 | `1.0` | Adição das ferramentas do projeto | [Giovanni Alvissus](https://github.com/giovanni1106) | 23/04/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 24/04/2023 | `1.4` | Atualização do visual para a gitpage| [Larissa Gomes](https://github.com/larigs) | 23/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |

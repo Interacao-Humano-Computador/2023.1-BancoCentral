@@ -108,8 +108,8 @@ E políticas de entregas para termos o padrão, assim, conhecendo uma será capa
 
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
-### Histórico de Versão
+### Histórico de Versões
 
-| Versão   | Data       | Descrição                     |  Autor(es)    | Data de revisão| Revisor(es)   |
-| :------: | :--------: |:----------------------------: | :-----------: | :------------: | :-----------: |
-| `1.0`    | 20/04/2023 | Criação do documento          |  [Igor Penha](https://github.com/igorpenhaa)  | 20/04/2023     | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) |
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 20/04/2023 | `1.0`  | Criação do documento          |  [Igor Penha](https://github.com/igorpenhaa)  | 20/04/2023     | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) |
