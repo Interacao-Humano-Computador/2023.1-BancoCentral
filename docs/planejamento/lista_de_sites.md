@@ -1,24 +1,24 @@
 <div class="body">
 
 # Sites avaliados para o projeto da disciplina
-
+=======
 ## Introdução
-
-<br/>
 
 <div style="text-align: justify;"> <p> Durante a primeira fase do projeto, os estudantes tiveram a oportunidade de escolher individualmente sites governamentais ou de software livre, com o objetivo de trazer propostas para o site que seria estudado pelo grupo durante a disciplina de Interação Humano Computador. Cada estudante fez uma avaliação concisa de sua escolha, seguindo algum dos métodos aprensentados em classe. A partir destas escolhas, foram promovidas discussões para identificar a melhor opção a ser trabalhada pelo grupo ao longo do semestre (2023.1). Na Tabela 1 abaixo, é possível observar a escolha de cada membro do grupo e a respectiva avaliação por ele produzida. </p> </div>
 
-</br>
+| Nome              | Site                                               | Planejamento     | Avaliação      |
+| :-------------:   | :------------------------------------------------: | :--------------: | :----------:   |
+| Bruno Ribeiro     | [Friv](https://friv.com) | [planejamento](avaliacoes/planavaliacaoFRIV.pdf) |  [avaliação](avaliacoes/avaliacaoFRIV.pdf)  |
+| Francisco Mizael  | [Last.fm](https://www.last.fm) | sem planejamento | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoFRIV.pdf)  |
+| Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [planejamento](avaliacoes/avaliacaoTAUBATE.pdf) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoTAUBATE.pdf)  | 
+| Igor e Silva      | [SEGAMA](https://segama.com.br) | [planejamento](avaliacoes/planavaliacaoSEGAMA.pdf) | [avaliação](avaliacoes/avaliacaoSEGAMA.pdf) |
+| Larissa Gomes     | [HBO](https://hbo.com) | [planejamento](avaliacoes/planavaliacaoSEGAMA.pdf) | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
+| Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [planejamento](avaliacoes/planavaliacaoBRASFOOT.md)| [avaliação](avaliacoes/avaliacaoBRASFOOT.pdf) |
+| Rafael Bosi       | [Arch Linux](https://archlinux.org) | [planejamento](avaliacoes/planavaliacaoARCHLINUX.pdf) | [avaliação](avaliacoes/avaliacaoARCHLINUX.pdf) |
 
-| Nome              | Site                                               | Avaliação     |
-| :-------------:   | :------------------------------------------------: | :----------:  |
-| Bruno Ribeiro     | [Friv](https://friv.com) | [avaliação](avaliacoes/avaliacaoFRIV.pdf)  |
-| Francisco Mizael  | [Last.fm](https://www.last.fm) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoFRIV.pdf)  |
-| Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoTAUBATE.pdf)  | 
-| Igor e Silva      | [SEGAMA](https://segama.com.br) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoSEGAMA.pdf) |
-| Larissa Gomes     | [HBO](https://hbo.com) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoHBO.pdf) |
-| Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoBRASFOOT.pdf) |
-| Rafael Bosi       | [Arch Linux](https://archlinux.org) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoARCHLINUX.pdf) |
+<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
+
+<div style="text-align: center">
 
 <div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
 
