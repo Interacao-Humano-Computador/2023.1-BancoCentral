@@ -7,11 +7,11 @@
 | Nome              | Site                                               | Planejamento     | Avaliação      |
 | :-------------:   | :------------------------------------------------: | :--------------: | :----------:   |
 | Bruno Ribeiro     | [Friv](https://friv.com) | [planejamento](avaliacoes/planavaliacaoFRIV.pdf) |  [avaliação](avaliacoes/avaliacaoFRIV.pdf)  |
-| Francisco Mizael  | [Last.fm](https://www.last.fm) | [planejamento](avaliacoes/planavaliacaoLASTFM.pdf) | [avaliação](avaliacoes/avaliacaoLASTFM.pdf)  |
+| Francisco Mizael  | [Last.fm](https://www.last.fm) | sem planejamento | [avaliação](avaliacoes/avaliacaoLASTFM.pdf)  |
 | Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [planejamento](avaliacoes/avaliacaoTAUBATE.pdf) | [avaliação](avaliacoes/avaliacaoTAUBATE.pdf)  | 
 | Igor e Silva      | [SEGAMA](https://segama.com.br) | [planejamento](avaliacoes/planavaliacaoSEGAMA.pdf) | [avaliação](avaliacoes/avaliacaoSEGAMA.pdf) |
-| Larissa Gomes     | [HBO](https://hbo.com) | [planejamento](avaliacoes/planavaliacaoHBO.pdf) | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
-| Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [planejamento](avaliacoes/planavaliacaoBRASFOOT.pdf)| [avaliação](avaliacoes/avaliacaoBRASFOOT.pdf) |
+| Larissa Gomes     | [HBO](https://hbo.com) | sem planejamento | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
+| Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [planejamento](avaliacoes/planavaliacaoBRASFOOT.md)| [avaliação](avaliacoes/avaliacaoBRASFOOT.pdf) |
 | Rafael Bosi       | [Arch Linux](https://archlinux.org) | [planejamento](avaliacoes/planavaliacaoARCHLINUX.pdf) | [avaliação](avaliacoes/avaliacaoARCHLINUX.pdf) |
 
 <div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
