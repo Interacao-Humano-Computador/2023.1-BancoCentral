@@ -52,9 +52,9 @@ Como na avaliação heurística não são utilizados usuários, faz-se obsoleta 
 A validação dos dados ocorrerá após a avaliação do site, por meio da revisão de colegas de grupo da disciplina Interação Humano Computador de todo o processo avaliativo realizado por mim.
 
 ## Bibliografia:
-
->[1] VLC. Disponível em: https://www.videolan.org/. Acesso em: 20/04/2023. <br>
->[2] Disponível em: https://aprender3.unb.br/pluginfile.php/2523393/mod_resource/content/3/Apresenta%C3%A7%C3%A3o%20cap09%20Livro%20Simone.pdf. Acesso em: 07/04/2023.
+</div>
+[1] VLC. Disponível em: https://www.videolan.org/. Acesso em: 20/04/2023. <br>
+[2] Disponível em: https://aprender3.unb.br/pluginfile.php/2523393/mod_resource/content/3/Apresenta%C3%A7%C3%A3o%20cap09%20Livro%20Simone.pdf. Acesso em: 07/04/2023.
 
 ## Histórico de Versões
 

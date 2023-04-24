@@ -11,7 +11,6 @@ O cronograma da equipe foi estabelecido de acordo com as datas descritas para a 
 Este documento tem como objetivo marcar e mostrar as reais datas e prazos utilizados para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 
 </p>
-</br>
 
 ## Cronograma Realizado Ponto de Controle 1
 A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 1. Segue abaixo:

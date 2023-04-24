@@ -133,9 +133,9 @@ Documentação completa e detalhada porém de dificil acesso e em um link fora d
 Tabela 6 - Formulário de Avaliação Heurística do Ponto 10 (Fonte: Lucas Gobbi, 2023).
 
 ## Bibliografia
-
->[1] VLC. Disponível em: https://www.videolan.org/. Acesso em: 20/04/2023. <br>
->[2] Disponível em: https://aprender3.unb.br/pluginfile.php/2523393/mod_resource/content/3/Apresenta%C3%A7%C3%A3o%20cap09%20Livro%20Simone.pdf. Acesso em: 07/04/2023.
+</div>
+[1] VLC. Disponível em: https://www.videolan.org/. Acesso em: 20/04/2023. <br>
+[2] Disponível em: https://aprender3.unb.br/pluginfile.php/2523393/mod_resource/content/3/Apresenta%C3%A7%C3%A3o%20cap09%20Livro%20Simone.pdf. Acesso em: 07/04/2023.
 
 ## Histórico de Versões
 
