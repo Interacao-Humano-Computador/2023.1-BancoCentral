@@ -52,7 +52,9 @@ Porém como o grupo chegou em uma conclusão de que os sites escolhidos individu
 
 ## Histórico de Versões
 
-| Data         | Versão | Descrição            | Autor(es)         | Revisor(es)  |
-| :----------: | :----: | :--------------------: | :-------------: | :----------: |
-| 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Larissa Gomes](https://github.com/larigs) |
-| 24/04/2023   | `1.1`  | Atualização do documento | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | [Rafael Bosi](https://github.com/StrangeUnit28) |
+<br/>
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 24/04/2023   | `1.1`  | Atualização do documento | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
