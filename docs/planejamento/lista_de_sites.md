@@ -2,6 +2,8 @@
 
 ## Introdução
 
+<br/>
+
 <div style="text-align: justify;"> <p> Durante a primeira fase do projeto, os estudantes tiveram a oportunidade de escolher individualmente sites governamentais ou de software livre, com o objetivo de trazer propostas para o site que seria estudado pelo grupo durante a disciplina de Interação Humano Computador. Cada estudante fez uma avaliação concisa de sua escolha, seguindo algum dos métodos aprensentados em classe. A partir destas escolhas, foram promovidas discussões para identificar a melhor opção a ser trabalhada pelo grupo ao longo do semestre (2023.1). Na Tabela 1 abaixo, é possível observar a escolha de cada membro do grupo e a respectiva avaliação por ele produzida. </p> </div>
 
 </br>
@@ -18,13 +20,23 @@
 
 <div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
 
+<br/>
+
+<div style="text-align: justify;">
+<p>
+Porém como o grupo chegou em uma conclusão de que os sites escolhidos individualmente não atendiam as expectativas da disciplina, foi realizada uma reunião (<a href="../atas/reuniao02.md">Reunião02</a>) para decidir sobre um novo site, no qual foi escolhido o <a href="https://videolan.org">VideoLAN</a>. Onde a heurística pode ser acessada em <a href="Interacao-Humano-Computador/2023.1-VLC/docs/planejamento/avaliacoes/avaliacaoVLC.md">avaliação</a>.
+</p>
+</div>
+
+<br/>
+
 ## Bibliografia
 
-[1] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 14 de Abril de 2023.
+[1] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 19 de Abril de 2023.
 
 [2] FRIV. Dosponível em: [Friv](https://friv.com/). Acesso em: 14 de Abril de 2023.
 
-[3] . Dosponível em: [](). Acesso em: 14 de Abril de 2023.
+[3] LASTFM. Dosponível em: [Last.fm](https://www.last.fm/). Acesso em: 14 de Abril de 2023.
 
 [4] PREFEITURA TAUBATÉ. Disponível em: [Prefeitura de Taubaté](https://taubate.sp.gov.br/). Acesso em: 14 de Abril de 2023.
 
@@ -43,3 +55,4 @@
 | Data         | Versão | Descrição            | Autor(es)         | Revisor(es)  |
 | :----------: | :----: | :--------------------: | :-------------: | :----------: |
 | 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Larissa Gomes](https://github.com/larigs) |
+| 24/04/2023   | `1.1`  | Atualização do documento | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | [Rafael Bosi](https://github.com/StrangeUnit28) |
