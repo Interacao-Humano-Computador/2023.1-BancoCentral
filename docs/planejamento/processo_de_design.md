@@ -1,4 +1,5 @@
 # Processo de Design
+
 ## Introdução
 
 #### O que é processo de design?
@@ -7,7 +8,7 @@ Processo de design dentro da área de Interação Humano Computador consiste em 
 A elaboração de uma Interação Humano Computador tem como principal objetivo atender e servir os usuários e os demais envolvidos interessados no projeto, por conseguinte, a maior parte dos processos de design são centrados no usuário, e seguem os princípios de foco no usuário, métricas observáveis e design interativo. Os processos de design de IHC da importancia a participação do usuário no processo, dessa forma quanto mais cedo o usuário estiver inserido no processo mais cedo se descobre as necessidades do mesmo baseando-se em dados fornecidos ao utilizar o sistema.
 
 ## Ciclo de vida simples
-<img title="a title" alt="Imagem Ciclo de vida simples" src="https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/8-Processo-de-design/docs/img/processo-design/ciclosimples.png">
+<img title="a title" alt="Imagem Ciclo de vida simples" src="img/processo-design/ciclosimples.png">
 Figura 1: Ciclo de vida simples (Fonte: [1]).  
 
 #### Vantagens
@@ -21,7 +22,7 @@ Figura 1: Ciclo de vida simples (Fonte: [1]).
 - Baixo detalhamento
 
 ## Ciclo de vida estrela
-<img title="a title" alt="Imagem Ciclo de vida estrela" src="https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/8-Processo-de-design/docs/img/processo-design/cicloestrela.png">
+<img title="a title" alt="Imagem Ciclo de vida estrela" src="img/processo-design/cicloestrela.png">
 Figura 2: Ciclo de vida sstrela (Fonte: [1]).
 <br>
 <br>
@@ -45,7 +46,7 @@ Nielsen definiu engenharia de usabilidade como as seguintes atividades como esse
 Lista 1: Ciclo de vida de Nilsen (Fonte: [1]).
 
 ## Ciclo de vida de Mayhew
-<img title="a title" alt="Imagem Ciclo de vida estrela" src="https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/8-Processo-de-design/docs/img/processo-design/ciclodemayhew.png">
+<img title="a title" alt="Imagem Ciclo de vida estrela" src="img/processo-design/ciclodemayhew.png">
 Figura 3: Ciclo de vida de Mayhew (Fonte: [1]).
 <br>
 <br>
@@ -63,11 +64,11 @@ Mayhew definiu que esse ciclo de vida para engenharia de usabilidade, como uma v
 ## Ciclo de vida do projeto 
 O ciclo de vida escolhido pela equipe foi o de Mayhew pois ele apresenta uma riqueza de detalhamento técnico almejada pela equipe, além de reunir todo um conjunto de propostas da área de IHC, permitindo que nos orientemos por design de forma interativa durante todo o desenvolvimento.
 
-## Bibliografia
+### Bibliografia
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 
 # Histórico de versão
-| Data | Versão | Descrição | Autor | Revisor |
-|------|--------|-----------|-------|---------|
-| 23/04 | 1.0 | Criação do Processo de design | Mizael Santos | Igor Penha |
+| Data | Versão | Descrição | Autor | Data de revisão | Revisor |
+|------|--------|-----------|-------|-----------------|---------|
+| 23/04/2023 | 1.0 | Criação do Processo de design | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Igor Penha](https://github.com/igorpenhaa) |

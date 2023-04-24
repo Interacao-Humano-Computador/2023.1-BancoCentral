@@ -62,6 +62,6 @@ Por fim, definição das tarefas de cada um do grupo.
 <br />
 
 ## Histórico de versão
-| Versão | Data | Descrição | Autor | Revisor |
-| :----: | :--: | :-------: | :---: | :-----: |
-| `1.0` | 19/04/2023 | Criação da ata de reunião     | Igor Penha | Rafael Bosi |
+| Versão | Data | Descrição | Autor | Data de revisão | Revisor |
+| :----: | :--: | :-------: | :---: | :-------------: | :-----: |
+| `1.0` | 19/04/2023 | Criação da ata de reunião     | Igor Penha | 23/04/2023| Rafael Bosi |
