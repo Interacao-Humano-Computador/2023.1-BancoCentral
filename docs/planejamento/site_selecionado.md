@@ -54,7 +54,9 @@ Após a escolha do site para o projeto, foram realizados o <a href="avaliacoes/p
 
 ## Bibliografia
 
-[1] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 14 de Abril de 2023.
+[1] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 19 de Abril de 2023.
+
+[2] BRASFOOT. Disponível em: [Brasfoot](http://www.brasfoot.com/). Acesso em: 14 de Abril de 2023
 
 <br/>
 
