@@ -1,5 +1,7 @@
-# Sites selecionado para o projeto da disciplina
+<div class="body">
 
+# Sites avaliados para o projeto da disciplina
+=======
 ## Introdução
 
 <div style="text-align: justify;"> <p> Durante a primeira fase do projeto, os estudantes tiveram a oportunidade de escolher individualmente sites governamentais ou de software livre, com o objetivo de trazer propostas para o site que seria estudado pelo grupo durante a disciplina de Interação Humano Computador. Cada estudante fez uma avaliação concisa de sua escolha, seguindo algum dos métodos aprensentados em classe. A partir destas escolhas, foram promovidas discussões para identificar a melhor opção a ser trabalhada pelo grupo ao longo do semestre (2023.1). Na Tabela 1 abaixo, é possível observar a escolha de cada membro do grupo e a respectiva avaliação por ele produzida. </p> </div>
@@ -7,10 +9,10 @@
 | Nome              | Site                                               | Planejamento     | Avaliação      |
 | :-------------:   | :------------------------------------------------: | :--------------: | :----------:   |
 | Bruno Ribeiro     | [Friv](https://friv.com) | [planejamento](avaliacoes/planavaliacaoFRIV.pdf) |  [avaliação](avaliacoes/avaliacaoFRIV.pdf)  |
-| Francisco Mizael  | [Last.fm](https://www.last.fm) | sem planejamento | [avaliação](avaliacoes/avaliacaoLASTFM.pdf)  |
-| Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [planejamento](avaliacoes/avaliacaoTAUBATE.pdf) | [avaliação](avaliacoes/avaliacaoTAUBATE.pdf)  | 
+| Francisco Mizael  | [Last.fm](https://www.last.fm) | sem planejamento | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoFRIV.pdf)  |
+| Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [planejamento](avaliacoes/avaliacaoTAUBATE.pdf) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoTAUBATE.pdf)  | 
 | Igor e Silva      | [SEGAMA](https://segama.com.br) | [planejamento](avaliacoes/planavaliacaoSEGAMA.pdf) | [avaliação](avaliacoes/avaliacaoSEGAMA.pdf) |
-| Larissa Gomes     | [HBO](https://hbo.com) | sem planejamento | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
+| Larissa Gomes     | [HBO](https://hbo.com) | [planejamento](avaliacoes/planavaliacaoSEGAMA.pdf) | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
 | Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [planejamento](avaliacoes/planavaliacaoBRASFOOT.md)| [avaliação](avaliacoes/avaliacaoBRASFOOT.pdf) |
 | Rafael Bosi       | [Arch Linux](https://archlinux.org) | [planejamento](avaliacoes/planavaliacaoARCHLINUX.pdf) | [avaliação](avaliacoes/avaliacaoARCHLINUX.pdf) |
 
@@ -18,54 +20,25 @@
 
 <div style="text-align: center">
 
-</div>
-
-### Site definido pela equipe
-
-<br/>
-
-Após a análise individual, a equipe avaliou as propostas com base em outros aspectos:
-
-- Site ainda não trabalhado na disciplina de Interação Humano Computador.
-- Relevância do site para o contexto do projeto ou da disciplina.
-- Complexidade do site em termos de funcionalidades e integrações.
-- Disponibilidade de documentação e informações detalhadas sobre o site.
-- Disponibilidade de acesso ao site para a equipe de projeto ou para os estudantes envolvidos na disciplina.
-- Adequação do site aos interesses e habilidades da equipe ou dos estudantes.
-
-<br/>
-
-<br/>
-
-<img src="img/videoLAN-icon.png" alt="VideoLAN">
-
-<br/>
+<div><p>Tabela 1 - Tabela dos aplicativos analisados (Fonte: RIBEIRO, Bruno. 2023).</p></div>
 
 <br/>
 
 <div style="text-align: justify;">
-
-Dentre os sites analisados de forma individual, o site escolhido foi o <a href="https://videolan.org" target="_blank">VideoLAN</a>. O videoLAN é um site com intuito de disponibilizar o arquivo de download do app VLC (um software de reprodução de mídia mundialmente reconhecido principalmente no início dos anos 2000, devido a ausência por padrão da funcionalidade pelo sistema operacional), aprensentar informações sobre o produto e projetos da empresa dentre outras funcionalidades de menor escopo.
-
-</div>
-
-<div style="text-align : justify;">
-O planejamento e a avaliação deste site selecionado pela equipe encontra-se em:
-<br/>
-<a href="avaliacoes/planavaliacaoVLC.md" target="_balck">planejamento VideoLAN</a> 
-<br/>
-<a href="avaliacoes/avaliacaoVLC.md" target="_blank">avaliação VideoLAN</a>
+<p>
+Porém como o grupo chegou em uma conclusão de que os sites escolhidos individualmente não atendiam as expectativas da disciplina, foi realizada uma reunião (<a href="../atas/reuniao02.md">Reunião02</a>) para decidir sobre um novo site, no qual foi escolhido o <a href="https://videolan.org">VideoLAN</a>. Onde foi realizada a <a href="avaliacoes/avaliacaoVLC.md">avaliação heurística</a>.
+</p>
 </div>
 
 <br/>
 
-### Bibliografia
+## Bibliografia
 
-[1] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 14 de Abril de 2023.
+[1] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 19 de Abril de 2023.
 
 [2] FRIV. Dosponível em: [Friv](https://friv.com/). Acesso em: 14 de Abril de 2023.
 
-[3] . Dosponível em: [](). Acesso em: 14 de Abril de 2023.
+[3] LASTFM. Dosponível em: [Last.fm](https://www.last.fm/). Acesso em: 14 de Abril de 2023.
 
 [4] PREFEITURA TAUBATÉ. Disponível em: [Prefeitura de Taubaté](https://taubate.sp.gov.br/). Acesso em: 14 de Abril de 2023.
 
@@ -79,8 +52,13 @@ O planejamento e a avaliação deste site selecionado pela equipe encontra-se em
 
 <br/>
 
-### Histórico de Versão
+## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor(es)         | Revisor(es)  |
-| :------: | :----------: | :--------------------: | :-------------: | :----------: |
-| `1.0`  | 23/04/2023 | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Larissa Gomes](https://github.com/larigs) |
+<br/>
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 24/04/2023   | `1.1`  | Atualização do documento | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+
+</div>

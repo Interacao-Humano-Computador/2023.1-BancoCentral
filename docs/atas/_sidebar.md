@@ -1,3 +1,5 @@
 <!-- _navbar.md -->
 
-* [1º reunião](atas/ata_13_04.md)
+- [Atas](#)
+    - [1º Reunião](atas/reuniao01.md)
+    - [2º Reunião](atas/reuniao02.md)

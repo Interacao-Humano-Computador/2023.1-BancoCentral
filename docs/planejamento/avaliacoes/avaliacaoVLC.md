@@ -1,4 +1,8 @@
+<div class="body">
+
 # Avaliação Heurística – VideoLAN (VLC)
+
+<div align="justify">
 
 ## Introdução
 O site videolan.org tem como objetivo principal disponibilizar ao seu usuário o download do
@@ -126,4 +130,17 @@ Documentação completa e detalhada porém de dificil acesso e em um link fora d
 | Efeito sobre o usuário: Pouca acessibilidade. |
 | Efeito sobre a tarefa: nenhum. |
 
-Tabela 6 - Formulário de Avaliação Heurística do Ponto 10 (Fonte: Lucas Gobbi, 2023)
+Tabela 6 - Formulário de Avaliação Heurística do Ponto 10 (Fonte: Lucas Gobbi, 2023).
+
+## Bibliografia
+</div>
+[1] VLC. Disponível em: https://www.videolan.org/. Acesso em: 20/04/2023. <br>
+[2] Disponível em: https://aprender3.unb.br/pluginfile.php/2523393/mod_resource/content/3/Apresenta%C3%A7%C3%A3o%20cap09%20Livro%20Simone.pdf. Acesso em: 07/04/2023.
+
+## Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 23/04/2023 | `1.0`  | Criação do plano de avaliação | [Bruno Ribeiro](https://github.com/giovanni1106), [Giovanni Alvissus](https://github.com/giovanni1106) e [Lucas Gobbi](https://github.com/giovanni1106) |    23/04/2023     | [Rafael Bosi](https://github.com/giovanni1106) |
+
+</div>

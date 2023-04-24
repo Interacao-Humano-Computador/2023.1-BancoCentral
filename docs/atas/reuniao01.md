@@ -1,17 +1,23 @@
+<div class="body">
+
 # Ata da reunião - 13/04/2023
 
 ## Introdução
 
+<p align="justify">
 Esse documento visa registrar o acontecimento da 1ª reunião, marcar quais membros estavam presentes (Tabela 1), os objetivos gerais da reunião, além de definir e controlar tarefas (Tabela 2). Aqui esta presente, também, a gravação da reunião.
+</p>
 
 ## Dados da reunião
 
-| Alunos presentes      |    Data    | Horário de inicio e fim |      Local       |
+
+| <p align="center">Alunos presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :-------------------: | :--------: | :---------------------: | :--------------: |
 | Francisco Mizael, Giovanni Alvissus, Larissa Gomes, Rafael Bosi | 13/04/2023 | 20:25 - 21:07 | Plataforma Teams |
 
+
 <div align="center">
-<p> Tabela 1: Dados da reunião (Fonte: autor, 2023). </p>
+<p> <b>Tabela 1</b>: Dados da reunião (Fonte: BOSI, Rafael. 2023). </p>
 </div>
 
 ## Objetivos da reunião
@@ -27,24 +33,33 @@ Ficou definido nessa reunião que o melhor dia e horário para os membros do gru
 
 Ficou decidido na reunião, que as atividades individuais seguiriam o que está apresentado na Tabela 2.
 
-| Nome |    Tarefa   |
+
+| <p align="center">Nome</p> |    <p align="center">Tarefa</p>   |
 | :---------------: | :--------------------------------------------:|
 | Francisco Mizael | Fazer o cronograma do ponto de controle 1 e 2 |
 | Giovanni Alvissus | Fazer o cronograma do ponto de controle 3 e 4 |
 | Larissa Gomes | Fazer o cronograma do ponto de controle 5 e 6 |
 | Rafael Bosi | Fazer o cronograma do ponto de controle 7 e 8 |
 
-Tabela 2: definição das tarefas (Fonte: autor, 2023).
+<p> <b>Tabela 2</b>: definição das tarefas (Fonte: BOSI, Rafael. 2023).</p>
 
 ## Link da gravação
 
 [Link da gravação da reunião 13/04/2023](https://youtu.be/awlEPQoEpKE)
 
-## Histórico de Versão
+## Conclusão
 
-| Versão   | Data       | Descrição                    |  Autor(es)    | Data de revisão   |Revisor(es)        |
-| :------: | :--------: |:---------------------------: | :-----------: | :---------------: | :---------------: |
-| `1.0`    | 13/04/2023 | Criação do Documento         |  Rafael Bosi  |    24/04/2023     | Giovanni Alvissus |
+Diálogo sobre a criação do cronograma e a divisão de tarefas entre os membros da reunião.
 
+## Bibliografia
+[1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 13 de Abril de 2023.
 
+## Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> |  <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--------: | :------: |:---------------------------: | :-----------: | :---------------: | :---------------: |
+| 13/04/2023 | `1.0`    | Criação do Documento         |  [Rafael Bosi](https://github.com/StrangeUnit28)  |    24/04/2023     | [Giovanni Alvissus](https://github.com/giovanni1106)  |
+| 23/04/2023 | `1.1`    | Aterações visuais, adição da conclusao e bibliografia |  [Larissa Gomes](https://github.com/larigs)   |    24/04/2023     | [Giovanni Alvissus](https://github.com/giovanni1106)  |
+
+</div>
 
