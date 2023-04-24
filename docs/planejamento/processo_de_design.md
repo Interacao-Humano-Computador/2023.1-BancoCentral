@@ -33,7 +33,7 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 <br>
 <br>
 
-- Se assemelha ao ciclo de vida simples no entanto possui maior checagens entre etapas e maior detalhamento.
+- O ciclo de vida estrela (Figura 1) se assemelha bastante ao ciclo de vida simples (Figura 1), no entanto possui maiores checagens entre etapas e maior detalhamento.
 
 ## Ciclo de vida de Nilsen
 
@@ -57,7 +57,7 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 
 <br>
 
-<p align="justify">Mayhew definiu que esse ciclo de vida para engenharia de usabilidade, como uma visão holística, reúne diferentes propostas da área de IHC em um só ciclo de vida. Nessa fase a análise de quesitos é dirigida pelo perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma, ja na fase de design e avaliação tem como objetivo conceber uma solução de IHC, e por fim na fase final de instalação deve-se obter opinioes de usuarios depois de um tempo de uso para possíveis futuras melhorias do sistema. </p>
+<p align="justify">Mayhew definiu que esse ciclo de vida (Figura 3) para engenharia de usabilidade, como uma visão holística, reúne diferentes propostas da área de IHC em um só ciclo de vida. Nessa fase a análise de quesitos é dirigida pelo perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma, ja na fase de design e avaliação tem como objetivo conceber uma solução de IHC, e por fim na fase final de instalação deve-se obter opinioes de usuarios depois de um tempo de uso para possíveis futuras melhorias do sistema. </p>
 
 ### Vantagens
 - Ciclo de vida mais completo
@@ -78,4 +78,5 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 23/04/2023 | `1.0` | Criação do Processo de design | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+| 24/04/2023 | `1.1` | Atualização das imagens | [Larissa Gomes](https://github.com/larigs) | 23/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 </div>
