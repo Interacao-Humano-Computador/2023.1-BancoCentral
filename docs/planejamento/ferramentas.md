@@ -4,8 +4,12 @@
 
 ## Introdução
 
-  <p align="justify">As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
-  desenvolvimento do projeto de Introdução Humano Computador, que foi realizado em volta do site [VideoLAN](https://www.videolan.org/).</p>
+  <p align="justify">
+    
+  As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
+  desenvolvimento do projeto de Introdução Humano Computador, que foi realizado em volta do site [VideoLAN](https://www.videolan.org/).
+  
+  </p>
 
 ## Ferramentas utilizadas
 
