@@ -28,7 +28,7 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
     <td align="center">
       <a href="https://github.com/giovanni1106">
         <img style="border-radius: 50%;" src="https://github.com/giovanni1106.png" width="150px;"/>
-        <h5 class="text-center">Giovanni</h5>
+        <h5 class="text-center">Giovanni Alvissus</h5>
       </a>
     </td>
     <td align="center">
@@ -65,13 +65,11 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 
 </center>
 
-
 <div style="text-align: left">
 <p> Tabela 1: Equipe de trabalho (Fonte: autor, 2023).</p>
 </div>
 
-## Histórico de Versão
-
+## Histórico de Versões
 |   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
 | `1.0` | 13/04/2023 | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |

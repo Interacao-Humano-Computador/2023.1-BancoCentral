@@ -4,17 +4,15 @@
 
 Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3,registrar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na tabela 2. E por fim, o link da gravação da reunião postada no YouTube.
 
-<br />
 
-|                                          Alunos presentes                                    |    Data    | Horário de inicio e fim |      Local       |
-| :------------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Bruno Ribeiro, Francisco Mizael, Giovanni Alvissus, Igor Penha, Lucas Gobbi e Larissa Gomes  | 19/04/2023 |      20:53 - 21:01      | Plataforma Teams |
+| Alunos presentes | Data | Horário de inicio e fim | Local |
+| :-----------: | :--------: | :------------: | :--------------: |
+| Bruno Ribeiro, Francisco Mizael, Giovanni Alvissus, Igor Penha, Lucas Gobbi e Larissa Gomes  | 19/04/2023 | 20:53 - 21:01 | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: Autor, 2023). </p>
+<p> Tabela 1: Dados da reunião (PENHA, Igor. 2023). </p>
 </div>
 
-<br />
 
 ## Objetivos da reunião
 
@@ -23,7 +21,6 @@ Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3,registr
 - Novo site: VLC
 - Trabalho em equipe
 
-<br />
 
 ## Divisão de tarefas
 
@@ -45,23 +42,18 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 <p> Tabela 2: Atividades a serem feitas (Fonte: Autor, 2023). </p>
 </div>
 
-<br />
-
 ## Conclusão
 
 Dialogo sobre como iria funcionar a troca de site
 Mudança do aplicativo para VLC.
 Por fim, definição das tarefas de cada um do grupo.
 
-<br />
-
 ## Link da gravação
 
 [Link de acesso a reunião](https://youtu.be/zn0LgXSwnpc)
 
-<br />
-
 ## Histórico de versão
-| Versão | Data | Descrição | Autor | Data de revisão | Revisor |
-| :----: | :--: | :-------: | :---: | :-------------: | :-----: |
-| `1.0` | 19/04/2023 | Criação da ata de reunião     | Igor Penha | 23/04/2023| Rafael Bosi |
+
+| Data       | Versão | Descrição | Autor | Data de revisão | Revisor |
+| :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 19/04/2023 | `1.0`  | Criação da ata de reunião | Igor Penha | 23/04/2023| Rafael Bosi |

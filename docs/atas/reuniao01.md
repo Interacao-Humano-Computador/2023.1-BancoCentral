@@ -42,9 +42,9 @@ Tabela 2: definição das tarefas (Fonte: autor, 2023).
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                    |  Autor(es)    | Data de revisão   |Revisor(es)        |
-| :------: | :--------: |:---------------------------: | :-----------: | :---------------: | :---------------: |
-| `1.0`    | 13/04/2023 | Criação do Documento         |  Rafael Bosi  |    24/04/2023     | Giovanni Alvissus |
+| Data       | Versão   | Descrição                    |  Autor(es)    | Data de revisão   |Revisor(es)        |
+| :--------: | :------: |:---------------------------: | :-----------: | :---------------: | :---------------: |
+| 13/04/2023 | `1.0`    | Criação do Documento         |  Rafael Bosi  |    24/04/2023     | Giovanni Alvissus |
 
 
 
