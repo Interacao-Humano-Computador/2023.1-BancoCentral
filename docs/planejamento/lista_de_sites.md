@@ -1,3 +1,4 @@
+<div class="body">
 # Sites avaliados para o projeto da disciplina
 
 ## Introdução
@@ -24,7 +25,7 @@
 
 <div style="text-align: justify;">
 <p>
-Porém como o grupo chegou em uma conclusão de que os sites escolhidos individualmente não atendiam as expectativas da disciplina, foi realizada uma reunião (<a href="../atas/reuniao02.md">Reunião02</a>) para decidir sobre um novo site, no qual foi escolhido o <a href="https://videolan.org">VideoLAN</a>. Onde a heurística pode ser acessada em <a href="Interacao-Humano-Computador/2023.1-VLC/docs/planejamento/avaliacoes/avaliacaoVLC.md">avaliação</a>.
+Porém como o grupo chegou em uma conclusão de que os sites escolhidos individualmente não atendiam as expectativas da disciplina, foi realizada uma reunião (<a href="../atas/reuniao02.md">Reunião02</a>) para decidir sobre um novo site, no qual foi escolhido o <a href="https://videolan.org">VideoLAN</a>. Onde foi realizada a <a href="avaliacoes/avaliacaoVLC.md">avaliação heurística</a>.
 </p>
 </div>
 
@@ -58,3 +59,5 @@ Porém como o grupo chegou em uma conclusão de que os sites escolhidos individu
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 24/04/2023   | `1.1`  | Atualização do documento | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+
+</div>

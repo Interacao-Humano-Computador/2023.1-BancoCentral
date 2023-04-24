@@ -1,6 +1,6 @@
 <div class="body">
 
-# Cronograma Executado
+# Cronograma Realizado
 
 ## Introdução
 
@@ -8,12 +8,12 @@
 
 O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Interação Humano Computador ministrada pelo professor André Barros de Sales para o primeiro semestre de 2023.
 
-Este documento tem como objetivo marcar e mostrar as reais datas e prazoes utilizados para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
+Este documento tem como objetivo marcar e mostrar as reais datas e prazos utilizados para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 
 </p>
 </br>
 
-## Cronograma Executado do Ponto de Controle 1
+## Cronograma Realizado Ponto de Controle 1
 A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 1. Segue abaixo:
 
 | Atividade | Data de Entrega | Autores | Data de revisão | Revisores |

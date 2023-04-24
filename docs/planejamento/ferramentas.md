@@ -1,9 +1,11 @@
+<div class="body">
+
 # Ferramentas
 
 ## Introdução
 
-  As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
-  desenvolvimento do projeto de Introdução Humano Computador, que foi realizado em volta do site [VideoLAN](https://www.videolan.org/).
+  <p align="justify">As ferramentas listadas neste documento representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o
+  desenvolvimento do projeto de Introdução Humano Computador, que foi realizado em volta do site [VideoLAN](https://www.videolan.org/).</p>
 
 ## Ferramentas utilizadas
 
@@ -41,7 +43,7 @@ A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas du
 
 <br/>
 
-### Histórico de Versões
+## Histórico de Versão
 
 <br/>
 
@@ -49,3 +51,5 @@ A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas du
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 23/04/2023 | `1.0` | Adição das ferramentas do projeto | [Giovanni Alvissus](https://github.com/giovanni1106) | 23/04/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 | 24/04/2023 | `1.4` | Atualização do visual para a gitpage| [Larissa Gomes](https://github.com/larigs) | 23/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+
+</div>

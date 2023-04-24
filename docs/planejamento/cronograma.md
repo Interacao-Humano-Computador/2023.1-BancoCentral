@@ -7,7 +7,7 @@
 <p align="justify">
 O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Interação Humano Computador ministrada pelo professor André Barros de Sales para o primeiro semestre de 2023.
 
-Este documento tem como objetivo desenvolver um planejamento inicial para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
+Este documento tem como objetivo desenvolver um planejamento inicial para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle (Tabelas de 1 a 11) a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 </p>
 
 ## Cronograma Geral
@@ -55,8 +55,8 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 4. Análise das tarefas do usuário | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | 06/05 - 07/05 | Larissa Gomes |
 | 5. Aspectos éticos de pesquisa envolvendo pessoas | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | 06/05 - 07/05 | Larissa Gomes |
 | 6. Atualizar GitPage | 25/04 - 07/05 | Larissa Gomes | 14/05 | Giovanni Alvissus |
-| 7. Gravação da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 07/05 - 08/05 | Rafael Bosi |
-| 8. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 07/05 - 08/05 | Rafael Bosi |
+| 7. Gravação da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
+| 8. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
 | 9. Cronograma Executado| 07/05 | Larissa Gomes | 07/05 | Giovanni Alvissus |
 
 <div style="text-align: center">

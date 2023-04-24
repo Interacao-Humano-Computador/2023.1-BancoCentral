@@ -1,22 +1,17 @@
-# Site selecionado para o projeto da disciplina
+<div class="body">
 
-<br/>
+# Site selecionado para o projeto da disciplina
 
 ## Introdução
 
-<br/>
 
 <div style="text-align: justify;"> 
-<p> Após o grupo avaliar e escolher o site <a  href="http://www.brasfoot.com/" target="_blank" >Brasfoot</a>, decidimos que por questões de falta de documentação, pela simplicidade do site e por preferencia em um projeto opensource, optamos por trocar.
-
-Para escolher o aplicativo atual, decidimos alguns pontos nos quais serão dissertados logo abaixo, justificando a escolha do site selecionado.</p> 
+<p> Para escolher o site a ser trabalhado no projeto, analisamos alguns pontos nos quais serão dissertados logo abaixo, justificando a escolha do site selecionado.</p> 
 </div>
 
-<br/>
 
 ## Critérios para a escolha
 
-<br/>
 
 Durante a reunião [02](../atas/reuniao02.md), o grupo escolheu o site com base nos critérios abaixo.
 
@@ -28,21 +23,22 @@ Durante a reunião [02](../atas/reuniao02.md), o grupo escolheu o site com base 
 - ✅ Disponibilidade de acesso ao site para a equipe de projeto ou para os estudantes envolvidos na disciplina.
 - ✅ Adequação do site aos interesses e habilidades da equipe ou dos estudantes.
 
-<br/>
 
 ## Site Selecionado
 
 <br/>
 
-<img src="img/videoLAN-icon.png" alt="VideoLAN" width="500px">
+<img src="img/videoLAN-icon.png" alt="VideoLAN" width="100%">
 
-<br/>
+<div style="text-align: center">
+    <p> <b>Imagem 1</b>: Ponto de Controle Realizado 1 (Fonte: BOSI, Rafael. 2023).</p>
+</div>
 
 <br/>
 
 <div style="text-align: justify;">
 
-O videoLAN é um site com intuito de disponibilizar o arquivo de download do app VLC (um software de reprodução de mídia mundialmente reconhecido principalmente no início dos anos 2000, devido a ausência por padrão da funcionalidade pelo sistema operacional), aprensentar informações sobre o produto e projetos da empresa dentre outras funcionalidades de menor escopo.
+O videoLAN (Imagem 1) é um site com intuito de disponibilizar o arquivo de download do app VLC (um software de reprodução de mídia mundialmente reconhecido principalmente no início dos anos 2000, devido a ausência por padrão da funcionalidade pelo sistema operacional), aprensentar informações sobre o produto e projetos da empresa dentre outras funcionalidades de menor escopo.
 
 </div>
 
@@ -50,7 +46,6 @@ O videoLAN é um site com intuito de disponibilizar o arquivo de download do app
 Após a escolha do site para o projeto, foram realizados o <a href="avaliacoes/planavaliacaoVLC.md" target="_balck">planejamento</a> e a <a href="avaliacoes/avaliacaoVLC.md" target="_blank">avaliação</a> do site VideoLAN.
 </div>
 
-<br/>
 
 ## Bibliografia
 
@@ -58,9 +53,6 @@ Após a escolha do site para o projeto, foram realizados o <a href="avaliacoes/p
 
 [2] BRASFOOT. Disponível em: [Brasfoot](http://www.brasfoot.com/). Acesso em: 14 de Abril de 2023
 
-<br/>
-
-<br/>
 
 ## Histórico de Versões
 
@@ -70,3 +62,4 @@ Após a escolha do site para o projeto, foram realizados o <a href="avaliacoes/p
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 24/04/2023   | `1.1`  | Separação e atualização do artefato | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+</div>
