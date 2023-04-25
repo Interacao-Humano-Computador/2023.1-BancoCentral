@@ -28,7 +28,7 @@ Durante a reunião [02](../atas/reuniao02.md), o grupo escolheu o site com base 
 
 <br/>
 
-<img src="img/videoLAN-icon.png" alt="VideoLAN" width="100%">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/videoLAN-icon.png" alt="VideoLAN" width="100%">
 
 <div style="text-align: center">
     <p> <b>Imagem 1</b>: Ponto de Controle Realizado 1 (Fonte: BOSI, Rafael. 2023).</p>
