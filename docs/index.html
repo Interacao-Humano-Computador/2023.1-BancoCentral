@@ -19,7 +19,7 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'Brasfoot',
+      name: 'VideoLAN',
       logo: 'img/logo.png',
       loadNavbar: true,
       loadSidebar: true,
@@ -35,6 +35,32 @@
   <script 
     src="teste.js"
     type="text/javascript">
+
+    document.addEventListener('click', function(event) {
+      var target = event.target;
+      var page = window.location.href;
+
+      if (page.includes(target)) {
+        if (target.parentNode.getAttribute('class').includes('active'))
+          target.parentNode.setAttribute('class', 'hide');
+        else
+          target.parentNode.setAttribute('class', 'active');
+      }
+
+      if (target.parentNode.classList.contains("hide")) {
+        var children = target.parentNode.children;
+        for (var i = 1; i < children.length; i++) {
+          children[i].style.display = "none";
+        }
+      }
+      else{
+        var children = target.parentNode.children;
+        for (var i = 1; i < children.length; i++) {
+          if (children[i].style.display == "none")
+            children[i].style.display = "block";
+        }
+      }
+    });
   </script>
 </body>
 </html>

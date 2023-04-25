@@ -1,6 +1,6 @@
 <div class="body">
-    <h1 class="title">VLC Media Player</h1>
-    <p align="justify">O <a href="https://www.videolan.org/">VLC Media Player</a> é um software open source e gratuito que permite a reprodução de vários formatos de mídia. Nessa documentação, estão dispostos os artefatos produzidos no decorrer da disciplina de Interação Humano Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é realizar pesquisas com os usuários sobre o aplicativo, além de planejar como ele poderia ser melhorado.</p>
+    <h1 class="title">VideoLAN</h1>
+    <p align="justify">O <a href="https://www.videolan.org/">VideoLAN</a> é um site de uma organização de softwares open source e gratuitos, dentre eles o VLC Media Player. Nessa documentação, estão dispostos os artefatos produzidos no decorrer da disciplina de Interação Humano Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é realizar pesquisas com os usuários sobre o aplicativo, além de planejar como ele poderia ser melhorado.</p>
     <h2 class="title">Contribuidores</h1>
     <div class="wrapper">
         <div class="image1">

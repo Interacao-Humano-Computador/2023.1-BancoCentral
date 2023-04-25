@@ -26,7 +26,6 @@ Porém como o grupo chegou em uma conclusão de que os sites escolhidos individu
 </p>
 </div>
 
-<br/>
 
 ## Bibliografia
 
@@ -46,11 +45,10 @@ Porém como o grupo chegou em uma conclusão de que os sites escolhidos individu
 
 [8] ARCH LINUX. Dosponível em: [Arch Linux](https://archlinux.org). Acesso em: 14 de Abril de 2023.
 
-<br/>
 
 ## Histórico de Versões
 
-<br/>
+
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
