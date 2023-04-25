@@ -10,7 +10,7 @@
 A elaboração de uma Interação Humano Computador tem como principal objetivo atender e servir os usuários e os demais envolvidos interessados no projeto, por conseguinte, a maior parte dos processos de design são centrados no usuário, e seguem os princípios de foco no usuário, métricas observáveis e design interativo. Os processos de design de IHC da importancia a participação do usuário no processo, dessa forma quanto mais cedo o usuário estiver inserido no processo mais cedo se descobre as necessidades do mesmo baseando-se em dados fornecidos ao utilizar o sistema.</p>
 
 ## Ciclo de vida simples
-<img title="a title" alt="Imagem Ciclo de vida simples" src="img/processo-design/ciclosimples.png" width="100%">
+<img title="a title" alt="Imagem Ciclo de vida simples" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/ciclosimples.png" width="100%">
 <div style="text-align: center">
     <p> <b>Figura 1: </b> Ciclo de vida de simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010).</p>
 </div>
@@ -26,7 +26,7 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 - Baixo detalhamento.
 
 ## Ciclo de vida estrela
-<img title="a title" alt="Imagem Ciclo de vida estrela" src="img/processo-design/cicloestrela.png" width="100%">
+<img title="a title" alt="Imagem Ciclo de vida estrela" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/cicloestrela.png" width="100%">
 <div style="text-align: center">
     <p> <b>Figura 2: </b> Ciclo de vida de estrela (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010).</p>
 </div>
@@ -50,7 +50,7 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 - Praticar design iterativo (correção de problemas durante as iterações de design e avaliação).
 
 ## Ciclo de vida de Mayhew
-<img title="a title" alt="Imagem Ciclo de vida estrela" src="img/processo-design/ciclodemayhew.png" width="100%">
+<img title="a title" alt="Imagem Ciclo de vida estrela" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/ciclodemayhew.png" width="100%">
 <div style="text-align: center">
     <p> <b>Figura 3: </b> Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010).</p>
 </div>
