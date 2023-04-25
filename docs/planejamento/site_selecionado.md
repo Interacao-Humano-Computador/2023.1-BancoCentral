@@ -13,7 +13,7 @@
 ## Critérios para a escolha
 
 
-Durante a [reunião 02](https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/atas/reuniao02.md), o grupo escolheu o site com base nos critérios abaixo.
+Durante a [reunião 02](https://interacao-humano-computador.github.io/2023.1-VideoLAN/#/atas/reuniao02), o grupo escolheu o site com base nos critérios abaixo.
 
 - ✅ Site ainda não trabalhado na disciplina de Interação Humano Computador.
 - ✅ Aplicativo pertencente ao governo ou a uma comunidade de software livre.
