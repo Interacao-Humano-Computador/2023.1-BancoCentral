@@ -7,9 +7,9 @@
 Este artefato contém todas as apresentações gravadas sobre cada etapa do projeto.
 
 ## Apresentação 1
-A apresentação da primeira etapa, o ponto de controle 1 pode ser vista no [Vídeo 1](https://www.youtube.com).
+A apresentação da primeira etapa, o ponto de controle 1 pode ser vista no [Vídeo 1](https://youtu.be/61j1hYdWNdw).
 
-<iframe width="650" height="650" src="http://www.youtube.com/embed/dQw4w9WgXcQ" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="650" height="650" src="http://www.youtube.com/embed/61j1hYdWNdw" title="Apresentação 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Vídeo 1</b>: Primeira apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
