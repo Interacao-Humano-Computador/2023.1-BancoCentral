@@ -36,5 +36,34 @@
     src="teste.js"
     type="text/javascript">
   </script>
+  <script>
+    document.addEventListener('click', function(event) {
+      var target = event.target;
+      var page = window.location.href;
+
+      if (page.includes(target)) {
+        if (target.parentNode.getAttribute('class').includes('active'))
+          target.parentNode.setAttribute('class', 'hide');
+        else
+          target.parentNode.setAttribute('class', 'active');
+      }
+
+      // Verificar se o <li> tem a classe "hide"
+      if (target.parentNode.classList.contains("hide")) {
+        // Ocultar todos os filhos do <li> exceto o primeiro
+        var children = target.parentNode.children;
+        for (var i = 1; i < children.length; i++) {
+          children[i].style.display = "none";
+        }
+      }
+      else{
+        var children = target.parentNode.children;
+        for (var i = 1; i < children.length; i++) {
+          if (children[i].style.display == "none")
+            children[i].style.display = "block";
+        }
+      }
+    });
+  </script>
 </body>
 </html>
