@@ -6,13 +6,13 @@
 }
 
 h1.title, h2.title, h3.title1, h3.title2{
-  color: #02566E;
+  color: #e6c57c;
 }
 
 h2.title2{
   margin-top: 5%;
   font-family: 'Open Sans', sans-serif;
-  color: #fff;
+  color: #e6c57c;
 }
 
 a.hyperlink{
