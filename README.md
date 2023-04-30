@@ -74,3 +74,4 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 | :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
 | `1.0` | 13/04/2023 | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
 | `2.0` | 23/04/2023 | Atualização para o VideoLAN | Larissa Gomes | Giovanni Alvissus |
+| `2.1` | 29/04/2023 | Atualização para o Banco Central do Brasil | Larissa Gomes | Giovanni Alvissus |
