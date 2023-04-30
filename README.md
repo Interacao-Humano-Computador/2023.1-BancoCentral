@@ -6,11 +6,11 @@
 
 ## Introdução
 
- Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de IHC (Interação Humano Computador). O projeto visa avaliar o site [VideoLAN](https://www.videolan.org/vlc/index.pt_BR.html), com base no que aprendemos em IHC e apontar sugestões de melhorias nos problemas encontrados.
+ Esse repositório tem como objetivo armazenar todos os artefatos produzidos durante o projeto de IHC (Interação Humano Computador). O projeto visa avaliar o site <a href="https://www.bcb.gov.br/">Banco Central</a>, com base no que aprendemos em IHC e apontar sugestões de melhorias nos problemas encontrados.
 
 ## O site
 
- O VideoLAN é um site com intuito de disponibilizar o arquivo de download do app VLC (um software de reprodução de mídia mundialmente reconhecido principalmente no início dos anos 2000, devido a ausência por padrão da funcionalidade pelo sistema operacional), aprensentar informações sobre o produto e projetos da empresa dentre outras funcionalidades de menor escopo.
+O Banco Central do Brasil é responsável pela regulação e supervisão do sistema financeiro e gerenciamento da política monetária. O site do <a href="https://www.bcb.gov.br/">Banco Central</a>  oferece informações sobre diversos aspectos econômicos e financeiros do país, além de ferramentas e serviços para os cidadãos e empresas.. Nessa documentação, estão dispostos os artefatos produzidos no decorrer da disciplina de Interação Humano Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é realizar pesquisas com os usuários sobre o aplicativo, além de planejar como ele poderia ser melhorado.
 
 ## Integrantes da equipe
 
