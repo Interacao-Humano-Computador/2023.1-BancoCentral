@@ -6,13 +6,13 @@
 }
 
 h1.title, h2.title, h3.title1, h3.title2{
-  color: #e6c57c;
+  color: rgb(229,197,128);
 }
 
 h2.title2{
   margin-top: 5%;
   font-family: 'Open Sans', sans-serif;
-  color: #e6c57c;
+  color: rgb(229,197,128);
 }
 
 a.hyperlink{
@@ -61,4 +61,20 @@ a.hyperlink{
   grid-column-end: 5;
 }
 
-
+/*overflow*/
+body
+body{
+    height:300px;
+    overflow:scroll;
+}
+body::-webkit-scrollbar {
+    width:15px;
+    background: rgba(255, 255, 255, .2);
+}
+body::-webkit-scrollbar-track {
+    background: rgba(0,0,0,.0);
+}
+body::-webkit-scrollbar-thumb {
+    border-radius:10px;
+    background: rgba(0, 0, 0, .3);
+}
