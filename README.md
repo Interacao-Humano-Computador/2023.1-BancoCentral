@@ -1,4 +1,4 @@
-# VideoLAN - Grupo 3
+# Banco Central do Brasil - Grupo 3
 
 <div align="center">
 <img src="docs/img/logo.png" alt="logo" style="width: 400px">
