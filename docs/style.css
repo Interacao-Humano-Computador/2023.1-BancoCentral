@@ -54,7 +54,7 @@ div#app:empty:before {
 }
 
 .progress {
-	background-color: rgb(244, 139, 0);
+	background-color: #e6c57c;
 	height: 2px;
 	left: 0;
 	position: fixed;
@@ -67,7 +67,7 @@ div#app:empty:before {
 
 .search .search-keyword,
 .search a:hover {
-	color: rgb(244, 139, 0)
+	color: #e6c57c
 }
 
 .search .search-keyword {
@@ -158,11 +158,11 @@ li input[type=checkbox] {
 
 .app-nav a.active,
 .app-nav a:hover {
-	color: rgb(244, 139, 0)
+	color: #e6c57c
 }
 
 .app-nav a.active {
-	border-bottom: 2px solid rgb(244, 139, 0)
+	border-bottom: 2px solid #e6c57c
 }
 
 .app-nav li {
@@ -229,7 +229,7 @@ li input[type=checkbox] {
 
 .github-corner svg {
 	color: #fff;
-	fill: rgb(244, 139, 0);
+	fill: #e6c57c;
 	height: 70px;
 	width: 70px
 }
@@ -360,7 +360,7 @@ main.hidden {
 }
 
 .sidebar-toggle span {
-	background-color: rgb(244, 139, 0);
+	background-color: #e6c57c;
 	display: block;
 	margin-bottom: 4px;
 	width: 16px;
@@ -622,7 +622,7 @@ section.cover {
 
 section.cover.show {
 	display: flex;
-	background: linear-gradient(to left bottom, hsl(35, 100%, 71%) 0%,hsl(35, 96%, 90%) 100%)!important;
+	background: linear-gradient(to left bottom, rgb(230, 197, 124) 0%,rgb(2, 86, 110) 100%)!important;
 }
 
 section.cover.has-mask .mask {
@@ -689,9 +689,9 @@ section.cover ul {
 
 section.cover .cover-main>p:last-child a {
 	border-radius: 2rem;
-	border: 1px solid rgb(244, 139, 0);
+	border: 1px solid rgb(230, 197, 124);
 	box-sizing: border-box;
-	color: rgb(244, 139, 0);
+	color: rgb(230, 197, 124);
 	display: inline-block;
 	font-size: 1.05rem;
 	letter-spacing: .1rem;
@@ -702,26 +702,22 @@ section.cover .cover-main>p:last-child a {
 }
 
 section.cover .cover-main>p:last-child a:last-child {
-	background-color: rgb(244, 139, 0);
+	background-color: rgb(230, 197, 124);
 	color: #fff
 }
 
 section.cover .cover-main>p:last-child a:last-child:hover {
-	color: inherit;
 	opacity: .8
 }
 
-section.cover .cover-main>p:last-child a:hover {
-	color: inherit
-}
 
 section.cover blockquote>p>a {
-	border-bottom: 2px solid rgb(244, 139, 0);
+	border-bottom: 2px solid #02566E;
 	transition: color .3s
 }
 
 section.cover blockquote>p>a:hover {
-	color: rgb(244, 139, 0)
+	color: rgb(230, 197, 124)
 }
 
 .sidebar,
@@ -758,7 +754,7 @@ body {
 
 .sidebar ul li.active>a {
 	border-right: 2px solid;
-	color: rgb(244, 139, 0);
+	color: rgb(230, 197, 124);
 	font-weight: 600
 }
 
@@ -778,7 +774,7 @@ body {
 }
 
 .markdown-section a {
-	color: rgb(244, 139, 0);
+	color: rgb(230, 197, 124);
 	font-weight: 600;
 	text-decoration: none;
 }
@@ -829,7 +825,7 @@ body {
 }
 
 .markdown-section blockquote {
-	border-left: 4px solid rgb(244, 139, 0);
+	border-left: 4px solid #e6c57c;
 	color: var(--blockQuoteColor);
 	margin: 2em 0;
 	padding-left: 20px
@@ -904,7 +900,7 @@ body {
 }
 
 .token.string {
-	color: rgb(244, 139, 0)
+	color: #e6c57c
 }
 
 .token.selector {
@@ -926,7 +922,7 @@ body {
 .token.control,
 .token.directive,
 .token.unit {
-	color: rgb(244, 139, 0)
+	color: #e6c57c
 }
 
 .token.function,

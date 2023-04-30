@@ -1,4 +1,4 @@
-<img src="img/logo.png" width="350" height="350">
-<h2 class = title2>VideoLAN</h2>
+<img src="img/logo-branca1.png" width="450" >
+<h2 class = title2>Banco Central do Brasil</h2>
 
 [Conheça o projeto](home.md)
