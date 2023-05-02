@@ -12,4 +12,5 @@
     - [Sites Avaliados](planejamento/lista_de_sites.md)
     - [Site Selecionado](planejamento/site_selecionado.md)
     - [Projeto de Design](planejamento/processo_de_design.md)
+- [Questionários](questionarios/termo-de-consentimento.md)
 - [Apresentações](apresentacoes/apresentacoes.md)
