@@ -13,7 +13,7 @@
 ## Critérios para a escolha
 
 
-Durante a [reunião 02](https://interacao-humano-computador.github.io/2023.1-VideoLAN/#/atas/reuniao02), o grupo escolheu o site com base nos critérios abaixo.
+Durante a [reunião 02](https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/atas/reuniao02.md), o grupo escolheu o site com base nos critérios abaixo.
 
 - ✅ Site ainda não trabalhado na disciplina de Interação Humano Computador.
 - ✅ Aplicativo pertencente ao governo ou a uma comunidade de software livre.
@@ -28,30 +28,28 @@ Durante a [reunião 02](https://interacao-humano-computador.github.io/2023.1-Vid
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/videoLAN-icon.png" alt="VideoLAN" width="100%">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/logo.png" alt="Banco Central do Brasil" width="100%">
 
 <div style="text-align: center">
-    <p> <b>Imagem 1</b>: Ponto de Controle Realizado 1 (Fonte: BOSI, Rafael. 2023).</p>
+    <p> <b>Imagem 1 - Logo Banco Central do Brasil</b></p>
 </div>
 
 <br/>
 
 <div style="text-align: justify;">
 
-O videoLAN (Imagem 1) é um site com intuito de disponibilizar o arquivo de download do app VLC (um software de reprodução de mídia mundialmente reconhecido principalmente no início dos anos 2000, devido a ausência por padrão da funcionalidade pelo sistema operacional), aprensentar informações sobre o produto e projetos da empresa dentre outras funcionalidades de menor escopo.
+O Banco Central do Brasil (Imagem 1) é um site com intuito de auxiliar os seus usuários em questões financeiras. Ele tem como funcionalidades, por exemplo, consultar valores a receber, onde você tem dívidas, converter moedas, analisar panoramas econômicos, etc. O site se destaca pelo grande suporte ao cidadão brasileiro em informações e cálculos financeiros.
 
 </div>
 
 <div style="text-align : justify;">
-Após a escolha do site para o projeto, foram realizados o <a href="avaliacoes/planavaliacaoVLC.md" target="_balck">planejamento</a> e a <a href="avaliacoes/avaliacaoVLC.md" target="_blank">avaliação</a> do site VideoLAN.
+Após a escolha do site para o projeto, foi realizada a <a href="avaliacoes/avaliacaoBCB.md" target="_blank">avaliação</a> do site do Banco Central do Brasil.
 </div>
 
 
 ## Bibliografia
 
-[1] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 19 de Abril de 2023.
-
-[2] BRASFOOT. Disponível em: [Brasfoot](http://www.brasfoot.com/). Acesso em: 14 de Abril de 2023
+[1] Banco Central do Brasil. Disponível em: https://www.bcb.gov.br/. Acesso em: 06/05/2023.
 
 
 ## Histórico de Versões
@@ -62,4 +60,5 @@ Após a escolha do site para o projeto, foram realizados o <a href="avaliacoes/p
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 24/04/2023   | `1.1`  | Separação e atualização do artefato | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 06/05/2023   | `1.2`  | Alteração do site | [Rafael Bosi](https://github.com/StrangeUnit28) e [Lucas Gobbi](https://github.com/LucasBergholz) | 07/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 </div>
