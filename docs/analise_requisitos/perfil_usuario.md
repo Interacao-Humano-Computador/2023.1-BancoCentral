@@ -248,6 +248,11 @@ Figura 20: Pergunta 20 (Fonte: autor, 2023).
 </div>
 
 ## Análise dos resultados 
+Analisando os dados levantados, podemos concluir com base neles que o perfil de usuário é dado por um público majoritariamente na faixa dos 20 anos aos 30 anos, possuem elevado grau de escolaridade(cursando ou finalizado o nível superior), pouca ou nenhum conhecimento acerca do mercado financeiro, no entanto possuem interesse sobre. 
+
+Foi identificado entre os respondentes, uma alta taxa de uso de dispositivos eletrônicos como smartphones e computadores, ambos com acesso a internet, da qual fazem uso de tais tecnologias diariamente.
+
+Acerca da utilização do site do banco central foi possível traçar um perfil onde nunca usaram ou utilizaram poucas vezes, não conhecem  boa parte das funcionalidades apresentadas, no entanto se interessaram pelo site e seus serviços oferecidos e passariam a utilizá-lo ao conhecer mais sobre eles. 
 
 ## Bibliografia
 
@@ -257,4 +262,5 @@ Figura 20: Pergunta 20 (Fonte: autor, 2023).
 
 | Versão | Data       | Descrição                                       | Autor(es)        | Revisor(es)   |
 | ------ | ---------- | ----------------------------------------------- | ---------------- | ------------- |
+| `1.0`  | 07/05/2023 | Criação do documento                            | Mizael Santos e Giovanni          | Igor Penha  |
 | `1.0`  | 07/05/2023 | Criação do template das perguntas                            | Mizael Santos e Giovanni          | Igor Penha  |
