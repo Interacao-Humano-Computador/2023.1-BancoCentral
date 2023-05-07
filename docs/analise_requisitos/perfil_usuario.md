@@ -1,7 +1,7 @@
 # Perfil de Usuário 
 ## Introdução 
 
-O perfil de usuário é construído em cima de dados coletados dos próprios usuários, e tem como objetivo de descobrir e definir quais as características das pessoas que utilizam ou utilizarão o sistema que está sendo desenvolvido. Existem diversas abordagens comerciais para essa coleta de dados, as quais foram exaustivamente aplicadas por uma comunidade científica que estuda tais abordagens.
+O perfil de usuário é construído em cima de dados coletados dos próprios usuários, e tem como objetivo descobrir e definir quais as características das pessoas que utilizam ou utilizarão o sistema que está sendo desenvolvido. Existem diversas abordagens comerciais para essa coleta de dados, as quais foram exaustivamente aplicadas e testadas por uma comunidade científica que geram conhecimento em cima destes estudos, para então aplicá-los no mercado.
 
 ## Metodologia
 
@@ -22,7 +22,7 @@ A metodologia abordada para construção do perfil de usuário em questão, foi 
 - O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.
 
 ## Resultados coletados 
-Os resultados coletados para cada questão do formulário podem ser encontrados posteriormente no texto. Da qual o formulário contem **20** perguntas e foram obtidos ao final **81** respostas ao todo, da qual algumas perguntas obtiveram um número menor de respostas, no entanto significativas para a pesquisa.
+Os resultados coletados para cada questão do formulário podem ser encontrados posteriormente no texto. Da qual o formulário contem **20** perguntas e foram obtidos ao final **16** respostas ao todo, da qual algumas perguntas obtiveram um número menor de respostas, no entanto significativas para a pesquisa.
 
 Os respondentes antes de realizar o questionário aceitaram um [termo consentimento]() redigido pela equipe, onde as respostas foram coletadas entre as datas **04/05/2023** e **08/05/2023**.
 
@@ -240,17 +240,26 @@ Figura 19: Pergunta 19 (Fonte: autor, 2023).
 
 Dos 81 respondentes 5 dexaram seus e-mails para contato pois possuem interesse em participar da pesquisa no futuros.
 
-  
-<div style="text-align: center">
-<p>
-Figura 20: Pergunta 20 (Fonte: autor, 2023). 
-</p>
-</div>
+## Classificação de cartões 
+
+Essa técnica consistem em um conjunto de cartões ou fichas são preparados com amostras ou descrições de conteúdo e fornecidos a uma pessoa ou um grupo delas, a qual devem organizá-los em grupos, de acordo com a similaridade entre os cartões[2]. Permitindo informar ou guiar o projeto da arquitetura de informação de um produto [2].
+
+Para esta metodologia utilizamos um respondente que apresentou interesse em nos ajudar a continuar realizando a pesquisa e respondendo questionários. Com a finalidade de entender mais sobre sua linha de pensamento fora elaborado uma checklist e também realizado uma gravação das classificações de cartões.
+
+Disponível em: **LINK PARA GRAVACAO**
+Vídeo 1: Gravação da classificação de cartões. (Fonte: autor, 2023).
+
+| Perguntas | Resposta |
+| :-------: | :------: |
+|           |          |
+|           |          |
+|           |          |
+|           |          |
 
 ## Análise dos resultados 
-Analisando os dados levantados, podemos concluir com base neles que o perfil de usuário é dado por um público majoritariamente na faixa dos 20 anos aos 30 anos, possuem elevado grau de escolaridade(cursando ou finalizado o nível superior), pouca ou nenhum conhecimento acerca do mercado financeiro, no entanto possuem interesse sobre. 
+Analisando os dados levantados, podemos concluir com base neles que o perfil de usuário é dado por um público com pouca ou nenhum conhecimento acerca do mercado financeiro, no entanto possuem interesse sobre.
 
-Foi identificado entre os respondentes, uma alta taxa de uso de dispositivos eletrônicos como smartphones e computadores, ambos com acesso a internet, da qual fazem uso de tais tecnologias diariamente.
+A partir das respostas fora constatado que a maioria dos respondentes por terem interesse em consultar seus dados bancarios, como, chave pix, dividas e valores a receber por instituições bancárias, possuem uma conta bancária ativa.
 
 Acerca da utilização do site do banco central foi possível traçar um perfil onde nunca usaram ou utilizaram poucas vezes, não conhecem  boa parte das funcionalidades apresentadas, no entanto se interessaram pelo site e seus serviços oferecidos e passariam a utilizá-lo ao conhecer mais sobre eles. 
 
