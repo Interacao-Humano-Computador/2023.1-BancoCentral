@@ -5,8 +5,7 @@ O perfil de usuário é construído em cima de dados coletados dos próprios usu
 
 ## Metodologia
 
-A metodologia abordada para construção do perfil de usuário em questão foi a aplicacao de questionarios, a qual foram aplicados em **xx(Nome dos lugares que o questionário foi aplicado)**. A escolha de tal abordagem deve-se às seguintes vantagens e desvantagens analisadas, tendo em vista a disposição geográfica dos respondentes, eficiência do método utilizado , custeamento, tempo de pesquisa.
-
+A metodologia abordada para construção do perfil de usuário em questão, foi a aplicacao de questionários, a qual foram aplicados nos seguintes veículos, **xx(Nome dos lugares que o questionário foi aplicado)** . A escolha de tal abordagem deve-se às seguintes vantagens e desvantagens analisadas, tendo em vista a disposição geográfica dos respondentes, eficiência do método utilizado , custeamento, tempo de pesquisa.
 
 ### Vantagens 
 - Técnica relativamente rápida e barata de ser aplicada.
@@ -232,12 +231,12 @@ Figura 18: Pergunta 18 (Fonte: autor, 2023).
   
 <div style="text-align: center">
 <p>
-Figura 18: Pergunta 19 (Fonte: autor, 2023). 
+Figura 19: Pergunta 19 (Fonte: autor, 2023). 
 </p>
 </div>
 
 ### Questão 20
-##### Teria disponibilidade e interesse de participar de questionários futuros sobre o Banco Central com o objetivo de melhorar a interface do site?
+#### Teria disponibilidade e interesse de participar de questionários futuros sobre o Banco Central com o objetivo de melhorar a interface do site?
 
 Dos 81 respondentes 5 dexaram seus e-mails para contato pois possuem interesse em participar da pesquisa no futuros.
 
