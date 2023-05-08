@@ -61,9 +61,8 @@ Agradecemos a sua colaboração!
 
 ### Bibliografia
 
-[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+[1] SALES, André Barros. Plano de ensino da matéria. Disponível em: [aqui](https://aprender3.unb.br/pluginfile.php/2523434/mod_resource/content/3/Apresentacao%20Cap05.pdf).
 
-[2] Johnson, D.G. Computer Ethics, 3a edição. Englewood Cliffs, NJ: Prentice Hall, 2001.
 
 ### Histórico de Versões
 
