@@ -13,7 +13,7 @@ Esta análise visa fornecer informações detalhadas sobre os principais aspecto
 
 ## Análise
 
-### Focus (bcb.gov.br)
+### Focus
 
 Este relatório é divulgado toda segunda-feira e apresenta a evolução gráfica e o comportamento semanal das projeções para índices de preços, atividade econômica, câmbio, taxa Selic, entre outros indicadores. O público-alvo para este documento inclui:
 
@@ -21,21 +21,21 @@ Este relatório é divulgado toda segunda-feira e apresenta a evolução gráfic
 - Empresários e profissionais que desejam acompanhar as tendências econômicas e tomar decisões estratégicas para seus negócios.
 - Cidadãos interessados em entender o desempenho da economia e os indicadores financeiros para tomar decisões pessoais, como a compra de imóveis ou investimentos.
 
-### Relatório Integrado do Banco Central do Brasil (RIG) (bcb.gov.br): 
+### Relatório Integrado do Banco Central do Brasil (RIG) 
 
 Este relatório tem o objetivo de prestar contas à sociedade da atuação da autarquia no exercício anterior, discorrendo sobre todos os temas que foram relevantes para a geração de valor do BCB à sociedade. O público-alvo para este documento inclui:
 
 - Cidadãos interessados em entender o desempenho e a atuação do Banco Central do Brasil no exercício anterior.
 - Profissionais e acadêmicos que buscam informações e análises sobre políticas monetárias e financeiras do Brasil.
 
-### Registro Nacional de Créditos (RNC) (bcb.gov.br)
+### Registro Nacional de Créditos (RNC)
 
 O RNC é um serviço que permite aos usuários acessar informações sobre suas dívidas e verificar se há contas bancárias, dívidas ou chaves Pix em seu nome que não foram contratadas. O público-alvo para este serviço inclui:
 
 - Cidadãos interessados em monitorar e gerenciar suas dívidas e contas bancárias.
 - Empresários e profissionais que desejam verificar a situação financeira de seus clientes ou fornecedores.
 
-### Taxa Selic (bcb.gov.br)
+### Taxa Selic
 
 A taxa Selic é a taxa média ajustada dos financiamentos diários apurados no Sistema Especial de Liquidação e de Custódia (Selic), uma infraestrutura do mercado financeiro administrada pelo BC. O público-alvo para esta informação inclui:
 
