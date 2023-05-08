@@ -52,7 +52,7 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 
 ## Definição das Personas
 
-Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida com a intenção de torná-las memoráveis, então após a discussão em presencial entre a equipe foi decidido um elenco de 4 personas, já que a utilização de um elenco grande de personas pode distanciar a equipe das personas, então baseado no foco do projeto ficou decidido um número conciso de personas com a intenção de aproximá-las do time. Dessa forma, segue o elenco de personas:
+Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida com a intenção de torná-las memoráveis, então após a discussão em presencial entre a equipe foi decidido um elenco de 4 personas, já que a utilização de um elenco grande de personas pode distanciar a equipe das personas, então baseado no foco do projeto ficou decidido um número conciso de personas com a intenção de aproximá-las do time. Dessa forma, segue o elenco de personas nas Tabelas de 2 a 5:
 
 ### José Santos
 
