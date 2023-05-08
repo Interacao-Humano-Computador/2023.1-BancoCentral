@@ -4,6 +4,7 @@
 - [Atas](atas/reuniao01.md)
     - [1º Reunião](atas/reuniao01.md)
     - [2º Reunião](atas/reuniao02.md)
+    - [3º Reunião](atas/reuniao03.md)
 - [Planejamento](planejamento/cronograma.md)
     - [Cronograma](planejamento/cronograma.md)
     - [Cronograma Executado](planejamento/cronograma_realizado.md)
@@ -12,4 +13,5 @@
     - [Sites Avaliados](planejamento/lista_de_sites.md)
     - [Site Selecionado](planejamento/site_selecionado.md)
     - [Projeto de Design](planejamento/processo_de_design.md)
+- [Questionários](questionarios/termo-de-consentimento.md)
 - [Apresentações](apresentacoes/apresentacoes.md)

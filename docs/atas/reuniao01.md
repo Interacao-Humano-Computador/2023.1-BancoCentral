@@ -5,7 +5,7 @@
 ## Introdução
 
 <p align="justify">
-Esse documento visa registrar o acontecimento da 1ª reunião, marcar quais membros estavam presentes (Tabela 1), os objetivos gerais da reunião, além de definir e controlar tarefas (Tabela 2). Aqui esta presente, também, a gravação da reunião.
+Esse documento visa registrar o acontecimento da 1ª reunião, marcar quais membros estavam presentes (Tabela 1), os objetivos gerais da reunião, além de definir e controlar tarefas (Tabela 2). Aqui esta presente, também, a gravação da reunião (Vídeo 1).
 </p>
 
 ## Dados da reunião
@@ -45,7 +45,10 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 ## Link da gravação
 
-[Link da gravação da reunião 13/04/2023](https://youtu.be/awlEPQoEpKE)
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/awlEPQoEpKE" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 1</b>: gravação da reunião 1 (Fonte: Grupo. 2023).</p>
+</div>
 
 ## Conclusão
 
