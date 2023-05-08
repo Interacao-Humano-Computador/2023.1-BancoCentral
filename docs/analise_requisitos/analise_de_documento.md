@@ -68,3 +68,5 @@ Em resumo, o público-alvo do site do Banco Central do Brasil inclui investidore
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 08/05/2023 | `1.0` | Criação do artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Mizael Santos](https://github.com/frmiza) |
+| 08/05/2023 | `1.1` | Adicionado bibliografia | [Mizael Santos](https://github.com/frmiza) | 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+
