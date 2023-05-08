@@ -13,16 +13,18 @@ Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto obje
 
 O site do Banco Central do Brasil (BCB) é um site majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: história do BCB; agenda das Autoridades, Chefes de Unidade e Gabinetes;, calendário de eventos relacionados ao sistema financeiro; cotação das moedas internacionais; conversor de moedas; estatísticas e identificadores econômicos; consulta às mudanças no sistema financeiro; informações quanto as cédulas e moedas (como identificar a autenticidade, moedas e notas antigas e comemorativas, formas de conservação); entre outros tipos de informação. Tendo em vista a quantidade de ramificações de um objetivo como o acesso a informações, foi decidido por não escolher essa tarefa para análise.
 
-As principais tarefas para análise identificadas no site do Banco Central do Brasil, foram: consultar dados em meu nome (impréstimos, chaves pix cadastradas, dívidas em órgãos públicos, valores a receber de bancos, gerenciamento de pagamento de multas) e aprender sobre o financeiro. As técnicas de análise escolhidas foram o AHT (Análise Hierárquica de Tarefas) e o CTT (Árvore de Tarefas Concorrentes)
+As principais tarefas para análise identificadas no site do Banco Central do Brasil, foram: consultar dados em meu nome (cheques sem fundo estornados em suas contas, empréstimos e financiamentos, contas de bancos, chaves pix cadastradas, relatório de dívidas e operações de câmbio), emissão de boletos de multas e aprender sobre o financeiro. 
+
+As técnicas de análise escolhidas foram o AHT (Análise Hierárquica de Tarefas) e o CTT (Árvore de Tarefas Concorrentes)
 </p>
 
 ## Análise Hierárquica de Tarefas
 
-<p align="justify">consultar dados em meu nome</p>
+<p align="justify">A Análise Hierárquica de Tarefas (HTA), criada na década de 60, é uma ferramenta utilizada para entender as competências e habilidades necessárias para realizar tarefas complexas e não repetitivas. Além disso, é útil para identificar problemas de desempenho. A HTA ajuda a relacionar as ações das pessoas, o motivo pelo qual elas as executam e quais são as consequências se essas ações não forem realizadas corretamente.</p>
 
 ## Árvore de Tarefas Concorrentes
 
-<p align="justify">aprender sobre o financeiro(https://www.bcb.gov.br/cidadaniafinanceira/cursos)</p>
+<p align="justify"> emitir boleto de multas,aprender sobre o financeiro(https://www.bcb.gov.br/cidadaniafinanceira/cursos)</p>
 
 ## Bibliografia
 [1] SALES, André Barros. Apresentação Cap6 . Disponível em: https://aprender3.unb.br/pluginfile.php/2523447/mod_resource/content/4/Apresentacao%20cap06.pdf. Acesso em: 06 de Maio de 2023;
