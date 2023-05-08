@@ -1,9 +1,17 @@
 # Análise de documentos do Banco Central do Brasil
 
 ## Introdução
-<div style="text-align:justify">//introdução</div>
+<div style="text-align:justify">
 
-## Estudo
+A análise a seguir tem como objetivo examinar os documentos e relatórios publicados pelo Banco Central do Brasil (BCB) para compreender a estabilidade financeira e as perspectivas econômicas do país. O BCB é responsável por assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, suavizar as flutuações do nível de atividade econômica e fomentar o pleno emprego. Entre as publicações analisadas, destacam-se o Relatório de Estabilidade Financeira (FSR), o Relatório Anual e diversos manuais e documentos disponíveis no site do BCB.
+
+O FSR é uma publicação semestral que apresenta um panorama dos desenvolvimentos recentes e perspectivas para a estabilidade financeira no Brasil, com foco nos principais riscos e na resiliência do sistema financeiro doméstico. Já o Relatório Anual é um documento que, conforme exigido por lei, é disponibilizado à sociedade e ao Tribunal de Contas da União (TCU), abordando temas como governança, riscos e controle. Por fim, os manuais e documentos disponíveis no site do BCB fornecem informações adicionais sobre a atuação e as políticas do banco.
+
+Esta análise visa fornecer informações detalhadas sobre os principais aspectos abordados nas publicações mencionadas, identificando tendências, desafios e oportunidades para a economia brasileira. Além disso, busca-se compreender como o BCB atua para garantir a estabilidade financeira e promover o crescimento econômico sustentável no país.
+
+</div>
+
+## Análise
 
 ### Focus (bcb.gov.br)
 
@@ -48,6 +56,12 @@ Em resumo, o público-alvo do site do Banco Central do Brasil inclui investidore
 - BANCO CENTRAL DO BRASIL. Relatório Integrado 2022. Disponível em: <https://liftchallenge.bcb.gov.br/content/publicacoes/rig/rig_2022.pdf>. Acesso em: 5 ago. 2023.
 
 - BANCO CENTRAL DO BRASIL. Relatório Integrado (RIG) do Banco Central 2020. Disponível em: <https://www.bcb.gov.br/detalhenoticia/533/noticia>. Acesso em: 5 ago. 2023.
+
+- BANCO CENTRAL DO BRASIL. Relatório de Estabilidade Financeira. Disponível em: <https://www.bcb.gov.br/en/publications/financialstabilityreport>. Acesso em: 5 ago. 2023.
+
+- BANCO CENTRAL DO BRASIL. Relatório Anual 2021. Disponível em: <https://www.bcb.gov.br/en/publications/annual_report_2021>. Acesso em: 5 ago. 2023.
+
+- BANCO CENTRAL DO BRASIL. Publicações e Manuais. Disponível em: <https://www.bcb.gov.br/publicacoes/publicacoesmanuais>. Acesso em: 5 ago. 2023.
 
 ## Histórico de versões
 
