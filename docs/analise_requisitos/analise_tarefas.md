@@ -131,12 +131,12 @@ Assim como na análise de tarefas haverão diferentes níveis hierárquicos.</p>
 
 Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.</p>
 
-### CTT Acessar um curso
+### CTT Acessar curso
 
 <img title="a title" alt="CTT Acessar Curso" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/ctt_acessar_curso.png" width="100%">
 
 <div align="center">
-<p> <b>Figura 3</b>: Árvore de Tarefas Concorrentes da tarefa "Acessar um Curso" (Fonte: BOSI, Rafael. 2023). </p>
+<p> <b>Figura 3</b>: Árvore de Tarefas Concorrentes da tarefa "Acessar Curso" (Fonte: BOSI, Rafael. 2023). </p>
 </div>
 
 <p align="justify">A Figura 4, a seguir, representa uma legenda que pode ser utilizada para interpretar a CTT presente na Figura 3</p>
