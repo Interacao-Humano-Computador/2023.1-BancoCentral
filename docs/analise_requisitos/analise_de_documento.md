@@ -40,7 +40,6 @@ O RNC é um serviço que permite aos usuários acessar informações sobre suas 
 A taxa Selic é a taxa média ajustada dos financiamentos diários apurados no Sistema Especial de Liquidação e de Custódia (Selic), uma infraestrutura do mercado financeiro administrada pelo BC. O público-alvo para esta informação inclui:
 
 - Investidores e profissionais financeiros que buscam informações sobre a taxa Selic para tomar decisões de investimento e acompanhar o desempenho do mercado financeiro.
-
 - Empresários e profissionais que desejam acompanhar as taxas de juros e tomar decisões estratégicas para seus negócios.
 
 ## Conclusão
