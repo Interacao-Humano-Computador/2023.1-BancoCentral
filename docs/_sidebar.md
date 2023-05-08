@@ -4,6 +4,7 @@
 - [Atas](atas/reuniao01.md)
     - [1º Reunião](atas/reuniao01.md)
     - [2º Reunião](atas/reuniao02.md)
+    - [3º Reunião](atas/reuniao03.md)
 - [Planejamento](planejamento/cronograma.md)
     - [Cronograma](planejamento/cronograma.md)
     - [Cronograma Executado](planejamento/cronograma_realizado.md)
