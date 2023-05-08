@@ -39,7 +39,15 @@ A taxa Selic é a taxa média ajustada dos financiamentos diários apurados no S
 
 Em resumo, o público-alvo do site do Banco Central do Brasil inclui investidores, profissionais financeiros, empresários, profissionais acadêmicos, cidadãos interessados em monitorar suas dívidas e contas bancárias, e pessoas interessadas em entender o desempenho e a atuação do Banco Central do Brasil.
 
+## Bibliografia
 
+- BANCO CENTRAL DO BRASIL. Relatório Integrado do Banco Central do Brasil (RIG). Disponível em: <https://www.bcb.gov.br/publicacoes/relatoriointegrado>. Acesso em: 5 ago. 2023.
+
+- BANCO CENTRAL DO BRASIL. Focus - Relatório de Mercado. Disponível em: <https://www.bcb.gov.br/publicacoes/focus>. Acesso em: 5 ago. 2023.
+
+- BANCO CENTRAL DO BRASIL. Relatório Integrado 2022. Disponível em: <https://liftchallenge.bcb.gov.br/content/publicacoes/rig/rig_2022.pdf>. Acesso em: 5 ago. 2023.
+
+- BANCO CENTRAL DO BRASIL. Relatório Integrado (RIG) do Banco Central 2020. Disponível em: <https://www.bcb.gov.br/detalhenoticia/533/noticia>. Acesso em: 5 ago. 2023.
 
 ## Histórico de versões
 
