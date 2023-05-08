@@ -26,24 +26,29 @@ Durante a [reunião 02](https://raw.githubusercontent.com/Interacao-Humano-Compu
 
 ## Site Selecionado
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/logo.png" alt="Banco Central do Brasil" width="100%">
-
-<div style="text-align: center">
-    <p> <b>Imagem 1 - Logo Banco Central do Brasil</b></p>
-</div>
-
-<br/>
-
 <div style="text-align: justify;">
+
+A princípio, o site selecionado pelo grupo era o [VideoLAN](https://www.videolan.org), porém, ao realizarmos que essa aplicação possuia poucas funcionalidades, escolheu-se mudar para o Banco Central do Brasil, site do governo o qual possui diversas funcionalidades, além de termos liberdade para trabalhar-mos com essa aplicação.
 
 O Banco Central do Brasil (Imagem 1) é um site com intuito de auxiliar os seus usuários em questões financeiras. Ele tem como funcionalidades, por exemplo, consultar valores a receber, onde você tem dívidas, converter moedas, analisar panoramas econômicos, etc. O site se destaca pelo grande suporte ao cidadão brasileiro em informações e cálculos financeiros.
 
 </div>
 
 <div style="text-align : justify;">
-Após a escolha do site para o projeto, foi realizada a <a href="avaliacoes/avaliacaoBCB.md" target="_blank">avaliação</a> do site do Banco Central do Brasil.
+Após a escolha do site para o projeto, foi realizada a <a href="avaliacoes/avaliacaoBCB.md" target="_blank">avaliação</a> do site do Banco Central do Brasil.<br>
+A partir, da mesma, foi possível elencar alguns pontos positivos e negativos acerca da aplicação:
+
+- Pontos Positivos:
+  - Acessibilidade;
+  - Muitas Funcionalidades (Calculadora de Câmbio, cursos sobre finanças, etc);
+  - Informações Financeiras (Chaves Pix no seu nome, suas dívidas, valores a receber, etc).
+
+- Pontos Negativos:
+  - Design do site muito poluído;
+  - Navegação difícil, site possui muitas informações espalhadas;
+  - Documentação de difícil acesso.
+
+Para saber mais sobre os pontos negativos, a [análise heurística](avaliacoes/avaliacaoBCB.md) do site fornece uma visão mais detalhada acerca delas.
 </div>
 
 
