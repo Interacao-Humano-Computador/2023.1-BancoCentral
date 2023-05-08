@@ -91,56 +91,56 @@ O modelo abaixo segue o padrão de pergunta realizada e abaixo a imagem correspo
 
 - Teria interesse em saber sobre empréstimos em seu nome?
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/emprestimos.png" alt="Interesse Emprestimo" width=300px>
 
-<div style="text-align:center">Imagem 09: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023) </div>
+<div style="text-align:center">Imagem 09: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 - Teria interesse em consultar todas suas chaves Pix cadastradas?
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/chave_pix.png" alt="Chaves Pix" width=300px>
 
-<div style="text-align:center">Imagem 10: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023) </div>
+<div style="text-align:center">Imagem 10: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 - Teria interesse em consultar suas dívidas com órgãos públicos federais, cheques sem fundos, entre outros?
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/dividas.png" alt="Dividas" width=300px>
 
-<div style="text-align:center">Imagem 11: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023) </div>
+<div style="text-align:center">Imagem 11: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 
 - Teria interesse em saber se possui valores a receber de bancos e/ou outras instituições?
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/valores_a_receber.png" alt="Valores a receber" width=300px>
 
-<div style="text-align:center">Imagem 12: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023) </div>
+<div style="text-align:center">Imagem 12: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 
 - Teria interesse em saber como identificar cédulas falsas com facilidade e/ou saber mais sobre elas com uma visualização 3D?
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/cedulas.png" alt="Cédulas" width=300px>
 
-<div style="text-align:center">Imagem 13: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023) </div>
+<div style="text-align:center">Imagem 13: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 
 - Teria interesse em saber todas as taxas de juros sobre antecipação de faturas do cartão de crédito entre outros tipos juros?
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/jurus.png" alt="Jurus" width=300px>
 
-<div style="text-align:center">Imagem 14: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023) </div>
+<div style="text-align:center">Imagem 14: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 
 - Você sabia que todas as informações acima podem ser consultadas dentro do Banco Central do Brasil?
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
 
-<div style="text-align:center">Imagem 15: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023) </div>
+<div style="text-align:center">Imagem 15: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 
 - Sabendo disso, tem interesse em começar a usar?
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
 
-<div style="text-align:center">Imagem 16: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023) </div>
+<div style="text-align:center">Imagem 16: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 
 ## Bibliografia
