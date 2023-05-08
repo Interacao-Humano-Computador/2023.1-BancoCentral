@@ -77,12 +77,18 @@ A Figura 1 apresenta os elementos de um diagrama HTA.</p>
 | 4. Gerar relatório	 |    |  |
 
 <div align="center">
-<p> <b>Tabela 1</b>: Tabela da representação HTA da tarefa "Acessar dados financeiros pessoais" (Fonte: GOMES, Larissa. 2023). </p>
+<p> <b>Tabela 2</b>: Tabela da representação HTA da tarefa "Acessar dados financeiros pessoais" (Fonte: GOMES, Larissa. 2023). </p>
 </div>
 
 <p align="justify">Com o resultado da análise descrita na Tabela 2, foi criado o diagrama HTA (Figura 2). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
 
+<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/diagramaHTA.png" width="100%">
 
+<div align="center">
+<p> <b>Figura 2</b>: Diagrama da representação HTA da tarefa "Acessar dados financeiros pessoais" (Fonte: GOMES, Larissa. 2023). </p>
+</div>
+
+<p align="justify">A tabela e o diagrama (Tabela 2 e Figura 2) mostram a sequência de passos realizados por um usuário para atingir seu objetivo. Para um melhor entendimento, o objetivo principal foi decomposto em subobjetivos e com as suas relações para determinar a sequência de operações a serem realizadas.</p>
 
 ## Árvore de Tarefas Concorrentes (CTT)
 
@@ -140,5 +146,5 @@ Essas relações entre tarefas podem ser observadas nas Figuras 2 e 3, logo a se
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 06/05/2023 | `1.0`  | Criação da introdução e escolha das tarefas | [Larissa Gomes](https://github.com/larigs) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 08/05/2023 | `1.1`  | Adição do CTT e correção de alguns pontos | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
-| 08/05/2023 | `1.2`  | Adição da tabela e diagrama HTA | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 08/05/2023 | `1.2`  | Adição da tabela e diagrama HTA | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 </div>
