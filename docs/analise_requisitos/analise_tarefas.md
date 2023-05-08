@@ -121,15 +121,26 @@ Assim como na análise de tarefas haverão diferentes níveis hierárquicos.</p>
 
 - T1 >> T2: Tarefa 2 iniciará após o término da tarefa 1;
 - T1 ||| T2: Especifica que as tarefas 1 e 2 podem ser realizadas em qualquer ordem ou ao mesmo tempo;
-- T1 []>> T2: Tarefa 2 iniciará após o término da tarefa 1 e a informação da tarefa 1 é passada para a tarefa 2.</p>
+- T1 []>> T2: Tarefa 2 iniciará após o término da tarefa 1 e a informação da tarefa 1 é passada para a tarefa 2.
+- T1 [] T2: Especifica que o usuário deve escolher entre realizar a tarefa 1 ou a tarefa 2.
 
-Essas relações entre tarefas podem ser observadas nas Figuras 2 e 3, logo a seguir.
+Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.</p>
 
-### CTT Emitir Boleto de Multas
+### CTT Acessar um curso
 
-### CTT Aprender Sobre o Financeiro
+<img title="a title" alt="CTT Acessar Curso" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/ctt_acessar_curso.png" width="100%">
 
-<p align="justify"> emitir boleto de multas,aprender sobre o financeiro(https://www.bcb.gov.br/cidadaniafinanceira/cursos)</p>
+<div align="center">
+<p> <b>Figura 3</b>: Árvore de Tarefas Concorrentes da tarefa "Acessar um Curso" (Fonte: BOSI, Rafael. 2023). </p>
+</div>
+
+<p align="justify">A Figura 4, a seguir, representa uma legenda que pode ser utilizada para interpretar a CTT presente na Figura 3</p>
+
+<img alt="Legenda da CTT" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/legenda_ctt.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 4</b>: Legenda da Árvore de Tarefas Concorrentes (Fonte: BOSI, Rafael. 2023). </p>
+</div>
 
 ## Referência Bibliográfica
 
@@ -147,4 +158,5 @@ Essas relações entre tarefas podem ser observadas nas Figuras 2 e 3, logo a se
 | 06/05/2023 | `1.0`  | Criação da introdução e escolha das tarefas | [Larissa Gomes](https://github.com/larigs) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 08/05/2023 | `1.1`  | Adição do CTT e correção de alguns pontos | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 08/05/2023 | `1.2`  | Adição da tabela e diagrama HTA | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 08/05/2023 | `1.3`  | Adição do CTT e da legenda | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 </div>
