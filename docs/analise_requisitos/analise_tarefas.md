@@ -13,7 +13,7 @@ Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto obje
 
 O site do Banco Central do Brasil (BCB) é um site majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: história do BCB; agenda das Autoridades, Chefes de Unidade e Gabinetes;, calendário de eventos relacionados ao sistema financeiro; cotação das moedas internacionais; conversor de moedas; estatísticas e identificadores econômicos; consulta às mudanças no sistema financeiro; informações quanto as cédulas e moedas (como identificar a autenticidade, moedas e notas antigas e comemorativas, formas de conservação); entre outros tipos de informação. Tendo em vista a quantidade de ramificações de um objetivo como o acesso a informações, foi decidido por não escolher essa tarefa para análise.
 
-As principais tarefas para análise identificadas no site do Banco Central do Brasil, foram: acessar dados financeiros pessoais (cheques sem fundo estornados, empréstimos e financiamentos, contas de bancos, chaves pix cadastradas, relatório de dívidas e operações de câmbio), emissão de boletos de multas e aprender sobre o financeiro. 
+As principais tarefas para análise identificadas no site do Banco Central do Brasil, foram: acessar dados financeiros pessoais (cheques sem fundo estornados, empréstimos e financiamentos, contas de bancos, chaves pix cadastradas, relatório de dívidas e operações de câmbio) e acessar cursos. 
 
 As técnicas de análise escolhidas foram o AHT (Análise Hierárquica de Tarefas) e o CTT (Árvore de Tarefas Concorrentes)
 </p>
@@ -131,6 +131,10 @@ Assim como na análise de tarefas haverão diferentes níveis hierárquicos.</p>
 
 Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.</p>
 
+### Motivo da escolha da tarefa
+
+<p align="justify">Essa tarefa foi selecionado pois para realiza-la são necessárias várias interações entre o usuário e o sistema. A técnica da Árvore de Tarefas Concorrentes consegue deixar essas interações dispostas de maneira hierarquica, além de criar uma organização cronológica entre as interações, o que deixa a tarefa disposta de maneira muito mais clara.</p>
+
 ### CTT Acessar curso
 
 <img title="a title" alt="CTT Acessar Curso" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/ctt_acessar_curso.png" width="100%">
@@ -164,4 +168,5 @@ Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.<
 | 08/05/2023 | `1.1`  | Adição do CTT e correção de alguns pontos | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 08/05/2023 | `1.2`  | Adição da tabela e diagrama HTA | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 08/05/2023 | `1.3`  | Adição do CTT e da legenda | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 08/05/2023 | `1.4`  | Correções dentro do documento | [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 |  [Lucas Gobbi](https://github.com/LucasBergholz) |
 </div>
