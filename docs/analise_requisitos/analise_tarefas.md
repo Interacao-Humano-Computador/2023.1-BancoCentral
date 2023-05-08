@@ -20,7 +20,7 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 </p>
 
 | <p align="center">Elemento</p> | <p align="center">Descrição</p> | 
-| :--:                           | :----: | 
+| --                           | ---- | 
 |**Tarefa**:     | parte do trabalho que precisa ser realizada, pode ser definida em termos de objetivos e subobjetivos|
 |**Objetivo**:   | é um estado específico, um estado final, definido por eventos ou por valores fisicamente observáveis de variáveis, que atuam como critério de alcance do objetivo |
 |**Subobjetivo**:| decomposição de objetivos complexos, utilizados para identificar quais subobjetivos são mais difíceis de atingir, visto que limitam ou mesmo impedem o atingimento do objetivo maior|
@@ -45,10 +45,44 @@ A Figura 1 apresenta os elementos de um diagrama HTA.</p>
 
 ### Motivo da escolha
 
-<p align="justify">Este método foi escolhido para analisar a tarefa <b>Acessar dados financeiros pessoais</b> pois é uma tarefa com muitas possibilidades, porém todas possuem uma mesma ordem de operações. Tendo isso em vista, a separação em subobjetivos hierárquicos seria a melhor forma de entender o comportamento do usuário.
+<p align="justify">Este método foi escolhido para analisar a tarefa <b>Acessar dados financeiros pessoais</b>, visto que é uma tarefa com muitas possibilidades, entretanto todas possuindo uma mesma ordem de operações. Tendo isso em vista, a separação em subobjetivos hierárquicos seria a melhor forma de entender o comportamento do usuário.</p>
 
 ### Análise da Tarefa: Acessar dados financeiros pessoais
-A tarefa "acessar dados financeiros pessoais" é a principal oferecida pelo BCB, tendo em vista que é um site voltado mais para informações financeiras. A representação em tabela e em diagrama da HTA da tarefa pode ser vista na Tabela 2 e Figura 2, respectivamente.
+
+<p align="justify">A principal tarefa oferecida pelo BCB é "acessar dados financeiros pessoais" disponibilizada através do Registrato. O Registrato é um sistema administrado pelo Banco Central que permite aos cidadãos terem acesso pela internet, de forma rápida e segura, a relatórios contendo informações sobre relacionamentos com as instituições financeiras, operações de crédito e de câmbio. Na  Tabela 2 está a análise detalhada representada em tabela.</p>
+
+|<p align="center">objetivos / operações</p> | <p align="center">Relações</p> | <p align="center">problemas e recomendações</p> |
+| --                                         | :----: |  ---- | 
+| 0. acessar dados financeiros pessoais      |  1>2	 | **Input**: acesso ao registrato pelo gov.br, com cpf e senha, com a escolha do tipo de dado a ser acessado (em alguns casos a escolha das datas dos dados) e a concordância com os termos.</br> **Plano**: acessar registrato, **depois** escolher o tipo de dado a ser acessado, **em seguida** aceitar os termos e **por último** gerar relatório.</br> **Feedback**: Relatório de Serviços gerado.</br> **Problema**: o registrato apenas apresenta as informações para quem possui nível prata ou ouro em sua conta gov.br.</br> **Recomendação**: informar antes de acessar o registrato a necessidade de ter uma conta gov.br acima do nível prata. |
+| 1. acessar o registrato |  1>2  | **Plano**: informar o cpf e **depois** a senha do gov.br. </br> **Feedback**: tela menu de Serviços Registrato. |
+| 1.1.	Informar cpf  |    |  |
+| 1.2.	Informar senha do gov.br |    |  |
+| 2. Escolher tipo de dado a ser acessado |  1/2  | **Plano**: selecionar uma das opções, **entre** Cheques sem Fundos, Empréstimos e Financiamentos, Contas e Relacionamentos, Cadin Federal, Chaves Pix ou Câmbio. </br> **Feedback**: tela menu de solicitação de relatório. |
+| 2.1. Selecionar Cheques sem Fundos	 |    |  |
+| 2.2. Empréstimos e Financiamento |  1>2  | **Plano**: selecionar Empréstimos e Financiamentos, **em seguida** definir informações. |
+| 2.2.1. Selecionar Empréstimos e Financiamento	 |    |  |
+| 2.2.2. Definir informações |  1+2  | **Plano**: informar tipo de relatório e data-base inicial e final. |
+| 2.2.2.1. Informar Data-base inicial	 |    |  |
+| 2.2.2.2. Informar Data-base final |    |  |
+| 2.2.2.3. Informar tipo de relatório	 |    |  |
+| 2.3. Selecionar Contas e Relacionamentos |    |  |
+| 2.4. Selecionar Cadin Federal (Relatório de dívidas) |    |  |
+| 2.5. Câmbio |  1>2  | **Plano**: selecionar Câmbio, **em seguida** definir informações |
+| 2.5.1. Selecionar Câmbio   |    |  |
+| 2.5.2. Definir informações |  1+2  | **Plano**: informar data liquidação inicial e final. |
+| 2.5.2.1. Informar Data de liquidação inicial	 |    |  |
+| 2.5.2.2. Informar Data de liquidação inicial	 |    |  |
+| 2.6. Selecionar Chaves Pix	 |    |  |
+| 3. Aceitar 	termos de ciência e responsabilidade	 |    |  |
+| 4. Gerar relatório	 |    |  |
+
+<div align="center">
+<p> <b>Tabela 1</b>: Tabela da representação HTA da tarefa "Acessar dados financeiros pessoais" (Fonte: GOMES, Larissa. 2023). </p>
+</div>
+
+<p align="justify">Com o resultado da análise descrita na Tabela 2, foi criado o diagrama HTA (Figura 2). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
+
+
 
 ## Árvore de Tarefas Concorrentes (CTT)
 
@@ -106,4 +140,5 @@ Essas relações entre tarefas podem ser observadas nas Figuras 2 e 3, logo a se
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 06/05/2023 | `1.0`  | Criação da introdução e escolha das tarefas | [Larissa Gomes](https://github.com/larigs) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 08/05/2023 | `1.1`  | Adição do CTT e correção de alguns pontos | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 08/05/2023 | `1.2`  | Adição da tabela e diagrama HTA | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 </div>
