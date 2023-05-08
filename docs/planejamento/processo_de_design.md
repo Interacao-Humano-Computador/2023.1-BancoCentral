@@ -38,8 +38,6 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
     <p> Assim como o [ciclo de vida simples](#ciclo-de-vida-simples) (Figura 1) o ciclo de vida estrela  (Figura 2) é indicado para designers experientes, devido suas similaridades de baixo detalhamento, no entando o ciclo de vida estrela (Figura 2) possui uma maior riqueza de detalhes e maior verificação e validação entre etapas do ciclo. </p>
 </div>
 <br>
-<br>
-
 
 ## Ciclo de vida de Nilsen
 
@@ -56,7 +54,6 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 > * Realizar testes empíricos.
 > * Praticar design iterativo (correção de problemas durante as iterações de design e avaliação).
 
-
 ## Ciclo de vida de Mayhew
 <p align="justify">Mayhew definiu que esse ciclo de vida (Figura 3) para engenharia de usabilidade, como uma visão holística, reúne diferentes propostas da área de IHC em um só ciclo de vida. Nessa fase a análise de quesitos é dirigida pelo perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma, ja na fase de design e avaliação tem como objetivo conceber uma solução de IHC, e por fim na fase final de instalação deve-se obter opinioes de usuarios depois de um tempo de uso para possíveis futuras melhorias do sistema. </p>
 <img title="a title" alt="Imagem Ciclo de vida estrela" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/ciclodemayhew.png" width="100%">
@@ -65,10 +62,8 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
     <p> O ciclo de vida de Mayhew entre todos apresentados, apresenta o maior detalhamento do processo de design, possuindo muitas atividades iterativas de verificação e validação tal como análise e síntese. </p>
 
 </div>
-
 <br>
-
-
+    
 ### Vantagens
 - Ciclo de vida mais completo
 - Ideal para equipes inexperientes
