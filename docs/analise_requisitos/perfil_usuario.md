@@ -39,9 +39,11 @@
 
 <p align="justify">
 
-Os resultados coletados para cada questão do formulário podem ser encontrados posteriormente no texto. Da qual o formulário contem 20 perguntas e foram obtidos ao final 16 respostas ao todo, da qual algumas perguntas obtiveram um número menor de respostas, no entanto significativas para a pesquisa.
+Sobre os resultados coletados do questionário podem ser encontrados em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01.md">respostas</a>. Da qual o formulário contem 20 perguntas e foram obtidos ao final 16 respostas ao todo, da qual algumas perguntas obtiveram um número menor de respostas, no entanto significativas para a pesquisa.
 
 Os respondentes antes de realizar o questionário aceitaram um <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/termo-de-consentimento.md">termo consentimento</a> redigido pela equipe, onde as respostas foram coletadas entre as datas 04/05/2023 e 08/05/2023.
+
+Por outro lado os resultados coletados advindos da análise documental, foram bastante satisfatórios quanto às informações oferecidas sobre quem usa o sistema, dessa forma corroborando para o desenvolvimento mais detalhado do perfil de usuário.
 
 </p>
 
@@ -54,6 +56,10 @@ Analisando os dados levantados, podemos concluir com base neles que o perfil de 
 A partir das respostas fora constatado que a maioria dos respondentes por terem interesse em consultar seus dados bancarios, como, chave pix, dividas e valores a receber por instituições bancárias, possuem uma conta bancária ativa.
 
 Acerca da utilização do site do banco central foi possível traçar um perfil onde nunca usaram ou utilizaram poucas vezes, não conhecem  boa parte das funcionalidades apresentadas, no entanto se interessaram pelo site e seus serviços oferecidos e passariam a utilizá-lo ao conhecer mais sobre eles. 
+
+Embora o perfil de usuário levantado pelo questionário apresente essas informações, o perfil de usuário dado pela análise documental,  O usuário médio do Banco Central do Brasil é um profissional com formação superior na área de finanças, economia ou administração, com idade entre 30 e 50 anos, de ambos os sexos, e com status socioeconômico médio ou alto, ele possui alta alfabetização, tanto linguística quanto tecnológica, portanto tem experiência em lidar com computadores e sistemas computacionais o usuário também possui um conhecimento avançado do domínio financeiro, portanto faz acesso regularmente sites e aplicativos relacionados a finanças, e está sempre atualizado com as políticas e mudanças econômicas no país e no mundo. Ele trabalha com metas e objetivos claros, gosta de interação social no local de trabalho, além de valorizar o treinamento e prefere aprender por meio de um estilo de aprendizado visual ou auditivo, e pode investir tempo aprendendo a utilizar o produto em questão.
+
+A parte de suas habilidades comunicativas em seu ambiente de trabalho, também é motivado a realizar suas tarefas de maneira eficiente e eficaz e está disposto a explorar novas formas de fazer o mesmo trabalho. O usuário é fluente em português e, dependendo de sua área de atuação, pode ter um jargão profissional particular e conhecimentos em outros idiomas.
 
 </p>
 

@@ -16,6 +16,8 @@ Para a descrição dos cenários, existem 5 formas diferentes:
 
 <p align="justify">Foi escolhido a utilização do texto estruturado, com ligeiras adaptações para propósitos de aprendizado. A Tabela 1 a seguir é o molde utilizado para cada cenário:</p>
 
+<div style="text-align: center">
+
 | Elemento   | Descrição      |
 | ---------- | ----------- |
 | Objetivo   | Objetivo do cenário       |
@@ -26,7 +28,7 @@ Para a descrição dos cenários, existem 5 formas diferentes:
 | Restrições | Possíveis impedimentos às ações dos usuários     |
 | Exceção    | Possíveis casos e eventos que fujam do comum nos episódios   |
 
-<div style="text-align: center">
+
 <p> Tabela 1: Molde dos cenários (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
@@ -34,6 +36,8 @@ Para a descrição dos cenários, existem 5 formas diferentes:
 Os cenários identificados, tendo como base as [Personas](analise_requisitos/personas.md) desenvolvidas no projeto, estão apresentados nas Tabelas 2 a 8:
 
 ### C01: Consultar Panorama Econômico
+
+<div style="text-align: center">
 
 | Elemento   | Descrição      |
 | ---------- | ----------- |
@@ -45,11 +49,12 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia   |
 
-<div style="text-align: center">
 <p> Tabela 2: Cenário 01 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
 ### C02: Consultar Taxas e Conversão de Câmbio
+
+<div style="text-align: center">
 
 | Elemento   | Descrição      |
 | ---------- | ----------- |
@@ -61,11 +66,13 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia   |
 
-<div style="text-align: center">
+
 <p> Tabela 3: Cenário 02 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
 ### C03: Consultar Informações Econômicas do País
+
+<div style="text-align: center">
 
 | Elemento   | Descrição      |
 | ---------- | ----------- |
@@ -77,11 +84,13 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia   |
 
-<div style="text-align: center">
+
 <p> Tabela 4: Cenário 03 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
 ### C04: Aprender Sobre Economia
+
+<div style="text-align: center">
 
 | Elemento   | Descrição      |
 | ---------- | ----------- |
@@ -93,11 +102,13 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia, falta de horários para o curso   |
 
-<div style="text-align: center">
+
 <p> Tabela 5: Cenário 04 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
 ### C05: Consultar Dados da Poupança
+
+<div style="text-align: center">
 
 | Elemento   | Descrição      |
 | ---------- | ----------- |
@@ -109,11 +120,13 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet, de energia ou de editor de planilhas  |
 
-<div style="text-align: center">
+
 <p> Tabela 6: Cenário 05 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
 ### C06: Consultar Valores a Receber
+
+<div style="text-align: center">
 
 | Elemento   | Descrição      |
 | ---------- | ----------- |
@@ -125,11 +138,13 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia  |
 
-<div style="text-align: center">
+
 <p> Tabela 7: Cenário 06 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
 ### C07: Consulta de Moedas Comemorativas
+
+<div style="text-align: center">
 
 | Elemento   | Descrição      |
 | ---------- | ----------- |
@@ -141,7 +156,6 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia  |
 
-<div style="text-align: center">
 <p> Tabela 8: Cenário 07 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 

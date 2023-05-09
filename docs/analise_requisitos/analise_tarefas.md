@@ -4,25 +4,29 @@
 
 ## Introdução
 
-<p align="justify">
+<div align="justify">
+
 Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir. [1]
 
 Esta análise pode ser usada para identificar a situação atual (apoiada ou não por um sistema computacional), para o (re)design ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional.
-
 Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto objetivos das pessoas ao utilizarem o sistema analisado. 
 
-O site do Banco Central do Brasil (BCB) é um site majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: história do BCB; agenda das Autoridades, Chefes de Unidade e Gabinetes;, calendário de eventos relacionados ao sistema financeiro; cotação das moedas internacionais; conversor de moedas; estatísticas e identificadores econômicos; consulta às mudanças no sistema financeiro; informações quanto as cédulas e moedas (como identificar a autenticidade, moedas e notas antigas e comemorativas, formas de conservação); entre outros tipos de informação. Tendo em vista a quantidade de ramificações de um objetivo como o acesso a informações, foi decidido por não escolher essa tarefa para análise.
+O site do Banco Central do Brasil (BCB) é um site majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: história do BCB; agenda das Autoridades, Chefes de Unidade e Gabinetes; calendário de eventos relacionados ao sistema financeiro; cotação das moedas internacionais; conversor de moedas; estatísticas e identificadores econômicos; consulta às mudanças no sistema financeiro; informações quanto as cédulas e moedas (como identificar a autenticidade, moedas e notas antigas e comemorativas, formas de conservação); entre outros tipos de informação. Tendo em vista a quantidade de ramificações de um objetivo como o acesso a informações, foi decidido por não escolher essa tarefa para análise.
 
 As principais tarefas para análise identificadas no site do Banco Central do Brasil, foram: acessar dados financeiros pessoais (cheques sem fundo estornados, empréstimos e financiamentos, contas de bancos, chaves pix cadastradas, relatório de dívidas e operações de câmbio) e acessar cursos. 
 
 As técnicas de análise escolhidas foram o AHT (Análise Hierárquica de Tarefas) e o CTT (Árvore de Tarefas Concorrentes)
-</p>
+</div>
 
 ## Análise Hierárquica de Tarefas
 
-<p align="justify">A Análise Hierárquica de Tarefas (HTA), criada na década de 60, é uma ferramenta utilizada para entender as competências e habilidades necessárias para realizar tarefas complexas e não repetitivas. Além disso, é útil para identificar problemas de desempenho. A HTA ajuda a relacionar as ações das pessoas, o motivo pelo qual elas as executam e quais são as consequências se essas ações não forem realizadas corretamente.
+<div align="justify">
+
+A Análise Hierárquica de Tarefas (HTA), criada na década de 60, é uma ferramenta utilizada para entender as competências e habilidades necessárias para realizar tarefas complexas e não repetitivas. Além disso, é útil para identificar problemas de desempenho. A HTA ajuda a relacionar as ações das pessoas, o motivo pelo qual elas as executam e quais são as consequências se essas ações não forem realizadas corretamente.
+
 A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
-</p>
+
+</div>
 
 | <p align="center">Elemento</p> | <p align="center">Descrição</p> | 
 | --                           | ---- | 
@@ -36,8 +40,7 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 </div>
 
 
-<p align="justify">
-A Figura 1 apresenta os elementos de um diagrama HTA.</p>
+<p align="justify">A Figura 1 apresenta os elementos de um diagrama HTA.</p>
 
 <img title="a title" alt="Elementos HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/elementosHTA.png" width="100%">
 
@@ -99,37 +102,45 @@ A Figura 1 apresenta os elementos de um diagrama HTA.</p>
 
 ### Introdução
 
-<p align="justify">A Árvore de Tarefas Concorrentes (CTT) é uma técnica de design de interação que permite representar as tarefas que podem ser executadas simultaneamente pelo usuário em um sistema interativo. A técnica do CTT foi desenvolvida como uma extensão da Árvore de Tarefas (AT), uma metodologia que permite representar as tarefas que o usuário precisa realizar para atingir seus objetivos em um sistema.</p>
+<div align="justify">A Árvore de Tarefas Concorrentes (CTT) é uma técnica de design de interação que permite representar as tarefas que podem ser executadas simultaneamente pelo usuário em um sistema interativo. A técnica do CTT foi desenvolvida como uma extensão da Árvore de Tarefas (AT), uma metodologia que permite representar as tarefas que o usuário precisa realizar para atingir seus objetivos em um sistema.
 
-<p align="justify"> Nesse modelo existem 4 tipos de tarefas:
+Nesse modelo existem 4 tipos de tarefas:
 
 - Tarefas do usuário, realizadas fora do sistema;
 - Tarefas do sistema, em que o sistema realiza um processamento sem interagir com o usuário;
 - Tarefas interativas, em que ocorrem diálogos usuário-sistema;
 - Tarefas abstratas, que não são tarefas em si, mas sim uma representação de uma composição de tarefas que auxilie a decomposição.
 
-Assim como na análise de tarefas haverão diferentes níveis hierárquicos.</p>
+Assim como na análise de tarefas haverão diferentes níveis hierárquicos.</div>
 
 ### Motivo da Escolha
 
-<p align="justify">A técnica de Árvore de Tarefas Concorrentes (CTT) foi escolhida como método de avaliação das tarefas dos usuários, pois:
+<div align="justify">
+
+A técnica de Árvore de Tarefas Concorrentes (CTT) foi escolhida como método de avaliação das tarefas dos usuários, pois:
 
 - Permite identificar quais tarefas podem ser realizadas ao mesmo tempo pelo usuário, sem que uma interfira na outra. Isso é importante para otimizar a interação e reduzir o tempo de conclusão das tarefas;
 - Permite organizar as tarefas de forma hierárquica, o que ajuda a entender a relação entre as tarefas e a priorizar aquelas que são mais importantes para o usuário;
 - Permite identificar os pontos em que o usuário precisa tomar uma decisão, o que ajuda a entender melhor o comportamento do usuário e a projetar uma interface mais intuitiva e fácil de usar;
-- Permite visualizar de forma clara as relações entre as tarefas e as dependências entre elas. Isso ajuda a entender o fluxo de trabalho do usuário.</p>
+- Permite visualizar de forma clara as relações entre as tarefas e as dependências entre elas. Isso ajuda a entender o fluxo de trabalho do usuário.
+
+</div>
 
 
 ### Nomenclaturas utilizadas no CTT
 
-<p align="justify">Foi demonstrado como seriam as atividades com árvores de tarefas concorrentes (CTT), onde alguns símbolos foram utilizados para poder representar a ordem das tarefas. Sendo eles:
+<div align="justify">
+
+Foi demonstrado como seriam as atividades com árvores de tarefas concorrentes (CTT), onde alguns símbolos foram utilizados para poder representar a ordem das tarefas. Sendo eles:
 
 - T1 >> T2: Tarefa 2 iniciará após o término da tarefa 1;
 - T1 ||| T2: Especifica que as tarefas 1 e 2 podem ser realizadas em qualquer ordem ou ao mesmo tempo;
 - T1 []>> T2: Tarefa 2 iniciará após o término da tarefa 1 e a informação da tarefa 1 é passada para a tarefa 2.
 - T1 [] T2: Especifica que o usuário deve escolher entre realizar a tarefa 1 ou a tarefa 2.
 
-Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.</p>
+Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.
+
+</div>
 
 ### Motivo da escolha da tarefa
 

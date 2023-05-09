@@ -4,9 +4,13 @@
 
 ## Introdução
 
-<p align="justify">De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
+<div align="justify">
 
-Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas, a metodologia utilizada para a realização das personas, o perfil de usuário e as personas obtidas.</p>
+De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
+
+Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas, a metodologia utilizada para a realização das personas, o perfil de usuário e as personas obtidas.
+
+</div>
 
 ### O que é uma Persona?
 
@@ -14,7 +18,9 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 ### Como aplicar?
 
-<p align="justify">O primeiro passo para a aplicação das personas é identificar os diferentes públicos que o _software_ atinge, a coleta dos dados a por intermédio dos dados de campo são o sexo predominante dos usuários, a classe social, faixa etária. Assim, como, também deve ser levado em consideração os perfis comportamentais dos usuários.
+<div align="justify">
+
+O primeiro passo para a aplicação das personas é identificar os diferentes públicos que o _software_ atinge, a coleta dos dados a por intermédio dos dados de campo são o sexo predominante dos usuários, a classe social, faixa etária. Assim, como, também deve ser levado em consideração os perfis comportamentais dos usuários.
 
 Já identificado todos os tipos de usuário presentes na aplicação, a criação das pessoas fictícias deve ser feita a partir dos tipos e dos perfis coletados dos usuários. Desta forma, teremos a possibilidade de formar as personas com informações e características semelhantes aos usuários reais, porém diferentes entre si De forma, que as personas seram capazes de representarem os mais diversos usuários do serviço em questão.
 
@@ -22,7 +28,9 @@ Segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, c
 
 Para finalizar, é atribuido um nome, história e necessidades que ajudem na “personificação" deste arquétipo.
 
-Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.</p>
+Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.
+
+</div>
 
 ### Quando usar?
 
@@ -31,11 +39,15 @@ Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários aned�
 
 ## Metodologias
 
-<p align="justify">Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
+<div align="justify">
 
-O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os perfis de usuários obtidos por intermédio de questionários.
+Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
 
-As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.</p>
+O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os perfis de usuários obtidos por intermédio de questionários. Nesse cenário, obtvemos 2 personas primárias, uma persona secundária e uma anti-persona.
+
+As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
+
+</div>
 
 ## Perfil do Usuário
 
@@ -61,7 +73,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  José Santos         |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/75-desenvolvimento-das-personas/docs/analise_requisitos/img_personas/JoseSantos.jpeg"><p>Imagem 1 José Santos persona</p> |
+| **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_personas/JoseSantos.jpeg"><p>Imagem 1 José Santos persona</p> |
 | **Descrição**        | José Santos, idade de 37 anos, morador de Brasília<br> José é um exemplar de estudante e profissinal formado em contabilidade. Sempre busca se destacar nas atividades propostas. <br>Homem. <br>Solteiro.                      |
 | **Status**          | Persona Primária.     |
 | **Objetivos**       | José sempre busca a perfeição em todas suas ações. Melhor aluno da turma do ensino médio e faculdade. José é extrovertido, porém se sente mais confortável em ambientes conhecidos.                                   |
@@ -81,7 +93,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Ricardo Oliveira   |
-| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/75-desenvolvimento-das-personas/docs/analise_requisitos/img_personas/RicardoOliveira.jpeg"><p>Imagem 2 Ricardo Oliveira persona</p> |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_personas/RicardoOliveira.jpeg"><p>Imagem 2 Ricardo Oliveira persona</p> |
 | **Descrição**       | Ricardo Oliveira, idade 22, morador de Santa Catarina. </br> Cursa turismo na Universidade Federal de Santa Catarina (SAAM/UFSC). Ama vijar pelo mundo e conhecer novos lugares.   </br> Homem </br> Namorando                |
 | **Status**          | Persona Secundária |
 | **Objetivos**       | Viajar o mundo e conhecer as diversas culturas do mundo. Conhecer lugares escondidos fazer novos amigos. Ricardo é extrovertidos, faz amigos com muita facilidade e adora a natureza                                   | 
@@ -101,7 +113,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Juliana Pinheiro   |
-| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/75-desenvolvimento-das-personas/docs/analise_requisitos/img_personas/JulianaPinheiro.jpeg"><p>Imagem 3 Juliana Pinheiro persona</p> |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_personas/JulianaPinheiro.jpeg"><p>Imagem 3 Juliana Pinheiro persona</p> |
 | **Descrição**       | Juliana Pinheiro, tem 19 anos, moradora de floripa.</br> Atualmente, cursa uma faculdade de design com ensino a distância. </br>Tem fobia social e gosta de ficar em casa, sozinha, escutando música. </br> Mulher. </br> solteira.  |
 | **Status**          | Anti-Persona       |
 | **Objetivos**       | Conseguir trabalhar de casa para ter que interagir o menos possível socialmente.                               |
@@ -117,10 +129,11 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 
 ### Ana Maria
 
+
 |                     |                     |
 | :------------------ | :------------------ |
 | **Nome**            | Ana Maria           |
-| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/75-desenvolvimento-das-personas/docs/analise_requisitos/img_personas/AnaMaria.jpeg"><p>Imagem 4 Ana Maria persona</p> |
+| **Foto**            | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_personas/AnaMaria.jpeg"><p>Imagem 4 Ana Maria persona</p> |
 | **Descrição**       | Ana Maria, possui 48 anos, moradora de Brasília. </br> Ana Maria é uma aeromoça há 12 anos. </br> Ama seu trabalho e viajar pelo mundo. |
 | **Status**          | Persona Primária.   |
 | **Objetivos**       | Conhecer seu grande amor em algum lugar pelo mundo e viver aventuras, as quais ainda nem imagina.                    |
