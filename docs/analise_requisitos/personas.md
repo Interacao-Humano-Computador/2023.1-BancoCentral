@@ -33,7 +33,7 @@ Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários aned�
 
 <p align="justify">Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
 
-O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os perfis de usuários obtidos por intermédio de questionários.
+O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os perfis de usuários obtidos por intermédio de questionários. Nesse cenário, obtvemos 2 personas primárias, uma persona secundária e uma anti-persona.
 
 As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.</p>
 
