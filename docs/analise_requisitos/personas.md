@@ -37,7 +37,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 
 ## Perfil do Usuário
 
-A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário aplicado pelo grupo.
+A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário e da análise documental aplicados pelo grupo.
 
 | Característica    | Descrição                                                          |
 | ----------------- | ------------------------------------------------------------------ |
