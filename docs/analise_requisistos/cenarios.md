@@ -1,10 +1,12 @@
+<div class="body">
+
 # Cenários
 
 ## Introdução
-Os cenários são descrições extremamente detalhadas do ambiente e da interação do usuário com a aplicação. Sob essa ótica, essa técnica é utilizada para descrever situações de uso as quais permitem elicitar comportamentos e, como o nome da técnica diz, cenários os quais o usuário irão passar. Dessa forma, é uma estratégia que elicita a parte comportamental do software.
+<p align="justify">Os cenários são descrições extremamente detalhadas do ambiente e da interação do usuário com a aplicação. Sob essa ótica, essa técnica é utilizada para descrever situações de uso, que permitem elicitar comportamentos e cenários onde os usuários passarão. Dessa forma, é uma estratégia que elicita a parte comportamental do software.</p>
 
 ## Modelo de Cenário
-Para a descrição dos cenários, existem 5 formas diferentes
+Para a descrição dos cenários, existem 5 formas diferentes:
 
 - Texto narrativo
 - Texto estruturado
@@ -12,14 +14,14 @@ Para a descrição dos cenários, existem 5 formas diferentes
 - Imagens e animações
 - Simulações
 
-Para o nosso trabalho, foi escolhido a utilização do texto estruturado, com ligeiras adaptações para propósitos de aprendizado. A Tabela 1 a seguir é o molde utilizado para cada cenário:
+<p align="justify">Foi escolhido a utilização do texto estruturado, com ligeiras adaptações para propósitos de aprendizado. A Tabela 1 a seguir é o molde utilizado para cada cenário:</p>
 
 | Elemento   | Descrição      |
 | ---------- | ----------- |
 | Objetivo   | Objetivo do cenário       |
 | Contexto   | Detalhes da situação   |
 | Recursos   | Objetos que interagem com os atores    |
-| Ator       | Pessoa a qual participa do cenário      |
+| Ator       | Pessoa participante do cenário      |
 | Episódios  | Sequência de ações realizadas pelos atores envolvidos no cenário |
 | Restrições | Possíveis impedimentos às ações dos usuários     |
 | Exceção    | Possíveis casos e eventos que fujam do comum nos episódios   |
@@ -29,7 +31,7 @@ Para o nosso trabalho, foi escolhido a utilização do texto estruturado, com li
 </div>
 
 ## Cenários Identificados
-Os cenários identificados, tendo base as [Personas](analise_requisitos/personas.md) desenvolvidas no projeto, foram:
+Os cenários identificados, tendo como base as [Personas](analise_requisitos/personas.md) desenvolvidas no projeto, estão apresentados nas Tabelas 2 a 8:
 
 ### C01: Consultar Panorama Econômico
 
@@ -152,4 +154,6 @@ Os cenários identificados, tendo base as [Personas](analise_requisitos/personas
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |:------:|:--------:|-----------|-------|:---------:|-----------|
 | 07/05/2023 | `1.0` | Criação do artefato | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 08/05/2023 | `1.1` | Correção de alguns textos | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 
+</div>
