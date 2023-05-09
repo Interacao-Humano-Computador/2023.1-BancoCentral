@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Home</title>
+  <title>Banco Central</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -19,13 +19,13 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'Brasfoot',
+      name: 'Banco Central do Brasil',
       logo: 'img/logo.png',
       loadNavbar: true,
       loadSidebar: true,
       coverpage: true,
       homepage: 'home.md',
-      themeColor: 'rgb(244,139,0)',
+      themeColor: 'rgb(229,197,128)',
       repo: 'https://github.com/Interacao-Humano-Computador/2023.1-VLC',
       subMaxLevel: 2
     }
@@ -35,6 +35,61 @@
   <script 
     src="teste.js"
     type="text/javascript">
+
+    document.addEventListener('click', function(event) {
+      var target = event.target;
+      var page = window.location.href;
+
+      if (page.includes(target)) {
+        if (target.parentNode.getAttribute('class').includes('active'))
+          target.parentNode.setAttribute('class', 'hide');
+        else
+          target.parentNode.setAttribute('class', 'active');
+      }
+
+      if (target.parentNode.classList.contains("hide")) {
+        var children = target.parentNode.children;
+        for (var i = 1; i < children.length; i++) {
+          children[i].style.display = "none";
+        }
+      }
+      else{
+        var children = target.parentNode.children;
+        for (var i = 1; i < children.length; i++) {
+          if (children[i].style.display == "none")
+            children[i].style.display = "block";
+        }
+      }
+    });
+  </script>
+  <script>
+    document.addEventListener('click', function(event) {
+      var target = event.target;
+      var page = window.location.href;
+
+      if (page.includes(target)) {
+        if (target.parentNode.getAttribute('class').includes('active'))
+          target.parentNode.setAttribute('class', 'hide');
+        else
+          target.parentNode.setAttribute('class', 'active');
+      }
+
+      // Verificar se o <li> tem a classe "hide"
+      if (target.parentNode.classList.contains("hide")) {
+        // Ocultar todos os filhos do <li> exceto o primeiro
+        var children = target.parentNode.children;
+        for (var i = 1; i < children.length; i++) {
+          children[i].style.display = "none";
+        }
+      }
+      else{
+        var children = target.parentNode.children;
+        for (var i = 1; i < children.length; i++) {
+          if (children[i].style.display == "none")
+            children[i].style.display = "block";
+        }
+      }
+    });
   </script>
 </body>
 </html>

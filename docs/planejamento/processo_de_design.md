@@ -32,7 +32,7 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 <br>
 <br>
 
-- O ciclo de vida estrela (Figura 1) se assemelha bastante ao ciclo de vida simples (Figura 1), no entanto possui maiores checagens entre etapas e maior detalhamento.
+- O ciclo de vida estrela (Figura 2) se assemelha bastante ao ciclo de vida simples (Figura 1), no entanto possui maiores checagens entre etapas e maior detalhamento.
 
 ## Ciclo de vida de Nilsen
 

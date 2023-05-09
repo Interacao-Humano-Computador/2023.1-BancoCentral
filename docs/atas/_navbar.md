@@ -1,10 +1,13 @@
 <!-- _navbar.md -->
 
+
 - [Home](home.md)
 - [Atas](atas/reuniao01.md)
     - [1º Reunião](atas/reuniao01.md)
     - [2º Reunião](atas/reuniao02.md)
+    - [3º Reunião](atas/reuniao03.md)
 - [Planejamento](planejamento/cronograma.md)
+    - [Avaliação do Site](planejamento/avaliacoes/AvaliacaoBCB.md)
     - [Cronograma](planejamento/cronograma.md)
     - [Cronograma Executado](planejamento/cronograma_realizado.md)
     - [Ferramentas](planejamento/ferramentas.md)
@@ -12,4 +15,13 @@
     - [Sites Avaliados](planejamento/lista_de_sites.md)
     - [Site Selecionado](planejamento/site_selecionado.md)
     - [Projeto de Design](planejamento/processo_de_design.md)
+- [Análise de Requisitos](analise_requisitos/perfil_usuario.md)
+    - [Perfil de Usuário](analise_requisitos/perfil_usuario.md)
+    - [Personas](analise_requisitos/personas.md)
+    - [Cenários](analise_requisitos/cenarios.md)
+    - [Aspectos éticos](analise_requisitos/aspectos_eticos.md)
+    - [Análise de Tarefas](analise_requisitos/analise_tarefas.md)
+- [Questionários](questionarios/termo-de-consentimento.md)
+    - [Termo de Consentimento](questionarios/termo-de-consentimento.md)
+    - [Perfil do Usuário](questionarios/questionario_01.md)
 - [Apresentações](apresentacoes/apresentacoes.md)

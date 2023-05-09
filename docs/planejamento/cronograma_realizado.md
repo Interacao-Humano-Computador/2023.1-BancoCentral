@@ -31,7 +31,25 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
     <p> <b>Tabela 1</b>: Ponto de Controle Realizado 1 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
-</br>
+## Cronograma Ponto de Controle 2
+A Tabela 2 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 2. Segue abaixo:
+
+| Atividade | Data de Entrega | Autores| Data de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|-----------|
+| 1. Correção dos artefatos Ponto de Controle 1 | 28/04 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 01/05 | Rafael Bosi |
+| 2. Criação do perfil do Usuário | 06/05 | Giovanni Alvissus e Mizael Santos | 07/05 | Larissa Gomes |
+| 3. Desenvolvimento das personas | 06/05 | Bruno Ribeiro e Igor Penha | 07/05 | Lucas Gobbi |
+| 4. Análise das tarefas do usuário | 06/05 | Larissa Gomes e Rafael Bosi | 07/05 | Giovanni Alvissus |
+| 5. Aspectos éticos de pesquisa envolvendo pessoas | 06/05 | Lucas Gobbi e Bruno Ribeiro | 07/05 | Igor Penha |
+| 6. Criação dos cenário | 06/05 | Bruno Ribeiro e Igor Penha | 07/05 | Lucas Gobbi |
+| 7. Atualizar GitPage | 07/05 | Larissa Gomes | 08/05 | Giovanni Alvissus |
+| 8. Gravação da apresentação | 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/05 | Rafael Bosi |
+| 9. Edição da apresentação | 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/05 | Rafael Bosi |
+| 10. Cronograma Executado| 08/05 | Larissa Gomes | 08/05 | Giovanni Alvissus |
+
+<div style="text-align: center">
+    <p> <b>Tabela 2</b>: Ponto de Controle Realizado 2 (Fonte: GOMES, Larissa. 2023).</p>
+</div>
 
 ## Bibliografia
 
@@ -45,5 +63,6 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 |:------:|:--------:|-----------|-------|:---------:|-----------|
 | 23/04/2023 | `1.0` | Criação do cronograma realizado 1 | [Rafael Bosi](https://github.com/StrangeUnit28) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 24/04/2023 | `1.1` | Correção das das datas de entrega e revisão | [Larissa Gomes](https://github.com/larigs)| 25/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 08/05/2023 | `2.0` | Adição ponto de controle realizado 2 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>

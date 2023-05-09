@@ -12,7 +12,7 @@
 | Francisco Mizael  | [Last.fm](https://www.last.fm) | sem planejamento | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoFRIV.pdf)  |
 | Giovanni Alvissus | [Prefeitura de Taubaté](https://taubate.sp.gov.br) | [planejamento](avaliacoes/avaliacaoTAUBATE.pdf) | [avaliação](https://github.com/Interacao-Humano-Computador/2023.1-VLC/blob/dev/docs/planejamento/avaliacoes/avaliacaoTAUBATE.pdf)  | 
 | Igor e Silva      | [SEGAMA](https://segama.com.br) | [planejamento](avaliacoes/planavaliacaoSEGAMA.pdf) | [avaliação](avaliacoes/avaliacaoSEGAMA.pdf) |
-| Larissa Gomes     | [HBO](https://hbo.com) | [planejamento](avaliacoes/planavaliacaoSEGAMA.pdf) | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
+| Larissa Gomes     | [HBO](https://hbo.com) | [planejamento](avaliacoes/planavaliacaoHBO.pdf) | [avaliação](avaliacoes/avaliacaoHBO.pdf) |
 | Lucas Gobbi       | [Brasfoot](https://www.brasfoot.com/) | [planejamento](avaliacoes/planavaliacaoBRASFOOT.md)| [avaliação](avaliacoes/avaliacaoBRASFOOT.pdf) |
 | Rafael Bosi       | [Arch Linux](https://archlinux.org) | [planejamento](avaliacoes/planavaliacaoARCHLINUX.pdf) | [avaliação](avaliacoes/avaliacaoARCHLINUX.pdf) |
 
