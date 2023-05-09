@@ -61,7 +61,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 |                      |                      |
 | :------------------  | :------------------  |
 | **Nome**             |  José Santos         |
-| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/75-desenvolvimento-das-personas/docs/analise_requisitos/img_personas/JoseSantos.jpeg"><p>Imagem 1 José Santos persona</p> |
+| **Foto**             | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/img_personas/JoseSantos.jpeg"><p>Imagem 1 José Santos persona</p> |
 | **Descrição**        | José Santos, idade de 37 anos, morador de Brasília<br> José é um exemplar de estudante e profissinal formado em contabilidade. Sempre busca se destacar nas atividades propostas. <br>Homem. <br>Solteiro.                      |
 | **Status**          | Persona Primária.     |
 | **Objetivos**       | José sempre busca a perfeição em todas suas ações. Melhor aluno da turma do ensino médio e faculdade. José é extrovertido, porém se sente mais confortável em ambientes conhecidos.                                   |
@@ -81,7 +81,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Ricardo Oliveira   |
-| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/75-desenvolvimento-das-personas/docs/analise_requisitos/img_personas/RicardoOliveira.jpeg"><p>Imagem 2 Ricardo Oliveira persona</p> |
+| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/img_personas/RicardoOliveira.jpeg"><p>Imagem 2 Ricardo Oliveira persona</p> |
 | **Descrição**       | Ricardo Oliveira, idade 22, morador de Santa Catarina. </br> Cursa turismo na Universidade Federal de Santa Catarina (SAAM/UFSC). Ama vijar pelo mundo e conhecer novos lugares.   </br> Homem </br> Namorando                |
 | **Status**          | Persona Secundária |
 | **Objetivos**       | Viajar o mundo e conhecer as diversas culturas do mundo. Conhecer lugares escondidos fazer novos amigos. Ricardo é extrovertidos, faz amigos com muita facilidade e adora a natureza                                   | 
@@ -101,7 +101,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Nome**            | Juliana Pinheiro   |
-| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/75-desenvolvimento-das-personas/docs/analise_requisitos/img_personas/JulianaPinheiro.jpeg"><p>Imagem 3 Juliana Pinheiro persona</p> |
+| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/img_personas/JulianaPinheiro.jpeg"><p>Imagem 3 Juliana Pinheiro persona</p> |
 | **Descrição**       | Juliana Pinheiro, tem 19 anos, moradora de floripa.</br> Atualmente, cursa uma faculdade de design com ensino a distância. </br>Tem fobia social e gosta de ficar em casa, sozinha, escutando música. </br> Mulher. </br> solteira.  |
 | **Status**          | Anti-Persona       |
 | **Objetivos**       | Conseguir trabalhar de casa para ter que interagir o menos possível socialmente.                               |
@@ -120,7 +120,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 |                     |                     |
 | :------------------ | :------------------ |
 | **Nome**            | Ana Maria           |
-| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/75-desenvolvimento-das-personas/docs/analise_requisitos/img_personas/AnaMaria.jpeg"><p>Imagem 4 Ana Maria persona</p> |
+| **Foto**            | <img width="200" src="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/img_personas/AnaMaria.jpeg"><p>Imagem 4 Ana Maria persona</p> |
 | **Descrição**       | Ana Maria, possui 48 anos, moradora de Brasília. </br> Ana Maria é uma aeromoça há 12 anos. </br> Ama seu trabalho e viajar pelo mundo. |
 | **Status**          | Persona Primária.   |
 | **Objetivos**       | Conhecer seu grande amor em algum lugar pelo mundo e viver aventuras, as quais ainda nem imagina.                    |
