@@ -6,15 +6,10 @@
 
 <p align="justify">
 Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir. [1]
-
 Esta análise pode ser usada para identificar a situação atual (apoiada ou não por um sistema computacional), para o (re)design ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional.
-
 Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto objetivos das pessoas ao utilizarem o sistema analisado. 
-
 O site do Banco Central do Brasil (BCB) é um site majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: história do BCB; agenda das Autoridades, Chefes de Unidade e Gabinetes;, calendário de eventos relacionados ao sistema financeiro; cotação das moedas internacionais; conversor de moedas; estatísticas e identificadores econômicos; consulta às mudanças no sistema financeiro; informações quanto as cédulas e moedas (como identificar a autenticidade, moedas e notas antigas e comemorativas, formas de conservação); entre outros tipos de informação. Tendo em vista a quantidade de ramificações de um objetivo como o acesso a informações, foi decidido por não escolher essa tarefa para análise.
-
 As principais tarefas para análise identificadas no site do Banco Central do Brasil, foram: acessar dados financeiros pessoais (cheques sem fundo estornados, empréstimos e financiamentos, contas de bancos, chaves pix cadastradas, relatório de dívidas e operações de câmbio) e acessar cursos. 
-
 As técnicas de análise escolhidas foram o AHT (Análise Hierárquica de Tarefas) e o CTT (Árvore de Tarefas Concorrentes)
 </p>
 
