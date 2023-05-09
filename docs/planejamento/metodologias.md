@@ -36,7 +36,7 @@ O principal inspiração na escolha desse método para nos auxiliar no projeto, 
 focada em programação, foi o pareamento para que as entregas sejam feitas com mais qualidade
 e, dessa maneira, mitigar os erros no projeto. Essa qualidade é visível no [cronograma planejado](/docs/planejamento/Cronograma.md).  
 
-Nós fizemos adaptações dentro dessa metodologia ao nosso contexto. De forma que não ficassemos sobrecarregados e possamos usurfruirmos da melhor maneira possível o que a metodologia tem a oferecer.
+Nós fizemos adaptações dentro dessa metodologia ao nosso contexto. De forma que não ficassemos sobrecarregados e possamos usurfruir da melhor maneira possível o que a metodologia tem a oferecer.
 
 </br>
 
@@ -123,5 +123,6 @@ E políticas de entregas para termos o padrão, assim, conhecendo uma será capa
 | Versão   | Data       | Descrição                     |  Autor(es)    | Revisor(es)                |
 | :------: | :--------: |:----------------------------: | :-----------: | :-----:                    |
 | `1.0`    | 20/04/2023 | Criação do documento          |   Igor Penha  | Bruno Ribeiro e Lucas Gobbi|
-| `1.1`   | 25/04/2023 | Atualizando a metodologia      |   Igor Penha  | Bruno Ribeiro              |
+| `1.1`    | 25/04/2023 | Atualizando a metodologia     |   Igor Penha  | Bruno Ribeiro              |
+| `1.2`    | 08/05/2023 | metodologia finalizada        |   Igor Penha  | Larissa Gomes              |
 
