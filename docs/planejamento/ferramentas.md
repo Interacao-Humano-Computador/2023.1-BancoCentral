@@ -18,7 +18,7 @@ A Tabela 1 possui todas as ferramentas, junto de suas finalidades, utilizadas du
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/icon/icon-github.png" alt="Github" width=50px> | Github  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
+| <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/icon/github-icon.png" alt="Github" width=50px> | Github  | Utilizado para manter o repositório, além de hospedar a gitpage do projeto. |
 | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/icon/icon-whatsapp.png" alt="Whatsapp" width=50px> | Whatsapp | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. |
 | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/icon/icon-youtube.png" alt="YouTube" width=50px> | Youtube | Utilizado para hospedar as gravações do projeto. |
 | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/icon/icon-vscode.png" alt="VScode" width=50px> | VScode | IDE utilizada para modificar. |

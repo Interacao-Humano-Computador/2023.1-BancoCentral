@@ -4,7 +4,6 @@
 
 ## Introdução
 
-## O que é processo de design?
 <p align="justify">Processo de design dentro da área de Interação Humano Computador consiste em um processo que envolve principalmente três atividades básicas: análise da situação atual( identificar o problema), síntese e avaliação da intervenção sugerida. Na fase de  análise visamos identificar , estudar e entender um problema para então sugerir uma proposta de intervenção e melhoria para tal problema insurgente, na fase de síntese os efeitos causados serão avaliados devidamente, tais problemas devem ser analisados durante toda a etapa de desenvolvimento, da concepção ao produto final de forma cíclica e interativa.
 
 A elaboração de uma Interação Humano Computador tem como principal objetivo atender e servir os usuários e os demais envolvidos interessados no projeto, por conseguinte, a maior parte dos processos de design são centrados no usuário, e seguem os princípios de foco no usuário, métricas observáveis e design interativo. Os processos de design de IHC da importancia a participação do usuário no processo, dessa forma quanto mais cedo o usuário estiver inserido no processo mais cedo se descobre as necessidades do mesmo baseando-se em dados fornecidos ao utilizar o sistema.</p>
@@ -33,7 +32,7 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 <br>
 <br>
 
-- O ciclo de vida estrela (Figura 1) se assemelha bastante ao ciclo de vida simples (Figura 1), no entanto possui maiores checagens entre etapas e maior detalhamento.
+- O ciclo de vida estrela (Figura 2) se assemelha bastante ao ciclo de vida simples (Figura 1), no entanto possui maiores checagens entre etapas e maior detalhamento.
 
 ## Ciclo de vida de Nilsen
 

@@ -5,7 +5,7 @@
 ## Introdução
 
 <p align="justify">
-Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3,registrar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na Tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na Tabela 2. E por fim, o link da gravação da reunião postada no YouTube.
+Esse documento visa registrar o acontecimento da 2ª reunião do grupo 3,registrar quais membros estavam presentes, a data, os horário de inicio e fim e o local onde aconteceu a reunião, como é apresentado na Tabela 1. Também irá conter o listamento dos objetivos gerais da reunião. Além de definir e controlar as tarefas que foram distribuidas ao grupo estão descritas na Tabela 2. E por fim, o link da gravação da reunião postada no YouTube (Vídeo 1).
 </p>
 
 | <p align="center">Alunos presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
@@ -51,7 +51,11 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 ## Link da gravação
 
-[Link de acesso a reunião](https://youtu.be/zn0LgXSwnpc)
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/zn0LgXSwnpc" title="Reunião 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 1</b>: gravação da reunião 2 (Fonte: Grupo. 2023).</p>
+</div>
+
 
 ## Bibliografia
 [1] TEAMS. Disponível em: [TEAMS](https://teams.microsoft.com/). Acesso em: 13 de Abril de 2023.

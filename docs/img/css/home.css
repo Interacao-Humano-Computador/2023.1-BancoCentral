@@ -6,13 +6,13 @@
 }
 
 h1.title, h2.title, h3.title1, h3.title2{
-  color: rgb(244, 139, 0);
+  color: rgb(229,197,128);
 }
 
 h2.title2{
-  margin-top: 3%;
+  margin-top: 5%;
   font-family: 'Open Sans', sans-serif;
-  color: rgb(244, 139, 0);
+  color: rgb(229,197,128);
 }
 
 a.hyperlink{
@@ -29,7 +29,7 @@ a.hyperlink{
 .img-time {
   opacity: 1;
   display: block;
-  width: 8  0%;
+  width: 90%;
   height: auto;
   border-radius: 50%;
   padding-top: 10%;
@@ -39,87 +39,42 @@ a.hyperlink{
 }
 
 .image1{
+  width: 80%;
   grid-column-start: 1;
   grid-column-end: 2;
 }
 .image2{
-  grid-column-start: 4;
-  grid-column-end: 5;
+  width: 80%;
+  grid-column-start: 3;
+  grid-column-end: 4;
 }
 .text1{
   margin-top: 10%;
-  padding-left: 10%;
-  grid-column-start: 2;
-  grid-column-end: 4;
-}
-.text2{
-  margin-top: 10%;
-  padding-left: 10%;
-  grid-column-start: 5;
-  grid-column-end: 7;
-}
-
-.wrapper1 {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-auto-rows: minmax(100px, auto);
-}
-
-.img-prototipo{
-  opacity: 1;
-  display: block;
-  width: 8  0%;
-  height: auto;
-  padding-top: 10%;
-  padding-bottom: 10%;
-  padding-left: 0;
-  padding-right: 0;
-}
-
-.imageprot{
-  padding-right: 5%;
-  grid-column-start: 1;
-  grid-column-end: 2;
-}
-
-.imageprot1{
-  padding-left: 5%;
+  margin-left: -20%;
   grid-column-start: 2;
   grid-column-end: 3;
 }
-
-.imageprot2{
-  padding-right: 5%;
-  grid-column-start: 3;
-  grid-column-end: 4;
-}
-
-.imageprot3{
-  padding-left: 5%;
+.text2{
+  margin-top: 10%;
+  margin-left: -20%;
   grid-column-start: 4;
   grid-column-end: 5;
 }
 
-.text3{
-  padding-left: 10%;
-  grid-column-start: 3;
-  grid-column-end: 5;
+/*overflow*/
+body
+body{
+    height:300px;
+    overflow:scroll;
 }
-
-.text3 p, .text4 p, .text5 p{
-  margin-top: 50%;
+body::-webkit-scrollbar {
+    width:15px;
+    background: rgba(255, 255, 255, .2);
 }
-
-.text4{
-  padding-right: 10%;
-  grid-column-start: 1;
-  grid-column-end: 3;
+body::-webkit-scrollbar-track {
+    background: rgba(0,0,0,.0);
 }
-
-.text5{
-  padding-left: 5%;
-  padding-right: 5%;
-  grid-column-start: 2;
-  grid-column-end: 4;
+body::-webkit-scrollbar-thumb {
+    border-radius:10px;
+    background: rgba(0, 0, 0, .3);
 }
-

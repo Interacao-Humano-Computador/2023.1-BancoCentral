@@ -1,6 +1,6 @@
 <div class="body">
-    <h1 class="title">VLC Media Player</h1>
-    <p align="justify">O <a href="https://www.videolan.org/">VLC Media Player</a> é um software open source e gratuito que permite a reprodução de vários formatos de mídia. Nessa documentação, estão dispostos os artefatos produzidos no decorrer da disciplina de Interação Humano Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é realizar pesquisas com os usuários sobre o aplicativo, além de planejar como ele poderia ser melhorado.</p>
+    <h1 class="title">Banco Central do Brasil</h1>
+    <p align="justify">O Banco Central do Brasil é responsável pela regulação e supervisão do sistema financeiro e gerenciamento da política monetária. O site do <a href="https://www.bcb.gov.br/">Banco Central</a>  oferece informações sobre diversos aspectos econômicos e financeiros do país, além de ferramentas e serviços para os cidadãos e empresas.. Nessa documentação, estão dispostos os artefatos produzidos no decorrer da disciplina de Interação Humano Computador da Universidade de Brasília (UnB). O objetivo principal deste projeto é realizar pesquisas com os usuários sobre o aplicativo, além de planejar como ele poderia ser melhorado.</p>
     <h2 class="title">Contribuidores</h1>
     <div class="wrapper">
         <div class="image1">
@@ -61,5 +61,6 @@
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 19/04/2023 | `1.0`  | Criação da GitPage | [Larissa Gomes](https://github.com/larigs)  |    22/04/2023     | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 22/04/2023 | `1.1`    | Criação botão de contraste de cores |  [Larissa Gomes](https://github.com/larigs)  |    22/04/2023     | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 29/04/2023 | `2.0`    | Atualização da Gitpage para o novo site |  [Larissa Gomes](https://github.com/larigs)  |    22/04/2023     | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
 </div>
