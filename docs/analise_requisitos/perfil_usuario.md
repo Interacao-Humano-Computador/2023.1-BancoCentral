@@ -23,7 +23,7 @@
 - Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo.
 - Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergunta, acarretando em erros na elicitação de requisitos.
 - O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.
-- 
+ 
 ## Análise Documental
 ### Vantagens 
 - Podemos basear nosso estudo em pesquisas confiáveis anteriores.
