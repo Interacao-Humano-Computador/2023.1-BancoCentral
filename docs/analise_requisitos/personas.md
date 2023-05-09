@@ -4,9 +4,13 @@
 
 ## Introdução
 
-<p align="justify">De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
+<div align="justify">
 
-Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas, a metodologia utilizada para a realização das personas, o perfil de usuário e as personas obtidas.</p>
+De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
+
+Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas, a metodologia utilizada para a realização das personas, o perfil de usuário e as personas obtidas.
+
+</div>
 
 ### O que é uma Persona?
 
@@ -14,7 +18,9 @@ Nesse documento também será encontrado uma breve explicação do que são as p
 
 ### Como aplicar?
 
-<p align="justify">O primeiro passo para a aplicação das personas é identificar os diferentes públicos que o _software_ atinge, a coleta dos dados a por intermédio dos dados de campo são o sexo predominante dos usuários, a classe social, faixa etária. Assim, como, também deve ser levado em consideração os perfis comportamentais dos usuários.
+<div align="justify">
+
+O primeiro passo para a aplicação das personas é identificar os diferentes públicos que o _software_ atinge, a coleta dos dados a por intermédio dos dados de campo são o sexo predominante dos usuários, a classe social, faixa etária. Assim, como, também deve ser levado em consideração os perfis comportamentais dos usuários.
 
 Já identificado todos os tipos de usuário presentes na aplicação, a criação das pessoas fictícias deve ser feita a partir dos tipos e dos perfis coletados dos usuários. Desta forma, teremos a possibilidade de formar as personas com informações e características semelhantes aos usuários reais, porém diferentes entre si De forma, que as personas seram capazes de representarem os mais diversos usuários do serviço em questão.
 
@@ -22,7 +28,9 @@ Segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, c
 
 Para finalizar, é atribuido um nome, história e necessidades que ajudem na “personificação" deste arquétipo.
 
-Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.</p>
+Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.
+
+</div>
 
 ### Quando usar?
 
@@ -31,11 +39,15 @@ Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários aned�
 
 ## Metodologias
 
-<p align="justify">Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
+<div align="justify">
+
+Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
 
 O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os perfis de usuários obtidos por intermédio de questionários. Nesse cenário, obtvemos 2 personas primárias, uma persona secundária e uma anti-persona.
 
-As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.</p>
+As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
+
+</div>
 
 ## Perfil do Usuário
 
@@ -116,6 +128,7 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 </div>
 
 ### Ana Maria
+
 
 |                     |                     |
 | :------------------ | :------------------ |
