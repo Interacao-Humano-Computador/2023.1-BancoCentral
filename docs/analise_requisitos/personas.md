@@ -1,18 +1,20 @@
+<div class="body">
+
 # Personas
 
 ## Introdução
 
-De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
+<p align="justify">De modo a iniciar esse documento sobre personas é interessante resaltar o quão importante essa elicitação de requisitos é importante, já que existem até metodologias e projetos em que são guiados por personas. Personas são um arquétipo de um usuário, as quais são criadas pelos desenvolvedores com a finalidade de representarem usuários do _software_ em questão para auxiliar na elicitação de requisitos.
 
-Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas, a metodologia utilizada para a realização das personas, o perfil de usuário e as personas obtidas.
+Nesse documento também será encontrado uma breve explicação do que são as personas, como e quando são utilizadas, a metodologia utilizada para a realização das personas, o perfil de usuário e as personas obtidas.</p>
 
 ### O que é uma Persona?
 
-Personas são pessoas imaginárias criadas pelos desenvolvedores por meio da observação e combinação de vários usuários diferentes e com perfis extremos dentro do _software_. As personas devem reunir as características significantes de um grupo abrangente de usuários. Além de representar as motivações, interesses e necessidades reais dentro do projeto e auxiliar o desenvolvedor a sentir empatia pelo usuário devido ao contato com os contextos pessoais e de negócios de seus usuários
+<p align="justify">Personas são pessoas imaginárias criadas pelos desenvolvedores por meio da observação e combinação de vários usuários diferentes e com perfis extremos dentro do _software_. As personas devem reunir as características significantes de um grupo abrangente de usuários. Além de representar as motivações, interesses e necessidades reais dentro do projeto e auxiliar o desenvolvedor a sentir empatia pelo usuário devido ao contato com os contextos pessoais e de negócios de seus usuários.</p>
 
 ### Como aplicar?
 
-O primeiro passo para a aplicação das personas é identificar os diferentes públicos que o _software_ atinge, a coleta dos dados a por intermédio dos dados de campo são o sexo predominante dos usuários, a classe social, faixa etária. Assim, como, também deve ser levado em consideração os perfis comportamentais dos usuários.
+<p align="justify">O primeiro passo para a aplicação das personas é identificar os diferentes públicos que o _software_ atinge, a coleta dos dados a por intermédio dos dados de campo são o sexo predominante dos usuários, a classe social, faixa etária. Assim, como, também deve ser levado em consideração os perfis comportamentais dos usuários.
 
 Já identificado todos os tipos de usuário presentes na aplicação, a criação das pessoas fictícias deve ser feita a partir dos tipos e dos perfis coletados dos usuários. Desta forma, teremos a possibilidade de formar as personas com informações e características semelhantes aos usuários reais, porém diferentes entre si De forma, que as personas seram capazes de representarem os mais diversos usuários do serviço em questão.
 
@@ -20,24 +22,24 @@ Segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, c
 
 Para finalizar, é atribuido um nome, história e necessidades que ajudem na “personificação" deste arquétipo.
 
-Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.
+Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários anedóticos, ou ter observações pessoais subjetivas.</p>
 
 ### Quando usar?
 
-As personas podem ser utilizadas em diferentes fases do projeto, o principal objetivo é auxiliar na geração e validação de ideias dentro do projeto. Porém as personas podem ser utilizadas para auxiliar o processo de design, ter uma melhor visão das características do usuário, apoiar as tomadas desesões, justamente por estar orientado com as informações dos usuários.
+<p align="justify">As personas podem ser utilizadas em diferentes fases do projeto, o principal objetivo é auxiliar na geração e validação de ideias dentro do projeto. Porém as personas podem ser utilizadas para auxiliar o processo de design, ter uma melhor visão das características do usuário, apoiar as tomadas desesões, justamente por estar orientado com as informações dos usuários.</p>
 
 
 ## Metodologias
 
-Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
+<p align="justify">Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
 
 O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os perfis de usuários obtidos por intermédio de questionários.
 
-As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
+As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.</p>
 
 ## Perfil do Usuário
 
-A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário e da análise documental aplicados pelo grupo.
+<p align="justify">A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos resultados do questionário e da análise documental aplicados pelo grupo.</p>
 
 | Característica    | Descrição                                                          |
 | ----------------- | ------------------------------------------------------------------ |
@@ -52,7 +54,7 @@ A elaboração das Personas parte do perfil de usuário, representado na Tabela 
 
 ## Definição das Personas
 
-Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida com a intenção de torná-las memoráveis, então após a discussão em presencial entre a equipe foi decidido um elenco de 4 personas, já que a utilização de um elenco grande de personas pode distanciar a equipe das personas, então baseado no foco do projeto ficou decidido um número conciso de personas com a intenção de aproximá-las do time. Dessa forma, segue o elenco de personas nas Tabelas de 2 a 5:
+<p align="justify">Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida com a intenção de torná-las memoráveis, então após a discussão em presencial entre a equipe foi decidido um elenco de 4 personas, já que a utilização de um elenco grande de personas pode distanciar a equipe das personas, então baseado no foco do projeto ficou decidido um número conciso de personas com a intenção de aproximá-las do time. Dessa forma, segue o elenco de personas nas Tabelas de 2 a 5:</p>
 
 ### José Santos
 
@@ -144,3 +146,5 @@ Com a análise do perfil do usuário e das tarefas primárias identificadas, foi
 | ------ | ---------- | -------------------------------- | -------------------------- | ----------- |
 | `1.0`  | 25/04/2023 | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | `1.1`  | 25/04/2023 | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+
+</div>

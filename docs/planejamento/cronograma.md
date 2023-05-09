@@ -7,7 +7,7 @@
 <p align="justify">
 O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Interação Humano Computador ministrada pelo professor André Barros de Sales para o primeiro semestre de 2023.
 
-Este documento tem como objetivo desenvolver um planejamento inicial para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle (Tabelas de 1 a 11) a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
+Este documento tem como objetivo desenvolver um planejamento inicial para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle (Tabelas de 1 a 11) a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade. As datas de revisão se iniciam no último dia para entrega devido serem realizadas por meio de pull requests.
 </p>
 
 ## Cronograma Geral
@@ -50,14 +50,15 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | Atividade | Período para desenvolvimento | Autores| Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Correção dos artefatos Ponto de Controle 1 | 25/04 - 28/04 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 28/04 - 01/05 | Rafael Bosi |
-| 2. Perfil do Usuário | 25/05 - 06/05 | Giovanni Alvissus e Mizael Santos | 06/05 - 07/05 | Larissa Gomes |
-| 3. Personas | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Lucas Gobbi |
+| 2. Criação do perfil do Usuário | 25/05 - 06/05 | Giovanni Alvissus e Mizael Santos | 06/05 - 07/05 | Larissa Gomes |
+| 3.  Desenvolvimento das personas | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Lucas Gobbi |
 | 4. Análise das tarefas do usuário | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | 06/05 - 07/05 | Giovanni Alvissus |
 | 5. Aspectos éticos de pesquisa envolvendo pessoas | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | 06/05 - 07/05 | Igor Penha |
-| 6. Atualizar GitPage | 25/04 - 07/05 | Larissa Gomes | 14/05 | Giovanni Alvissus |
-| 7. Gravação da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
-| 8. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
-| 9. Cronograma Executado| 07/05 | Larissa Gomes | 07/05 | Giovanni Alvissus |
+| 6. Criação dos cenário | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Lucas Gobbi |
+| 7. Atualizar GitPage | 25/04 - 07/05 | Larissa Gomes | 08/05 | Giovanni Alvissus |
+| 8. Gravação da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
+| 9. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 07/05 - 08/05 | Rafael Bosi |
+| 10. Cronograma Executado| 07/05 | Larissa Gomes | 07/05 | Giovanni Alvissus |
 
 <div style="text-align: center">
     <p> <b>Tabela 3</b>: Ponto de Controle 2 (Fonte: GOMES, Larissa. 2023).</p>
