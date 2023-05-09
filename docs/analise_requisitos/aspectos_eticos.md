@@ -1,8 +1,10 @@
+<div class="body">
+
 # Aspectos éticos
 
 ## Introdução
 
-Ao realizar qualquer tipo de pesquisa que envolva pessoas, é fundamental que sejam levados em conta os aspectos éticos envolvidos no processo. Isso é crucial para garantir a proteção dos direitos e da dignidade dos participantes envolvidos na pesquisa, seja de forma direta ou indireta.
+<p align="justify">Ao realizar qualquer tipo de pesquisa que envolva pessoas, é fundamental que sejam levados em conta os aspectos éticos envolvidos no processo. Isso é crucial para garantir a proteção dos direitos e da dignidade dos participantes envolvidos na pesquisa, seja de forma direta ou indireta.
 
 Para orientar a realização dessas pesquisas, o Conselho Nacional de Saúde publicou a Resolução nº 196/96, que estabelece as diretrizes éticas para pesquisas envolvendo seres humanos. Essa resolução é extremamente importante, pois estabelece os princípios fundamentais que devem ser seguidos para garantir que a pesquisa seja conduzida de forma ética e responsável.
 
@@ -32,6 +34,7 @@ de danos e riscos. Esses danos podem ocorrer de forma física, psíquica, moral,
 - Princípio da justiça e equidade: relacionado à relevância social da pesquisa, com vantagens significativas para os participantes da pesquisa e minimização do ônus para os participantes vulneráveis, o que garante a igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sócio-humanitária.
 
 Os questionários utilizados pela equipe possuem o seguinte termo de consentimento:
+</p>
 
 ## Termo de consentimento
 
@@ -45,6 +48,7 @@ Termo de Consentimento
 ------
 Prezado participante,
 
+<p align="justify">
 Convidamos você a participar da pesquisa universitária da matéria de Interação Humano Computador da Universidade de Brasília. O objetivo desta pesquisa é nos aproximarmos mais das pessoas que utilizam ou não o site do Banco Central do Brasil. Para isso, precisamos coletar informações contidas no questionário em questão.
 
 Sua participação é voluntária e os resultados obtidos serão utilizados para fins de pesquisa e poderão ser publicados em artigos ou apresentações, mas sem a identificação dos participantes.
@@ -56,7 +60,7 @@ Se você decidir participar, por favor, leia e concorde com este termo de consen
 Ao participar da pesquisa, você estará indicando que leu e compreendeu as informações acima e concorda em participar do questionário. Entende que sua participação é voluntária e que pode desistir a qualquer momento, sem qualquer penalidade. Também entende que as informações coletadas serão anônimas e serão usadas apenas para fins acadêmicos.
 
 Agradecemos a sua colaboração!
-
+</p>
 -----
 
 ### Bibliografia
@@ -69,3 +73,5 @@ Agradecemos a sua colaboração!
 | Data       | Versão    | Descrição            | Autor(es)         | Data de revisão |Revisor(es) |
 | ---------- | --------- | -------------------- | ----------------- | --------------- | ---------- |
 | 07/05/2023 | `1.0`     | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+
+</div>

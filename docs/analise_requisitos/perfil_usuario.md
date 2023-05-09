@@ -1,3 +1,5 @@
+<div class="body">
+
 # Perfil de Usuário do Banco Central do Brasil
 
 ## Introdução 
@@ -35,17 +37,17 @@
 
 ## Resultados coletados 
 
-<div style="text-align:justify">
+<p align="justify">
 
 Os resultados coletados para cada questão do formulário podem ser encontrados posteriormente no texto. Da qual o formulário contem 20 perguntas e foram obtidos ao final 16 respostas ao todo, da qual algumas perguntas obtiveram um número menor de respostas, no entanto significativas para a pesquisa.
 
 Os respondentes antes de realizar o questionário aceitaram um <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/termo-de-consentimento.md">termo consentimento</a> redigido pela equipe, onde as respostas foram coletadas entre as datas 04/05/2023 e 08/05/2023.
 
-</div>
+</p>
 
 ## Análise dos resultados 
 
-<div style="text-align:justify">
+<p align="justify">
 
 Analisando os dados levantados, podemos concluir com base neles que o perfil de usuário é dado por um público com pouca ou nenhum conhecimento acerca do mercado financeiro, no entanto possuem interesse sobre.
 
@@ -53,7 +55,7 @@ A partir das respostas fora constatado que a maioria dos respondentes por terem 
 
 Acerca da utilização do site do banco central foi possível traçar um perfil onde nunca usaram ou utilizaram poucas vezes, não conhecem  boa parte das funcionalidades apresentadas, no entanto se interessaram pelo site e seus serviços oferecidos e passariam a utilizá-lo ao conhecer mais sobre eles. 
 
-</div>
+</p>
 
 ## Bibliografia
 
@@ -66,3 +68,5 @@ Acerca da utilização do site do banco central foi possível traçar um perfil 
 | `1.0`  | 07/05/2023 | Criação do documento | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 | `1.1`  | 07/05/2023 | Criação do template das perguntas | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 | `1.2`  | 08/05/2023 | Atualizando o documento | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+
+</div>
