@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-- [Análise de Requisitos](analise_requisitos/perfil_usuario.md)
+- [Análise de Requisitos](#)
     - [Perfil de Usuário](analise_requisitos/perfil_usuario.md)
 
         - [Análise de documentos](analise_requisitos/analise_de_documento.md)
