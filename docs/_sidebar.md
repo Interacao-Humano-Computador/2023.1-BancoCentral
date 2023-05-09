@@ -6,6 +6,7 @@
     - [2º Reunião](atas/reuniao02.md)
     - [3º Reunião](atas/reuniao03.md)
 - [Planejamento](planejamento/cronograma.md)
+    - [Avaliação do Site](planejamento/avaliacoes/AvaliacaoBCB.md)
     - [Cronograma](planejamento/cronograma.md)
     - [Cronograma Executado](planejamento/cronograma_realizado.md)
     - [Ferramentas](planejamento/ferramentas.md)
