@@ -51,7 +51,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/oEAV1PjpIh8" title="Reunião 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 1</b>: gravação da reunião 2 (Fonte: Grupo. 2023).</p>
+<p> <b>Vídeo 1</b>: gravação da reunião 3 (Fonte: Grupo. 2023).</p>
 </div>
 
 
