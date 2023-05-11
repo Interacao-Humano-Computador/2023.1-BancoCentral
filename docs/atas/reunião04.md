@@ -41,7 +41,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 
 <div style="text-align: center">
-<p> <b>Tabela 2</b>: Atividades a serem feitas (Fonte: Penha, Igor 2023). </p>
+<p> <b>Tabela 2</b>: Atividades a serem feitas (Fonte: PENHA, Igor 2023). </p>
 </div>
 
 ## Conclusão
