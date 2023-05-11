@@ -20,8 +20,8 @@ Esse documento visa registrar o acontecimento da 3ª reunião do grupo 3,registr
 ## Objetivos da reunião
 
 - Mudança do site do grupo
-- Entender e iniciar a etapa 1
-- Novo site: VLC
+- Entender e iniciar a etapa 2
+- Novo site: Banco Central do Brasil
 - Trabalho em equipe
 
 
@@ -51,7 +51,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/oEAV1PjpIh8" title="Reunião 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 1</b>: gravação da reunião 2 (Fonte: Grupo. 2023).</p>
+<p> <b>Vídeo 1</b>: gravação da reunião 3 (Fonte: Grupo. 2023).</p>
 </div>
 
 
@@ -62,6 +62,7 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 01/05/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | xx/xx/2023 | [Bruno Ribeiro](https://github.com/runoribeiroo) |
+| 01/05/2023 | `1.0`  | Criação da ata de reunião | [Igor Penha](https://github.com/igorpenhaa)  | 03/05/2023 | [Bruno Ribeiro](https://github.com/runoribeiroo) |
+| 10/05/2023 | `1.1`  | Correção dos objetivos da reunião | [Igor Penha](https://github.com/igorpenhaa)  | 11/05/2023 | [Bruno Ribeiro](https://github.com/runoribeiroo) |
 
 </div>

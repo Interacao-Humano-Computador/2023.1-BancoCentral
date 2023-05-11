@@ -2,9 +2,10 @@
 
 - [Home](home.md)
 - [Atas](atas/reuniao01.md)
-    - [1º Reunião](atas/reuniao01.md)
-    - [2º Reunião](atas/reuniao02.md)
-    - [3º Reunião](atas/reuniao03.md)
+    - [1ª Reunião](atas/reuniao01.md)
+    - [2ª Reunião](atas/reuniao02.md)
+    - [3ª Reunião](atas/reuniao03.md)
+    - [4ª Reunião](atas/reuniao04.md)
 - [Planejamento](planejamento/cronograma.md)
     - [Avaliação do Site](planejamento/avaliacoes/AvaliacaoBCB.md)
     - [Cronograma](planejamento/cronograma.md)
