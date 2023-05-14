@@ -33,9 +33,8 @@
 
 ## Metodologia
 
-<div align="justify"> O grupo analisou o site do [Banco Central do Brasil](https://www.bcb.gov.br/) com o objetivo de identificar quais princípios gerais o site prioriza. A análise foi realizada utilizando a visão do grupo. Assim foram identificados os princípios aplicáveis que poderiam ser melhor implementados ou que mais se adéquam ao contexto do sistema, levando em consideração o objetivo do site analisado.
+<div align="justify"> O grupo analisou o site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> com o objetivo de identificar quais princípios gerais o site prioriza. A análise foi realizada utilizando a visão do grupo. Assim foram identificados os princípios aplicáveis que poderiam ser melhor implementados ou que mais se adéquam ao contexto do sistema, levando em consideração o objetivo do site analisado.
 </div>
-
 
 ## Princípios aplicáveis
 
@@ -46,47 +45,47 @@
 
 - ### Simplicidade nas estruturas das tarefas:
 
-<div align="justify"> Norman (1988) recomenda simpliﬁcar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Porém no site do [Banco Central do Brasil](https://www.bcb.gov.br/), existem ainda algumas tarefas que para o usuário concluir exigem muitas atepas, como por exemplo, o acesso a um curso, como pode ser análisado no artefato de [Análise de tarefas](docs/analise_requisitos/analise_tarefas.md).
+<div align="justify"> Norman (1988) recomenda simpliﬁcar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Porém no site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>, existem ainda algumas tarefas que para o usuário concluir exigem muitas atepas, como por exemplo, o acesso a um curso, como pode ser análisado no artefato de <a href="docs/analise_requisitos/analise_tarefas.md">Análise de tarefas</a>.
 </div>
 
 - ### Equilíbrio entre controle e liberdade do usuário:
 
-<div align="justify"> O site do [Banco Central do Brasil](https://www.bcb.gov.br/) se mostra bem permissivo nesse sentido, uma vez que o usuário tem controle de toda e qualquer tarefa necessária.
+<div align="justify"> O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> se mostra bem permissivo nesse sentido, uma vez que o usuário tem controle de toda e qualquer tarefa necessária.
 </div>
 
 - ### Consistência e padronização:
 
-<div align="justify"> O site do [Banco Central do Brasil](https://www.bcb.gov.br/) possui um layout bem padronizado e ícones bem explicativos, o que fazem com que o usuário tenha um aprendizado mais efetivo e navegabilidade fique mais fluida.
+<div align="justify"> O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> possui um layout bem padronizado e ícones bem explicativos, o que fazem com que o usuário tenha um aprendizado mais efetivo e navegabilidade fique mais fluida.
 </div>
 
 - ### Promovendo a eficiência do usuário:
 
-<div align="justify"> Como o site do [Banco Central do Brasil](https://www.bcb.gov.br/) não possui um login logo que se acessa a plataforma, o sistema não salva informações de navegação do usuário, por exemplo, quais abas foram acessadas recentemente ou quais valores o usuário colocou para converter a moeda, o que compromete a eficiência do usuário.
+<div align="justify"> Como o site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> não possui um login logo que se acessa a plataforma, o sistema não salva informações de navegação do usuário, por exemplo, quais abas foram acessadas recentemente ou quais valores o usuário colocou para converter a moeda, o que compromete a eficiência do usuário.
 </div>
 
 - ### Antecipação das necessidades do usuário:
 
-<div align="justify"> Como explicado acima, o site do [Banco Central do Brasil](https://www.bcb.gov.br/) não possui um login logo que se acessa a plataforma, ou seja, não possui um sistema de memorização, sendo assim, o site não guarda informações de acessos recentes do usuário, o que faz com que a plataforma não antecipe as ações do usuário, ou seja, toda tarefa deve ser feita do zero, caso o usuário deixe a aplicação.
+<div align="justify"> Como explicado acima, o site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> não possui um login logo que se acessa a plataforma, ou seja, não possui um sistema de memorização, sendo assim, o site não guarda informações de acessos recentes do usuário, o que faz com que a plataforma não antecipe as ações do usuário, ou seja, toda tarefa deve ser feita do zero, caso o usuário deixe a aplicação.
 </div>
 
 - ### Visibilidade e reconhecimento:
 
-<div align="justify"> O site do [Banco Central do Brasil](https://www.bcb.gov.br/) possui ícones bem intuitivos e padronizados sobre que tarefas os mesmos representam, o que permite que o usuário tenha uma navegabilidade facilitada. 
+<div align="justify"> O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> possui ícones bem intuitivos e padronizados sobre que tarefas os mesmos representam, o que permite que o usuário tenha uma navegabilidade facilitada. 
 </div>
 
 - ### Conteúdo relevante e expressão adequada:
 
-<div align="justify"> O site do [Banco Central do Brasil](https://www.bcb.gov.br/) apresenta aos usuários expressões formais e padrões adequados de comunicação. E quando o site utiliza termos mais avançados ou específicos, o sistema oferece formas de acessar conteúdos que explicam tais termos.
+<div align="justify"> O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> apresenta aos usuários expressões formais e padrões adequados de comunicação. E quando o site utiliza termos mais avançados ou específicos, o sistema oferece formas de acessar conteúdos que explicam tais termos.
 </div>
 
 - ### Projeto para erros:
 
-<div align="justify">O site do [Banco Central do Brasil](https://www.bcb.gov.br/) possui mecanismos padronizados de recuperação de erros, que dependendo do tipo, até descrevem o erro. 
+<div align="justify">O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> possui mecanismos padronizados de recuperação de erros, que dependendo do tipo, até descrevem o erro. 
 </div>
 
 ## Conclusão
 
-<div align="justify"> É possível concluir que os princípios e diretrizes gerais de um projeto podem ajudar a garantir que o projeto seja eficiente, eficaz e agradável para os usuários. Esses princípios foram desenvolvidos com base em pesquisas e práticas em Interação Humano-Computador, e são amplamente reconhecidos como importantes para projetar interfaces de usuário bem-sucedidas. Ficou visível, também, por esse documento que o site do [Banco Central do Brasil](https://www.bcb.gov.br/) não segue todos os princípios e diretrizes a risca, o que dificulta a usabilidade do site por parte do usuário.
+<div align="justify"> É possível concluir que os princípios e diretrizes gerais de um projeto podem ajudar a garantir que o projeto seja eficiente, eficaz e agradável para os usuários. Esses princípios foram desenvolvidos com base em pesquisas e práticas em Interação Humano-Computador, e são amplamente reconhecidos como importantes para projetar interfaces de usuário bem-sucedidas. Ficou visível, também, por esse documento que o site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> não segue todos os princípios e diretrizes a risca, o que dificulta a usabilidade do site por parte do usuário.
 </div>
 
 ## Referência Bibliográfica
