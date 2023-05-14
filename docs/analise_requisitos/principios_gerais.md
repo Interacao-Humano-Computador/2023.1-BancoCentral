@@ -45,7 +45,16 @@
 
 - ### Simplicidade nas estruturas das tarefas:
 
-<div align="justify"> Norman (1988) recomenda simpliﬁcar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Porém no site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>, existem ainda algumas tarefas que para o usuário concluir exigem muitas atepas, como por exemplo, o acesso a um curso, como pode ser análisado no artefato de <a href="docs/analise_requisitos/analise_tarefas.md">Análise de tarefas</a>.
+<div align="justify"> Norman (1988) recomenda simpliﬁcar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Porém no site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>, existem ainda algumas tarefas que para o usuário concluir exigem muitas atepas, como por exemplo, o acesso a um curso, como pode ser análisado no artefato de <a href="docs/analise_requisitos/analise_tarefas.md">Análise de tarefas</a>. Outro exemplo pode ser a dificuldade na navegação pelos menus so site, pois apresenta uma série de etapas que devem ser realizadas para encontrar uma funcionalidade, como pode ser visto na Figura 1. 
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_prin_gerais/simplicidade2.png">
+<p>Figura 1: Navegabilidade (fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>).</p>
+
+Além da dificuldade em realizar algumas etapas podemos também citar quanto a simplicidade, a página inicial do site do banco do brasil, pois apresenta uma quantidade grande de informações, como pode ser visto na Figura 2, poluindo a interface e podendo desencorajar novos usuários do sistema.
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_prin_gerais/simplicidade.png">
+<p>Figura 2: Navegabilidade (fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>).</p>
+
 </div>
 
 - ### Equilíbrio entre controle e liberdade do usuário:
@@ -61,6 +70,8 @@
 - ### Promovendo a eficiência do usuário:
 
 <div align="justify"> Como o site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> não possui um login logo que se acessa a plataforma, o sistema não salva informações de navegação do usuário, por exemplo, quais abas foram acessadas recentemente ou quais valores o usuário colocou para converter a moeda, o que compromete a eficiência do usuário.
+Além de tais problemas pode também ser visto como um, a navegabilidade nos menus do site, pois podem ser muito custosas, como visto na Figura 2, e às vezes pouco intuitiva ainda mais para novos usuários, dessa forma a eficiência do usuário pode ser comprometida em detrimento do excesso de informação e organização dos dados que o site oferece.
+
 </div>
 
 - ### Antecipação das necessidades do usuário:
