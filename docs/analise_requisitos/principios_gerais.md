@@ -62,7 +62,7 @@ Além da dificuldade em realizar algumas etapas podemos também citar quanto a s
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_prin_gerais/simplicidade.png">
   
 <div align="center">
-  <p> <b>FFigura 2</b>: Excesso de informação do site do Banco Cental do Brasil (Fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>). </p>
+  <p> <b>Figura 2</b>: Excesso de informação do site do Banco Cental do Brasil (Fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>). </p>
 </div>
   
 </div>
