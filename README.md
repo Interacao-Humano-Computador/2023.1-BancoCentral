@@ -1,7 +1,7 @@
 # Banco Central do Brasil - Grupo 3
 
 <div align="center">
-<img src="docs/img/logo.png" alt="logo" style="width: 400px">
+<img src="docs/img/logoPERSONALIZADA.png" alt="logo" style="width: 400px">
 </div>
 
 ## Introdução
