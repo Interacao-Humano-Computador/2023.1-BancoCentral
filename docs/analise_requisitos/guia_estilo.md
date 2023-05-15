@@ -67,7 +67,7 @@ O [Figma 1](link do figma) apresenta os elementos do guia de estilo a ser seguid
     2. Seleção
     3. Ativação
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfUwpHwhGHyrFqgfEYKr53%2FGuia-de-estilo---Lichess%3Fnode-id%3D0%253A1%26t%3D3foPw08drZfIqwwh-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1" allowfullscreen></iframe>
 
 <div align="center">
 <p> <b>Figma 1</b>: Guia de Estilo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
@@ -101,5 +101,6 @@ O [Figma 1](link do figma) apresenta os elementos do guia de estilo a ser seguid
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 06/05/2023 | `1.0`  | Criação da introdução e escolha das tarefas | [Larissa Gomes](https://github.com/larigs) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 15/05/2023 | `1.0`  | Criação do figma | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>
