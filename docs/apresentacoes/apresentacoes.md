@@ -15,9 +15,9 @@ A apresentação da primeira etapa, o ponto de controle 1 pode ser vista no [Ví
 </div>
 
 ## Apresentação 2
-A apresentação da segunda etapa, o ponto de controle 2 pode ser vista no [Vídeo 2](https://youtu.be/61j1hYdWNdw).
+A apresentação da segunda etapa, o ponto de controle 2 pode ser vista no [Vídeo 2](https://youtu.be/5BaOTaGgbGA).
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/ZxD0aDZ2OSg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/5BaOTaGgbGA" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 2</b>: Segunda apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
