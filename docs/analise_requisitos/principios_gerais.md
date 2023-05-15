@@ -47,14 +47,24 @@
 
 <div align="justify"> Norman (1988) recomenda simpliﬁcar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Porém no site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>, existem ainda algumas tarefas que para o usuário concluir exigem muitas atepas, como por exemplo, o acesso a um curso, como pode ser análisado no artefato de <a href="docs/analise_requisitos/analise_tarefas.md">Análise de tarefas</a>. Outro exemplo pode ser a dificuldade na navegação pelos menus so site, pois apresenta uma série de etapas que devem ser realizadas para encontrar uma funcionalidade, como pode ser visto na Figura 1. 
 
+<p align="justify">A Figura 1 apresenta a navegabilidade do site do Banco Cental do Brasil.</p>
+  
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_prin_gerais/simplicidade2.png">
-<p>Figura 1: Navegabilidade (fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>).</p>
+  
+<div align="center">
+  <p> <b>Figura 1</b>: Navegabilidade do site Banco Central do Brasil (<a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>). </p>
+</div>
 
 Além da dificuldade em realizar algumas etapas podemos também citar quanto a simplicidade, a página inicial do site do banco do brasil, pois apresenta uma quantidade grande de informações, como pode ser visto na Figura 2, poluindo a interface e podendo desencorajar novos usuários do sistema.
 
+<p align="justify">A Figura 2 apresenta o excesso de informação do site do Banco Cental do Brasil.</p>
+  
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_prin_gerais/simplicidade.png">
-<p>Figura 2: Navegabilidade (fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>).</p>
-
+  
+<div align="center">
+  <p> <b>FFigura 2</b>: Excesso de informação do site do Banco Cental do Brasil (Fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>). </p>
+</div>
+  
 </div>
 
 - ### Equilíbrio entre controle e liberdade do usuário:
@@ -70,7 +80,8 @@ Além da dificuldade em realizar algumas etapas podemos também citar quanto a s
 - ### Promovendo a eficiência do usuário:
 
 <div align="justify"> Como o site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> não possui um login logo que se acessa a plataforma, o sistema não salva informações de navegação do usuário, por exemplo, quais abas foram acessadas recentemente ou quais valores o usuário colocou para converter a moeda, o que compromete a eficiência do usuário.
-Além de tais problemas pode também ser visto como um, a navegabilidade nos menus do site, pois podem ser muito custosas, como visto na Figura 2, e às vezes pouco intuitiva ainda mais para novos usuários, dessa forma a eficiência do usuário pode ser comprometida em detrimento do excesso de informação e organização dos dados que o site oferece.
+
+<p>Além de tais problemas pode também ser visto como um, a navegabilidade nos menus do site, pois podem ser muito custosas, como visto na Figura 2, e às vezes pouco intuitiva ainda mais para novos usuários, dessa forma a eficiência do usuário pode ser comprometida em detrimento do excesso de informação e organização dos dados que o site oferece.</p>
 
 </div>
 
@@ -108,4 +119,5 @@ Além de tais problemas pode também ser visto como um, a navegabilidade nos men
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 14/05/2023 | `1.0`  | Criação do documento | [Rafael Bosi](https://github.com/StrangeUnit28) | 14/05/2023 | [Mizael Santos](https://github.com/frmiza) |
+| 14/05/2023 | `1.1`  | Adicionado imagens | [Mizael Santos](https://github.com/frmiza) | 14/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 </div>
