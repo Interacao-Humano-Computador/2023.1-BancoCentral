@@ -70,8 +70,9 @@ Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software 
 </div>
 
 ## Histórico de Versões
-|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
-| :--------: | :---: | :-------------------------: | :--------------: | :-----------: |
-| `1.0` | 13/04/2023 | Versão inicial de documento | Rafael Bosi | Lucas Gobbi |
-| `2.0` | 23/04/2023 | Atualização para o VideoLAN | Larissa Gomes | Giovanni Alvissus |
-| `2.1` | 29/04/2023 | Atualização para o Banco Central do Brasil | Larissa Gomes | Giovanni Alvissus |
+|   Data     | Versão | Descrição                   |    Autor(es)     |  Data de revisão | Revisor(es) |
+| :--------: | :----: | :-------------------------: | :--------------: | :--------------: | :---------: |
+| 13/04/2023 | `1.0`  | Versão inicial de documento | [Rafael Bosi](https://github.com/StrangeUnit28) | 13/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 23/04/2023 | `2.0`  | Atualização para o VideoLAN | [Larissa Gomes](https://github.com/larigs) | 23/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 29/04/2023 | `3.0`  | Atualização para o Banco Central do Brasil | [Larissa Gomes](https://github.com/larigs) | 29/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 15/05/2023 | `3.1`  | Correção da logo | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 15/05/2023 | [Lucas Bergholz](https://github.com/LucasBergholz) |
