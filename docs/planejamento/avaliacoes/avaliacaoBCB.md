@@ -118,7 +118,7 @@ Tabela 5 - Formulário de Avaliação Heurística do Ponto 10 (Fonte: GOBBI, Luc
 ## Bibliografia
 </div>
 [1] Banco Central do Brasil. Disponível em: https://www.bcb.gov.br/. Acesso em: 06/05/2023. <br>
-[2] Disponível em: https://aprender3.unb.br/pluginfile.php/2523393/mod_resource/content/3/Apresenta%C3%A7%C3%A3o%20cap09%20Livro%20Simone.pdf. Acesso em: 07/04/2023.
+[2] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 20/04/2023.
 
 ## Histórico de Versões
 

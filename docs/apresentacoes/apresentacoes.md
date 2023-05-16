@@ -27,7 +27,7 @@ A apresentação da terceira etapa, o ponto de controle 3 pode ser vista no [Ví
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Va_PIroIAyk" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 2</b>: Terceira apresentação (Fonte: Grupo 3. 2023). </p>
+<p> <b>Vídeo 3</b>: Terceira apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
 
 
