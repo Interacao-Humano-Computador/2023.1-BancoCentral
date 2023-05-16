@@ -12,10 +12,10 @@ Este documento tem como objetivo marcar e mostrar as reais datas e prazos utiliz
 
 </p>
 
-## Cronograma Realizado Ponto de Controle 1
+## Cronograma realizado Ponto de Controle 1
 A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 1. Segue abaixo:
 
-| Atividade | Data de Entrega | Autores | Data de revisão | Revisores |
+| Atividade | Data de entrega | Autores | Data de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Cronograma | 24/04 | Giovanni Alvissus, Larissa Gomes, Mizael Santos, Rafael Bosi | 24/04 | Bruno Ribeiro, Igor Penha, Lucas Gobbi |
 | 2. Sites avaliados | 23/04 | Bruno Ribeiro e Lucas Gobbi | 23/04 | Igor Penha |
@@ -31,10 +31,10 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
     <p> <b>Tabela 1</b>: Ponto de Controle Realizado 1 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
-## Cronograma Ponto de Controle 2
+## Cronograma realizado Ponto de Controle 2
 A Tabela 2 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 2. Segue abaixo:
 
-| Atividade | Data de Entrega | Autores| Data de revisão | Revisores |
+| Atividade | Data de entrega | Autores| Data de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Correção dos artefatos Ponto de Controle 1 | 28/04 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 01/05 | Rafael Bosi |
 | 2. Criação do perfil do Usuário | 06/05 | Giovanni Alvissus e Mizael Santos | 07/05 | Larissa Gomes |
@@ -51,7 +51,7 @@ A Tabela 2 fornece os dados das realizações, junto de suas datas, dos artefato
     <p> <b>Tabela 2</b>: Ponto de Controle Realizado 2 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-## Cronograma Ponto de Controle 3
+## Cronograma realizado Ponto de Controle 3
 A tabela 3 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 3. Faz-se observar que houve um atraso no encamiamento, por parte do monitor do grupo, da avaliação do ponto de controle anterior, sendo entregue somente no dia da entrega desde ponto de controle. Com isso, algumas das correções esperadas para o ponto de controle anterior não foram completadas a tempo desta entrega.
 
 | Atividades | Data de entrega | Autor(es) | Data de revisão | Revisor(es) |
