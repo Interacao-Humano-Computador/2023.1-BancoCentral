@@ -153,11 +153,11 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 
 [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## Histórico de Versão
+## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor(es)                  | Revisor(es) |
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | ------ | ---------- | -------------------------------- | -------------------------- | ----------- |
-| `1.0`  | 25/04/2023 | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/LucasBergholz) |
-| `1.1`  | 25/04/2023 | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 25/04/2023 | `1.0` | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 25/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 25/04/2023 | `1.1` | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 25/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
 </div>

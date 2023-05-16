@@ -66,7 +66,8 @@ Esta análise visa fornecer informações detalhadas sobre os principais aspecto
 - BANCO CENTRAL DO BRASIL. Publicações e Manuais. Disponível em: <https://www.bcb.gov.br/publicacoes/publicacoesmanuais>. Acesso em: 8 mai. 2023.
 
 - VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
-## Histórico de versões
+
+## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
