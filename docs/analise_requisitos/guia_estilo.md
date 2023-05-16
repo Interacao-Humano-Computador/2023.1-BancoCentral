@@ -102,8 +102,9 @@ O [Figma 1](link do figma) apresenta os elementos do guia de estilo a ser seguid
 
 ## Bibliografia
 
-[1] Banco Central do Brasil. Cursos Online . Disponível em: https://www.bcb.gov.br/cidadaniafinanceira/cursos. Acesso em: 06 de Maio de 2023;
-[2] [1] FIGMA. Disponível em: [FIGMA](https://figma.com). Acesso em: 12 de Maio de 2023.
+[1] Banco Central do Brasil.  Disponível em: https://www.bcb.gov.br. Acesso em: 15 de Maio de 2023;
+
+[2] FIGMA. Disponível em: [FIGMA](https://figma.com). Acesso em: 12 de Maio de 2023.
 
 ## Histórico de Versões
 

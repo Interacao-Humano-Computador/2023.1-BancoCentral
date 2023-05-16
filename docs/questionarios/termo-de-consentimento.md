@@ -1,7 +1,8 @@
+<div class="body">
+
 # Termo de Consentimento
 
-
-<div style="text-align: justify">
+<div align="justify">
 
 Prezado participante,
 
@@ -23,3 +24,5 @@ Agradecemos a sua colaboração!
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 02/05/2023 | `1.0`  | Criação do termo de consentimento para pesquisas | [Giovanni Alvissus](https://github.com/giovanni1106)  |    02/05/2023    | [Larissa Gomes](https://github.com/larigs) |
+
+</div>
