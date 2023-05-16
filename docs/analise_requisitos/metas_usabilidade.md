@@ -56,7 +56,15 @@ Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o 
 
  - **Pergunta**: O usuário tem facilidade em aprender a usar o site?</br>
 
- - **Meta aplicada**: Dentro do sistema do Banco Central, o usuário tem dificuldade em aprender, pois o site possui muitas informações em sua tela inicial o que deixa o usuário, em primeira instância, perdido, sem saber como chegar ao seu destino de desejo, além de conter informações de difícil acesso por serem contra-intuitivas. Assim, obtivemos como meta deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente.
+ - **Meta aplicada**: Dentro do sistema do Banco Central, o usuário tem dificuldade em aprender, pois o site possui muitas informações em sua tela inicial o que deixa o usuário, em primeira instância, perdido, sem saber como chegar ao seu destino de desejo, além de conter informações de difícil acesso por serem contra-intuitivas. Assim, obtivemos como meta deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente como podemos observar na Figura 2.
+
+<p align="justify">A Figura 2 apresenta o excesso de informação do site do Banco Cental do Brasil.</p>
+  
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/prin_gerais/simplicidade.png">
+  
+<div align="center">
+  <p> <b>Figura 2</b>: Excesso de informação do site do Banco Cental do Brasil (Fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>). </p>
+</div>
 
 ### **Memorização**:
 
