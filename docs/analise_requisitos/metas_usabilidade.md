@@ -64,7 +64,18 @@ Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e d
 
  - **Meta aplicada**: O sistema do Banco Central não fornece suporte de interface para auxílio dos usuários, para as atividades menos frequentes dentro do site fazendo com que o usuário tenha que relembrar como acessar e utilizar determinadas funções oferecidas pelo site. Assim, prejudicando a capacidade de memorização. Dessa forma, obtivemos como meta deixar as funcionalidades e locais de informações mais memoráveis e intuitivas.
 
+
+## Conclusão
+
+ Portanto, nesse artefato, foi abordado as definições das metas de usabilidade e também as observamos, avaliamos e decidimos por intermédio de perguntas que direcionaram todo o processo para definirmos da melhor manira possível as nossas metas. E por fim, ficou decidido que as metas de usabilidade almejadas dentro do nosso projeto serão: 
+ - Segurança: Voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência.
+ - Aprendizagem: Deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente.
+ - Memorização: Tornar as funcionalidades e locais de informações mais intuitivas e memoráveis.
+
+
 </div>
+
+
 
 ## Bibliografia
  [1] Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 09/05/2023.
@@ -80,5 +91,6 @@ Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e d
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :----: | :--: | :-------: | :---: | :-----: | :----------: |
 | 09/05/2023 | `1.0` | Documentação inicial | [Igor Penha](https://github.com/igorpenhaa) e [Bruno Ribeiro](https://github.com/brunoriibeiro) | 11/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 16/05/2023 | `1.1` | Atualização do documento | [Igor Penha](https://github.com/igorpenhaa) | 16/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 
 </div>
