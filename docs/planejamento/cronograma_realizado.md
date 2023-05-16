@@ -39,7 +39,8 @@ A Tabela 2 fornece os dados das realizações, junto de suas datas, dos artefato
 | 1. Correção dos artefatos Ponto de Controle 1 | 28/04 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 01/05 | Rafael Bosi |
 | 2. Criação do perfil do Usuário | 06/05 | Giovanni Alvissus e Mizael Santos | 07/05 | Larissa Gomes |
 | 3. Desenvolvimento das personas | 06/05 | Bruno Ribeiro e Igor Penha | 07/05 | Lucas Gobbi |
-| 4. Análise das tarefas do usuário | 06/05 | Larissa Gomes e Rafael Bosi | 07/05 | Giovanni Alvissus |
+| 4. Análise das tarefas do usuário HTA | 06/05 | Larissa Gomes | 07/05 | Giovanni Alvissus |
+| 4.1. Análise das tarefas do usuário CTT | 06/05 | Rafael Bosi | 07/05 | Giovanni Alvissus |
 | 5. Aspectos éticos de pesquisa envolvendo pessoas | 06/05 | Lucas Gobbi e Bruno Ribeiro | 07/05 | Igor Penha |
 | 6. Criação dos cenário | 06/05 | Bruno Ribeiro e Igor Penha | 07/05 | Lucas Gobbi |
 | 7. Atualizar GitPage | 07/05 | Larissa Gomes | 08/05 | Giovanni Alvissus |

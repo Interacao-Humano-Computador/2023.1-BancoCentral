@@ -52,7 +52,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 1. Correção dos artefatos Ponto de Controle 1 | 25/04 - 28/04 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 28/04 - 01/05 | Rafael Bosi |
 | 2. Criação do perfil do Usuário | 25/05 - 06/05 | Giovanni Alvissus e Mizael Santos | 06/05 - 07/05 | Larissa Gomes |
 | 3.  Desenvolvimento das personas | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Lucas Gobbi |
-| 4. Análise das tarefas do usuário | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | 06/05 - 07/05 | Giovanni Alvissus |
+| 4. Análise das tarefas do usuário (técnicas HTA e CTT) | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | 06/05 - 07/05 | Giovanni Alvissus |
 | 5. Aspectos éticos de pesquisa envolvendo pessoas | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | 06/05 - 07/05 | Igor Penha |
 | 6. Criação dos cenário | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Lucas Gobbi |
 | 7. Atualizar GitPage | 25/04 - 07/05 | Larissa Gomes | 08/05 | Giovanni Alvissus |
