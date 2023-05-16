@@ -8,9 +8,7 @@
 
 Este artefato tem como propósito definir as metas de usabilidade, que, por sua vez, estabelecem quais fatores de qualidade de uso devem ser priorizados no projeto, além de como a avaliação ocorrerá durante o processo de design, bem como quais faixas de valores são aceitáveis ou inaceitáveis. As metas de usabilidade que seram tratadas nesse documento são as metas de usbilidade definidas pelo pesquisador Jacob Nielsen. As metas que serão abordadas nesse artefato são fundamentais para que o design de sistemas computacionais mais intuitivos e agradáveis para os usuários dentro da nossa aplicação, as metas também podem ser aplicadas a outros contextos, além do computacional.
 
-
 ## Definição das Metas de Usabilidade 
-
 
 - **Eficácia:** Referente à qualidade produto, se ele é bom em fazer o que se espera que ele faça.
 
@@ -27,44 +25,44 @@ Este artefato tem como propósito definir as metas de usabilidade, que, por sua 
 
 ## Metas a serem almejadas pelo nosso projeto
 
-  Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e definimos as seguintes questões de cada meta:
+Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e definimos as seguintes questões de cada meta:
 
 
 ### **Eficácia**: 
 
-    **Pergunta**: O domínio serve ao seu propósito inicial?</br>
+ - **Pergunta**: O domínio serve ao seu propósito inicial?</br>
 
-    **Meta aplicada**: O site no quesito eficácia apresenta um bom potencial e cumpre sua atividades com excelência.
+ - **Meta aplicada**: O site no quesito eficácia apresenta um bom potencial e cumpre sua atividades com excelência.
 
 ### **Eficiência**: 
 
-    **Pergunta**: O site permite aos usuários atingir um alto nível de produtividade em suas atividades?</br>
+ - **Pergunta**: O site permite aos usuários atingir um alto nível de produtividade em suas atividades?</br>
 
-    **Meta aplicada**: O site do Banco Central do Brasil oferece ao usuário um alto nível de produtividade e atividades realizadas com poucos passos. Assim, o site já cumpre a meta de eficiência.
+ - **Meta aplicada**: O site do Banco Central do Brasil oferece ao usuário um alto nível de produtividade e atividades realizadas com poucos passos. Assim, o site já cumpre a meta de eficiência.
 
 ### **Segurança**: 
 
-    **Pergunta**: O Sistema permite ao usuário reverter ações indesejadas facilmente? Há opções de confirmação para evitar que o usuário faça alguma ação ou alteração por engano?</br>
+ - **Pergunta**: O Sistema permite ao usuário reverter ações indesejadas facilmente? Há opções de confirmação para evitar que o usuário faça alguma ação ou alteração por engano?</br>
 
-    **Meta aplicada**: Em determinadas ações dentro do sistema do Banco Central, o usuário é redirecionado a uma nova guia, à qual é forçado a utilizar a saida de emergência. Dessa maneira, obtivemos como meta fornecer ao usuário maneira(s) de voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência.
+ - **Meta aplicada**: Em determinadas ações dentro do sistema do Banco Central, o usuário é redirecionado a uma nova guia, à qual é forçado a utilizar a saida de emergência. Dessa maneira, obtivemos como meta fornecer ao usuário maneira(s) de voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência.
 
 ### **Utilidade**: 
 
-    **Pergunta**: O usuário recebe um feedback visual do que está acontecendo em tempo real? O domínio oferece o conjunto adequado de funções para que o usuário realize suas tarefas?</br>
+ - **Pergunta**: O usuário recebe um feedback visual do que está acontecendo em tempo real? O domínio oferece o conjunto adequado de funções para que o usuário realize suas tarefas?</br>
 
-    **Meta aplicada**: No quesito utilidade o site fornece as medidas e funcionalidades necessárias ao usuário para produção do produto de interesse, já atendendo a esta meta. 
+ - **Meta aplicada**: No quesito utilidade o site fornece as medidas e funcionalidades necessárias ao usuário para produção do produto de interesse, já atendendo a esta meta. 
 
 ### **Aprendizagem**:
 
-    **Pergunta**: O usuário tem facilidade em aprender a usar o site?</br>
+ - **Pergunta**: O usuário tem facilidade em aprender a usar o site?</br>
 
-    **Meta aplicada**: Dentro do sistema do Banco Central, o usuário tem dificuldade em aprender, pois o site possui muitas informações em sua tela inicial o que deixa o usuário, em primeira instância, perdido, sem saber como chegar ao seu destino de desejo, além de conter informações de difícil acesso por serem contra-intuitivas. Assim, obtivemos como meta deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente.
+ - **Meta aplicada**: Dentro do sistema do Banco Central, o usuário tem dificuldade em aprender, pois o site possui muitas informações em sua tela inicial o que deixa o usuário, em primeira instância, perdido, sem saber como chegar ao seu destino de desejo, além de conter informações de difícil acesso por serem contra-intuitivas. Assim, obtivemos como meta deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente.
 
 ### **Memorização**:
 
-    **Pergunta**: Que tipo e quais suportes são oferecidos ao usuário para se lembrar como realizar uma tarefa?</br>
+ - **Pergunta**: Que tipo e quais suportes são oferecidos ao usuário para se lembrar como realizar uma tarefa? 
 
-    **Meta aplicada**: O sistema do Banco Central não fornece suporte de interface para auxílio dos usuários, para as atividades menos frequentes dentro do site fazendo com que o usuário tenha que relembrar como acessar e utilizar determinadas funções oferecidas pelo site. Assim, prejudicando a capacidade de memorização. Dessa forma, obtivemos como meta deixar as funcionalidades e locais de informações mais memoráveis e intuitivas.
+ - **Meta aplicada**: O sistema do Banco Central não fornece suporte de interface para auxílio dos usuários, para as atividades menos frequentes dentro do site fazendo com que o usuário tenha que relembrar como acessar e utilizar determinadas funções oferecidas pelo site. Assim, prejudicando a capacidade de memorização. Dessa forma, obtivemos como meta deixar as funcionalidades e locais de informações mais memoráveis e intuitivas.
 
 </div>
 
