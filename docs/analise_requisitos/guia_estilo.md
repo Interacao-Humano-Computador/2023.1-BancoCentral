@@ -14,19 +14,28 @@ O objetivo de um guia de estilo é servir de ferramenta de comunicação entre o
 
 Simone Barbosa e Bruno Diniz [1] apresentam o que um guia de estilo deve possuir e sua organização. Este artefato deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. Fazem parte de um guia de estilo os seguintes elementos:
 
-<dl>
-<dt> - <b>Layout</b> </dt>
-<dd> Proporção e grids</dd>
-<dd> Uso de metáforas espaciais</dd>
-<dd> Design gráfico de exibidores e ferramentas</dd>
-<dt> - <b>Tipografia e seu uso em diálogos, formulários e relatórios</b> </dt>
-<dt> - <b>Simbolismo</b> </dt>
-<dd> Clareza e consistência no design de ícones</dd>
-<dt> - <b>Cores</b> </dt>
-<dd> Os dez mandamentos sobre o uso de cores</dd>
-<dt> - <b>Visualização de informação</b> </dt>
-<dd> Design de gráficos, diagramas e mapas</dd>
-<dt> - <b>Design de telas e elementos de interface (widgets)</b></dt>
+ - <b>Layout:</b>
+
+   Proporção e grids   
+   Uso de metáforas espaciais   
+   Design gráfico de exibidores e ferramentas 
+   
+ - <b>Tipografia e seu uso em diálogos, formulários e relatórios</b>
+
+ - <b>Simbolismo:</b> 
+
+   Clareza e consistência no design de ícones  
+
+ - <b>Cores:</b> 
+
+   Os dez mandamentos sobre o uso de cores   
+
+ - <b>Visualização de informação:</b> 
+
+   Design de gráficos, diagramas e mapas   
+
+ - <b>Design de telas e elementos de interface (widgets)</b>
+ 
 </dl>
 
 Esses elemento serão utilizados para cumprir o objetivo deste guia de estilo, fornecendo orientações sobre os elementos de interface, interação e ação utilizados no site do <b>Banco Central do Brasil</b>. O objetivo final deste artefato é padronizar a aparência e a interação do site, garantindo uma experiência do usuário consistente e de alta qualidade.
