@@ -1,6 +1,6 @@
 <div class="body">
 
-# Análise de Tarefas
+# Guia de Estilo
 
 ## Introdução
 
