@@ -124,7 +124,7 @@ O modelo abaixo segue o padrão de pergunta realizada e abaixo a imagem correspo
 
 - Teria interesse em saber todas as taxas de juros sobre antecipação de faturas do cartão de crédito entre outros tipos juros?
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/jurus.png" alt="Jurus" width=300px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/jurus.png" alt="Juros" width=300px>
 
 <div style="text-align:center">Imagem 14: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
@@ -141,6 +141,12 @@ O modelo abaixo segue o padrão de pergunta realizada e abaixo a imagem correspo
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/interesse_emprestimo.png" alt="Interesse Emprestimo" width=300px>
 
 <div style="text-align:center">Imagem 16: Interesse dos participantes (Fonte: ALVISSUS, Giovanni. 2023)</div>
+
+- Se usa ou tem interesse em começar a usar, em qual ambiente acessaria o site?
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/questionarios/questionario_01/aparelho.png" alt="Aparelho" width=300px>
+
+<div style="text-align:center">Imagem 17: Ambiente de acesso (Fonte: ALVISSUS, Giovanni. 2023)</div>
 
 
 ## Bibliografia
