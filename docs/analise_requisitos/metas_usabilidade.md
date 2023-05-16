@@ -25,20 +25,20 @@ Este artefato tem como propósito definir as metas de usabilidade, que, por sua 
 
 ## Metas a serem almejadas pelo nosso projeto
 
-Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e definimos as seguintes questões de cada meta:
+Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o site e escolhemos as metas, as quais eram mais críticas em comparação as outras e em caso de termos mais tempos poderiamos focar em outras, mas para se iniciar o projeto discutimos e definimos, as seguintes questões relacionadas as metas e as metas aplicadas:
 
 
 ### **Eficácia**: 
 
  - **Pergunta**: O domínio serve ao seu propósito inicial?</br>
 
- - **Meta aplicada**: O site no quesito eficácia apresenta um bom potencial e cumpre sua atividades com excelência.
+ - **Meta aplicada**: Sem meta, o site no quesito eficácia apresenta um bom potencial e cumpre sua atividades com excelência.
 
 ### **Eficiência**: 
 
  - **Pergunta**: O site permite aos usuários atingir um alto nível de produtividade em suas atividades?</br>
 
- - **Meta aplicada**: O site do Banco Central do Brasil oferece ao usuário um alto nível de produtividade e atividades realizadas com poucos passos. Assim, o site já cumpre a meta de eficiência.
+ - **Meta aplicada**: Sem meta, o site do Banco Central do Brasil oferece ao usuário um alto nível de produtividade e atividades realizadas com poucos passos. Assim, o site já cumpre a meta de eficiência.
 
 ### **Segurança**: 
 
@@ -50,7 +50,7 @@ Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e d
 
  - **Pergunta**: O usuário recebe um feedback visual do que está acontecendo em tempo real? O domínio oferece o conjunto adequado de funções para que o usuário realize suas tarefas?</br>
 
- - **Meta aplicada**: No quesito utilidade o site fornece as medidas e funcionalidades necessárias ao usuário para produção do produto de interesse, já atendendo a esta meta. 
+ - **Meta aplicada**: Sem meta, no quesito utilidade o site fornece as medidas e funcionalidades necessárias ao usuário para produção do produto de interesse, já atendendo a esta meta. 
 
 ### **Aprendizagem**:
 
