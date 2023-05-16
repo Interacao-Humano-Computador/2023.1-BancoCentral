@@ -51,6 +51,25 @@ A Tabela 2 fornece os dados das realizações, junto de suas datas, dos artefato
     <p> <b>Tabela 2</b>: Ponto de Controle Realizado 2 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
+## Cronograma Ponto de Controle 3
+A tabela 3 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 3. Faz-se observar que houve um atraso no encamiamento, por parte do monitor do grupo, da avaliação do ponto de controle anterior, sendo entregue somente no dia da entrega desde ponto de controle. Com isso, algumas das correções esperadas para o ponto de controle anterior não foram completadas a tempo desta entrega.
+
+| Atividades | Data de entrega | Autor(es) | Data de revisão | Revisor(es) |
+| :--------- | :-------------: | :-------- | :-------------: | :---------- |
+| 1. Correção dos artefatos Ponto de Controle 2 | - | Rafael Bosi | 15/05/2023 | Larissa Gomes |
+| 2. Definir os princípios gerais do projeto | 14/05/2023 | Rafael Bosi e Mizael Santos | 15/05/2023 | Bruno Ribeiro |
+| 3. Determinar as metas de usabilidade | 08/05/2023 | Bruno Ribeiro e Igor Penha | 08/05/2023 | Larissa Gomes |
+| 4. Criar o guia de estilo | 13/05/2023 | Larissa Gomes | 13/05/2023 | Giovanni Alvissus |
+| 5. Determinar as características da plataforma para o projeto | 14/05/2023 | Lucas Gobbi | 14/05/2023 | Rafael Bosi |
+| 6. Atualizar GitPage | 15/05/2023 | Larissa Gomes | 15/05/2023 | Giovanni Alvissus |
+| 7. Gravação da apresentação | 15/05/2023 | Bruno Ribeiro, Igor Penha, Giovanni, Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos e Rafael Bosi | 15/05/2023 | Bruno Ribeiro |
+| 8. Edição da apresentação | 15/05/2023 | Bruno Ribeiro | 15/05/2023 | Lucas Bergholz |
+| 9. Cronograma Executado | 15/05/2023 | Bruno Ribeiro | 15/05/2023 | Giovanni Alvissus |
+
+<div style="text-align: center">
+    <p> <b>Tabela 3</b>: Ponto de Controle 3 (Fonte: RIBEIRO, Bruno. 2023).</p>
+</div>
+
 ## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf. Acesso em: 23 de Abril de 2023;
@@ -64,5 +83,5 @@ A Tabela 2 fornece os dados das realizações, junto de suas datas, dos artefato
 | 23/04/2023 | `1.0` | Criação do cronograma realizado 1 | [Rafael Bosi](https://github.com/StrangeUnit28) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 24/04/2023 | `1.1` | Correção das das datas de entrega e revisão | [Larissa Gomes](https://github.com/larigs)| 25/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 08/05/2023 | `2.0` | Adição ponto de controle realizado 2 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-
+| 15/05/2023 | `3.0` | Adição ponto de controle realizado 3 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 15/05/2023 | [Giovanni Alvissus](https://github.com/larigs) |
 </div>
