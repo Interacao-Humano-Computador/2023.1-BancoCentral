@@ -68,14 +68,14 @@ Agradecemos a sua colaboração!
 </div>
 -----
 
-### Bibliografia
+## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da matéria. Disponível em: [aqui](https://aprender3.unb.br/pluginfile.php/2523434/mod_resource/content/3/Apresentacao%20Cap05.pdf).
 
 
-### Histórico de Versões
+## Histórico de Versões
 
-| Data       | Versão    | Descrição            | Autor(es)         | Data de revisão |Revisor(es) |
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | ---------- | --------- | -------------------- | ----------------- | --------------- | ---------- |
 | 07/05/2023 | `1.0`     | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 

@@ -45,11 +45,11 @@
 
 - ### Simplicidade nas estruturas das tarefas:
 
-<div align="justify"> Norman (1988) recomenda simpliﬁcar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Porém no site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>, existem ainda algumas tarefas que para o usuário concluir exigem muitas atepas, como por exemplo, o acesso a um curso, como pode ser análisado no artefato de <a href="docs/analise_requisitos/analise_tarefas.md">Análise de tarefas</a>. Outro exemplo pode ser a dificuldade na navegação pelos menus so site, pois apresenta uma série de etapas que devem ser realizadas para encontrar uma funcionalidade, como pode ser visto na Figura 1. 
+<div align="justify"> Norman (1988) recomenda simpliﬁcar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Porém no site do Banco Central do Brasil, existem ainda algumas tarefas que para o usuário concluir exigem muitas atepas, como por exemplo, o acesso a um curso, como pode ser análisado no artefato de <a href="docs/analise_requisitos/analise_tarefas.md">Análise de tarefas</a>. Outro exemplo pode ser a dificuldade na navegação pelos menus so site, pois apresenta uma série de etapas que devem ser realizadas para encontrar uma funcionalidade, como pode ser visto na Figura 1. 
 
 <p align="justify">A Figura 1 apresenta a navegabilidade do site do Banco Cental do Brasil.</p>
   
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_prin_gerais/simplicidade2.png">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/prin_gerais/simplicidade2.png">
   
 <div align="center">
   <p> <b>Figura 1</b>: Navegabilidade do site Banco Central do Brasil (<a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>). </p>
@@ -59,7 +59,7 @@ Além da dificuldade em realizar algumas etapas podemos também citar quanto a s
 
 <p align="justify">A Figura 2 apresenta o excesso de informação do site do Banco Cental do Brasil.</p>
   
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/analise_requisitos/img_prin_gerais/simplicidade.png">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/prin_gerais/simplicidade.png">
   
 <div align="center">
   <p> <b>Figura 2</b>: Excesso de informação do site do Banco Cental do Brasil (Fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>). </p>
@@ -69,17 +69,17 @@ Além da dificuldade em realizar algumas etapas podemos também citar quanto a s
 
 - ### Equilíbrio entre controle e liberdade do usuário:
 
-<div align="justify"> O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> se mostra bem permissivo nesse sentido, uma vez que o usuário tem controle de toda e qualquer tarefa necessária.
+<div align="justify"> O site do Banco Central do Brasil se mostra bem permissivo nesse sentido, uma vez que o usuário tem controle de toda e qualquer tarefa necessária.
 </div>
 
 - ### Consistência e padronização:
 
-<div align="justify"> O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> possui um layout bem padronizado e ícones bem explicativos, o que fazem com que o usuário tenha um aprendizado mais efetivo e navegabilidade fique mais fluida.
+<div align="justify"> O site do Banco Central do Brasil possui um layout bem padronizado e ícones bem explicativos, o que fazem com que o usuário tenha um aprendizado mais efetivo e navegabilidade fique mais fluida.
 </div>
 
 - ### Promovendo a eficiência do usuário:
 
-<div align="justify"> Como o site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> não possui um login logo que se acessa a plataforma, o sistema não salva informações de navegação do usuário, por exemplo, quais abas foram acessadas recentemente ou quais valores o usuário colocou para converter a moeda, o que compromete a eficiência do usuário.
+<div align="justify"> Como o site do Banco Central do Brasil não possui um login logo que se acessa a plataforma, o sistema não salva informações de navegação do usuário, por exemplo, quais abas foram acessadas recentemente ou quais valores o usuário colocou para converter a moeda, o que compromete a eficiência do usuário.
 
 <p>Além de tais problemas pode também ser visto como um, a navegabilidade nos menus do site, pois podem ser muito custosas, como visto na Figura 2, e às vezes pouco intuitiva ainda mais para novos usuários, dessa forma a eficiência do usuário pode ser comprometida em detrimento do excesso de informação e organização dos dados que o site oferece.</p>
 
@@ -87,22 +87,22 @@ Além da dificuldade em realizar algumas etapas podemos também citar quanto a s
 
 - ### Antecipação das necessidades do usuário:
 
-<div align="justify"> Como explicado acima, o site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> não possui um login logo que se acessa a plataforma, ou seja, não possui um sistema de memorização, sendo assim, o site não guarda informações de acessos recentes do usuário, o que faz com que a plataforma não antecipe as ações do usuário, ou seja, toda tarefa deve ser feita do zero, caso o usuário deixe a aplicação.
+<div align="justify"> Como explicado acima, o site do Banco Central do Brasil não possui um login logo que se acessa a plataforma, ou seja, não possui um sistema de memorização, sendo assim, o site não guarda informações de acessos recentes do usuário, o que faz com que a plataforma não antecipe as ações do usuário, ou seja, toda tarefa deve ser feita do zero, caso o usuário deixe a aplicação.
 </div>
 
 - ### Visibilidade e reconhecimento:
 
-<div align="justify"> O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> possui ícones bem intuitivos e padronizados sobre que tarefas os mesmos representam, o que permite que o usuário tenha uma navegabilidade facilitada. 
+<div align="justify"> O site do Banco Central do Brasil possui ícones bem intuitivos e padronizados sobre que tarefas os mesmos representam, o que permite que o usuário tenha uma navegabilidade facilitada. 
 </div>
 
 - ### Conteúdo relevante e expressão adequada:
 
-<div align="justify"> O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> apresenta aos usuários expressões formais e padrões adequados de comunicação. E quando o site utiliza termos mais avançados ou específicos, o sistema oferece formas de acessar conteúdos que explicam tais termos.
+<div align="justify"> O site do Banco Central do Brasil apresenta aos usuários expressões formais e padrões adequados de comunicação. E quando o site utiliza termos mais avançados ou específicos, o sistema oferece formas de acessar conteúdos que explicam tais termos.
 </div>
 
 - ### Projeto para erros:
 
-<div align="justify">O site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> possui mecanismos padronizados de recuperação de erros, que dependendo do tipo, até descrevem o erro. 
+<div align="justify">O site do Banco Central do Brasil possui mecanismos padronizados de recuperação de erros, que dependendo do tipo, até descrevem o erro. 
 </div>
 
 ## Conclusão

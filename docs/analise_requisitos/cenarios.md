@@ -165,7 +165,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 
 ## Histórico de Versões
 
-| Data | Versão | Descrição | Autor | Data de revisão | Revisor |
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 |:------:|:--------:|-----------|-------|:---------:|-----------|
 | 07/05/2023 | `1.0` | Criação do artefato | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 08/05/2023 | `1.1` | Correção de alguns textos | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |

@@ -67,12 +67,12 @@ A parte de suas habilidades comunicativas em seu ambiente de trabalho, também �
 
  - VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio. Acesso em 8 mai. 2023.
 
-## Histórico de Versão
+## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 07/05/2023 | Criação do documento | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
-| `1.1`  | 07/05/2023 | Criação do template das perguntas | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
-| `1.2`  | 08/05/2023 | Atualizando o documento | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 07/05/2023  | `1.0` | Criação do documento | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+| 07/05/2023  | `1.1` | Criação do template das perguntas | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+| 08/05/2023  | `1.2` | Atualizando o documento | [Mizael Santos](https://github.com/frmiza) e [Giovanni Alvissus](https://github.com/giovanni1106) | 08/05/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
 </div>
