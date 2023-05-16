@@ -1,30 +1,28 @@
+<div class="body">
+
 # Metodologia
-
-
 
 ## Introdução
 
-  Nesse projeto a equipe de desenvolvimento optou por se basear em algumas metodologia, de maneira, que a organização e o processo de desenvolvimento 
-fossem o mais eficiente possível, dentro da realidade do grupo. </br >
-  Importante resaltar que esse documento tem como principal objetivo descrever as metodologias em que nos baseamos durante o processo de criação.
-E, também, informar o que dessas metodologias se foi abstraido.
+<p align="justify">
 
-</br>
+Nesse projeto a equipe de desenvolvimento optou por se basear em algumas metodologia, de maneira, que a organização e o processo de desenvolvimento 
+fossem o mais eficiente possível, dentro da realidade do grupo. 
+Importante resaltar que esse documento tem como principal objetivo descrever as metodologias em que nos baseamos durante o processo de criação.
+E, também, informar o que dessas metodologias se foi abstraido.
 
 ## SCRUM Adaptado
 
-A fim de assegurar uma quantidade consistente e rápida de entregas, a metodologia ágil SCRUM foi adotada para organização do tempo do time. </br>
+A fim de assegurar uma quantidade consistente e rápida de entregas, a metodologia ágil SCRUM foi adotada para organização do tempo do time. 
 Foi definido o timebox de uma ou duas semanas para cada sprint variado com as necessidades e prazos de entrega, iniciado e finalizado pelas reuniões semanais nas segundas-feira às 20:00.
 
-As reuniões semanais têm como principais objetivos a realização de um  momento de review (_sprint review_) da sprint finalizada e organização das tarefas da sprint que se inicia (_sprint planning_). </br>
+As reuniões semanais têm como principais objetivos a realização de um  momento de review (_sprint review_) da sprint finalizada e organização das tarefas da sprint que se inicia (_sprint planning_). 
 A atribuição das tarefas foi feita no início do projeto e encontra-se disponível no [cronograma](/docs/planejamento/Cronograma.md). 
 Dessa forma, em cada _sprint planning_ será verificado com cada integrante a possibilidade de realizar a entrega à qual ele foi designado.
 A verificação ocorre com a intenção de tomar as melhore decisões para o grupo sem prejudicar o projeto.
 
 A organização das tarefas será feita por meio da criação de _issues_ e a revisão dos artefatos será feita durante o _pull request_ referente à cada funcionalidade ou documento adicionado.
 Portanto, será possível manter uma rastreabilidade das alterações e revisões efetuadas.
-
-</br>
 
 ## XP (eXtreme Programming) Adaptado
 
@@ -38,8 +36,6 @@ e, dessa maneira, mitigar os erros no projeto. Essa qualidade é visível no [cr
 
 Nós fizemos adaptações dentro dessa metodologia ao nosso contexto. De forma que não ficassemos sobrecarregados e possamos usurfruir da melhor maneira possível o que a metodologia tem a oferecer.
 
-</br>
-
 ## Domínio geral
 
 Com o objetivo de trzaer ao projeto mais qualidade e eficiencia, as nossas atividades são dividas de maneira que tenha um desenvolvedor e um Revisor(es) para que seja evitado envios e conclusões com erros. 
@@ -47,8 +43,6 @@ Com o objetivo de trzaer ao projeto mais qualidade e eficiencia, as nossas ativi
 Durante todo o processo, de maneira constante, nós dialogamos a maioria das decisões em grupo principalmente quando o ponto de análise é importante e pertinente a todos.
 
 Outrosim, em atividade com maior importãncia há a revisão em grupo para que todos os integrantes tenham conhecimento de maneira que todos os integrantes sempre tenham conhecimento de todo o produto.
-
-</br>
 
 ## Proposta de Comunicação
 
@@ -58,7 +52,6 @@ Os membros tem acesso a todas as plataformas disponíveis e essenciais de comuni
 
 Assim, sempre que tiver algum imprevisto com o integrante ou possibilidade de ajuda o grupo é avisado em uma da ferramentas de comunicação rápida
 
-</br>
 
 ## Encontros semanais
 
@@ -67,7 +60,6 @@ Também organizamos nosso cronograma e planejamos as tarefas de todo o projeto e
 
 E caso algum participante não possa comparecer à reunião, deixamos ela gravada e postada do YouTube, além de ter a [ata](/docs/atas) da reuniao
 
-</br>
 
 ## Políticas
 
@@ -89,10 +81,8 @@ git commit -m "tipoDeMudança(): descrição seguinificativa da alteração #iss
 
 As criações das _branchs_ devem seguir o padrão:
 
-> Nomes significativos em minusculo
-> _Branch_ linkada à issue
-> prefixo do que será executado na _branch_
->
+Nomes significativos em minusculo _Branch_ linkada à issue prefixo do que será executado na _branch_
+
 > Exemplo:
 > 
 > A _branch_ referente a correção do arquivo `metodologias.md` o seu nome deverá ser:
@@ -101,27 +91,30 @@ As criações das _branchs_ devem seguir o padrão:
  
 > e linkada a issue
 
-</br>
 
 ## Conclusão
-  Nossa equipe, de forma dinâmica e constante, busca sempre melhorar e otimizar o projeto, deixando-o mais claro, com menos possibilidade de erros. </br >
+
+Nossa equipe, de forma dinâmica e constante, busca sempre melhorar e otimizar o projeto, deixando-o mais claro, com menos possibilidade de erros. 
   
-  Portanto, a metodologia é uma forma de padronizar e expor o que será utilizado no projeto, como as _sprints_, _issues_, _pull request_, pareamento do SCRUM.
-Porém, não queriamos ficar presos a uma única metodologia, pois em certos momentos outras técnicas se encaixariam melhor como a XP. </br >
+Portanto, a metodologia é uma forma de padronizar e expor o que será utilizado no projeto, como as _sprints_, _issues_, _pull request_, pareamento do SCRUM.
+Porém, não queriamos ficar presos a uma única metodologia, pois em certos momentos outras técnicas se encaixariam melhor como a XP. 
 
-  Além de conter o dominio geral para que todos do grupo estejam cientes de todoas as etapas do trabalho, uma proposta de comunicação rápida e outra marcada com intenção de mitigar os erros. </br >
+Além de conter o dominio geral para que todos do grupo estejam cientes de todoas as etapas do trabalho, uma proposta de comunicação rápida e outra marcada com intenção de mitigar os erros. 
+
 E políticas de entregas para termos o padrão, assim, conhecendo uma será capaz de conhecer todas
-
-</br>
 
 ## Bibliografia
 
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
+</div>
+
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                     |  Autor(es)    | Revisor(es)                |
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------: | :--------: |:----------------------------: | :-----------: | :-----:                    |
-| `1.0`    | 20/04/2023 | Criação do documento          |   Igor Penha  | Bruno Ribeiro e Lucas Gobbi|
-| `1.1`    | 25/04/2023 | Atualizando a metodologia     |   Igor Penha  | Bruno Ribeiro              |
-| `1.2`    | 08/05/2023 | metodologia finalizada        |   Igor Penha  | Larissa Gomes              |
+| 20/04/2023 | `1.0` | Criação do documento         |   Igor Penha   | 20/04/2023 | Bruno Ribeiro e Lucas Gobbi|
+| 25/04/2023 | `1.1` | Atualizando a metodologia    |   Igor Penha   | 25/04/2023 | Bruno Ribeiro              |
+| 08/05/2023 | `1.2` | Metodologia finalizada       |   Igor Penha   | 08/05/2023 | Larissa Gomes              |
+
+</div>

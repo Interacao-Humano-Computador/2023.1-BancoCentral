@@ -9,5 +9,5 @@
     - [Site Selecionado](planejamento/site_selecionado.md)
 
         - [Planejamento avaliação do site](planejamento/avaliacoes/planavaliacaoVLC.md)
-        - [Avaliação do site](planejamento/avaliacoes/avaliacaoVLC.md)
+        - [Avaliação do site](planejamento/avaliacoes/avaliacaoBCB.md)
     - [Projeto de Design](planejamento/processo_de_design.md)

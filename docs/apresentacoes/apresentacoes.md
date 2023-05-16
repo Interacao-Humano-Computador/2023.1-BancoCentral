@@ -22,6 +22,15 @@ A apresentação da segunda etapa, o ponto de controle 2 pode ser vista no [Víd
 <p> <b>Vídeo 2</b>: Segunda apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
 
+## Apresentação 3
+A apresentação da terceira etapa, o ponto de controle 3 pode ser vista no [Vídeo 3](https://youtu.be/Va_PIroIAyk).
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Va_PIroIAyk" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 2</b>: Terceira apresentação (Fonte: Grupo 3. 2023). </p>
+</div>
+
+
 ## Bibliografia
 [1] YouTube. Disponível em: [YouTube](https://www.youtube.com). Acesso em: 24 de Abril de 2023.
 
@@ -31,4 +40,5 @@ A apresentação da segunda etapa, o ponto de controle 2 pode ser vista no [Víd
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 24/04/2023 | `1.0`  | Criação do artefato | [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 08/05/2023 | `2.0`  | Adição da apresentação 2 | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 15/05/2023 | `3.0`  | Adição da apresentação 3 | [Larissa Gomes](https://github.com/larigs) | 15/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 </div>
