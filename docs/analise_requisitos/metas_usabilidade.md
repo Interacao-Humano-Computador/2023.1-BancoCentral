@@ -67,7 +67,7 @@ Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e d
 
 ## Conclusão
 
- Portanto, nesse artefato, foi abordado as definições das metas de usabilidade e também as observamos, avaliamos e decidimos por intermédio de perguntas que direcionaram todo o processo para definirmos da melhor manira possível as nossas metas. E por fim, ficou decidido que as metas de usabilidade almejadas dentro do nosso projeto serão: 
+ Portanto, neste artefato, foi abordado as definições das metas de usabilidade e também as observamos, avaliamos e decidimos por intermédio de perguntas que direcionaram todo o processo para definirmos da melhor manira possível as nossas metas. E por fim, ficou decidido que as metas de usabilidade almejadas dentro do nosso projeto serão: 
  - Segurança: Voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência.
  - Aprendizagem: Deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente.
  - Memorização: Tornar as funcionalidades e locais de informações mais intuitivas e memoráveis.
