@@ -44,7 +44,15 @@ Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o 
 
  - **Pergunta**: O Sistema permite ao usuário reverter ações indesejadas facilmente? Há opções de confirmação para evitar que o usuário faça alguma ação ou alteração por engano?</br>
 
- - **Meta aplicada**: Em determinadas ações dentro do sistema do Banco Central, o usuário é redirecionado a uma nova guia, à qual é forçado a utilizar a saida de emergência. Dessa maneira, obtivemos como meta fornecer ao usuário maneira(s) de voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência.
+ - **Meta aplicada**: Em determinadas ações dentro do sistema do Banco Central, o usuário é redirecionado a uma nova guia, à qual é forçado a utilizar a saida de emergência. Dessa maneira, obtivemos como meta fornecer ao usuário maneira(s) de voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência, exemplificado na Figura 1.
+
+ <p align="justify">A Figura 1 apresenta a página, a qual usuário tem que recorrer a saída de emergência e que uma nova aba é aberta.</p>
+  
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/metas_usabilidade/seguranca.png">
+  
+<div align="center">
+  <p> <b>Figura 1</b>: Saída de emergência e Nova aba é aberta site do Banco Cental do Brasil (Fonte: <a href="https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormAplicacaoDepositosRegulares.do?method=exibirFormAplicacaoDepositosRegulares">Banco Central do Brasil</a>). </p>
+</div>
 
 ### **Utilidade**: 
 
@@ -91,6 +99,10 @@ Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o 
  [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021); Interação Humano-Computador e Experiência do usuário.
 
  [3] NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999
+
+ [4] BANCO CENTRAL DO BRASIL. Página inicial. Disponível em: https://www.bcb.gov.br/. Acesso em: 16 mai. 2023.
+
+ [5] BANCO CENTRAL DO BRASIL. Calculadora do Cidadão, Aplicação com Depósitos Regulares. Disponível em: https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormAplicacaoDepositosRegulares.do?method=exibirFormAplicacaoDepositosRegulares. Acesso em: 16 mai. 2023.
 
 
 
