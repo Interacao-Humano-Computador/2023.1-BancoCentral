@@ -10,7 +10,7 @@ Esse documento visa registrar o acontecimento da 5ª reunião do grupo 3,registr
 
 | <p align="center">Alunos presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| Bruno Ribeiro, Francisco Mizael, Giovanni Alvissus, </br> Igor Penha, Larissa Gomes e Lucas Gobbi| 17/05/2023 | 20:11 - 20:19 | Plataforma Teams |
+| Bruno Ribeiro, Francisco Mizael, Giovanni Alvissus, </br> Igor Penha, Larissa Gomes e Lucas Gobbi| 17/05/2023 | 21:11 - 21:19 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 1</b>: Dados da reunião (PENHA, Igor. 2023). </p>
