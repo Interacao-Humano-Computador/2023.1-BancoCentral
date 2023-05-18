@@ -32,11 +32,11 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 
 | <p align="center">Tarefa</p> | <p align="center">Responsável</p> | <p align="center">Revisor</p> |
 | ------ | ----------- | ------- |
-| Relatar os resultados do Story Board | Giovanni Alvissus | Bruno Ribeiro |
-| Relatar a análise de tarefas | Larissa Gomes e Rafael Bosi | Giovanni Alvissus e Mizael Santos |
+| Planejamento da avaliação do Story Board | Rafael Bosi, Francisco Mizael e Lucas Gobbi | Bruno Ribeiro |
+| Planejamento da avaliação da Análise de tarefas | Giovanni Alvissus e Larissa Gomes | Igor Penha |
 | Ata da reunião (incluindo gravação postada no Youtube) | Igor Penha | Lucas Gobbi |
-| Planejar a avaliação do protótipo de papel | Igor Penha e Bruno Ribeiro | Lucas Gobbi |
-| Planejar o relato dos resultados da avaliação do protótipo de papel | Lucas Gobbi e Francisco Mizael | Larissa Gomes |
+| Planejamento do relato da Análise de tarefas | Igor Penha e Bruno Ribeiro | Larissa Gomes |
+| Planejamento do relato dos resultados da avaliação do StoryBoard| Igor Penha e Bruno Ribeiro | Giovanni Alvissus |
 | Atualizar GitPage | Larissa Gomes | Lucas Gobbi |
 
 
