@@ -7,42 +7,116 @@
 </div>
 
 ## Objetivo
-<div align="justify">O objetivo deste documento é planejar a avaliação do storyboard, o qual permitirá, por meio da análise dele, desenvolver melhorias de design para a aplicação estudada.
+<div align="justify">O objetivo deste documento é planejar a avaliação do storyboard. O processo de avaliação básica de um projeto de IHC consiste em três etapas, preparação, coleta e interpretação, o qual permitirá, por meio da análise dele, desenvolver melhorias de design para a aplicação estudada caso necessário[2].
+</div>
+
+## Metodologia 
+<div align="justify">
+<p>Dado o contexto e o domínio do sistema ao avaliador. A avaliação deve ser guiada com base em requisições, reclamações ou comportamentos dos stakeholders do sistema[2]. E são detalhados por questões mais específicas que o avaliador deve responder.</p>
+<p>A metodologia escolhida para realizar a avaliação foi o framework DECIDE.</p>
 </div>
 
 ## Framework DECIDE
-<div align="justify">A metodologia utilizada para orientar o planejamento, execução e análise da avaliação é a do Framework DECIDE. O acrônimo DECIDE significa:
+<div align="justify"><p>O framework DECIDE abrange atividades interligadas e iterativas para coleta de dados obtidos dos usuários, dessa forma orientando o planejamento, execução e análise da avaliação. DECIDE[2]. O acrônimo DECIDE significa:</p>
+    <div>
+    <ul>
+        <li>D: determinar os objetivos gerais da avaliação e suas respectivas importâncias;
+        <li>E: explorar perguntas a serem respondidas;
+        <li>C: escolher (choose) os métodos de avaliação;
+        <li>I: identificar e administrar as questões práticas da avaliação;
+        <li>D: decidir como lidar com as questões éticas;
+        <li>E: avaliar (evaluate), interpretar e apresentar os dados.
+    </ul>
+    </div>
 </div>
-
-- D: determinar os objetivos gerais da avaliação e suas respectivas importâncias;
-- E: explorar perguntas a serem respondidas;
-- C: escolher (choose) os métodos de avaliação;
-- I: identificar e administrar as questões práticas da avaliação;
-- D: decidir como lidar com as questões éticas;
-- E: avaliar (evaluate), interpretar e apresentar os dados.
 
 ## Planejamento da Avaliação
 
 ### Objetivos Gerais (D)
 <div style="text-align: justify">
 
-A avaliação tem por objetivo identificar se o entrevistado está de fato inserido na realidade retratada no Storyboard, e se ele possui algo a acrescentar como ponto de vista, seja como alteração, deleção ou adição de algo.
-
+<p>A avaliação tem por objetivo identificar se o entrevistado está de fato inserido na realidade retratada no Storyboard, e se ele possui algo a acrescentar como ponto de vista, seja como alteração, deleção ou adição de algo. As etapas de avaliação podem ser descritas da seguinte forma:</p>
+    <div>
+    <ul>
+        <li>Analisar se as tarefas propostas pelos storyboard estão de acordo com as executadas dado o contexto dos usuários.
+        <li>Comparar os storyboards com a realidade e se são fidedignos entre si.
+        <li>Avaliar a necessidade de modificação dos storyboards.
+    </ul>
+    </div>
 </div>
 
-### Roteiro de Perguntas (E)
+### Roteiro de Entrevista (E)
 
 <div style="text-align: justify">
 
-Esta etapa envolve explorar as perguntas que você deseja responder por meio de sua avaliação. Você pode criar um roteiro com perguntas específicas que o ajudarão a reunir as informações necessárias para atingir seus objetivos. É importante garantir que as perguntas sejam claras e concisas e que cubram todos os aspectos relevantes do storyboard.
+<p>Esta etapa envolve explorar as perguntas que você deseja responder por meio de sua avaliação. Você pode criar um roteiro com perguntas específicas que o ajudarão a reunir as informações necessárias para atingir seus objetivos. É importante garantir que as perguntas sejam claras e concisas e que cubram todos os aspectos relevantes do storyboard.</p>
+</div>
+
+#### Ferramenta
+<div style="text-align: justify">
+
+<p> As entrevistas serão realizadas através da plataforma microsoft teams, pois a plataforma permite a gravação facilitada da entrevista. Os avaliadores e entrevistados também podem lançar mao de papel e caneta para documentar as perguntas e respostas.</p>
+</div>
+
+#### Teste piloto
+<div style="text-align: justify">
+<p>Antes da realização da entrevista será realizado uma entrevista piloto com os membros do trabalho, a importância do piloto se torna visível uma vez que ela nos permite identificar inconsistências com o roteiro da entrevista, a fim de consertar tais erros.</p>
+
+#### Cronograma
+<div style="text-align: justify">
+<p> O cronograma a seguir diz respeito as atividades realizadas acerca da realização e análise da entrevista.</p> 
+</div>
+
+| Data | Horário | Atividade | Autor(es) | Revisor(es) |
+| :-: | - | - | - | - |
+| 24/05/2023 | <br> 20:00 | Execução do teste piloto | Mizael Santos | Lucas Gobbi |
+| 24/05/2023 | <br> 20:30 | Entrevista com o usuário | Giovanni Assui | Mizael Santos |
+| 25/05/2023 | <br> até 22:00 | Registro dos resultados da entrevista | Lucas Gobbi | Giovanni Assui |
+<div style="text-align: center">
+    <p> <b>Tabela 1: </b> Cronograma das atividades realizadas (Fonte: SATOS, Mizael. 2023).</p>
+</div>
+
+
+<div style="text-align: justify">
+<p> O cronograma a seguir diz respeito as atividades realizadas acerca da realização e análise da entrevista.</p> 
+</div>
+
+| Data | Horário | Local | Entrevistador | Entrevistado |
+| :-: | - | - | - | - |
+| 24/05/2023 | <br> 20:30 | Online - Microsoft Teams | Mizael Santos | - |
+| 24/05/2023 | <br> 20:30 | Online - Microsoft Teams | Giovanni Assui | - |
+| 24/05/2023 | <br>  20:30 | Online - Microsoft Teams | Lucas Gobbi | - |
+<div style="text-align: center">
+    <p> <b>Tabela 2: </b> Cronograma das entrevistas realizadas (Fonte: SATOS, Mizael. 2023).</p>
+</div>
+
+#### Roteiro das perguntas 
+<div style="text-align: justify">
+<p> Para a realização bem sucedida da entrevista, será contextualizado a importância dos storyboards para usabilidade de um sistema, a fim de propor melhorias para o mesmo, e também será dada uma explicação mais detalhada sobre o processo para o respondente. Onde será apresentado o storyboard construído para o entrevistado para que ele responda às seguintes perguntas acerca do artefato planejado.</p>
+
+| Numero | Pergunta | Resposta | Objetivo |
+| :-: | - | - | - |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
+| 5 | As informações apresentadas no storyboard são compreensíveis? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o entendimento |
+| 6 | Houve dificuldade ao realizar a interação com o storyboard? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
+| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
+<div style="text-align: center">
+    <p> <b>Tabela 3: </b> Perguntas a serem realizadas (Fonte: SATOS, Mizael. 2023).</p>
+</div>
 
 </div>
+
 
 ### Métodos de Avaliação (C)
 
 <div style="text-align: justify">
 
-Existem vários métodos que você pode usar para avaliar um storyboard. Alguns métodos comuns incluem testes com usuários, avaliações de especialistas, avaliações heurísticas e orientações cognitivas. O método escolhido dependerá de seus objetivos e dos recursos disponíveis.
+</p>Existem vários métodos que você pode usar para avaliar um storyboard. Alguns métodos comuns incluem testes com usuários, avaliações de especialistas, avaliações heurísticas, orientações cognitivas e investigação com entrevistas. O método escolhido dependerá de seus objetivos e dos recursos disponíveis.</p>
+<p>Para realizar a avaliação, utilizaremos duas abordagens distintas, uma sendo a investigação com entrevistas, neste método podemos ter uma maior interação com o usuário do sistema, de forma que possamos obter os dados da sua experiência com o sistema diretamente.</p>
 
 </div>
 
@@ -50,7 +124,7 @@ Existem vários métodos que você pode usar para avaliar um storyboard. Alguns 
 
 <div style="text-align: justify">
 
-Existem vários métodos que você pode usar para avaliar um storyboard. Alguns métodos comuns incluem testes com usuários, avaliações de especialistas, avaliações heurísticas e orientações cognitivas. O método escolhido dependerá de seus objetivos e dos recursos disponíveis.
+<p>Para realização da investigação com entrevistas, é crucial definir metodicamente os participantes, uma vez que eles atendam ao <b>perfil de usuário identificado</b> e aceitem o termo de consentimento, a fim de satisfazer os <b>aspectos éticos</b> do processo, e também estejam dispostos a participar. Será realizada uma entrevista com o mesmo em uma data acordada pelas partes.</p>
 
 </div>
 
@@ -58,9 +132,30 @@ Existem vários métodos que você pode usar para avaliar um storyboard. Alguns 
 
 <div style="text-align: justify">
 
-É importante considerar quaisquer questões éticas que possam surgir durante sua avaliação. Por exemplo, você pode precisar obter o consentimento informado dos participantes ou garantir que sua privacidade seja protegida. Certifique-se de seguir todas as diretrizes e regulamentos éticos relevantes.
+<p>É importante considerar quaisquer questões éticas que possam surgir durante sua avaliação. Por exemplo, você pode precisar obter o consentimento informado dos participantes ou garantir que sua privacidade seja protegida. Certifique-se de seguir todas as diretrizes e regulamentos éticos relevantes.</p>
+<p>Para realização das metodologias que envolvam terceiros, como em entrevistas com usuário, é necessário que o mesmo esteja ciente dos aspectos éticos que os resguardam, dessa forma devem assinar um termo de consentimento para a realização do processo.</p>
+
+<h4>Termo de consentimento</h4>
+<p>Prezado participante,
+
+Convidamos você a participar da pesquisa universitária da matéria de Interação Humano Computador da Universidade de Brasília. O objetivo desta pesquisa é nos aproximarmos mais das pessoas que utilizam ou não o site do Banco Central do Brasil. Para isso, precisamos coletar informações contidas no questionário em questão.<p>
+
+<ul>
+<li>Sua participação é voluntária e os resultados obtidos serão utilizados para fins de pesquisa e poderão ser publicados em artigos ou apresentações, mas sem a identificação dos participantes.
+
+<li>Ao concordar em participar desta pesquisa, você estará dando o seu consentimento para a utilização das suas respostas para fins acadêmicos.
+
+<li>Se você decidir participar, por favor, leia e concorde com este termo de consentimento, indicando que você está ciente dos procedimentos da pesquisa e concorda em participar.
+</ul>
+
+<p>Ao participar da pesquisa, você estará indicando que leu e compreendeu as informações acima e concorda em participar do questionário. Entende que sua participação é voluntária e que pode desistir a qualquer momento, sem qualquer penalidade. Também entende que as informações coletadas serão anônimas e serão usadas apenas para fins acadêmicos.<p>
+
+<p>Agradecemos a sua colaboração!</p>
 
 </div>
+[] Sim 
+[] Não
+
 
 ### Estrutura do Relatório da Avaliação (E)
 
