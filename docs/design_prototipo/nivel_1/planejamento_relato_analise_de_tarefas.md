@@ -82,8 +82,7 @@ Exemplo:
 	
 Participantes:
 
-- 10 usuários finais do sistema Lichess, com idades variando entre 25 e 45 anos.
-- 5 jogadores experientes de xadrez, com classificação acima de 1800 pontos no sistema de rating Elo.
+- 10 usuários do sistema do Banco Central do Brasil, com idades variando entre 25 e 45 anos.
 
 Ao incluir esse sumário no planejamento do relato da análise de tarefas, você fornece uma visão geral dos avaliadores e participantes envolvidos no estudo. Isso ajuda a contextualizar o processo de avaliação e fornece informações importantes para a compreensão dos resultados apresentados no relatório final.
 
