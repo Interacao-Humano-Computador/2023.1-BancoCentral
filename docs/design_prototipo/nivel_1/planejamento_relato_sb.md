@@ -52,4 +52,4 @@ Ao final os avaliadores devem elaborar um relatório para documentar o que foi r
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 20/05/2023 | `1.0`  | Criação da documento de planejamento do relato de storyboard | [Igor Penha](https://github.com/igorpenhaa)  | 21/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 20/05/2023 | `1.0`  | Criação da documento de planejamento do relato de storyboard | [Igor Penha](https://github.com/igorpenhaa)  | 22/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
