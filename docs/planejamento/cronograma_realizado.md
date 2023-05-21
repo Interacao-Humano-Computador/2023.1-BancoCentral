@@ -60,7 +60,7 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 </div>
 
 | Atividades | Data de entrega | Autor(es) | Data de revisão | Revisor(es) |
-| :--------- | :-------------: | :-------- | :-------------: | :---------- |
+| --------- | :-------------: | -------- | :-------------: | ---------- |
 | 1. Correção dos artefatos Ponto de Controle 2 | 21/05/2023 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 21/05/2023 | Igor Penha |
 | 2. Definir os princípios gerais do projeto | 14/05/2023 | Rafael Bosi e Mizael Santos | 15/05/2023 | Bruno Ribeiro |
 | 3. Determinar as metas de usabilidade | 08/05/2023 | Bruno Ribeiro e Igor Penha | 08/05/2023 | Larissa Gomes |
