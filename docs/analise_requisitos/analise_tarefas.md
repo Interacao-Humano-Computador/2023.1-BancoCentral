@@ -13,9 +13,9 @@ Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto obje
 
 O site do Banco Central do Brasil (BCB) é um site majoritariamente informativo, disponibilizando de uma gama de informações. O usuário pode acessar informações como: história do BCB; agenda das Autoridades, Chefes de Unidade e Gabinetes; calendário de eventos relacionados ao sistema financeiro; cotação das moedas internacionais; conversor de moedas; estatísticas e identificadores econômicos; consulta às mudanças no sistema financeiro; informações quanto as cédulas e moedas (como identificar a autenticidade, moedas e notas antigas e comemorativas, formas de conservação); entre outros tipos de informação. Tendo em vista a quantidade de ramificações de um objetivo como o acesso a informações, foi decidido por não escolher essa tarefa para análise.
 
-As principais tarefas para análise identificadas no site do Banco Central do Brasil, foram: acessar dados financeiros pessoais (cheques sem fundo estornados, empréstimos e financiamentos, contas de bancos, chaves pix cadastradas, relatório de dívidas e operações de câmbio) e acessar cursos. 
+As principais tarefas para análise identificadas no site do Banco Central do Brasil, foram: consultar dados financeiros pessoais através do Registrato (cheques sem fundo estornados, empréstimos e financiamentos, contas de bancos, chaves pix cadastradas, relatório de dívidas e operações de câmbio), acessar cursos, consultar taxas de juros, consultar empresas vinculadas ao BCB e seus dados, consultar valores a receber do governo e calculadora do cidadão. 
 
-As técnicas de análise escolhidas foram o AHT (Análise Hierárquica de Tarefas) e o CTT (Árvore de Tarefas Concorrentes)
+As técnicas de análise escolhidas foram o AHT (Análise Hierárquica de Tarefas) e o CTT (Árvore de Tarefas Concorrentes).
 </div>
 
 ## Análise Hierárquica de Tarefas
@@ -53,11 +53,11 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 
 ### Motivo da escolha
 
-<p align="justify">Este método foi escolhido para analisar a tarefa <b>Acessar dados financeiros pessoais</b>, visto que é uma tarefa com muitas possibilidades, entretanto todas possuindo uma mesma ordem de operações. Tendo isso em vista, a separação em subobjetivos hierárquicos seria a melhor forma de entender o comportamento do usuário.</p>
+<p align="justify">Este método foi escolhido para analisar as tarefas <b>Consultar dados financeiros pessoais através do Registrato</b> e <b>Calculadora do cidadão</b>, esta última foi dividida em duas partes, sendo a tarefa da calculadora de correção de valores uma tarefa maior dentro da calculadora do cidadão, portanto foi decidido fazer uma análise separada para ela, visto que são tarefas com muitas possibilidades, entretanto todas possuem uma mesma ordem de operações. Tendo isso em vista, a separação em subobjetivos hierárquicos seria a melhor forma de entender o comportamento do usuário.</p>
 
-### Análise da Tarefa: Acessar dados financeiros pessoais
+### Análise da Tarefa HTA 1: Consultar dados financeiros pessoais através do Registrato
 
-<p align="justify">A principal tarefa oferecida pelo BCB é "acessar dados financeiros pessoais" disponibilizada através do Registrato. O Registrato é um sistema administrado pelo Banco Central que permite aos cidadãos terem acesso pela internet, de forma rápida e segura, a relatórios contendo informações sobre relacionamentos com as instituições financeiras, operações de crédito e de câmbio. Na  Tabela 2 está a análise detalhada representada em tabela.</p>
+<p align="justify">A principal tarefa oferecida pelo BCB é "consultar dados financeiros pessoais através do Registrato". O Registrato é um sistema administrado pelo Banco Central que permite aos cidadãos terem acesso pela internet, de forma rápida e segura, a relatórios contendo informações sobre relacionamentos com as instituições financeiras, operações de crédito e de câmbio. Na Tabela 2 está a análise detalhada representada em tabela.</p>
 
 |<p align="center">objetivos / operações</p> | <p align="center">Relações</p> | <p align="center">problemas e recomendações</p> |
 | --                                         | :----: |  ---- | 
@@ -85,7 +85,7 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 | 4. Gerar relatório	 |    |  |
 
 <div align="center">
-<p> <b>Tabela 2</b>: Tabela da representação HTA da tarefa "Acessar dados financeiros pessoais" (Fonte: GOMES, Larissa. 2023). </p>
+<p> <b>Tabela 2</b>: Tabela da representação HTA da tarefa "Consultar dados financeiros pessoais através do Registrato" (Fonte: GOMES, Larissa. 2023). </p>
 </div>
 
 <p align="justify">Com o resultado da análise descrita na Tabela 2, foi criado o diagrama HTA (Figura 2). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
@@ -93,14 +93,74 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 <img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/diagramaHTA.png" width="100%">
 
 <div align="center">
-<p> <b>Figura 2</b>: Diagrama da representação HTA da tarefa "Acessar dados financeiros pessoais" (Fonte: GOMES, Larissa. 2023). </p>
+<p> <b>Figura 2</b>: Diagrama da representação HTA da tarefa "Consultar dados financeiros pessoais através do Registrato" (Fonte: GOMES, Larissa. 2023). </p>
 </div>
 
-<p align="justify">A tabela e o diagrama (Tabela 2 e Figura 2) mostram a sequência de passos realizados por um usuário para atingir seu objetivo. Para um melhor entendimento, o objetivo principal foi decomposto em subobjetivos e com as suas relações para determinar a sequência de operações a serem realizadas.</p>
+### Análise da Tarefa HTA 2: Calculadora do Cidadão - Aplicação com depósitos regulares, Financiamento com prestações fixas e Valor futuro de um capital
+
+<p align="justify"> TEXTO DESCREVENDO A TAREFA </p>
+
+"Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Bruno"
+
+|<p align="center">objetivos / operações</p> | <p align="center">Relações</p> | <p align="center">problemas e recomendações</p> |
+| --                                         | :----: |  ---- | 
+| 0. acessar dados financeiros pessoais      |  1>2	 | **Input**: acesso ao registrato pelo gov.br, com cpf e senha, com a escolha do tipo de dado a ser acessado (em alguns casos a escolha das datas dos dados) e a concordância com os termos.</br> **Plano**: acessar registrato, **depois** escolher o tipo de dado a ser acessado, **em seguida** aceitar os termos e **por último** gerar relatório.</br> **Feedback**: Relatório de Serviços gerado.</br> **Problema**: o registrato apenas apresenta as informações para quem possui nível prata ou ouro em sua conta gov.br.</br> **Recomendação**: informar antes de acessar o registrato a necessidade de ter uma conta gov.br acima do nível prata. |
+| 1. acessar o registrato |  1>2  | **Plano**: informar o cpf e **depois** a senha do gov.br. </br> **Feedback**: tela menu de Serviços Registrato. |
+| 1.1.	Informar cpf  |    |  |
+| 1.2.	Informar senha do gov.br |    |  |
+| 2. Escolher tipo de dado a ser acessado |  1/2  | **Plano**: selecionar uma das opções, **entre** Cheques sem Fundos, Empréstimos e Financiamentos, Contas e Relacionamentos, Cadin Federal, Chaves Pix ou Câmbio. </br> **Feedback**: tela menu de solicitação de relatório. |
+| 2.1. Selecionar Cheques sem Fundos	 |    |  |
+| 2.2. Empréstimos e Financiamento |  1>2  | **Plano**: selecionar Empréstimos e Financiamentos, **em seguida** definir informações. |
+| 2.2.1. Selecionar Empréstimos e Financiamento	 |    |  |
+
+<div align="center">
+<p> <b>Tabela 3</b>: Tabela da representação HTA da tarefa "Calculadora do Cidadão, parte 1" (Fonte: RIBEIRO, Bruno. 2023). </p>
+</div>
+
+<p align="justify">Com o resultado da análise descrita na Tabela 3, foi criado o diagrama HTA (Figura 3). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
+
+<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/diagramaHTA.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 3</b>: Diagrama da representação HTA da tarefa "Calculadora do Cidadão, parte 1" (Fonte: RIBEIRO, Bruno. 2023). </p>
+</div>
+
+### Análise da Tarefa HTA 2.1: Calculadora do Cidadão - Correção de Valores
+
+<p align="justify"> TEXTO DESCREVENDO A TAREFA </p>
+
+"Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Bruno"
+
+|<p align="center">objetivos / operações</p> | <p align="center">Relações</p> | <p align="center">problemas e recomendações</p> |
+| --                                         | :----: |  ---- | 
+| 0. acessar dados financeiros pessoais      |  1>2	 | **Input**: acesso ao registrato pelo gov.br, com cpf e senha, com a escolha do tipo de dado a ser acessado (em alguns casos a escolha das datas dos dados) e a concordância com os termos.</br> **Plano**: acessar registrato, **depois** escolher o tipo de dado a ser acessado, **em seguida** aceitar os termos e **por último** gerar relatório.</br> **Feedback**: Relatório de Serviços gerado.</br> **Problema**: o registrato apenas apresenta as informações para quem possui nível prata ou ouro em sua conta gov.br.</br> **Recomendação**: informar antes de acessar o registrato a necessidade de ter uma conta gov.br acima do nível prata. |
+| 1. acessar o registrato |  1>2  | **Plano**: informar o cpf e **depois** a senha do gov.br. </br> **Feedback**: tela menu de Serviços Registrato. |
+| 1.1.	Informar cpf  |    |  |
+| 1.2.	Informar senha do gov.br |    |  |
+| 2. Escolher tipo de dado a ser acessado |  1/2  | **Plano**: selecionar uma das opções, **entre** Cheques sem Fundos, Empréstimos e Financiamentos, Contas e Relacionamentos, Cadin Federal, Chaves Pix ou Câmbio. </br> **Feedback**: tela menu de solicitação de relatório. |
+| 2.1. Selecionar Cheques sem Fundos	 |    |  |
+| 2.2. Empréstimos e Financiamento |  1>2  | **Plano**: selecionar Empréstimos e Financiamentos, **em seguida** definir informações. |
+| 2.2.1. Selecionar Empréstimos e Financiamento	 |    |  |
+
+<div align="center">
+<p> <b>Tabela 4</b>: Tabela da representação HTA da tarefa "Calculadora do Cidadão, parte 2" (Fonte: SANTOS, Mizael. 2023). </p>
+</div>
+
+<p align="justify">Com o resultado da análise descrita na Tabela 4, foi criado o diagrama HTA (Figura 4). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
+
+<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/diagramaHTA.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 4</b>: Diagrama da representação HTA da tarefa "Calculadora do Cidadão, parte 2" (Fonte: SANTOS, Mizael. 2023). </p>
+</div>
+
+
+### Conclusão das análises HTA
+
+<p align="justify">As tabelas e os diagramas (Tabelas 2 a 4 e Figuras 2 a 4) mostram a sequência de passos realizados por um usuário para atingir seu objetivo. Para um melhor entendimento, o objetivo principal foi decomposto em subobjetivos e com as suas relações para determinar a sequência de operações a serem realizadas.</p>
+
 
 ## Árvore de Tarefas Concorrentes (CTT)
-
-### Introdução
 
 <div align="justify">A Árvore de Tarefas Concorrentes (CTT) é uma técnica de design de interação que permite representar as tarefas que podem ser executadas simultaneamente pelo usuário em um sistema interativo. A técnica do CTT foi desenvolvida como uma extensão da Árvore de Tarefas (AT), uma metodologia que permite representar as tarefas que o usuário precisa realizar para atingir seus objetivos em um sistema.
 
@@ -111,11 +171,7 @@ Nesse modelo existem 4 tipos de tarefas:
 - Tarefas interativas, em que ocorrem diálogos usuário-sistema;
 - Tarefas abstratas, que não são tarefas em si, mas sim uma representação de uma composição de tarefas que auxilie a decomposição.
 
-Assim como na análise de tarefas haverão diferentes níveis hierárquicos.</div>
-
-### Motivo da Escolha
-
-<div align="justify">
+Assim como na análise de tarefas HTA, haverão diferentes níveis hierárquicos.
 
 A técnica de Árvore de Tarefas Concorrentes (CTT) foi escolhida como método de avaliação das tarefas dos usuários, pois:
 
@@ -125,7 +181,6 @@ A técnica de Árvore de Tarefas Concorrentes (CTT) foi escolhida como método d
 - Permite visualizar de forma clara as relações entre as tarefas e as dependências entre elas. Isso ajuda a entender o fluxo de trabalho do usuário.
 
 </div>
-
 
 ### Nomenclaturas utilizadas no CTT
 
@@ -138,29 +193,62 @@ Foi demonstrado como seriam as atividades com árvores de tarefas concorrentes (
 - T1 []>> T2: Tarefa 2 iniciará após o término da tarefa 1 e a informação da tarefa 1 é passada para a tarefa 2.
 - T1 [] T2: Especifica que o usuário deve escolher entre realizar a tarefa 1 ou a tarefa 2.
 
-Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.
-
-</div>
-
-### Motivo da escolha da tarefa
-
-<p align="justify">Essa tarefa foi selecionado pois para realiza-la são necessárias várias interações entre o usuário e o sistema. A técnica da Árvore de Tarefas Concorrentes consegue deixar essas interações dispostas de maneira hierarquica, além de criar uma organização cronológica entre as interações, o que deixa a tarefa disposta de maneira muito mais clara.</p>
-
-### CTT Acessar curso
-
-<img title="a title" alt="CTT Acessar Curso" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/ctt_acessar_curso.png" width="100%">
-
-<div align="center">
-<p> <b>Figura 3</b>: Árvore de Tarefas Concorrentes da tarefa "Acessar Curso" (Fonte: BOSI, Rafael. 2023). </p>
-</div>
-
-<p align="justify">A Figura 4, a seguir, representa uma legenda que pode ser utilizada para interpretar a CTT presente na Figura 3</p>
+Essas relações entre tarefas podem ser observadas na Figura 5, logo a seguir.</div>
 
 <img alt="Legenda da CTT" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/legenda_ctt.png" width="100%">
 
 <div align="center">
-<p> <b>Figura 4</b>: Legenda da Árvore de Tarefas Concorrentes (Fonte: BOSI, Rafael. 2023). </p>
+<p> <b>Figura 5</b>: Legenda da Árvore de Tarefas Concorrentes (Fonte: BOSI, Rafael. 2023). </p>
 </div>
+
+### Motivo da Escolha
+
+<p align="justify">Este método foi escolhido para analisar as tarefas <b>Acessar Cursos</b>, <b>Consultar taxas de juros</b>, <b>Consultar empresas vinculadas ao BCB e seus dados</b> e <b>Consultar valores a receber do governo</b>, visto que em todas essas atividades são necessárias interações entre o usuário e o sistema. A técnica da Árvore de Tarefas Concorrentes consegue deixar essas interações dispostas de maneira hierarquica, além de criar uma organização cronológica entre as interações, o que deixa a tarefa disposta de maneira muito mais clara.</p>
+
+
+### Análise da Tarefa CTT 1: Acessar curso
+
+<p align="justify"> A tarefa "acessar curso", consistem basicamente em escolher algum dos cursos ofertados pelo BCB, em seguida fazer login ou se registrar, após isso o acesso aos cursos estará disponível ao usuário. Na Figura 6 está a análise detalhada representada em diagrama e sua legenda disponível na Figura 5. </p>
+
+<img title="a title" alt="CTT Acessar Curso" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/ctt_acessar_curso.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 6</b>: Diagrama da representação CTT da tarefa "Acessar Curso" (Fonte: BOSI, Rafael. 2023). </p>
+</div>
+
+### Análise da Tarefa CTT 2: Consultar taxas de juros
+
+<p align="justify"> TEXTO DESCREVENDO A TAREFA </p>
+
+<img title="a title" alt="CTT Consultar taxas de juros" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/NOMEARQUIVO.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 7</b>: Diagrama da representação CTT da tarefa "Consultar taxas de juros" (Fonte: ALVISSUS, Giovanni. 2023). </p>
+</div>
+
+### Análise da Tarefa CTT 3: Consultar empresas vinculadas ao BCB e seus dados
+
+<p align="justify"> TEXTO DESCREVENDO A TAREFA </p>
+
+<img title="a title" alt="CTT Consultar empresas" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/NOMEARQUIVO.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 8</b>: Diagrama da representação CTT da tarefa "Consultar empresas" (Fonte: GOBBI, Lucas. 2023). </p>
+</div>
+
+### Análise da Tarefa CTT 4: Consultar valores a receber do governo
+
+<p align="justify"> TEXTO DESCREVENDO A TAREFA </p>
+
+<img title="a title" alt="Consultar valores" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/NOMEARQUIVO.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 9</b>: Diagrama da representação CTT da tarefa "Consultar valores" (Fonte: PENHA, Igor. 2023). </p>
+</div>
+
+### Conclusão das análises CTT
+
+<p align="justify">Os diagramas (Figuras 6 a 9) mostram a sequência de interações realizados por um usuário, tanto próprias quanto com o sistema e os passos do sistema para o usuário ser capaz de atingir seu objetivo. Para um melhor entendimento, o objetivo principal foi decomposto em subobjetivos e com as suas relações para determinar a sequência de interações a serem realizadas.</p>
 
 ## Referência Bibliográfica
 
@@ -169,7 +257,8 @@ Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.
 ## Bibliografia
 
 [1] SALES, André Barros. Apresentação Cap6 . Disponível em: https://aprender3.unb.br/pluginfile.php/2523447/mod_resource/content/4/Apresentacao%20cap06.pdf. Acesso em: 06 de Maio de 2023;
-[2] Banco Central do Brasil. Cursos Online . Disponível em: https://www.bcb.gov.br/cidadaniafinanceira/cursos. Acesso em: 06 de Maio de 2023;
+[2] Banco Central do Brasil. Registrato . Disponível em: https://registrato.bcb.gov.br/. Acesso em: 06 de Maio de 2023;
+[3] Banco Central do Brasil. Cursos Online . Disponível em: https://www.bcb.gov.br/cidadaniafinanceira/cursos. Acesso em: 06 de Maio de 2023;
 
 ## Histórico de Versões
 
@@ -180,4 +269,5 @@ Essas relações entre tarefas podem ser observadas na Figura 3, logo a seguir.
 | 08/05/2023 | `1.2`  | Adição da tabela e diagrama HTA | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 08/05/2023 | `1.3`  | Adição do CTT e da legenda | [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 08/05/2023 | `1.4`  | Correções dentro do documento | [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 |  [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 20/05/2023 | `2.0`  | Adição das novas tarefas, adaptação e correção dos textos | [Larissa Gomes](https://github.com/larigs) | 20/05/2023 |  [Rafael Bosi](https://github.com/StrangeUnit28) |
 </div>
