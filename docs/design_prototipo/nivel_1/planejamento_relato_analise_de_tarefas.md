@@ -57,10 +57,16 @@ No planejamento do relato da análise de tarefas utilizando o método de entrevi
 
 Além disso, para fornecer mais detalhes sobre o andamento do projeto, será incluído o cronograma executado. Com o objetivo de padronizá-lo, apresentaremos na Tabela 1 um exemplo de um item de cronograma.
 
-| Data | Entrevistador(es) | Entrevistado | Local | Horário |
-| :--: | :---------------: | :----------: | :---: | :-----: |
+<div align="justify">
+
+|    Data    | Horário de início  e fim | Local            | Entrevistadores |              Entrevistado              | 
+| :--------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
+| Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
+
+</div>
+	
 <div style="text-align: center">
-    <p> <b>Tabela 1</b>: Exemplo de cronograma executado (Fonte: RIBEIRO, Bruno. 2023).</p>
+    <p> <b>Tabela 1</b>: Modelo de entrevista executada (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 ### Sumário de avaliadores e participantes
@@ -126,5 +132,6 @@ Finalmente, serão apresentadas sugestões de correção para cada um dos proble
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 21/05/2023 | `1.0`  | Criação da documento de planejamento do relato da análise de tarefas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro)  | 22/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+| 23/05/2023 | `1.1`  | Padronização da tabela de entrevista realizada | [Rafael Bosi](https://github.com/Strangeunit28)  | 23/05/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 
 </div>
