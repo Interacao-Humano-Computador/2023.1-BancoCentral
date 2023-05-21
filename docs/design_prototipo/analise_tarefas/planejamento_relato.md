@@ -2,13 +2,13 @@
 
 # Planejamento do relato da análise de tarefas
 
-## 1. Introdução
+## Introdução
 
 <div align="justify">
 
 O objetivo deste documento é fornecer uma estrutura organizada para a coleta de dados durante a fase de avaliação da Análise de Tarefas, com base no documento "Planejamento da Avaliação da Análise de Tarefas". Sua principal função é estruturar e ordenar os dados coletados, a fim de facilitar a identificação de pontos de melhoria para o sistema do Banco Centra do Brasil e fornecer sugestões de redesign pelo grupo. O resultado deste planejamento será descrito no documento de relatório de resultados.
 
-## 2. Metodologia
+## Metodologia
 
 A escolha da metodologia a ser utilizada no documento de planejamento do relato da análise de tarefas depende dos objetivos da análise, da disponibilidade de recursos e das necessidades específicas do projeto. No entanto, algumas metodologias comuns podem ser consideradas:
 
@@ -30,7 +30,7 @@ Nesta fase do projeto utilizaremos o método de entrevistas, com os seguintes t�
 - Listagem de problemas encontrados;
 - Sugestões de reprojeto do sistema;
 
-## 3. Tópicos
+## Tópicos
 
 O relato dos resultados da avaliação da Análise de tarefas deverá ter documentado os seguintes tópicos:
 
@@ -123,7 +123,7 @@ Finalmente, serão apresentadas sugestões de correção para cada um dos proble
 
 </div>
 
-## Referências
+## Bibliografia
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
