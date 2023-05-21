@@ -6,11 +6,7 @@
 
 <div align="justify">
 
-De acordo com Simone Barbosa e Bruno Diniz [1], uma avaliação de IHC é importante nos processos de desenvolvimento que busquem produzir um sistema interativo com alta qualidade de uso. Orientando o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Os métodos de investigação permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com sistemas interativos. Sendo o principal objetivo detectar através dos usuários mais detalhes relacionados as tarefas observadas no site do Banco Central do Brasil, relatadas no documento de 
-
-## [Análise de Tarefas](ADICIONAR APOS COLOCAR NA GITPAGE),  -----------------------------------------------------------------------
-
-o melhor método de avaliação para alcançar esse objetivo foi definido como o de investigação, por meio de uma entrevista.
+De acordo com Simone Barbosa e Bruno Diniz [1], uma avaliação de IHC é importante nos processos de desenvolvimento que busquem produzir um sistema interativo com alta qualidade de uso. Orientando o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Os métodos de investigação permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com sistemas interativos. Sendo o principal objetivo detectar através dos usuários mais detalhes relacionados as tarefas observadas no site do Banco Central do Brasil, relatadas no documento de [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas), o melhor método de avaliação para alcançar esse objetivo foi definido como o de investigação, por meio de uma entrevista.
 
 A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 
@@ -72,8 +68,6 @@ O framework DECIDE fornece uma estrutura abrangente para planejar e conduzir ava
 
 ### D - Determinar os objetivos
 
-#### Objetivo
-
 <div allign="justify">
 
 O objetivo desta avaliação é obter informações dos _stakeholders_, especialmente dos usuários, sobre suas interações com as tarefas e identificar quaisquer problemas de interface que possam afetar negativamente a experiência de uso. Serão considerados critérios de qualidade, como usabilidade, experiência do usuário, acessibilidade e comunicabilidade. O planejamento é essencial nesse processo, pois ao avaliar a qualidade de uso de forma adequada, é possível evitar desperdício de tempo e recursos financeiros. Nessa avaliação, serão abordadas questões relacionadas aos seguintes aspectos:
@@ -128,33 +122,38 @@ O método utilizado foi o investigativo, por meio de uma entrevista. Trata-se de
 
 <div align="justify">
 
-Para selecionar os usuários que participarão da avaliação, iremos convidar usuários da plataforma que tenham perfis semelhantes aos identificados no 
-
-## [Perfil de Usuário]() e nas [Personas]().  ----------------------------------------------------------------------------------------
-
-Seguiremos a recomendação de Dumas e Redish, que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas[3]. A entrevista será conduzida por dois membros do grupo de IHC: um será responsável por conduzir a entrevista, enquanto o outro registrará as informações relevantes. Utilizaremos a plataforma Microsoft Teams, que é gratuita para os estudantes da Universidade de Brasília, portanto não haverá custos adicionais. Abaixo esta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
-
+Para selecionar os usuários que participarão da avaliação, iremos convidar usuários da plataforma que tenham perfis semelhantes aos identificados no [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario) e nas [Personas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas). Seguiremos a recomendação de Dumas e Redish, que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas [3]. A entrevista será conduzida por dois membros do grupo de IHC: um será responsável por conduzir a entrevista, enquanto o outro registrará as informações relevantes. Utilizaremos a plataforma Microsoft Teams, que é gratuita para os estudantes da Universidade de Brasília, portanto não haverá custos adicionais. A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 </div>
 </br>
 
-|    Data    | Horário de início  e fim | Local            | Entrevistadores |              Entrevistado              | 
-| :--------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
-| Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
+|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistadores |  Entrevistado  | 
+| :--------: | :--------: | :---------------------: | -------- | --------------- | ---------------- |
+| Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
 
 
 <div align="center">
-<p> Tabela 4: Modelo de ficha de entrevistas (Fonte: BOSI, Rafael. 2022).</p>
+<p> Tabela 4: Modelo de ficha de entrevistas (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+Os 5 participantes selecionados responderam que gostariam de participar de pesquisas futuras relacionadas ao projeto no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) realizado para identificação do perfil do usuário. A Tabela 5 relata o planejamento para realização das entrevistas, com data, horário, entrevistadores e entrevistados.
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    | 
+| :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
+|     1°     | 24/05/2023 | 18:00 - 18:15 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+|     2°     | 24/05/2023 | 18:20 - 18:35 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+|     3°     | 24/05/2023 | 18:40 - 18:55 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+|     4°     | 24/05/2023 | 19:00 - 19:15 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+|     5°     | 24/05/2023 | 19:20 - 19:35 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+
+<div align="center">
+<p> Tabela 5: Planejamento para realização das entrevistas (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ### D - Decidir as questões éticas
 
 <div align="justify">
 
-Quanto aos aspectos éticos, serão adotados os princípios éticos estabelecidos no documento de 
-
-## [Aspectos Éticos]()  ----------------------------------------------------------------------------------------------------------
-
-como diretrizes para conduzir a pesquisa de maneira ética e responsável. Os participantes podem visualizar e se informar sobre os detalhes do processo de consentimento no documento do 
+Quanto aos aspectos éticos, serão adotados os princípios éticos estabelecidos no documento de [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos) como diretrizes para conduzir a pesquisa de maneira ética e responsável. Os participantes podem visualizar e se informar sobre os detalhes do processo de consentimento no documento do 
 
 ## [termo de consentimento]() referente à entrevista.  ----------------------------------------------------------------------------
 
@@ -172,9 +171,15 @@ Antes de finalizar a análise dos resultados, será avaliado o grau de confiabil
 
 <div align="justify">
 
-Antes da realização da entrevista real com os usuários, será conduzido um teste piloto por dois avaliadores. Esse teste tem como objetivo simular uma sessão normal de avaliação para garantir o correto funcionamento de todas as ferramentas planejadas, verificar a eficácia do planejamento e analisar se a avaliação será capaz de fornecer os dados necessários para o estudo. Além disso, o teste piloto também servirá para verificar a clareza e objetividade da linguagem utilizada na entrevista, garantindo que as perguntas sejam compreendidas de maneira adequada pelos participantes.
+Antes da realização da entrevista real com os usuários, será conduzido um teste piloto por dois avaliadores. Esse teste tem como objetivo simular uma sessão normal de avaliação para garantir o correto funcionamento de todas as ferramentas planejadas, verificar a eficácia do planejamento e analisar se a avaliação será capaz de fornecer os dados necessários para o estudo. Além disso, o teste piloto também servirá para verificar a clareza e objetividade da linguagem utilizada na entrevista, garantindo que as perguntas sejam compreendidas de maneira adequada pelos participantes. Um planejamento para realização do teste piloto pode ser visto na Tabela 6.
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    | 
+| :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
+|      0     | 23/05/2023 | 18:00 - 18:15 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
  
- ## ADICIONAR CRONOGRMAA DO TESTE PILOTO TAMBEM
+<div align="center">
+<p> Tabela 6: Planejamento do teste piloto (Fonte: GOMES, Larissa. 2023).</p>
+</div>
 
 </div> 
 
@@ -192,7 +197,7 @@ Antes da realização da entrevista real com os usuários, será conduzido um te
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 20/05/2023 | `1.0` | Criação do documento | [Larissa Gomes](https://github.com/larigs) | 20/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
-| 20/05/2023 | `1.1` | Criação da Introdução e perguntas do questionário | [Larissa Gomes](https://github.com/larigs) | 20/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 20/05/2023 | `1.1` | Criação da Introdução, perguntas do questionário e cronogramas| [Larissa Gomes](https://github.com/larigs) | 20/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 20/05/2023 | `1.2` | Criação do Planejamento e textos do DECIDE | [Rafael Bosi](https://github.com/StrangeUnit28) | 20/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 
