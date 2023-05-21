@@ -8,7 +8,6 @@
 
 O storyboard consiste em quadros de desenhos em sequência que representam uma história de um usuário fazendo uso de alguma determinada funcionalidade do site. Nesse artefato, temos a finalidade de abordar sobre o planejamento dos relatos dos resultados da avaliação dos storyboards. Portanto, servirá como um esquema de como os resultados devem ser apresentado e verificado.
 
-
 ## Metodologia
 
 A metodologia a ser empregada para obtenção dos resultados será a entrevista. A entrevista terá um roteiro a ser seguido, ele foi criado com o objetivo de extrair o máximo de informação possível do entrevistado. As tarefas e funcionalidades ilustradas nos Storyboards são o alvo da investigação, de forma que a análise de tais tarefas e funcionalidades coincidam com o sistema avaliado. 
@@ -26,13 +25,14 @@ A partir daí temos que os critérios a serem avaliados são:
 
 ## Objetivo
 
-O objetivo e o escopo da avaliação referem-se aos elementos que definem o propósito e a abrangência do storyboard a ser realizada. Essas informações são importantes para estabelecer diretrizes claras e garantir que a avaliação seja conduzida de forma eficiente e focada nos resultados desejados.
+O objetivo de relatar como foi realizada a avaliação é com a finalidade de quais perguntas, qual a ferramenta utilizada para a realização da entrevista, documentar os dados coletados a partir da entrevista e mostrar os resultados obtidos.
 
 O objetivo da avaliação descreve o que se pretende alcançar com o storyboard. Pode envolver identificar problemas de usabilidade, avaliar a eficácia de um sistema, obter feedback dos usuários ou propor melhorias no design de uma interface. O objetivo deve ser específico, mensurável e relevante para o contexto do projeto.
 
-Ao estabelecer o objetivo e o escopo da avaliação no planejamento do relato do Storyboard, é possível alinhar as expectativas, definir os critérios de sucesso e garantir que a coleta de dados e a análise sejam direcionadas aos objetivos estabelecidos. Isso contribui para a eficácia e relevância do relatório final, fornecendo informações úteis e acionáveis para o desenvolvimento do sistema ou interface em questão.
+Ao estabelecer o objetivo e o escopo da avaliação no planejamento do relato do storyboard, é possível alinhar as expectativas, definir os critérios de sucesso e garantir que a coleta de dados. Isso contribui para a eficácia e relevância do relatório final, fornecendo informações úteis e acionáveis para o desenvolvimento do sistema ou interface em questão.
 
 Assim o objetivo geral é que os avaliadores elaborarem um relatório a partir da análise dos resultados do storyboard, da mesma maneira deve encontrar utilidades para serem melhoradas. Além de conter os objetivos da avaliação juntamente com uma verificação de se esses objetivos foram alcançados.
+
 
 ### Participante
 
@@ -42,13 +42,12 @@ Os participantes devem ser os avaliador(es) e o entrevistado.
  - Todas as resposta e considerações devem ser documentadas
 
 ### Tarefa
+No planejamento do relato do storyboard utilizando o método de entrevistas, é importante considerar os seguintes aspectos:
 
-No planejamento do relato do Storyboard utilizando o método de entrevistas, é importante considerar os seguintes aspectos:
-
-1. **Roteiro de entrevista**: Crie um roteiro de entrevista estruturado que inclua uma série de perguntas específicas relacionadas às tarefas avaliadas. As perguntas devem ser claras, objetivas e direcionadas para obter informações relevantes para a análise.
+1. **Roteiro de entrevista**: Crie um roteiro de entrevista estruturado que inclua uma série de perguntas específicas relacionadas aos storyboard. As perguntas devem ser claras, objetivas e direcionadas para obter informações relevantes para a análise.
 2. **Abordagem da entrevista**: Decida se as entrevistas serão individuais ou em grupo, dependendo do contexto e dos recursos disponíveis. As entrevistas individuais podem permitir uma exploração mais aprofundada das percepções e experiências dos participantes, enquanto as entrevistas em grupo podem facilitar a discussão e o compartilhamento de ideias entre os participantes.
 3. **Protocolo de registro**: Determine a forma como as entrevistas serão registradas, seja por meio de gravações, anotações ou ambos. Certifique-se de obter consentimento dos participantes para gravar as entrevistas, se aplicável, e garanta a confidencialidade e anonimato dos dados coletados.
-4. **Análise dos dados**: Planeje como os dados das entrevistas serão analisados. Isso pode envolver a identificação de temas recorrentes, codificação das respostas dos participantes ou utilização de técnicas de análise qualitativa ou quantitativa, dependendo dos objetivos do Storyboard.
+4. **Análise dos dados**: Planeje como os dados das entrevistas serão analisados. Isso pode envolver a identificação de temas recorrentes, codificação das respostas dos participantes ou utilização de técnicas de análise qualitativa ou quantitativa, dependendo dos objetivos da análise de tarefas.
 5. **Considerações éticas**: Esteja atento às questões éticas relacionadas às entrevistas, como o consentimento informado dos participantes, a privacidade e a proteção dos dados pessoais. Cumpra com as regulamentações e políticas relevantes de proteção de dados.
 
 Além disso, para fornecer mais detalhes sobre o andamento do projeto, será incluído o cronograma executado. Com o objetivo de padronizá-lo, apresentaremos na Tabela 1 um exemplo de um item de cronograma.
@@ -70,13 +69,13 @@ Todas sugestões dadas pelos entrevistados, sejam elas de melhorias e/ou correç
 
 ## Análise dos dados coletados
 
-Na etapa de análise dos dados coletados no planejamento do relato do Storyboard, é fundamental examinar e interpretar os dados de forma sistemática e rigorosa. A análise dos dados tem como objetivo identificar padrões, tendências e insights relevantes que surgiram durante a avaliação das tarefas. Aqui estão alguns aspectos a considerar ao realizar a análise dos dados:
+Na etapa de análise dos dados coletados no planejamento do relato do storyboard, é fundamental examinar e interpretar os dados de forma sistemática e rigorosa. A análise dos dados tem como objetivo identificar padrões, tendências e insights relevantes que surgiram durante as entrevistas. Aqui estão alguns aspectos a considerar ao realizar a análise dos dados:
 
 1. **Organização dos dados**: Organize os dados coletados de maneira lógica e estruturada para facilitar a análise. Isso pode envolver a criação de tabelas, gráficos ou categorização dos dados em temas ou categorias relevantes.
 2. **Análise quantitativa**: Realize análises quantitativas dos dados, se aplicável. Isso pode envolver cálculos de métricas de desempenho, taxas de sucesso, tempo médio gasto em tarefas ou outras medidas numéricas relevantes. Utilize ferramentas estatísticas adequadas para extrair insights significativos dos dados quantitativos.
 3. **Análise qualitativa**: Explore os dados qualitativos por meio de uma análise aprofundada e reflexiva. Identifique padrões, tendências, citações ou exemplos que ilustrem as experiências e percepções dos participantes. Procure por temas recorrentes, problemas comuns ou pontos de destaque nos relatos qualitativos.
 4. **Relacionamento entre os dados**: Analise as relações e conexões entre diferentes conjuntos de dados. Procure por associações, correlações ou dependências entre variáveis ou características específicas. Isso pode ajudar a identificar fatores que influenciam o desempenho dos usuários ou padrões de comportamento relevantes.
-5. **Interpretação dos resultados**: Após analisar os dados, interprete os resultados de maneira clara e objetiva. Identifique insights-chave, destacando descobertas importantes, pontos fortes e áreas de melhoria. Conecte os resultados à finalidade do Storyboard e ao objetivo do estudo.
+5. **Interpretação dos resultados**: Após analisar os dados, interprete os resultados de maneira clara e objetiva. Identifique insights-chave, destacando descobertas importantes, pontos fortes e áreas de melhoria. Conecte os resultados à finalidade da análise de tarefas e ao objetivo do estudo.
 6. **Apoio visual**: Utilize gráficos, tabelas, citações ou outros elementos visuais para auxiliar na apresentação dos resultados e tornar as informações mais acessíveis e compreensíveis para os leitores.
 
 ## Conclusão
@@ -93,6 +92,7 @@ O documento objetiva um planejamento de relato dos storyboard, traz quais pergun
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 20/05/2023 | `1.0`  | Criação da documento de planejamento do relato de storyboard | [Igor Penha](https://github.com/igorpenhaa)  | 21/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 20/05/2023 | `1.0`  | Criação da documento de planejamento do relato de storyboard | [Igor Penha](https://github.com/igorpenhaa)  | 21/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 21/05/2023 | `1.1`  | Detalhamento do documento com mais informações sobre com deve ser o relato | [Igor Penha](https://github.com/igorpenhaa)  | 21/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 </div>
