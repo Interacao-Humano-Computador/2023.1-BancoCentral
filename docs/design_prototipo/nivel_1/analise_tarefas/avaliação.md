@@ -15,6 +15,7 @@ o melhor método de avaliação para alcançar esse objetivo foi definido como o
 A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 
 | Número | <p align="center"><b>Tarefas que podem ser executadas no site do BCB</b></p> |
+| :----: | ------ |
 |    1   | Consultar dados financeiros pessoais através do Registrato |
 |    2   | Acessar cursos
 |    3   | Consultar taxas de juros |
