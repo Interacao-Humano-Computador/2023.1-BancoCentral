@@ -236,12 +236,11 @@ A realização de um teste piloto pode ajudá-lo a identificar quaisquer problem
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 20/05/2023 | `1.0`  | Criação do documento | [Lucas Gobbi](https://github.com/lucasbergholz) | - | - |
-| 20/05/2023 | `1.1`  | Adicionando introdução aos temas | [Giovanni Alvissus](https://github.com/giovanni1106) | - | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
-| 21/05/2023 | `1.2`  | Adicionando tabelas e textos | [Mizael Santos](https://github.com/frmiza) | - | - |
-| 22/05/2023 | `1.3`  | Completanto artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | - | - |
+| 20/05/2023 | `1.0`  | Criação do documento | [Lucas Gobbi](https://github.com/lucasbergholz) | 20/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 20/05/2023 | `1.1`  | Adicionando introdução aos temas | [Giovanni Alvissus](https://github.com/giovanni1106) | 20/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 21/05/2023 | `1.2`  | Adicionando tabelas e textos | [Mizael Santos](https://github.com/frmiza) | 22/05/2023 |  [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 22/05/2023 | `1.3`  | Completanto artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | 23/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 </div>
-
 
 
 </div>
