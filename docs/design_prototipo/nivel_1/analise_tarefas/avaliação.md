@@ -14,6 +14,8 @@ o melhor método de avaliação para alcançar esse objetivo foi definido como o
 
 A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 
+</div>
+
 | Número | <p align="center"><b>Tarefas que podem ser executadas no site do BCB</b></p> |
 | :----: | ------ |
 |    1   | Consultar dados financeiros pessoais através do Registrato |
@@ -23,14 +25,14 @@ A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 |    5   | Consultar valores a receber do governo | 
 |    6   | Calculadora do cidadão. |
 
-<div align="center">
 <p> <b>Tabela 1</b>: Tarefas do BCB (Fonte: GOMES, Larissa. 2023). </p>
-</div>
+
 
 ## Planejamento
 
-<div align="justify">O framework DECIDE é uma abordagem proposta por Sharp, Rogers e Preece [2] para orientar o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC). Ele consiste em uma série de atividades interligadas, incluindo:
-</div>
+<div align="justify">
+ 
+O framework DECIDE é uma abordagem proposta por Sharp, Rogers e Preece [2] para orientar o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC). Ele consiste em uma série de atividades interligadas, incluindo:
  
  -   Determinar os objetivos da avaliação: Definir os objetivos gerais da avaliação e identificar sua importância para as partes interessadas.
 
@@ -44,8 +46,10 @@ A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 
  -   Avaliar, interpretar e apresentar os dados: Avaliar os dados coletados, interpretá-los de forma apropriada e apresentar os resultados, levando em conta a confiabilidade, validade interna, validade externa e validade ecológica do estudo.
  
-<div align="justify">A Tabela 2 resume, essas informações e explica o significado da sigla DECIDE. </div>
-<br>
+A Tabela 2 resume, essas informações e explica o significado da sigla DECIDE. 
+
+</div>
+</br>
 
 | Letra | Significado | 
 | ----- | ----------------------------------------------------------- | 
@@ -56,12 +60,14 @@ A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 | D | Decidir como lidar com as questões éticas | 
 | E | (Evaluate) Avaliar, interpretar e apresentar os dados |
 
-<div align="center">
 <p> <b>Tabela 2</b>: Significado da sigla DECIDE(Fonte: BOSI, Rafael. 2023). </p>
-</div>
 
-<div align="justify">O framework DECIDE fornece uma estrutura abrangente para planejar e conduzir avaliações de IHC de maneira eficaz e sistemática, visando obter insights valiosos sobre a interação entre usuários e sistemas computacionais.
-</div>
+
+<div align="justify">
+ 
+O framework DECIDE fornece uma estrutura abrangente para planejar e conduzir avaliações de IHC de maneira eficaz e sistemática, visando obter insights valiosos sobre a interação entre usuários e sistemas computacionais.
+
+ </div>
 
 
 ### D - Determinar os objetivos
@@ -73,24 +79,26 @@ A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 O objetivo desta avaliação é obter informações dos _stakeholders_, especialmente dos usuários, sobre suas interações com as tarefas e identificar quaisquer problemas de interface que possam afetar negativamente a experiência de uso. Serão considerados critérios de qualidade, como usabilidade, experiência do usuário, acessibilidade e comunicabilidade. O planejamento é essencial nesse processo, pois ao avaliar a qualidade de uso de forma adequada, é possível evitar desperdício de tempo e recursos financeiros. Nessa avaliação, serão abordadas questões relacionadas aos seguintes aspectos:
 
 </div>
-<div allign="justify">
 
  - (1) Apropriação da técnologia pelos usuários 
  - (2) Conformidade com um padrão 
  - (3) Problemas na interface e interação 
 
-</div>
 
 ### E - Explorar perguntas 
 
-A Tabela 3 apresenta as perguntas a serem realizadas para avaliação na entrevista, as perguntas foram feitas com base nas sugestões para perguntas disponível no livro de Simone Barbosa e Bruno Diniz [1].
+<div allign="justify">
+ 
+ A Tabela 3 apresenta as perguntas a serem realizadas para avaliação na entrevista, as perguntas foram feitas com base nas sugestões para perguntas disponível no livro de Simone Barbosa e Bruno Diniz [1].
+ 
+ </div>
 
 | Ordem das perguntas | Objetivos Relacionados | Perguntas                             | Tipo de pergunta | Respostas possíveis  | 
 | ------------------- | ---------------------- | ------------------------------------- | :--------------: | :------------------: | 
 | 1°                  | -                      | Qual seu nome completo?               | Aberta           | Resposta discursiva  | 
 | 2°                  | -                      | Qual sua idade?                       | Aberta           | Resposta discursiva  |  
 | 3°                  | -                      | Qual sua ocupação?                    | Aberta           | Resposta discursiva  | 
-| 4°                  | 1                      | Já utilizou o site do Banco Central?  | Fechada          | Sim </br>Não</br>Caso sim, pular a 5º pergunta              | 
+| 4°                  | 1                      | Já utilizou o site do Banco Central?  | Fechada          | Sim </br>Não</br>Caso sim, pular a 5º pergunta | 
 | 5°                  | 1                      | Utilizaria alguma das tarefas do BCB? (apresentar ao entrevistado a Tabela 3)   | Fechada               | Sim </br>Não</br>Caso não, finalizar a entrevista              | 
 | 6°                  | 1                      | Qual das tarefas utiliza/utilizaria?  | Fechada          |  No mínimo uma tarefa de 1 a 6       | 
 | 7°                  | 3                      | Como é sua navegação pelo site?       | Aberta           | Resposta discursiva   |
@@ -104,13 +112,17 @@ A Tabela 3 apresenta as perguntas a serem realizadas para avaliação na entrevi
 | 15°                 | 2                      | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo?             | Fechada                | Sim</br>Não</br>Parcialmente |
 | 16°                 | 1                      | Quais são os pontos fortes e fracos em sua opnião?       | Aberta         | Resposta discursiva |
 
-<div style="text-align: center">
+<div align="center">
 <p> Tabela 3: Questões a serem tratadas na entrevista (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
 ### C - Escolher os métodos
 
-O método utilizado foi o método da entrevista, o qual é um método investigativo, que trata-se de uma conversa guiada por um roteiro de perguntas, na qual um entrevistador busca obter informação de um entrevistado [2]. Esse método foi escolhido, pois permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1]. Na entrevista as perguntas podem ser classificadas como abertas e fechadas, que são respectivamente, perguntas de natureza exploratória e perguntas com opções dentre as quais o entrevistado deve selecionar. O modelo de entrevista escolhido foi o de entrevista estruturada, no qual o entrevistador se mantém fiel ao roteiro, devido à inexperiência dos entrevistadores.
+<div align="justify"> 
+ 
+O método utilizado foi o investigativo, por meio de uma entrevista. Trata-se de uma conversa guiada por um roteiro de perguntas, na qual o entrevistador busca obter informações do entrevistado [2]. Esse método foi escolhido, pois permite ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1]. Na entrevista as perguntas podem ser classificadas como abertas e fechadas, que são respectivamente, perguntas de natureza exploratória e perguntas com opções dentre as quais o entrevistado deve selecionar. O modelo de entrevista escolhido foi o de entrevista estruturada, no qual o entrevistador se mantém fiel ao roteiro, devido à inexperiência dos entrevistadores.
+
+</div>
 
 ### I - Identificar questões práticas
 
@@ -123,15 +135,12 @@ Para selecionar os usuários que participarão da avaliação, iremos convidar u
 Seguiremos a recomendação de Dumas e Redish, que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas[3]. A entrevista será conduzida por dois membros do grupo de IHC: um será responsável por conduzir a entrevista, enquanto o outro registrará as informações relevantes. Utilizaremos a plataforma Microsoft Teams, que é gratuita para os estudantes da Universidade de Brasília, portanto não haverá custos adicionais. Abaixo esta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 
 </div>
-<br>
-
-<div align="justify">
+</br>
 
 |    Data    | Horário de início  e fim | Local            | Entrevistadores |              Entrevistado              | 
 | :--------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
 | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
 
-</div>
 
 <div align="center">
 <p> Tabela 4: Modelo de ficha de entrevistas (Fonte: BOSI, Rafael. 2022).</p>
@@ -164,6 +173,8 @@ Antes de finalizar a análise dos resultados, será avaliado o grau de confiabil
 <div align="justify">
 
 Antes da realização da entrevista real com os usuários, será conduzido um teste piloto por dois avaliadores. Esse teste tem como objetivo simular uma sessão normal de avaliação para garantir o correto funcionamento de todas as ferramentas planejadas, verificar a eficácia do planejamento e analisar se a avaliação será capaz de fornecer os dados necessários para o estudo. Além disso, o teste piloto também servirá para verificar a clareza e objetividade da linguagem utilizada na entrevista, garantindo que as perguntas sejam compreendidas de maneira adequada pelos participantes.
+ 
+ ## ADICIONAR CRONOGRMAA DO TESTE PILOTO TAMBEM
 
 </div> 
 
@@ -174,10 +185,6 @@ Antes da realização da entrevista real com os usuários, será conduzido um te
 [2] HARP, H.; ROGERS, Y.; PREECE, J. Interaction Design: Beyond Human-Computer Interaction. Wiley, 2007.
 
 [3] Dumas, Joseph S. e Redish, Janice C. (1999). A Practical Guide to Usability Testing. Intellect Books, GBR, 1st edition.
-
-## Bibliografia
-
-[1] SALES, André Barros. Apresentação Cap6 . Disponível em: https://aprender3.unb.br/pluginfile.php/2523447/mod_resource/content/4/Apresentacao%20cap06.pdf. Acesso em: 06 de Maio de 2023;
 
 
 ## Histórico de Versões
