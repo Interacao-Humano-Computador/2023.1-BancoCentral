@@ -1,6 +1,10 @@
+<div class="body">
+
 # Planejamento do Relato dos Resultados da avaliação do Storyboard
 
 ## 1. Introdução
+
+<div align="justify">
 
 O storyboard consiste em quadros de desenhos em sequência que representam uma história de um usuário fazendo uso de alguma determinada funcionalidade do site. Nesse artefato, temos a finalidade de abordar sobre o planejamento dos relatos dos resultados da avaliação dos storyboards. Portanto, servirá como um esquema de como os resultados devem ser apresentado e verificado.
 
@@ -43,6 +47,7 @@ Ao final os avaliadores devem elaborar um relatório para documentar o que foi r
 - Lista dos problemas encontrados;
 - Lista de sugestões de melhorias;
 
+</div>
 
 ## Referências
 
@@ -53,3 +58,5 @@ Ao final os avaliadores devem elaborar um relatório para documentar o que foi r
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 20/05/2023 | `1.0`  | Criação da documento de planejamento do relato de storyboard | [Igor Penha](https://github.com/igorpenhaa)  | 22/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+
+</div>
