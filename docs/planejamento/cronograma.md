@@ -202,6 +202,6 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 23/04/2023 | `1.3` | Criação dos pontos de controle 7 e 8 | [Rafael Bosi](https://github.com/StrangeUnit28) | 23/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 23/04/2023 | `1.4` | Criação do cronograma geral | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 24/04/2023 | `1.5` | Correção dos pontos de controle 2, 7, 8 e Entrega Final | [Larissa Gomes](https://github.com/larigs)| 24/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 24/04/2023 | `2.0` | Correção dos pontos de controle 4| [Larissa Gomes](https://github.com/larigs)| 24/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 21/05/2023 | `2.0` | Correção dos pontos de controle 4| [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
