@@ -83,15 +83,15 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 ## Cronograma Ponto de Controle 4
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| 1. Correção dos artefatos | 16/05 - 18/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 18/05 - 19/05 | Mizael Santos |
+| 1. Correção dos artefatos Ponto de Controle 3 | 16/05 - 18/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 18/05 - 19/05 | Mizael Santos |
 | 2. Planejar a avaliação do Story Board | 16/05 - 21/05 | Giovanni Alvissus, Lucas Gobbi, Mizael Santos | 21/05 - 22/05 | Bruno Ribeiro |
 | 3. Planejar a avaliação da Análise de Tarefas | 16/05 - 21/05 | Larissa Gomes e Rafael Bosi | 21/05 - 22/05 | Lucas Gobbi |
 | 4. Planejar o retato da avaliação do Story Board | 16/05 - 21/05 | Igor Penha | 21/05 - 22/05 | Larissa Gomes |
 | 5. Planejar o retato da avaliação da Análise de Tarefas | 16/05 - 21/05 | Bruno Ribeiro | 21/05 - 22/05 | Igor Penha |
-| 6. Atualizar GitPage | 21/05 - 22/05 | Larissa Gomes | 22/05 | Giovanni Alvissus |
-| 7. Gravação da apresentação | 22/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 22/05 | Rafael Bosi |
-| 8. Edição da apresentação | 22/05 - 23/05 | Mizael Santos | 22/05 - 23/05 | Rafael Bosi |
-| 9. Cronograma Executado| 22/05 | Larissa Gomes | 22/05 | Giovanni Alvissus |
+| 6. Atualizar GitPage | 21/05 | Larissa Gomes | 21/05 | Giovanni Alvissus |
+| 7. Gravação da apresentação | 21/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 21/05 | Rafael Bosi |
+| 8. Edição da apresentação | 21/05 - 22/05 | Mizael Santos | 21/05 - 22/05 | Rafael Bosi |
+| 9. Cronograma Executado| 21/05 | Larissa Gomes | 21/05 | Giovanni Alvissus |
 <div style="text-align: center">
     <p> <b>Tabela 5</b>: Ponto de Controle 4 (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
@@ -100,7 +100,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 ## Cronograma Ponto de Controle 5
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| 1. Correção dos artefatos | 24/05 - 26/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 26/06 - 27/06 | Giovanni Alvissus |
+| 1. Correção dos artefatos Ponto de Controle 4 | 24/05 - 26/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 26/06 - 27/06 | Giovanni Alvissus |
 | 2. Relatar os resultados do Story Board | 23/05 - 27/05 | Rafael Bosi | 27/05 - 28/05 | Bruno Ribeiro |
 | 3. Relatar a análise de tarefas | 23/05 - 27/05 | Bruno Ribeiro e Igor Penha | 27/05 - 28/05 | Giovanni Alvissus e Mizael Santos |
 | 4. Planejar a avaliação do protótipo de papel | 23/05 - 25/05 | Giovanni Alvissus e Larissa Gomes | 25/05 - 26/05 | Igor Penha |
@@ -117,7 +117,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 ## Cronograma Ponto de Controle 6.1
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| 1. Correção dos artefatos | 30/05 - 02/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 02/06 - 04/06 | Giovanni Alvissus |
+| 1. Correção dos artefatos Ponto de Controle 5 | 30/05 - 02/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 02/06 - 04/06 | Giovanni Alvissus |
 | 2. Planejar a avaliação dos artefatos da Etapa 1 | 30/05 - 03/06 | Rafael Bosi e Mizael Santos| 03/06 - 04/06 | Larissa Gomes |
 | 3. Planejar a avaliação dos artefatos da Etapa 2 | 30/05 - 03/06 | Bruno Ribeiro | 03/06 - 04/06 | Giovanni Alvissus |
 | 4. Planejar a avaliação dos artefatos da Etapa 3 | 30/05 - 03/06 | Giovanni Alvissus | 03/06 - 04/06 | Igor Penha |
@@ -135,7 +135,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 ## Cronograma Ponto de Controle 7
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
-| 1. Correção dos artefatos | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 09/06 | Giovanni Alvissus |
+| 1. Correção dos artefatos Ponto de Controle 6.1 | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 09/06 | Giovanni Alvissus |
 | 2. Relato dos resultados do Protótipo de Papel | 05/06 - 08/06 | Giovanni Alvissus e Larissa Gomes | 09/06 - 10/06 | Lucas Gobbi | 
 | 3. Planejamento da avaliação do protótipo de alta fidelidade | 05/06 - 08/06 | Bruno Ribiero e Mizael Santos | 09/06 - 10/06 | Rafael Bosi | 
 | 4. Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 07/06 - 09/06 | Igor Penha e Rafael Bosi | 10/06 - 11/06 | Larissa Gomes | 
@@ -149,7 +149,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 ## Cronograma Ponto de Controle 6.2
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
-| 1. Correção dos artefatos | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 10/06 | Mizael Santos |
+| 1. Correção dos artefatos Ponto de Controle 7 | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 10/06 | Mizael Santos |
 | 2. Relatar a avaliação dos artefatos da Etapa 1 | 13/06 - 17/06 | Rafael Bosi e Mizael Santos| 17/06 - 18/06 | Larissa Gomes |
 | 3. Relatar a avaliação dos artefatos da Etapa 2 | 13/06 - 17/06 | Bruno Ribeiro | 17/06 - 18/06 | Giovanni Alvissus |
 | 4. Relatar a avaliação dos artefatos da Etapa 3 | 13/06 - 17/06 | Giovanni Alvissus | 17/06 - 18/06 | Igor Penha |
@@ -202,5 +202,6 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 23/04/2023 | `1.3` | Criação dos pontos de controle 7 e 8 | [Rafael Bosi](https://github.com/StrangeUnit28) | 23/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 23/04/2023 | `1.4` | Criação do cronograma geral | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 24/04/2023 | `1.5` | Correção dos pontos de controle 2, 7, 8 e Entrega Final | [Larissa Gomes](https://github.com/larigs)| 24/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 24/04/2023 | `2.0` | Correção dos pontos de controle 4| [Larissa Gomes](https://github.com/larigs)| 24/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
