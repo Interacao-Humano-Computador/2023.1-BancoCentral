@@ -63,5 +63,7 @@
 | 22/04/2023 | `1.1`    | Criação botão de contraste de cores |  [Larissa Gomes](https://github.com/larigs)  |    22/04/2023     | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 29/04/2023 | `2.0`    | Atualização da Gitpage para o novo site |  [Larissa Gomes](https://github.com/larigs)  |    22/04/2023     | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 08/05/2023 | `2.1` | Adição dos artefatos do ponto de controle 2 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 15/05/2023 | `3.0` | Adição dos artefatos do ponto de controle 3 | [Larissa Gomes](https://github.com/larigs)| 15/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 21/05/2023 | `4.0` | Adição dos artefatos do ponto de controle 4 | [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
