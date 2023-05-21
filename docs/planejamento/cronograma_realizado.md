@@ -57,13 +57,11 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 ## Cronograma realizado Ponto de Controle 3
 
 <div align="justify">A tabela 3 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 3. Devido a entrega do relatório do Ponto de Controle 2 ter ocorrido no dia da final para a entrega do Ponto de Controle 3, não foi possível fazer as devidas correções. Portanto, esta entrega ocorreu sem as mudanças observadas no relatório. Tendo isso em vista, a correção dos artefatos do Ponto de Controle 2 ficará para o Ponto de Controle 4.
-
-Faz-se observar que houve um atraso no encamiamento, por parte do monitor do grupo, da avaliação do ponto de controle anterior, sendo entregue somente no dia da entrega desde ponto de controle. Com isso, algumas das correções esperadas para o ponto de controle anterior não foram completadas a tempo desta entrega.
 </div>
 
 | Atividades | Data de entrega | Autor(es) | Data de revisão | Revisor(es) |
-| :--------- | :-------------: | :-------- | :-------------: | :---------- |
-| 1. Correção dos artefatos Ponto de Controle 2 | - | - | - | - |
+| --------- | :-------------: | -------- | :-------------: | ---------- |
+| 1. Correção dos artefatos Ponto de Controle 2 | 21/05/2023 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 21/05/2023 | Igor Penha |
 | 2. Definir os princípios gerais do projeto | 14/05/2023 | Rafael Bosi e Mizael Santos | 15/05/2023 | Bruno Ribeiro |
 | 3. Determinar as metas de usabilidade | 08/05/2023 | Bruno Ribeiro e Igor Penha | 08/05/2023 | Larissa Gomes |
 | 4. Criar o guia de estilo | 13/05/2023 | Larissa Gomes | 13/05/2023 | Giovanni Alvissus |
@@ -75,6 +73,27 @@ Faz-se observar que houve um atraso no encamiamento, por parte do monitor do gru
 
 <div style="text-align: center">
     <p> <b>Tabela 3</b>: Ponto de Controle Executado 3 (Fonte: RIBEIRO, Bruno. 2023).</p>
+</div>
+
+
+## Cronograma Ponto de Controle Executado 4
+
+<div align="justify">A Tabela 4 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 4. P tópico 1 está com as datas vazias devido essa atividade não ter sido realizada. Segue abaixo:
+</div>
+
+| Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|-----------|
+| 1. Correção dos artefatos | - | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | - | - |
+| 2. Planejar a avaliação do Story Board | 21/05 | Giovanni Alvissus, Lucas Gobbi, Mizael Santos | 21/05 | Bruno Ribeiro |
+| 3. Planejar a avaliação da Análise de Tarefas | 21/05 | Larissa Gomes e Rafael Bosi | 21/05 | Lucas Gobbi |
+| 4. Planejar o retato da avaliação do Story Board | 21/05 | Igor Penha | 21/05 | Larissa Gomes |
+| 5. Planejar o retato da avaliação da Análise de Tarefas | 21/05 | Bruno Ribeiro | 21/05 | Igor Penha |
+| 6. Atualizar GitPage | 21/05 | Larissa Gomes | 21/05 | Giovanni Alvissus |
+| 7. Gravação da apresentação | 21/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 21/05 | Rafael Bosi |
+| 8. Edição da apresentação | 21/05 | Mizael Santos | 21/05 | Rafael Bosi |
+| 9. Cronograma Executado| 21/05 | Larissa Gomes | 21/05 | Giovanni Alvissus |
+<div style="text-align: center">
+    <p> <b>Tabela 4</b>: Ponto de Controle Executado 4 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Bibliografia
@@ -92,4 +111,5 @@ Faz-se observar que houve um atraso no encamiamento, por parte do monitor do gru
 | 08/05/2023 | `2.0` | Adição ponto de controle executado 2 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 15/05/2023 | `3.0` | Adição ponto de controle executado 3 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 15/05/2023 | [Giovanni Alvissus](https://github.com/larigs) |
 | 15/05/2023 | `3.1` | Correção texto ponto de controle 3 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 21/05/2023 | `4.0` | Adição ponto de controle 4 | [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 </div>
