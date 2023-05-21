@@ -24,20 +24,59 @@
 ## Planejamento da Avaliação
 
 ### Objetivos Gerais (D)
-<div align="justify">A avaliação tem por objetivo identificar se o entrevistado está de fato inserido na realidade retratada no Storyboard, e se ele possui algo a acrescentar como ponto de vista, seja como alteração, deleção ou adição de algo.
+<div style="text-align: justify">
+
+A avaliação tem por objetivo identificar se o entrevistado está de fato inserido na realidade retratada no Storyboard, e se ele possui algo a acrescentar como ponto de vista, seja como alteração, deleção ou adição de algo.
+
 </div>
 
 ### Roteiro de Perguntas (E)
 
+<div style="text-align: justify">
+
+Esta etapa envolve explorar as perguntas que você deseja responder por meio de sua avaliação. Você pode criar um roteiro com perguntas específicas que o ajudarão a reunir as informações necessárias para atingir seus objetivos. É importante garantir que as perguntas sejam claras e concisas e que cubram todos os aspectos relevantes do storyboard.
+
+</div>
+
 ### Métodos de Avaliação (C)
+
+<div style="text-align: justify">
+
+Existem vários métodos que você pode usar para avaliar um storyboard. Alguns métodos comuns incluem testes com usuários, avaliações de especialistas, avaliações heurísticas e orientações cognitivas. O método escolhido dependerá de seus objetivos e dos recursos disponíveis.
+
+</div>
 
 ### Aspectos Práticos da Avaliação (I)
 
+<div style="text-align: justify">
+
+Existem vários métodos que você pode usar para avaliar um storyboard. Alguns métodos comuns incluem testes com usuários, avaliações de especialistas, avaliações heurísticas e orientações cognitivas. O método escolhido dependerá de seus objetivos e dos recursos disponíveis.
+
+</div>
+
 ### Aspectos Éticos (D)
+
+<div style="text-align: justify">
+
+É importante considerar quaisquer questões éticas que possam surgir durante sua avaliação. Por exemplo, você pode precisar obter o consentimento informado dos participantes ou garantir que sua privacidade seja protegida. Certifique-se de seguir todas as diretrizes e regulamentos éticos relevantes.
+
+</div>
 
 ### Estrutura do Relatório da Avaliação (E)
 
+<div style="text-align: justify">
+
+A estrutura do seu relatório de avaliação dependerá dos seus objetivos e dos métodos utilizados. Geralmente, um relatório de avaliação deve incluir uma introdução, uma descrição dos métodos utilizados, uma apresentação dos resultados e uma discussão das implicações dos resultados.
+
+</div>
+
 ### Teste Piloto
+
+<div style="text-align: justify">
+
+A realização de um teste piloto pode ajudá-lo a identificar quaisquer problemas com seu plano de avaliação antes de iniciar a avaliação real. Durante um teste piloto, você pode testar seus métodos e procedimentos em pequena escala para garantir que tudo esteja funcionando conforme o esperado.
+
+</div>
 
 ## Referência Bibliográfica
 
@@ -49,7 +88,8 @@
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 20/05/2023 | `1.0`  | Criação do documento | [Lucas Gobbi](https://github.com/lucasbergholz) | 14/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 20/05/2023 | `1.0`  | Criação do documento | [Lucas Gobbi](https://github.com/lucasbergholz) | - | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 20/05/2023 | `1.1`  | Adicionando introdução aos temas | [Giovanni Alvissus](https://github.com/giovanni1106) | - | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 </div>
 
 
