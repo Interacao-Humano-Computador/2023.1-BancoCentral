@@ -1,3 +1,5 @@
+<!-- _navbar.md -->
+
 <!-- _sidebar.md -->
 
 - [Home](home.md)
