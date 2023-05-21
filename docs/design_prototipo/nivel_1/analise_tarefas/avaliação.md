@@ -71,51 +71,33 @@ O objetivo desta avaliação é obter informações dos _stakeholders_, especial
 <div allign="justify">
 
  - (1) Apropriação da técnologia pelos usuários 
- - (2) Ideias e alternativas de design 
- - (3) Conformidade com um padrão 
- - (4) Problemas na interface e interação 
+ - (2) Conformidade com um padrão 
+ - (3) Problemas na interface e interação 
 
 </div>
 
 #### E - Explorar perguntas 
 
-
-Em que difere do planejado?
-Como o sistema interativo afeta o modo de as pessoas se comunicarem e relacionarem?
-Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema? 
-E no tempo que levam para atingir seus objetivos? 
-E na sua satisfação com o sistema?
-O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?
-O quanto eles são motivados a explorar novas funcionalidades?
-Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
-Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? 
-Quais necessidades e desejos foram ou não atendidos?
-A tecnologia disponível pode oferecer maneiras mais interessantes ou efi cientes de os usuários atingirem seus objetivos?
-O que é possível modifi car no sistema interativo para adequá-lo melhor ao ambiente de trabalho?
-Por que os usuários não incorporaram o sistema no seu cotidiano?
-
-O usuário consegue operar o sistema?Ele atinge seu objetivo? Com quanta efi ciência? Em quanto tempo? Após cometer quantos erros?
-Que parte da interface e da interação o deixa insatisfeito?
-Que parte da interface o desmotiva a explorar novas funcionalidades?
-Ele entende o que signifi ca e para que serve cada elemento de interface?
-Ele vai entender o que deve fazer em seguida?
-Que problemas de IHC difi cultam ou impedem o usuário de alcançar seus objetivos? 
-Onde esses problemas se manifestam? 
-Com que frequência tendem a ocorrer? 
-Qual é a gravidade desses problemas? 
-Quais barreiras o usuário encontra para atingir seus objetivos?
-Ele tem acesso a todas as informações oferecidas pelo sistema?
-
+A Tabela 3 apresenta as perguntas a serem realizadas para avaliação na entrevista, as perguntas foram feitas com base nas sugestões para perguntas disponível no livro de Simone Barbosa e Bruno Diniz [1].
 
 | Ordem das perguntas | Objetivos Relacionados | Perguntas                             | Tipo de pergunta | Respostas possíveis  | 
 | ------------------- | ---------------------- | ------------------------------------- | :--------------: | :------------------: | 
-| 1°                  | -                      | Qual seu nome completo?               | Aberta           | -                    | 
-| 2°                  | -                      | Qual sua idade?                       | Aberta           | -                    | 
-| 3°                  | -                      | Qual sua ocupação?                    | Aberta           | -                    | 
-| 4°                  | 1                      | Já utilizou o site do Banco Central?  | Fechada          | Sim </br>Não</br>Caso sim, pular a 5º pergunta   | 
-| 5°                  | 1                      | Utilizaria alguma das tarefas do BCB? (apresentar ao entrevistado a Tabela 3)  | Fechada               | Sim </br>Não</br>Caso não, finalizar a entrevista         | 
-| 6°                  | 1                      | Qual das tarefas utiliza/utilizaria?  | Fechada          |  No mínimo uma tarefa de 1 a 6                   | 
-
+| 1°                  | -                      | Qual seu nome completo?               | Aberta           | Resposta discursiva  | 
+| 2°                  | -                      | Qual sua idade?                       | Aberta           | Resposta discursiva  |  
+| 3°                  | -                      | Qual sua ocupação?                    | Aberta           | Resposta discursiva  | 
+| 4°                  | 1                      | Já utilizou o site do Banco Central?  | Fechada          | Sim </br>Não</br>Caso sim, pular a 5º pergunta              | 
+| 5°                  | 1                      | Utilizaria alguma das tarefas do BCB? (apresentar ao entrevistado a Tabela 3)   | Fechada               | Sim </br>Não</br>Caso não, finalizar a entrevista              | 
+| 6°                  | 1                      | Qual das tarefas utiliza/utilizaria?  | Fechada          |  No mínimo uma tarefa de 1 a 6       | 
+| 7°                  | 3                      | Como é sua navegação pelo site?       | Aberta           | Resposta discursiva   |
+| 8°                  | 3                      | Consegue encontrar as tarefas que procura facilmente?    | Fechada               | Sim</br>Não  |
+| 9°                  | 1                      | Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         | Fechada      | Sim</br>Não</br>Talvez| 
+| 10°                 | 3                      | Ao utilizar utilizar uma funcionalidade, suas necessidades são completamente satisfeitas?       | Fechada               | Sim</br>Não</br>Parcialmente |
+| 11°                 | 3                      | Acredita que perde algum tempo devido alguma questão de interface?               | Fechada               | Sim</br>Não</br>Parcialmente |
+| 12°                 | 3                      | Alguma parte da interface e da interação o deixa insatisfeito? (Em caso afirmativo, perguntar qual seria essa parte)| Fechada/Aberta         | Sim</br>Não</br>Caso sim, adicionar resposta discursiva  |
+| 13°                 | 3                      | Alguma parte da interface o desmotiva a explorar novas funcionalidades? (Em caso afirmativo, perguntar qual seria essa parte)               | Fechada/Aberta         | Sim</br>Não</br>Caso sim, adicionar resposta discursiva  |
+| 14°                 | 3                      | Consegue entender com clareza como utilizar o site para realizar seu objetivo?    | Fechada               | Sim</br>Não</br>Parcialmente |
+| 15°                 | 2                      | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo?             | Fechada                | Sim</br>Não</br>Parcialmente |
+| 16°                 | 1                      | Quais são os pontos fortes e fracos em sua opnião?       | Aberta         | Resposta discursiva |
 
 <div style="text-align: center">
 <p> Tabela 3: Questões a serem tratadas na entrevista (Fonte: GOMES, Larissa 2023).</p>
