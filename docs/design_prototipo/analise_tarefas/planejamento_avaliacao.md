@@ -153,10 +153,7 @@ Os 5 participantes selecionados responderam que gostariam de participar de pesqu
 
 <div align="justify">
 
-Quanto aos aspectos éticos, serão adotados os princípios éticos estabelecidos no documento de [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos) como diretrizes para conduzir a pesquisa de maneira ética e responsável. Os participantes podem visualizar e se informar sobre os detalhes do processo de consentimento no documento do 
-
-## [termo de consentimento]() referente à entrevista.  ----------------------------------------------------------------------------
-
+Quanto aos aspectos éticos, serão adotados os princípios éticos estabelecidos no documento de [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos) como diretrizes para conduzir a pesquisa de maneira ética e responsável. Os participantes podem visualizar e se informar sobre os detalhes do processo de consentimento no documento do [termo de consentimento](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/termo-de-consentimento) referente à entrevista.
 </div>
 
 ### E - Avaliar, interpretar e apresentar os dados
