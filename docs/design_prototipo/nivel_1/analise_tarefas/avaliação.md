@@ -30,17 +30,21 @@ A Tabela 1 apresenta as tarefas a serem analisadas durante a avaliação.
 
 <div align="justify">O framework DECIDE é uma abordagem proposta por Sharp, Rogers e Preece [2] para orientar o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC). Ele consiste em uma série de atividades interligadas, incluindo:
 </div>
+ 
+ -   Determinar os objetivos da avaliação: Definir os objetivos gerais da avaliação e identificar sua importância para as partes interessadas.
 
-<div align="justify">
--   Determinar os objetivos da avaliação: Definir os objetivos gerais da avaliação e identificar sua importância para as partes interessadas.
--   Explorar perguntas a serem respondidas: Elaborar perguntas específicas que orientem a investigação e a análise durante a avaliação.
--   Escolher os métodos de avaliação: Selecionar os métodos mais adequados para responder às perguntas e atingir os objetivos, levando em consideração recursos disponíveis e conhecimento dos avaliadores.
--   Identificar e lidar com questões práticas: Abordar questões práticas envolvidas na avaliação, como recrutamento de usuários, preparação de equipamentos e gestão de prazos e orçamento.
--   Decidir sobre questões éticas: Considerar os cuidados éticos necessários ao envolver usuários na avaliação e garantir seu respeito e não prejudicá-los durante o processo.
--   Avaliar, interpretar e apresentar os dados: Avaliar os dados coletados, interpretá-los de forma apropriada e apresentar os resultados, levando em conta a confiabilidade, validade interna, validade externa e validade ecológica do estudo.
-</div>
+ -   Explorar perguntas a serem respondidas: Elaborar perguntas específicas que orientem a investigação e a análise durante a avaliação.
+
+ -   Escolher os métodos de avaliação: Selecionar os métodos mais adequados para responder às perguntas e atingir os objetivos, levando em consideração recursos disponíveis e conhecimento dos avaliadores.
+
+ -   Identificar e lidar com questões práticas: Abordar questões práticas envolvidas na avaliação, como recrutamento de usuários, preparação de equipamentos e gestão de prazos e orçamento.
+
+ -   Decidir sobre questões éticas: Considerar os cuidados éticos necessários ao envolver usuários na avaliação e garantir seu respeito e não prejudicá-los durante o processo.
+
+ -   Avaliar, interpretar e apresentar os dados: Avaliar os dados coletados, interpretá-los de forma apropriada e apresentar os resultados, levando em conta a confiabilidade, validade interna, validade externa e validade ecológica do estudo.
+ 
 <div align="justify">A Tabela 2 resume, essas informações e explica o significado da sigla DECIDE. </div>
-
+<br>
 
 | Letra | Significado | 
 | ----- | ----------------------------------------------------------- | 
@@ -76,7 +80,7 @@ O objetivo desta avaliação é obter informações dos _stakeholders_, especial
 
 </div>
 
-#### E - Explorar perguntas 
+### E - Explorar perguntas 
 
 A Tabela 3 apresenta as perguntas a serem realizadas para avaliação na entrevista, as perguntas foram feitas com base nas sugestões para perguntas disponível no livro de Simone Barbosa e Bruno Diniz [1].
 
@@ -165,7 +169,9 @@ Antes da realização da entrevista real com os usuários, será conduzido um te
 ## Referência Bibliográfica
 
 [1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 06/05/2023.
+
 [2] HARP, H.; ROGERS, Y.; PREECE, J. Interaction Design: Beyond Human-Computer Interaction. Wiley, 2007.
+
 [3] Dumas, Joseph S. e Redish, Janice C. (1999). A Practical Guide to Usability Testing. Intellect Books, GBR, 1st edition.
 
 ## Bibliografia
