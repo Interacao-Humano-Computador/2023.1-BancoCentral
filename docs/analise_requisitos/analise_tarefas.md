@@ -119,7 +119,7 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 
 <p align="justify">Com o resultado da análise descrita na Tabela 3, foi criado o diagrama HTA (Figura 3). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
 
-<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/diagramaHTA.png" width="100%">
+<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/NOMEARQUIVO.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 3</b>: Diagrama da representação HTA da tarefa "Calculadora do Cidadão, parte 1" (Fonte: RIBEIRO, Bruno. 2023). </p>
@@ -129,7 +129,7 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 
 <p align="justify"> TEXTO DESCREVENDO A TAREFA </p>
 
-"Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Bruno"
+"Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Mizael"
 
 |<p align="center">objetivos / operações</p> | <p align="center">Relações</p> | <p align="center">problemas e recomendações</p> |
 | --                                         | :----: |  ---- | 
@@ -148,7 +148,7 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 
 <p align="justify">Com o resultado da análise descrita na Tabela 4, foi criado o diagrama HTA (Figura 4). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
 
-<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/diagramaHTA.png" width="100%">
+<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/NOMEARQUIVO.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 4</b>: Diagrama da representação HTA da tarefa "Calculadora do Cidadão, parte 2" (Fonte: SANTOS, Mizael. 2023). </p>
