@@ -7,6 +7,7 @@
     - [2ª Reunião](atas/reuniao02.md)
     - [3ª Reunião](atas/reuniao03.md)
     - [4ª Reunião](atas/reuniao04.md)
+    - [5ª Reunião](atas/reuniao05.md)
 - [Planejamento](planejamento/cronograma.md)
     - [Avaliação do Site](planejamento/avaliacoes/AvaliacaoBCB.md)
     - [Cronograma](planejamento/cronograma.md)
