@@ -83,12 +83,12 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 ## Cronograma Ponto de Controle 4
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| 1. Correção dos artefatos | 16/05 - 18/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 18/05 - 19/05 | Lucas Gobbi |
-| 2. Relatar os resultados do Story Board | 16/05 - 21/05 | Rafael Bosi | 21/05 - 22/05 | Bruno Ribeiro |
-| 3. Relatar a análise de tarefas | 16/05 - 21/05 | Bruno Ribeiro e Igor Penha | 21/05 - 22/05 | Giovanni Alvissus e Mizael Santos |
-| 4. Planejar a avaliação do protótipo de papel | 16/05 - 21/05 | Giovanni Alvissus e Larissa Gomes | 21/05 - 22/05 | Igor Penha |
-| 5. Planejar o relato dos resultados da avaliação do protótipo de papel | 16/05 - 21/05 | Lucas Gobbi e Mizael Santos | 21/05 - 22/05 | Larissa Gomes |
-| 6. Atualizar GitPage | 21/05 - 22/05 | Larissa Gomes | 22/05 | Lucas Gobbi |
+| 1. Correção dos artefatos | 16/05 - 18/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 18/05 - 19/05 | Mizael Santos |
+| 2. Planejar a avaliação do Story Board | 16/05 - 21/05 | Giovanni Alvissus, Lucas Gobbi, Mizael Santos | 21/05 - 22/05 | Bruno Ribeiro |
+| 3. Planejar a avaliação da Análise de Tarefas | 16/05 - 21/05 | Larissa Gomes e Rafael Bosi | 21/05 - 22/05 | Lucas Gobbi |
+| 4. Planejar o retato da avaliação do Story Board | 16/05 - 21/05 | Igor Penha | 21/05 - 22/05 | Larissa Gomes |
+| 5. Planejar o retato da avaliação da Análise de Tarefas | 16/05 - 21/05 | Bruno Ribeiro | 21/05 - 22/05 | Igor Penha |
+| 6. Atualizar GitPage | 21/05 - 22/05 | Larissa Gomes | 22/05 | Giovanni Alvissus |
 | 7. Gravação da apresentação | 22/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 22/05 | Rafael Bosi |
 | 8. Edição da apresentação | 22/05 - 23/05 | Mizael Santos | 22/05 - 23/05 | Rafael Bosi |
 | 9. Cronograma Executado| 22/05 | Larissa Gomes | 22/05 | Giovanni Alvissus |
