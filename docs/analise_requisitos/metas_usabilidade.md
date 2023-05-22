@@ -25,38 +25,54 @@ Este artefato tem como propósito definir as metas de usabilidade, que, por sua 
 
 ## Metas a serem almejadas pelo nosso projeto
 
-Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e definimos as seguintes questões de cada meta:
+Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o site e escolhemos as metas, as quais eram mais críticas em comparação as outras e em caso de termos mais tempos poderiamos focar em outras, mas para se iniciar o projeto discutimos e definimos, as seguintes questões relacionadas as metas e as metas aplicadas:
 
 
 ### **Eficácia**: 
 
  - **Pergunta**: O domínio serve ao seu propósito inicial?</br>
 
- - **Meta aplicada**: O site no quesito eficácia apresenta um bom potencial e cumpre sua atividades com excelência.
+ - **Meta aplicada**: Sem meta, o site no quesito eficácia apresenta um bom potencial e cumpre sua atividades com excelência.
 
 ### **Eficiência**: 
 
  - **Pergunta**: O site permite aos usuários atingir um alto nível de produtividade em suas atividades?</br>
 
- - **Meta aplicada**: O site do Banco Central do Brasil oferece ao usuário um alto nível de produtividade e atividades realizadas com poucos passos. Assim, o site já cumpre a meta de eficiência.
+ - **Meta aplicada**: Sem meta, o site do Banco Central do Brasil oferece ao usuário um alto nível de produtividade e atividades realizadas com poucos passos. Assim, o site já cumpre a meta de eficiência.
 
 ### **Segurança**: 
 
  - **Pergunta**: O Sistema permite ao usuário reverter ações indesejadas facilmente? Há opções de confirmação para evitar que o usuário faça alguma ação ou alteração por engano?</br>
 
- - **Meta aplicada**: Em determinadas ações dentro do sistema do Banco Central, o usuário é redirecionado a uma nova guia, à qual é forçado a utilizar a saida de emergência. Dessa maneira, obtivemos como meta fornecer ao usuário maneira(s) de voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência.
+ - **Meta aplicada**: Em determinadas ações dentro do sistema do Banco Central, o usuário é redirecionado a uma nova guia, à qual é forçado a utilizar a saida de emergência. Dessa maneira, obtivemos como meta fornecer ao usuário maneira(s) de voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência, exemplificado na Figura 1.
+
+ <p align="justify">A Figura 1 apresenta a página, a qual usuário tem que recorrer a saída de emergência e que uma nova aba é aberta.</p>
+  
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/metas_usabilidade/seguranca.png">
+  
+<div align="center">
+  <p> <b>Figura 1</b>: Saída de emergência e Nova aba é aberta site do Banco Cental do Brasil (Fonte: <a href="https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormAplicacaoDepositosRegulares.do?method=exibirFormAplicacaoDepositosRegulares">Banco Central do Brasil</a>). </p>
+</div>
 
 ### **Utilidade**: 
 
  - **Pergunta**: O usuário recebe um feedback visual do que está acontecendo em tempo real? O domínio oferece o conjunto adequado de funções para que o usuário realize suas tarefas?</br>
 
- - **Meta aplicada**: No quesito utilidade o site fornece as medidas e funcionalidades necessárias ao usuário para produção do produto de interesse, já atendendo a esta meta. 
+ - **Meta aplicada**: Sem meta, no quesito utilidade o site fornece as medidas e funcionalidades necessárias ao usuário para produção do produto de interesse, já atendendo a esta meta. 
 
 ### **Aprendizagem**:
 
  - **Pergunta**: O usuário tem facilidade em aprender a usar o site?</br>
 
- - **Meta aplicada**: Dentro do sistema do Banco Central, o usuário tem dificuldade em aprender, pois o site possui muitas informações em sua tela inicial o que deixa o usuário, em primeira instância, perdido, sem saber como chegar ao seu destino de desejo, além de conter informações de difícil acesso por serem contra-intuitivas. Assim, obtivemos como meta deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente.
+ - **Meta aplicada**: Dentro do sistema do Banco Central, o usuário tem dificuldade em aprender, pois o site possui muitas informações em sua tela inicial o que deixa o usuário, em primeira instância, perdido, sem saber como chegar ao seu destino de desejo, além de conter informações de difícil acesso por serem contra-intuitivas. Assim, obtivemos como meta deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente como podemos observar na Figura 2.
+
+<p align="justify">A Figura 2 apresenta o excesso de informação do site do Banco Cental do Brasil.</p>
+  
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/prin_gerais/simplicidade.png">
+  
+<div align="center">
+  <p> <b>Figura 2</b>: Excesso de informação do site do Banco Cental do Brasil (Fonte: <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>). </p>
+</div>
 
 ### **Memorização**:
 
@@ -64,7 +80,18 @@ Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e d
 
  - **Meta aplicada**: O sistema do Banco Central não fornece suporte de interface para auxílio dos usuários, para as atividades menos frequentes dentro do site fazendo com que o usuário tenha que relembrar como acessar e utilizar determinadas funções oferecidas pelo site. Assim, prejudicando a capacidade de memorização. Dessa forma, obtivemos como meta deixar as funcionalidades e locais de informações mais memoráveis e intuitivas.
 
+
+## Conclusão
+
+ Portanto, neste artefato, foi abordado as definições das metas de usabilidade e também as observamos, avaliamos e decidimos por intermédio de perguntas que direcionaram todo o processo para definirmos da melhor manira possível as nossas metas. E por fim, ficou decidido que as metas de usabilidade almejadas dentro do nosso projeto serão: 
+ - Segurança: Voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência.
+ - Aprendizagem: Deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente.
+ - Memorização: Tornar as funcionalidades e locais de informações mais intuitivas e memoráveis.
+
+
 </div>
+
+
 
 ## Bibliografia
  [1] Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 09/05/2023.
@@ -73,6 +100,10 @@ Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e d
 
  [3] NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999
 
+ [4] BANCO CENTRAL DO BRASIL. Página inicial. Disponível em: https://www.bcb.gov.br/. Acesso em: 16 mai. 2023.
+
+ [5] BANCO CENTRAL DO BRASIL. Calculadora do Cidadão, Aplicação com Depósitos Regulares. Disponível em: https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormAplicacaoDepositosRegulares.do?method=exibirFormAplicacaoDepositosRegulares. Acesso em: 16 mai. 2023.
+
 
 
 ## Histórico de Versões
@@ -80,5 +111,6 @@ Com a intenção de definir as metas almeijadas no nosso projeto, discutimos e d
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :----: | :--: | :-------: | :---: | :-----: | :----------: |
 | 09/05/2023 | `1.0` | Documentação inicial | [Igor Penha](https://github.com/igorpenhaa) e [Bruno Ribeiro](https://github.com/brunoriibeiro) | 11/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 16/05/2023 | `1.1` | Atualização do documento | [Igor Penha](https://github.com/igorpenhaa) | 16/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 
 </div>

@@ -7,7 +7,7 @@
 Este artefato contém todas as apresentações gravadas sobre cada etapa do projeto.
 
 ## Apresentação 1
-A apresentação da primeira etapa, o ponto de controle 1 pode ser vista no [Vídeo 1](https://youtu.be/61j1hYdWNdw).
+A apresentação da primeira etapa, do ponto de controle 1, pode ser vista no [Vídeo 1](https://youtu.be/61j1hYdWNdw).
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/ZxD0aDZ2OSg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
@@ -15,21 +15,28 @@ A apresentação da primeira etapa, o ponto de controle 1 pode ser vista no [Ví
 </div>
 
 ## Apresentação 2
-A apresentação da segunda etapa, o ponto de controle 2 pode ser vista no [Vídeo 2](https://youtu.be/5BaOTaGgbGA).
+A apresentação da segunda etapa, do ponto de controle 2, pode ser vista no [Vídeo 2](https://youtu.be/5BaOTaGgbGA).
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/5BaOTaGgbGA" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/5BaOTaGgbGA" title="Ponto de controle 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 2</b>: Segunda apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
 
 ## Apresentação 3
-A apresentação da terceira etapa, o ponto de controle 3 pode ser vista no [Vídeo 3](https://youtu.be/Va_PIroIAyk).
+A apresentação da terceira etapa, do ponto de controle 3, pode ser vista no [Vídeo 3](https://youtu.be/Va_PIroIAyk).
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Va_PIroIAyk" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Va_PIroIAyk" title="Ponto de controle 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 3</b>: Terceira apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
 
+## Apresentação 4
+A apresentação da quarta etapa, do ponto de controle 4, pode ser vista no [Vídeo 4](https://youtu.be/8VGPiBEnoXY).
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/8VGPiBEnoXY" title="Ponto de controle 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 4</b>: Quarta apresentação (Fonte: Grupo 3. 2023). </p>
+</div>
 
 ## Bibliografia
 [1] YouTube. Disponível em: [YouTube](https://www.youtube.com). Acesso em: 24 de Abril de 2023.
@@ -40,5 +47,7 @@ A apresentação da terceira etapa, o ponto de controle 3 pode ser vista no [Ví
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 24/04/2023 | `1.0`  | Criação do artefato | [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 08/05/2023 | `2.0`  | Adição da apresentação 2 | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
-| 15/05/2023 | `3.0`  | Adição da apresentação 3 | [Larissa Gomes](https://github.com/larigs) | 15/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 15/05/2023 | `3.0`  | Adição da apresentação 3 | [Larissa Gomes](https://github.com/larigs) | 15/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
+| 22/05/2023 | `4.0`  | Adição da apresentação 3 | [Larissa Gomes](https://github.com/larigs) | 22/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
+
 </div>
