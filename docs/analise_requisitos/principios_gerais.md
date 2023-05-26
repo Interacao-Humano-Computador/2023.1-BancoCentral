@@ -236,4 +236,5 @@
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 14/05/2023 | `1.0`  | Criação do documento | [Rafael Bosi](https://github.com/StrangeUnit28) | 14/05/2023 | [Mizael Santos](https://github.com/frmiza) |
 | 14/05/2023 | `1.1`  | Adicionado imagens | [Mizael Santos](https://github.com/frmiza) | 14/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 24/05/2023 | `1.2`  | Corrigindo artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 25/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 </div>
