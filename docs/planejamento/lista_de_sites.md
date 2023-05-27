@@ -22,28 +22,31 @@
 
 <div style="text-align: justify;">
 <p>
-Porém como o grupo chegou em uma conclusão de que os sites escolhidos individualmente não atendiam as expectativas da disciplina, foi realizada uma reunião (<a href="../atas/reuniao02.md">Reunião02</a>) para decidir sobre um novo site, no qual foi escolhido o <a href="https://videolan.org">VideoLAN</a>. Onde foi realizada a <a href="avaliacoes/avaliacaoVLC.md">avaliação heurística</a>.
+Porém como o grupo chegou em uma conclusão de que os sites escolhidos individualmente não atendiam as expectativas da disciplina, foi realizada uma reunião (<a href="../atas/reuniao02.md">Reunião02</a>) para decidir sobre um novo site, no qual foi escolhido o <a href="https://videolan.org">VideoLAN</a>. Onde foi realizada a <a href="avaliacoes/avaliacaoVLC.md">avaliação heurística</a>. Após a apresentação desse site ao professor foi solicitada a alteração do mesmo, assim, migramos para o site do <a href="https://www.bcb.gov.br">Banco Centra do Brasil</a>.
 </p>
 </div>
 
 
 ## Bibliografia
+  
+[1] BANCO CENTRAL DO BRASIL. Disponível em: [Banco Central do Brasil](https://www.bcb.gov.br). Acesso em: 27/05/2023.
+  
+[2] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 19 de Abril de 2023.
 
-[1] VIDEOLAN. Disponível em: [VideoLAN](https://videolan.org). Acesso em: 19 de Abril de 2023.
+[3] FRIV. Dosponível em: [Friv](https://friv.com/). Acesso em: 14 de Abril de 2023.
 
-[2] FRIV. Dosponível em: [Friv](https://friv.com/). Acesso em: 14 de Abril de 2023.
+[4] LASTFM. Dosponível em: [Last.fm](https://www.last.fm/). Acesso em: 14 de Abril de 2023.
 
-[3] LASTFM. Dosponível em: [Last.fm](https://www.last.fm/). Acesso em: 14 de Abril de 2023.
+[5] PREFEITURA TAUBATÉ. Disponível em: [Prefeitura de Taubaté](https://taubate.sp.gov.br/). Acesso em: 14 de Abril de 2023.
 
-[4] PREFEITURA TAUBATÉ. Disponível em: [Prefeitura de Taubaté](https://taubate.sp.gov.br/). Acesso em: 14 de Abril de 2023.
+[6] SEGAMA. Dosponível em: [SEGAMA](https://segama.com.br). Acesso em: 14 de Abril de 2023.
 
-[5] SEGAMA. Dosponível em: [SEGAMA](https://segama.com.br). Acesso em: 14 de Abril de 2023.
+[7] HBO. Dosponível em: [HBO](https://hbo.com). Acesso em: 14 de Abril de 2023.
+  
+[8] BRASFOOT. Dosponível em: [Brasfoot](https://brasfoot.com). Acesso em: 14 de Abril de 2023.
 
-[6] HBO. Dosponível em: [HBO](https://hbo.com). Acesso em: 14 de Abril de 2023.
+[9] ARCH LINUX. Dosponível em: [Arch Linux](https://archlinux.org). Acesso em: 14 de Abril de 2023.
 
-[7] BRASFOOT. Dosponível em: [Brasfoot](https://brasfoot.com). Acesso em: 14 de Abril de 2023.
-
-[8] ARCH LINUX. Dosponível em: [Arch Linux](https://archlinux.org). Acesso em: 14 de Abril de 2023.
 
 
 ## Histórico de Versões
@@ -51,8 +54,9 @@ Porém como o grupo chegou em uma conclusão de que os sites escolhidos individu
 
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| :-: | :-: | :-: | :-: | :-: | :-: |
+| :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 24/04/2023   | `1.1`  | Atualização do documento | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 27/05/2023   | `1.2`  | Atualização do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 27/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>
