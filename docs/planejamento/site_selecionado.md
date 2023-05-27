@@ -66,5 +66,5 @@ Para saber mais sobre os pontos negativos, a [análise heurística](avaliacoes/a
 | 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 24/04/2023   | `1.1`  | Separação e atualização do artefato | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 06/05/2023   | `1.2`  | Alteração do site | [Rafael Bosi](https://github.com/StrangeUnit28) e [Lucas Gobbi](https://github.com/LucasBergholz) | 07/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 27/05/2023   | `1.3`  | Add link BCB | [Bruno Ribeiro](https://www.bcb.gov.br) | 27/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 27/05/2023   | `1.3`  | Add link BCB | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 27/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 </div>
