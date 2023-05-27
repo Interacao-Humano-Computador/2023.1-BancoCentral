@@ -120,7 +120,57 @@ Os dados obtidos nas entrevistas foram transcritos para as tabelas 1 e 2.</p>
 </div>
 
 
-Logo em seguida das perguntas seguimos a entrevista apresentando aos entrevistados os storyboard produzidos pelo grupo com o objetivo de analisar se concordavam com as breves histórias produzidas. As entrevistadas pipipipopopo.
+### Storyboards Utilizados
+
+Logo em seguida das perguntas seguimos a entrevista apresentando aos entrevistados os seguintes storyboards produzidos pelo grupo com o objetivo de analisar se concordavam com as breves histórias produzidas:
+
+<p align="justify">A Figura 1 apresenta o StoryBoard do membro Giovanni, onde o usuário realiza a tarefa de checar as taxas de juros dos bancos.</p>
+
+<img title="a title" alt="SB Giovanni" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/storyboards/storyboard-giovanni.jpeg" width="100%">
+
+<div align="center">
+<p> <b>Figura 1</b>: Storyboard da tarefa de checar as taxas de juros (Fonte: ALVISSUS, Giovanni. 2023). </p>
+</div>
+
+<p align="justify">A Figura 2 apresenta o StoryBoard do membro Lucas Gobbi, onde o usuário realiza a tarefa de conversão monetária.</p>
+
+<img title="a title" alt="SB Lucas Gobbi" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/storyboards/storyboard-gobbi.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 2</b>: Storyboard da tarefa de conversão de moeda (Fonte: GOBBI, Lucas. 2023). </p>
+</div>
+
+<p align="justify">A Figura 3 apresenta o StoryBoard da membra Larissa Gomes, onde o usuário realiza a tarefa de checar o Registrato, onde visualiza-se dívidas do CPF buscado.</p>
+
+<img title="a title" alt="SB Larissa Gomes" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/storyboards/storyboard-larissa.jpeg" width="100%">
+
+<div align="center">
+<p> <b>Figura 3</b>: Storyboard da tarefa de visualização do Registrato (Fonte: GOMES, Larissa. 2023). </p>
+</div>
+
+<p align="justify">A Figura 4 apresenta o StoryBoard do membro Igor Penha, onde o usuário realiza a tarefa de consultar Valores a Receber do Estado.</p>
+
+<img title="a title" alt="SB Igor Penha" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/storyboards/storyboard-penha.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 4</b>: Storyboard da tarefa de consulta de Valores a Receber (Fonte: PENHA, Igor. 2023). </p>
+</div>
+
+<p align="justify">A Figura 5 apresenta o StoryBoard do membro Rafael Bosi, onde o usuário realiza a tarefa de participar de cursos online pelo Banco Central.</p>
+
+<img title="a title" alt="SB Igor Penha" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/storyboards/storyboard-rafa.jpeg" width="100%">
+
+<div align="center">
+<p> <b>Figura 5</b>: Storyboard da tarefa de participar de cursos online (Fonte: BOSI, Rafael. 2023). </p>
+</div>
+
+<p align="justify">A Figura 6 apresenta o StoryBoard do membro Bruno Ribeiro, onde o usuário realiza a tarefa de participar de simular depósitos utilizando a Calculadora do Cidadão.</p>
+
+<img title="a title" alt="SB Bruno Ribeiro" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/storyboards/storyboard-bruno.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 6</b>: Storyboard da tarefa de utilizar Calculadora do Cidadão (Fonte: RIBEIRO, Bruno. 2023). </p>
+</div>
 
 
 
