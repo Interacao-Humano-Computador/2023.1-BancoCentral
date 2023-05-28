@@ -165,7 +165,7 @@
 <p> Tabela 8: Respostas obtidas na terceira entrevista (Fonte: BOSI, Rafael 2023).</p>
 </div>
 
-## 4. Conclusão
+## Conclusão
 
 <div align="justify">
 &emsp;&emsp;A análise de tarefas realizada neste projeto proporcionou uma compreensão aprofundada das necessidades, objetivos e fluxos de trabalho dos usuários. Ao examinar detalhadamente as tarefas que os usuários realizam, identificamos pontos de fricção, oportunidades de melhoria e insights importantes para informar o design e o desenvolvimento do produto ou serviço.
@@ -180,7 +180,7 @@ Com base nos resultados da análise de tarefas, seremos capazes de tomar decisõ
 </div>
 <br>
 
-## 5. Referência Bibliografica
+## Referência Bibliografica
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
