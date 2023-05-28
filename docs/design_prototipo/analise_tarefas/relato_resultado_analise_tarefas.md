@@ -131,6 +131,39 @@
 <p> Tabela 6: Respostas obtidas na segunda entrevista (Fonte: BOSI, Rafael 2023).</p>
 </div>
 
+- ### Terceira Entrevista
+
+|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistador(es) |  Entrevistado  | 
+| :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
+| 3° | 28/05/2023 | 18h30 - 18h35 | Microsoft Teams | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Rafael Bosi](https://github.com/StrangeUnit28) | Cicero Barrozo Fernandes Filho |
+
+<div align="center">
+<p> Tabela 7: Ficha da terceira entrevista (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+<br>
+
+| Ordem das perguntas | Perguntas | Respostas possíveis  | 
+| :-----------------: | :-------: | :------------------: | 
+| 1°  | Qual seu nome completo? | Cicero Barrozo Fernandes Filho | 
+| 2°  | Qual sua idade? | 22 |  
+| 3°  | Qual sua ocupação? | Estudante e desenvolvedor de Software | 
+| 4°  | Já utilizou o site do Banco Central?  | Sim | 
+| 6°  | Qual das tarefas utiliza/utilizaria?  | Conversão de câmbio | 
+| 7°  | Como é sua navegação pelo site? | A navegação é "crua", informações jogadas |
+| 8°  | Consegue encontrar as tarefas que procura facilmente? | Sim |
+| 9°  | Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele? | Não | 
+| 10° | Ao utilizar uma funcionalidade, suas necessidades são completamente satisfeitas? | Sim |
+| 11° | Acredita que perde algum tempo devido alguma questão de interface? | Não |
+| 12° | Alguma parte da interface e da interação o deixa insatisfeito? (Em caso afirmativo, perguntar qual seria essa parte) | Sim, a página principal com informações jogadas e mal destribuidas |
+| 13° | Alguma parte da interface o desmotiva a explorar novas funcionalidades? (Em caso afirmativo, perguntar qual seria essa parte) | Não vejo facilidade em encontrar todas as coisas e acabo procurando em outros lugares |
+| 14°  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? | No meu caso sim |
+| 15° | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo? | Não sei responder |
+| 16° | Quais são os pontos fortes e fracos em sua opnião? | **Pontos forte:** Os tópicos iniciais são de fácil acesso, a resposta do site costuma ser boa<br><br>**Pontos fracos:** Interface não facilita a navegação |
+
+<div align="center">
+<p> Tabela 8: Respostas obtidas na terceira entrevista (Fonte: BOSI, Rafael 2023).</p>
+</div>
+
 ## 4. Conclusão
 
 <div align="justify">
