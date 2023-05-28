@@ -5,7 +5,7 @@
 ## Introdução
 
 <div align="justify">
-&emsp;&emsp;Esse documento tem como objetivo documentar e comunicar os achados e conclusões obtidos durante a avaliação, fornecendo informações valiosas para os desenvolvedores, projetistas e demais envolvidos no processo de desenvolvimento de software.
+&emsp;&emsp;Esse documento tem como objetivo documentar e comunicar os achados e conclusões obtidos durante a avaliação, que nos permite compreender em detalhes as diferentes tarefas que os usuários realizam ao interagir com um produto ou serviço. Com base nessa análise, podemos identificar pontos de dor, oportunidades de melhoria e insights importantes para o design e desenvolvimento do projeto. Desse modo, fornecendo informações valiosas para os desenvolvedores, projetistas e demais envolvidos no processo de desenvolvimento de software.
 </div>
 <br>
 
@@ -24,11 +24,11 @@
 </div>
 <br>
 
-|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistador(es) |  Entrevistado  | 
+| <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
 | Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
 
-<div align="center">
+<div align="left">
 <p> Tabela 1: Modelo de ficha de entrevistas (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 <br>
@@ -40,8 +40,8 @@
 </div>
 <br>
 
-| Ordem das perguntas | Perguntas | Respostas possíveis  | 
-| :-----------------: | :-------: | :------------------: | 
+| <p align="center">Ordem das perguntas | <p align="center">Perguntas</p> | <p align="center">Respostas possíveis</p> | 
+| :-----------------: | :-------- | :------------------- | 
 | 1°  | Qual seu nome completo? | Resposta discursiva  | 
 | 2°  | Qual sua idade? | Resposta discursiva  |  
 | 3°  | Qual sua ocupação? | Resposta discursiva  | 
@@ -59,24 +59,25 @@
 | 15° | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo? | Sim</br>Não</br>Parcialmente |
 | 16° | Quais são os pontos fortes e fracos em sua opnião? | Resposta discursiva |
 
-<div align="center">
+<div align="left">
 <p> Tabela 2: Questões a serem tratadas na entrevista (Fonte: BOSI, Rafael 2023).</p>
 </div>
 <br>
 
 - ### Primeira Entrevista
 
-|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistador(es) |  Entrevistado  | 
+| <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
 | 1° | 28/05/2023 | 14h05 - 14h15 | Microsoft Teams | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | João Pedro Nobregra Fernandes |
 
-<div align="center">
+<div align="left">
 <p> Tabela 3: Ficha da primeira entrevista (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 <br>
 
-| Ordem das perguntas | Perguntas | Respostas possíveis  | 
-| :-----------------: | :-------: | :------------------: | 
+
+| <p align="center">Ordem das perguntas | <p align="center">Perguntas</p> | <p align="center">Respostas possíveis</p> |
+| :-----------------: | :------- | :------------------ | 
 | 1°  | Qual seu nome completo? | João Pedro Nobregra Fernandes  | 
 | 2°  | Qual sua idade? | 20  |  
 | 3°  | Qual sua ocupação? | Estudante  | 
@@ -93,24 +94,24 @@
 | 15° | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo? | Nunca utilizou |
 | 16° | Quais são os pontos fortes e fracos em sua opnião? | **Pontos fortes:** tem de tudo, informações boas e bem enbasadas.</br><br>**Pontos fracos:** filtros ruins, dificuldade de encontrar o que deseja. |
 
-<div align="center">
+<div align="left">
 <p> Tabela 4: Respostas obtidas na primeira entrevista (Fonte: BOSI, Rafael 2023).</p>
 </div>
 <br>
 
 - ### Segunda Entrevista
 
-|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistador(es) |  Entrevistado  | 
+| <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
 | 2° | 28/05/2023 | 16h39 - 16h46 | Microsoft Teams | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Rafael Bosi](https://github.com/StrangeUnit28) | Luiz Gustavo Silva de Almeida |
 
-<div align="center">
+<div align="left">
 <p> Tabela 5: Ficha da segunda entrevista (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 <br>
 
-| Ordem das perguntas | Perguntas | Respostas possíveis  | 
-| :-----------------: | :-------: | :------------------: | 
+| <p align="center">Ordem das perguntas | <p align="center">Perguntas</p> | <p align="center">Respostas possíveis</p> | 
+| :-----------------: | :------- | :------------------ | 
 | 1°  | Qual seu nome completo? | Luiz Gustavo Silva de Almeida | 
 | 2°  | Qual sua idade? | 19  |  
 | 3°  | Qual sua ocupação? | Estudante  | 
@@ -127,23 +128,23 @@
 | 15° | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo? | Apesar de não utilizar tanto, já percebi que ela cumpri bem seu papel |
 | 16° | Quais são os pontos fortes e fracos em sua opnião? | **Pontos forte:** acessibilidade, site bem objetivo nas informações, confiabilidade<br><br>**Pontos fracos:** organização (muitas informações bombardeadas) |
 
-<div align="center">
+<div align="left">
 <p> Tabela 6: Respostas obtidas na segunda entrevista (Fonte: BOSI, Rafael 2023).</p>
 </div>
 
 - ### Terceira Entrevista
 
-|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistador(es) |  Entrevistado  | 
+| <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
 | 3° | 28/05/2023 | 18h30 - 18h35 | Microsoft Teams | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Rafael Bosi](https://github.com/StrangeUnit28) | Cicero Barrozo Fernandes Filho |
 
-<div align="center">
+<div align="left">
 <p> Tabela 7: Ficha da terceira entrevista (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 <br>
 
-| Ordem das perguntas | Perguntas | Respostas possíveis  | 
-| :-----------------: | :-------: | :------------------: | 
+| <p align="center">Ordem das perguntas | <p align="center">Perguntas</p> | <p align="center">Respostas possíveis</p> |  
+| :-----------------: | :------- | :------------------ | 
 | 1°  | Qual seu nome completo? | Cicero Barrozo Fernandes Filho | 
 | 2°  | Qual sua idade? | 22 |  
 | 3°  | Qual sua ocupação? | Estudante e desenvolvedor de Software | 
@@ -160,14 +161,22 @@
 | 15° | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo? | Não sei responder |
 | 16° | Quais são os pontos fortes e fracos em sua opnião? | **Pontos forte:** Os tópicos iniciais são de fácil acesso, a resposta do site costuma ser boa<br><br>**Pontos fracos:** Interface não facilita a navegação |
 
-<div align="center">
+<div align="left">
 <p> Tabela 8: Respostas obtidas na terceira entrevista (Fonte: BOSI, Rafael 2023).</p>
 </div>
 
 ## 4. Conclusão
 
 <div align="justify">
-&emsp;&emsp;Escrever conclusão
+&emsp;&emsp;A análise de tarefas realizada neste projeto proporcionou uma compreensão aprofundada das necessidades, objetivos e fluxos de trabalho dos usuários. Ao examinar detalhadamente as tarefas que os usuários realizam, identificamos pontos de fricção, oportunidades de melhoria e insights importantes para informar o design e o desenvolvimento do produto ou serviço.
+
+Durante o processo de análise, conseguimos mapear o fluxo de tarefas, identificando todas as etapas e interações envolvidas na realização de cada tarefa. Isso nos permitiu ter uma visão completa da jornada do usuário, desde o início até a conclusão, e entender as expectativas e desafios enfrentados ao longo do caminho.
+
+Ao identificar os pontos de fricção, pudemos identificar os obstáculos e as dificuldades que os usuários encontram durante a execução das tarefas. Essas informações valiosas nos permitirão tomar medidas corretivas e implementar melhorias para eliminar ou reduzir esses pontos de dor, proporcionando uma experiência mais suave e satisfatória para os usuários.
+
+Além disso, a análise de tarefas nos revelou oportunidades de melhoria, onde identificamos áreas em que podemos aprimorar a experiência do usuário. Essas oportunidades podem incluir a simplificação de etapas complexas, a melhoria da clareza das instruções, o fornecimento de recursos adicionais ou a introdução de novas funcionalidades que agreguem valor e facilitem a realização das tarefas.
+
+Com base nos resultados da análise de tarefas, seremos capazes de tomar decisões de design mais informadas e direcionadas. Nossos esforços serão direcionados para atender às necessidades e expectativas dos usuários, priorizando os objetivos mais relevantes e garantindo que a interação com o produto ou serviço seja intuitiva, eficiente e satisfatória.
 </div>
 <br>
 
@@ -181,5 +190,6 @@
 | :------------------------: | :----: | :-------: | :---: | :-------------: | :-----: |
 | 28/05/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 28/05/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 | 28/05/2023 | `1.1` | Adicionando entrevistas | [Rafael Bosi](https://github.com/StrangeUnit28) | 28/05/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 28/05/2023 | `1.2` | Corrigindo alinhamentos e add conclusao | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 28/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>
