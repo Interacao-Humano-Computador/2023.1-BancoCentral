@@ -24,7 +24,7 @@
 </div>
 <br>
 
-|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistadores |  Entrevistado  | 
+|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistador(es) |  Entrevistado  | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
 | Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
 
@@ -62,8 +62,11 @@
 <div align="center">
 <p> Tabela 2: Questões a serem tratadas na entrevista (Fonte: BOSI, Rafael 2023).</p>
 </div>
+<br>
 
-|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistadores |  Entrevistado  | 
+- ### Primeira Entrevista
+
+|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistador(es) |  Entrevistado  | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
 | 1° | 28/05/2023 | 14h05 - 14h15 | Microsoft Teams | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | João Pedro Nobregra Fernandes |
 
@@ -88,7 +91,45 @@
 | 13° | Alguma parte da interface o desmotiva a explorar novas funcionalidades? (Em caso afirmativo, perguntar qual seria essa parte) | Sim |
 | 14°  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? | Não |
 | 15° | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo? | Nunca utilizou |
-| 16° | Quais são os pontos fortes e fracos em sua opnião? | Pontos fortes: tem de tudo, informações boas e bem enbasadas.</br><br>Pontos fracos: filtros ruins, dificuldade de encontrar o que deseja. |
+| 16° | Quais são os pontos fortes e fracos em sua opnião? | **Pontos fortes:** tem de tudo, informações boas e bem enbasadas.</br><br>**Pontos fracos:** filtros ruins, dificuldade de encontrar o que deseja. |
+
+<div align="center">
+<p> Tabela 4: Respostas obtidas na primeira entrevista (Fonte: BOSI, Rafael 2023).</p>
+</div>
+<br>
+
+- ### Segunda Entrevista
+
+|   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistador(es) |  Entrevistado  | 
+| :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
+| 2° | 28/05/2023 | 16h39 - 16h46 | Microsoft Teams | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Rafael Bosi](https://github.com/StrangeUnit28) | Luiz Gustavo Silva de Almeida |
+
+<div align="center">
+<p> Tabela 5: Ficha da segunda entrevista (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+<br>
+
+| Ordem das perguntas | Perguntas | Respostas possíveis  | 
+| :-----------------: | :-------: | :------------------: | 
+| 1°  | Qual seu nome completo? | Luiz Gustavo Silva de Almeida | 
+| 2°  | Qual sua idade? | 19  |  
+| 3°  | Qual sua ocupação? | Estudante  | 
+| 4°  | Já utilizou o site do Banco Central?  | Sim | 
+| 6°  | Qual das tarefas utiliza/utilizaria?  | Ter acesso ao relatório Focus, calculadora do cidadão, ter acesso a informações de política e econômia | 
+| 7°  | Como é sua navegação pelo site? | Eu não acho muita boa, o site bombardeia com muitas informações, não deixando a navegação intuitiva. |
+| 8°  | Consegue encontrar as tarefas que procura facilmente? | Não |
+| 9°  | Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele? | Não | 
+| 10° | Ao utilizar uma funcionalidade, suas necessidades são completamente satisfeitas? | Parcialmente |
+| 11° | Acredita que perde algum tempo devido alguma questão de interface? | Sim |
+| 12° | Alguma parte da interface e da interação o deixa insatisfeito? (Em caso afirmativo, perguntar qual seria essa parte) | Sim, a organização do site é muito poluida |
+| 13° | Alguma parte da interface o desmotiva a explorar novas funcionalidades? (Em caso afirmativo, perguntar qual seria essa parte) | Sim, a organização do site. |
+| 14°  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? | Não |
+| 15° | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo? | Apesar de não utilizar tanto, já percebi que ela cumpri bem seu papel |
+| 16° | Quais são os pontos fortes e fracos em sua opnião? | **Pontos forte:** acessibilidade, site bem objetivo nas informações, confiabilidade<br><br>**Pontos fracos:** organização (muitas informações bombardeadas) |
+
+<div align="center">
+<p> Tabela 6: Respostas obtidas na segunda entrevista (Fonte: BOSI, Rafael 2023).</p>
+</div>
 
 ## 4. Conclusão
 
