@@ -38,7 +38,7 @@ Os dados obtidos nas entrevistas foram transcritos para as tabelas 1 e 2.</p>
 ### Entrevista 1 - João Nobrega
 
 | Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | - | - |
+| :-: | - | :- | - |
 | 1 | Os usuários envolvidos no storyboard condizem com a realidade? | Sim | Verificar a concordância |
 | 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
 | 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
@@ -59,7 +59,7 @@ Os dados obtidos nas entrevistas foram transcritos para as tabelas 1 e 2.</p>
 ### Entrevista 2 - Nome
 
 | Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | - | - |
+| :-: | - | :- | - |
 | 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
 | 2 | O cenário que o storyboard está inserido condiz com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
 | 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
@@ -80,7 +80,7 @@ Os dados obtidos nas entrevistas foram transcritos para as tabelas 1 e 2.</p>
 ### Entrevista 3 - Nome
 
 | Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | - | - |
+| :-: | - | :- | - |
 | 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
 | 2 | O cenário que o storyboard está inserido condiz com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
 | 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
@@ -101,7 +101,7 @@ Os dados obtidos nas entrevistas foram transcritos para as tabelas 1 e 2.</p>
 ### Entrevista 4 - Nome
 
 | Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | - | - |
+| :-: | - | :- | - |
 | 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
 | 2 | O cenário que o storyboard está inserido condiz com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
 | 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
