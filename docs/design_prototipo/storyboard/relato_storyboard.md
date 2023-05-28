@@ -172,6 +172,14 @@ Logo em seguida das perguntas seguimos a entrevista apresentando aos entrevistad
 <p> <b>Figura 6</b>: Storyboard da tarefa de utilizar Calculadora do Cidadão (Fonte: RIBEIRO, Bruno. 2023). </p>
 </div>
 
+<p align="justify">A Figura 7 apresenta o StoryBoard do membro Francisco Mizael, onde o usuário realiza a tarefa de participar de simular depósitos utilizando a Correção de Valores.</p>
+
+<img title="a title" alt="SB Francisco Mizael" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/storyboards/storyboard-mizael.jpeg" width="100%">
+
+<div align="center">
+<p> <b>Figura 7</b>: Storyboard da tarefa de utilizar Correção de Valores (Fonte: MIZAEL, Francisco. 2023). </p>
+</div>
+
 
 
 
