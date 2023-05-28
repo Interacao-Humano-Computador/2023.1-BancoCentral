@@ -47,6 +47,20 @@ O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os p
 
 As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
 
+### Aplicando ao projeto
+  
+Neste projeto, estaremos utilizando personas como uma ferramenta fundamental para a construção dos storyboards. As personas são representações fictícias de usuários reais que nos ajudam a entender melhor as necessidades, comportamentos e objetivos dos nossos usuários-alvo.
+  
+Ao criar personas, estamos essencialmente criando arquétipos de usuários com características específicas que podem representar diferentes segmentos do nosso público-alvo. Isso nos permite personalizar e direcionar nossos esforços de design, tornando-os mais centrados no usuário.
+
+Os storyboards, por outro lado, são sequências de ilustrações ou esboços que descrevem a interação do usuário com o produto ou serviço ao longo do tempo. Eles fornecem uma representação visual das diferentes etapas ou momentos da experiência do usuário, desde o início até o final. Os storyboards nos ajudam a visualizar o fluxo de interação, identificar pontos problemáticos e oportunidades de melhoria, e comunicar efetivamente nossas ideias para a equipe de desenvolvimento.
+  
+A ligação entre personas e storyboards é muito importante. Ao desenvolver personas, estamos criando personagens com características e necessidades específicas, e ao construir storyboards, estamos contando uma história sobre como essas personas interagem com o produto ou serviço em diferentes cenários e situações. As personas nos ajudam a personalizar os storyboards, garantindo que eles sejam relevantes e representativos das expectativas e necessidades dos usuários que estamos visando.
+
+Além disso, as personas nos permitem antecipar possíveis problemas e identificar oportunidades de melhoria durante a criação dos storyboards. Ao considerar as características e preferências dos usuários representados pelas personas, podemos tomar decisões de design mais informadas e focadas. Isso nos ajuda a criar fluxos de interação mais intuitivos, identificar pontos de fricção e criar soluções que atendam às necessidades específicas dos nossos usuários.
+
+No geral, a utilização de personas na construção dos storyboards é uma abordagem estratégica e eficaz para o desenvolvimento de produtos centrados no usuário. Ao adotar essa abordagem, podemos garantir que o design do nosso produto seja orientado pelas necessidades reais dos usuários, resultando em uma experiência mais satisfatória e impactante.
+
 </div>
 
 ## Perfil do Usuário
@@ -68,18 +82,18 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 
 <p align="justify">Com a análise do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias, uma persona secundária e uma antipersona. A quantidade de personas foi definida com a intenção de torná-las memoráveis, então após a discussão em presencial entre a equipe foi decidido um elenco de 4 personas, já que a utilização de um elenco grande de personas pode distanciar a equipe das personas, então baseado no foco do projeto ficou decidido um número conciso de personas com a intenção de aproximá-las do time. Dessa forma, segue o elenco de personas nas Tabelas de 2 a 5:</p>
 
-### José Santos
+### Douglas Santos
 
 |                      |                      |
 | :------------------  | :------------------  |
-| **Nome**             |  José Santos         |
-| **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/personas/JoseSantos.jpeg"><p>Imagem 1 José Santos persona</p> |
-| **Descrição**        | José Santos, idade de 37 anos, morador de Brasília<br> José é um exemplar de estudante e profissinal formado em contabilidade. Sempre busca se destacar nas atividades propostas. <br>Homem. <br>Solteiro.                      |
+| **Nome**             |  Douglas Santos      |
+| **Foto**             | <img width="200" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/personas/DouglasSantos.jpeg"><p>Imagem 1 Douglas Santos persona</p> |
+| **Descrição**        | Douglas Santos, idade de 37 anos, morador de Brasília<br> Douglas é um exemplar de estudante e profissinal formado em contabilidade. Sempre busca se destacar nas atividades propostas. <br>Homem. <br>Solteiro. |
 | **Status**          | Persona Primária.     |
-| **Objetivos**       | José sempre busca a perfeição em todas suas ações. Melhor aluno da turma do ensino médio e faculdade. José é extrovertido, porém se sente mais confortável em ambientes conhecidos.                                   |
-| **Habilidades**     | José conheceu o site do Banco Centra quando tinha 12 anos em uma das aulas expositivas do seu antigo colégio. Mesmo se sentindo mais confortável em ambientes conhecidos sempre foi insentivado pelos familiares a não se prender no que ja sabe e sim apliar seu o que já se conhece. Além de ter conhecimento sobre o site do Banco Central, José possui um instinto investigativo.                    |
-| **Tarefas**         | José tem diversas tarefas durante o dia. A importância delas é a construção de um currículo forte para entrar estar sempre bem no mercado de trabalho. Assim das 08:00 às 09:30 estudo sobre as políticas monetárias, analisa as estatísticas dentro do país acessando o Banco Central. Após isso, das 10:00 às 11:30 estuda ferramentas que auxiliem seu trabalho. À tarde, José passa maior parte de seu tempo no seu emprego. Por fim ao chegar em casa à noite, gasta duas horas fazendo trabalhando para quem deseja seu trabalho particular. |
-| **Relacionamentos** | José tem um pequeno grupo de amigos feitos na faculdade e ensino médio os quais tem sua confiança máxima, seus problemas e segredos são contados apenas para esse pequeno grupo. Além de possuir colegas de trabalho.  |
+| **Objetivos**       | Douglas sempre busca a perfeição em todas suas ações. Melhor aluno da turma do ensino médio e faculdade. Douglas é extrovertido, porém se sente mais confortável em ambientes conhecidos.                                   |
+| **Habilidades**     | Douglas conheceu o site do Banco Centra quando tinha 12 anos em uma das aulas expositivas do seu antigo colégio. Mesmo se sentindo mais confortável em ambientes conhecidos sempre foi insentivado pelos familiares a não se prender no que ja sabe e sim apliar seu o que já se conhece. Além de ter conhecimento sobre o site do Banco Central, José possui um instinto investigativo. |
+| **Tarefas**         | Douglas tem diversas tarefas durante o dia. A importância delas é a construção de um currículo forte para entrar estar sempre bem no mercado de trabalho. Assim das 08:00 às 09:30 estudo sobre as políticas monetárias, analisa as estatísticas dentro do país acessando o Banco Central. Após isso, das 10:00 às 11:30 estuda ferramentas que auxiliem seu trabalho. À tarde, Douglas passa maior parte de seu tempo no seu emprego. Por fim ao chegar em casa à noite, gasta duas horas fazendo trabalhando para quem deseja seu trabalho particular. |
+| **Relacionamentos** | Douglas tem um pequeno grupo de amigos feitos na faculdade e ensino médio os quais tem sua confiança máxima, seus problemas e segredos são contados apenas para esse pequeno grupo. Além de possuir colegas de trabalho.  |
 | **Requisitos**      | Consultar taxas de inflação |
 | **Expectativas**    | Taxas atualizadas com alta velocidade, com referenciamento tanto nacional como internacional |
 
@@ -156,8 +170,9 @@ As imagens presentes na elaboração das personas foram criadas pelo site [This 
 ## Histórico de Versões
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| ------ | ---------- | -------------------------------- | -------------------------- | ----------- |
+| :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 25/04/2023 | `1.0` | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 25/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 25/04/2023 | `1.1` | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 25/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 28/05/2023 | `1.2` | Add utilidade das personas no projeto | [Bruno Ribeiro](https://github.com/BrunoRibeiro) | 28/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 
 </div>
