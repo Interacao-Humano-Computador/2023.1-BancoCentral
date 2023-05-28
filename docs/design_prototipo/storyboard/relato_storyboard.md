@@ -35,22 +35,22 @@ Foi encontrada _*x*_ voluntários, que aceitaram fazer a entrevista e que se enc
 
 Os dados obtidos nas entrevistas foram transcritos para as tabelas 1 e 2.</p>
 
-### Entrevista 1 - Nome
+### Entrevista 1 - João Nobrega
 
 | Numero | Pergunta | Resposta | Objetivo |
 | :-: | - | - | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o entendimento |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [x] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | [x] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [x] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | [x] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
+| 5 | As informações apresentadas no storyboard são compreensíveis? | [x] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o entendimento |
+| 6 | Houve dificuldade ao realizar a interação com o storyboard? | [] Sim <br /> [x] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
+| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [] Sim <br /> [] Não <br /> [x] Não sei responder <br /> | Verificar usabilidade |
 | 8 | O ator principal completou seu objetivo na interação com o storyboard?? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a coerência |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [] Sim <br/> [] Não <br/> [] Não sei responder | Verificar coerência |
-| 11 | O storyboard é adequado ao público-alvo do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a adequação |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o valor |
+| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | [x] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a coerência |
+| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [x] Sim <br/> [] Não <br/> [] Não sei responder | Verificar coerência |
+| 11 | O storyboard é adequado ao público-alvo do produto? | [x] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a adequação |
+| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | [x] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o valor |
 | 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
 <div style="text-align: center">
     <p> <b>Tabela 1: </b> Perguntas a serem realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
@@ -185,7 +185,7 @@ Logo em seguida das perguntas seguimos a entrevista apresentando aos entrevistad
 
 
 ## Problemas encontrados
-
+João Nobrega: Dificuldade de utilizar algumas tarefas por necessitar ter conta gov com nível prata.
 
 
 
@@ -202,7 +202,7 @@ Logo em seguida das perguntas seguimos a entrevista apresentando aos entrevistad
 
 ## Gravação das entrevistas
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/66V5ZOcsOCw" title="Entrevista NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OJ02eL5vl3E" title="Entrevista João Nobrega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 1</b>: gravação entrevista 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
