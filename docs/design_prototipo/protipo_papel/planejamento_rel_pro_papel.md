@@ -34,16 +34,17 @@
 ### Método
 <div align="justify">
 <ol>
-<li><br>Definição dos participantes</br>: Determine o perfil dos participantes da simulação, tal como os mediadores do processo. A escolha deve obedecer critérios como conhecimento do sistema, experiência prévia, demografia e as tarefas executadas pelos participantes, isso garante uma amostragem mais diversificada de usuarios e mediadores.
-<li><br>Roteiro da simulação</br>: Durante a realização os avaliadores devem comunicar aos interessados os objetivos da avaliação e deem uma breve descrição do método de prototipação em papel, dessa forma é garantido que o participante entenda a atividade que deve ser realizada e como executa-a com exito.
-<li><br>Protocolo de registro</br>: Determinar a forma como as simulações serão registradas, seja por meio de gravações, anotações ou ambos. Deve-se de obter o consentimento dos participantes previamente para a gravação da simulação.
-<li><br>Análise dos dados</br>: Deve-se elaborar uma lista de problemas de usabilidade corrigidos ou não, durante os ciclos de avaliação e reprojeto, indicando de forma que deva cobrir os topicos a seguir 
+<li><b>Definição dos participantes</b>: Determine o perfil dos participantes da simulação, tal como os mediadores do processo. A escolha deve obedecer critérios como conhecimento do sistema, experiência prévia, demografia e as tarefas executadas pelos participantes, isso garante uma amostragem mais diversificada de usuarios e mediadores.
+<li><b>Roteiro da simulação</b>: Durante a realização os avaliadores devem comunicar aos interessados os objetivos da avaliação e deem uma breve descrição do método de prototipação em papel, dessa forma é garantido que o participante entenda a atividade que deve ser realizada e como executa-a com exito.
+<li><b>Protocolo de registro</b>: Determinar a forma como as simulações serão registradas, seja por meio de gravações, anotações ou ambos. Deve-se de obter o consentimento dos participantes previamente para a gravação da simulação.
+<li><b>Análise dos dados</b>: Deve-se elaborar uma lista de problemas de usabilidade corrigidos ou não, durante os ciclos de avaliação e reprojeto, indicando de forma que deva cobrir os topicos a seguir 
 <ul>
     <li>Local onde ocorreu; 
     <li>Fatores de usabilidade prejudicados; 
     <li>Descrição e justifi cativa do problema; 
     <li>Correção realizada no protótipo em papel; 
     <li>Indicação se o problema voltou a ocorrer depois da correção;
+    <li>Tipos do problema
 </ul>
 </ol>
 
@@ -61,9 +62,33 @@
     <p> <b>Tabela 1</b>: Modelo de simulação executada (Fonte: Santos, Mizael. 2023).</p>
 </div>
 
-# Objetivos
-<div align="justify">
-<p>O objetivo desta metodologia é entender por meio de fluxos de execução alternativos do aplicativo, realizada pelo usuário, o que está sendo bem implementado e o que seria melhor alterar, segundo a experiência do usuário com o protótipo de baixa fidelidade em questão, a fim de obter uma lista de feedback de usuários.</p>
-<p>Estruturar e ordenar os dados coletados para melhor encontrar os problemas levantados a partir da realização da simulação.</p>
+### Descrição  dos avaliadores e participantes
 
+<div align="justify">
+<p>É importante realizar a documentação das informações essenciais sobre as pessoas responsáveis pela condução da análise e aquelas que participaram como usuários durante o estudo. Por exemplo, listar os nomes, papéis  e experiência com design dos avaliadores e desenvolvedores do protótipo de papel que estão conduzindo.</p>
 </div>
+
+## Análise dos dados coletados
+<div align="justify">
+Na análise de dados deve-se interpretá-los de forma rigorosa e metódica a fim de garantir êxito ao final da etapa, ao identificar os padrões de problemas e erros encontrados reportados pelo participante, deve obedecer uma organização, análise quantitativa e qualitativa dos problemas, relacionamento entre os resultados, interpretação e apoio visual dos mesmos
+método
+<ul>
+<li><b>Organização dos dados</b>: Organize os dados coletados de maneira lógica e estruturada para facilitar a análise. Isso pode envolver a criação de tabelas, gráficos.
+<li><b>Codificação dos dados</b>: Aplique um sistema de codificação aos dados qualitativos para identificar temas, categorias ou padrões emergentes. Isso envolve atribuir rótulos ou tags aos dados com base em seus significados e relações. A codificação ajuda a resumir e agrupar informações relevantes.
+<li><b>Análise quantitativa</b>: Realize análises quantitativas dos dados. Isso pode envolver variáveis mensuráveis de desempenho diversas, variando de aplicações para aplicações.
+<li><b>Análise qualitativa</b>: Explore os dados qualitativos por meio de uma análise. Identificar padrões, tendências, citações ou exemplos que ilustrem as experiências e percepções dos participantes.
+<li><b>Relacionamento entre os dados</b>: Analise as relações e conexões entre diferentes conjuntos de dados. Procurar por associações, correlações ou dependências entre variáveis ou características específicas.
+<li><b>Interpretação dos resultados</b>: Após analisar os dados, interprete os resultados de maneira clara e objetiva. Identifique pontos chave, destacando descobertas importantes, pontos fortes e áreas de melhoria.
+<li><b>Apoio visual</b>: Utilizar gráficos, tabelas, citações ou outros elementos visuais para auxiliar na apresentação dos resultados e tornar as informações mais acessíveis e compreensíveis para os leitores.
+</ul>
+</div>
+
+## Referência Bibliográfica
+
+[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 26/05/2023.
+
+## Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
+| 21/05/2023 | `1.0`  | Criação da documento de planejamento do relato da análise de tarefas | [Mizael Santos](https://github.com/frmiza)  | 22/05/2023 | [Larissa Gomes](https://github.com/larigs) |
