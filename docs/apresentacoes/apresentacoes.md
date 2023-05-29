@@ -38,6 +38,14 @@ A apresentação da quarta etapa, do ponto de controle 4, pode ser vista no [Ví
 <p> <b>Vídeo 4</b>: Quarta apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
 
+## Apresentação 4
+A apresentação da quinta etapa, do ponto de controle 5, pode ser vista no [Vídeo 5](https://youtu.be/8VGPiBEnoXY).
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/8VGPiBEnoXY" title="Ponto de controle 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 5</b>: Quinta apresentação (Fonte: Grupo 3. 2023). </p>
+</div>
+
 ## Bibliografia
 [1] YouTube. Disponível em: [YouTube](https://www.youtube.com). Acesso em: 24 de Abril de 2023.
 
@@ -48,6 +56,7 @@ A apresentação da quarta etapa, do ponto de controle 4, pode ser vista no [Ví
 | 24/04/2023 | `1.0`  | Criação do artefato | [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 08/05/2023 | `2.0`  | Adição da apresentação 2 | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 15/05/2023 | `3.0`  | Adição da apresentação 3 | [Larissa Gomes](https://github.com/larigs) | 15/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
-| 22/05/2023 | `4.0`  | Adição da apresentação 3 | [Larissa Gomes](https://github.com/larigs) | 22/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
+| 22/05/2023 | `4.0`  | Adição da apresentação 4 | [Larissa Gomes](https://github.com/larigs) | 22/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
+| 29/05/2023 | `5.0`  | Adição da apresentação 5 | [Larissa Gomes](https://github.com/larigs) | 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 
 </div>

@@ -80,7 +80,7 @@ A coleta de dados será realizada de forma presencial e os participantes devem c
 
 A coleta de dados será realizada durante a simulação, por pelo menos dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso. O responsável por simular o sistema busca compreender as ações do usuário sobre o protótipo em papel (e possivelmente as intenções que motivaram tais ações), e modificar a interface conforme o comportamento planejado para o sistema, sem, no entanto, fornecer explicações ou orientações para o usuário. Tudo o que for necessário informar ao usuário deve estar representado na interface do sistema.
 
-No início da sessão, o responsável por simular o comportamento do sistema apresenta o protótipo em papel e explica como estão representados os elementos de interface (widgets) e como os participantes podem “interagir” com eles.  Os avaliadores podem mostrar o que é um item de menu, um botão de comando ou uma combobox e dizer que é possível “clicar” sobre eles (com um dedo, uma caneta ou algum outro instrumento). Depois de apresentar a interface, os avaliadores entregarão cenários que explicam ao participante sobre as tarefas a serem executadas, baseando-se nas histórias criadas nos [Storyboards](LINK AQUI).
+No início da sessão, o responsável por simular o comportamento do sistema apresenta o protótipo em papel e explica como estão representados os elementos de interface (widgets) e como os participantes podem “interagir” com eles.  Os avaliadores podem mostrar o que é um item de menu, um botão de comando ou uma combobox e dizer que é possível “clicar” sobre eles (com um dedo, uma caneta ou algum outro instrumento). Depois de apresentar a interface, os avaliadores entregarão cenários que explicam ao participante sobre as tarefas a serem executadas, baseando-se nas histórias criadas nos [Storyboards](https://interacao-humano-computador.github.io/2023.1-BancoCentral/docs/design_prototipo/storyboard/relato_resultados.md).
 
 ## Interpretação
 
@@ -96,7 +96,7 @@ Por fim, serão sugeridas propostas de correção desses problemas ou de caminho
 
 ## Relato dos Resultados
 
-Após a realização das entrevistas, os dados coletados serão analisados e será elaborada uma lista de propostas de melhorias para os serviços do Banco Central do Brasil. Mais informções estão disponiveis em [Relato dos Resultados](LINK AQUI).
+Após a realização das entrevistas, os dados coletados serão analisados e será elaborada uma lista de propostas de melhorias para os serviços do Banco Central do Brasil. Mais informções estão disponiveis em [Palnejamento do Relato dos Resultados](https://interacao-humano-computador.github.io/2023.1-BancoCentral/docs/design_prototipo/prototipo_papel/planejamento_relato.md).
 
 ### Planejamento do teste piloto
 

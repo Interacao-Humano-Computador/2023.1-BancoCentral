@@ -9,12 +9,12 @@
         - [Termo de Consentimento](design_prototipo/analise_tarefas/termo-de-consentimento.md)
         - [Planejamento da Avaliação](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
         - [Planejamento do Relato dos Resultados](design_prototipo/analise_tarefas/planejamento_relato.md)
-        - [Relato dos Resultados](design_prototipo/analise_tarefas/relato_resultado.md)
+        - [Relato dos Resultados](design_prototipo/analise_tarefas/relato_resultados.md)
     - [Storyboard](#)
 
         - [Planejamento da Avaliação](design_prototipo/storyboard/planejamento_avaliacao.md)
         - [Planejamento do Relato dos Resultados](design_prototipo/storyboard/planejamento_relato.md)
-        - [Relato dos Resultados](design_prototipo/storyboard/relato_resultado.md)
+        - [Relato dos Resultados](design_prototipo/storyboard/relato_resultados.md)
 - [Nível 2](#)
     - [Protótipo de papel](#)
 
