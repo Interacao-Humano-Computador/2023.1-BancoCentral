@@ -1,12 +1,12 @@
 <div class="body">
 
-# Planejamento da avaliação da Análise de tarefas
+# Planejamento da avaliação do protótipo de papel
 
 ## Introdução
 
 <div align="justify">
 
-De acordo com Simone Barbosa e Bruno Diniz [1], uma avaliação de IHC é importante nos processos de desenvolvimento que busquem produzir um sistema interativo com alta qualidade de uso. Orientando o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Os métodos de investigação permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com sistemas interativos. Sendo o principal objetivo comparar e avaliar ideias e alternativas de design através dos usuários, foi escolhido o método de avaliação de prototipação em papel.
+De acordo com Simone Barbosa e Bruno Diniz [1], uma avaliação de IHC é importante nos processos de desenvolvimento que busquem produzir um sistema interativo com alta qualidade de uso. Orientando o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. os métodos de observação permitem ao avaliador coletar dados sobre situações em que os participantes realizam suas atividades, com ou sem apoio de tecnologia computacional. O registro e a análise desses dados per-mitem identifi car problemas reais que os participantes enfrentaram, e não apenas problemas potenciais previstos pelo avaliador como em uma avaliação por inspeção. Sendo o principal objetivo comparar e avaliar ideias e alternativas de design através de um uso real pelos usuários, foi escolhido o método de avaliação de prototipação em papel.
 
 A Tabela 1 apresenta as tarefas a serem prototipadas e usadas durante a avaliação.
 
@@ -54,9 +54,9 @@ Na atividade de preparação, serão utilizadas as tarefas da Tabela 1 para sere
 - Menus
 - Dicas sobre elementos de interface 
 - Itens de alguma lista 
-- Resultados de busca e diálogos 
+- Resultados de busca e diálogos
 
-Entre outros. O que for possível prever deve ser preparado antes das simulações de uso. O que não for possível será desenhado no papel durante as simulações.
+Entre outros. O que for possível prever deve ser preparado antes das simulações de uso. O que não for possível será desenhado no papel durante as simulações. Os usuários selecionados para a simulação foram escolhidos através do [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) realizado para identificação do perfil do usuário, onde responderam que gostariam de participar de pesquisas futuras relacionadas ao projeto.
 
 Ao final da simulação serão feitas algumas perguntas ao usuário sobre sua experiência com o protótipo durante a avaliação. A Tabela 3 descreve as perguntas a serem realizadas.
 
