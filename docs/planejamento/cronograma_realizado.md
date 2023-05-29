@@ -81,9 +81,9 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 <div align="justify">A Tabela 4 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 4. P tópico 1 está com as datas vazias devido essa atividade não ter sido realizada. Segue abaixo:
 </div>
 
-| Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
+| Atividade | Data de entrega | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
-| 1. Correção dos artefatos | - | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | - | - |
+| 1. Correção dos artefatos Ponto de Controle 3 | - | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | - | - |
 | 2. Planejar a avaliação do Story Board | 21/05 | Giovanni Alvissus, Lucas Gobbi, Mizael Santos | 21/05 | Bruno Ribeiro |
 | 3. Planejar a avaliação da Análise de Tarefas | 21/05 | Larissa Gomes e Rafael Bosi | 21/05 | Lucas Gobbi |
 | 4. Planejar o retato da avaliação do Story Board | 21/05 | Igor Penha | 21/05 | Larissa Gomes |
@@ -94,6 +94,22 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 | 9. Cronograma Executado| 21/05 | Larissa Gomes | 21/05 | Giovanni Alvissus |
 <div style="text-align: center">
     <p> <b>Tabela 4</b>: Ponto de Controle Executado 4 (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+## Cronograma Ponto de Controle 5
+| Atividade | Data de entrega | Autores | Período de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|-----------|
+| 1. Correção dos artefatos Ponto de Controle 4 | - | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | - | Giovanni Alvissus |
+| 2. Relatar os resultados do Story Board | 29/05 | Bruno Ribeiro e Igor Penha | 29/05 | Giovanni Alvissus |
+| 3. Relatar a análise de tarefas | 29/05 | Lucas Gobbi e Rafael Bosi | 29/05 | Bruno Ribeiro e Mizael Santos |
+| 4. Planejar a avaliação do protótipo de papel | 29/05 | Giovanni Alvissus e Larissa Gomes | 29/05 | Igor Penha |
+| 5. Planejar o relato dos resultados da avaliação do protótipo de papel | 29/05 | Mizael Santos | 29/05 | Larissa Gomes |
+| 6. Atualizar GitPage | 29/05 | Larissa Gomes | 29/05 | Giovanni Alvissus |
+| 7. Gravação da apresentação | 29/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 29/05 | Rafael Bosi |
+| 8. Edição da apresentação | 29/05 | Mizael Santos | 29/05 | Rafael Bosi |
+| 9. Cronograma Executado| 29/05 | Larissa Gomes | 29/05 | Giovanni Alvissus |
+<div style="text-align: center">
+    <p> <b>Tabela 5</b>: Ponto de Controle 5 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Bibliografia
@@ -112,4 +128,5 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 | 15/05/2023 | `3.0` | Adição ponto de controle executado 3 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 15/05/2023 | [Giovanni Alvissus](https://github.com/larigs) |
 | 15/05/2023 | `3.1` | Correção texto ponto de controle 3 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 21/05/2023 | `4.0` | Adição ponto de controle 4 | [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 29/05/2023 | `5.0` | Adição ponto de controle 5 | [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 </div>
