@@ -116,7 +116,7 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 
 <p align="justify">Com o resultado da análise descrita na Tabela 3, foi criado o diagrama HTA (Figura 3). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
 
-<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/HTA_calculadora_cidadao.png" width="100%">
+<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/analise_tarefas/HTA_calculadora_cidadao.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 3</b>: Diagrama da representação HTA da tarefa "Calculadora do Cidadão, parte 1" (Fonte: RIBEIRO, Bruno. 2023). </p>
