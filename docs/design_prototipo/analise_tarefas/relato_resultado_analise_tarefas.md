@@ -20,6 +20,10 @@
 </div>
 
 <div align="justify">
+&emsp;&emsp;Importante ressaltar que todos os usuários que foram entrevistados nessa etapa, são indivíduos que responderam ao questionário feito previamente no projeto e se colocaram a disposição para participar de outras etapas da pesquisa, como essa entrevista.  
+</div>
+
+<div align="justify">
 &emsp;&emsp;Além disso, toda entrevista vai ter uma ficha, como a representada pela tabela 1, preenchida. Isso foi feito para se manter uma organização dentro do projeto e, também, apresentar as informações de forma mais clara e acessível.
 </div>
 <br>
@@ -33,10 +37,14 @@
 </div>
 <br>
 
+<div align="justify">
+&emsp;&emsp;Nas tabelas que possuem as respostas dos entrevistados é possível notar que nas entrevistas a pergunta 5 ficou sem respostas, isso porque essa pergunta foi pulada em todas as reuniões, uma vez que todos os entrevistados já haviam utilizado o site do Banco Central.
+</div>
+
 ## Resultados
 
 <div allign="justify">
-&emsp;&emsp;A Tabela 2 apresenta as perguntas que foram realizadas nas entrevistas, as quais foram feitas com base nas sugestões para perguntas disponível no livro de Simone Barbosa e Bruno Diniz [1]. As tabelas de X a X estão preenchidas com as respostas dos usuários, coletadas na hora das entrevistas.
+&emsp;&emsp;A Tabela 2 apresenta as perguntas que foram realizadas nas entrevistas, as quais foram feitas com base nas sugestões para perguntas disponível no livro de Simone Barbosa e Bruno Diniz [1]. As tabelas de 4, 6, 8, 10 e 12 estão preenchidas com as respostas dos usuários, coletadas na hora das entrevistas. Enquanto as Tabelas 3, 5, 7, 9 e 11 representam as fichas das entrevistas.
 </div>
 <br>
 
@@ -163,6 +171,39 @@
 
 <div align="left">
 <p> Tabela 8: Respostas obtidas na terceira entrevista (Fonte: BOSI, Rafael 2023).</p>
+</div>
+
+- ### Quarta Entrevista
+
+| <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
+| :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
+| 4° | 28/05/2023 | 12h40 - 12h45 | Microsoft Teams | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Rafael Bosi](https://github.com/StrangeUnit28) | Victor Hugo Borges Batista |
+
+<div align="left">
+<p> Tabela 9: Ficha da quarta entrevista (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+<br>
+
+| <p align="center">Ordem das perguntas | <p align="center">Perguntas</p> | <p align="center">Respostas possíveis</p> |  
+| :-----------------: | :------- | :------------------ | 
+| 1°  | Qual seu nome completo? | Victor Hugo Borges Batista | 
+| 2°  | Qual sua idade? | 23 |  
+| 3°  | Qual sua ocupação? | Analista Junior em uma empresa de contabilidade | 
+| 4°  | Já utilizou o site do Banco Central?  | Sim | 
+| 6°  | Qual das tarefas utiliza/utilizaria?  | Pesquisa de novas informações financeiras sobre o Brsail e o esterior, consulta de taxas e conversão monetária | 
+| 7°  | Como é sua navegação pelo site? | Considero a navegação fluida e intuitiva, tem recursos facilmente identificaveis |
+| 8°  | Consegue encontrar as tarefas que procura facilmente? | Sim |
+| 9°  | Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele? | Não | 
+| 10° | Ao utilizar uma funcionalidade, suas necessidades são completamente satisfeitas? | Sim |
+| 11° | Acredita que perde algum tempo devido alguma questão de interface? | Não |
+| 12° | Alguma parte da interface e da interação o deixa insatisfeito? (Em caso afirmativo, perguntar qual seria essa parte) | Não |
+| 13° | Alguma parte da interface o desmotiva a explorar novas funcionalidades? (Em caso afirmativo, perguntar qual seria essa parte) | Sim, tem informaçoes bem especificas as quais nos fazem querer estudar um pouco mais sobre os assuntos, pensando de maneira de uso cotidiano para analistas, mas quanto a interface em si não afeta muito |
+| 14°  | Consegue entender com clareza como utilizar o site para realizar seu objetivo? | Sim |
+| 15° | A acessibilidade disponível pelo site, como libras e alto contraste, cumpre com seu objetivo? | Não sei responder |
+| 16° | Quais são os pontos fortes e fracos em sua opnião? | O site cumpre muito bem o que propoem, nunca reparei em problemas na interface que me afetem no meu dia a dia |
+
+<div align="left">
+<p> Tabela 10: Respostas obtidas na quarta entrevista (Fonte: BOSI, Rafael 2023).</p>
 </div>
 
 ## Conclusão
