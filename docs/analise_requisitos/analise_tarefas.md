@@ -100,18 +100,15 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 
 <p align="justify"> TEXTO DESCREVENDO A TAREFA </p>
 
-"Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Bruno"
-
 |<p align="center">objetivos / operações</p> | <p align="center">Relações</p> | <p align="center">problemas e recomendações</p> |
 | --                                         | :----: |  ---- | 
-| 0. acessar dados financeiros pessoais      |  1>2	 | **Input**: acesso ao registrato pelo gov.br, com cpf e senha, com a escolha do tipo de dado a ser acessado (em alguns casos a escolha das datas dos dados) e a concordância com os termos.</br> **Plano**: acessar registrato, **depois** escolher o tipo de dado a ser acessado, **em seguida** aceitar os termos e **por último** gerar relatório.</br> **Feedback**: Relatório de Serviços gerado.</br> **Problema**: o registrato apenas apresenta as informações para quem possui nível prata ou ouro em sua conta gov.br.</br> **Recomendação**: informar antes de acessar o registrato a necessidade de ter uma conta gov.br acima do nível prata. |
-| 1. acessar o registrato |  1>2  | **Plano**: informar o cpf e **depois** a senha do gov.br. </br> **Feedback**: tela menu de Serviços Registrato. |
-| 1.1.	Informar cpf  |    |  |
-| 1.2.	Informar senha do gov.br |    |  |
-| 2. Escolher tipo de dado a ser acessado |  1/2  | **Plano**: selecionar uma das opções, **entre** Cheques sem Fundos, Empréstimos e Financiamentos, Contas e Relacionamentos, Cadin Federal, Chaves Pix ou Câmbio. </br> **Feedback**: tela menu de solicitação de relatório. |
-| 2.1. Selecionar Cheques sem Fundos	 |    |  |
-| 2.2. Empréstimos e Financiamento |  1>2  | **Plano**: selecionar Empréstimos e Financiamentos, **em seguida** definir informações. |
-| 2.2.1. Selecionar Empréstimos e Financiamento	 |    |  |
+| 0. Utilizar a calculadora do cidadão | 1/2/3 | **Plano**: selecionar uma das tarefas possíveis dentro da modalidade calculadora do cidadão. |
+| 1. Simular aplicações com depósitos regulares | | **Plano**: informar dados para a simulação da aplicação (meses, parcelas, valor final, taxa de juros) |
+| 1.1. Informar dados para simulação | |  |
+| 2. Simular financiamento com prestações fixas | | **Plano**: informar dados para a simulação da aplicação (meses, parcelas, valor final, taxa de juros) |
+| 2.1. Informar dados para simulação | |  |
+| 3. Simular valor futuro de capital | | **Plano**: informar dados para a simulação da aplicação (meses, parcelas, valor final, taxa de juros) |
+| 3.1. Informar dados para simulação | |  |
 
 <div align="center">
 <p> <b>Tabela 3</b>: Tabela da representação HTA da tarefa "Calculadora do Cidadão, parte 1" (Fonte: RIBEIRO, Bruno. 2023). </p>
@@ -119,7 +116,7 @@ A Tabela 1 apresenta os elementos de uma análise hierárquica de tarefas.
 
 <p align="justify">Com o resultado da análise descrita na Tabela 3, foi criado o diagrama HTA (Figura 3). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
 
-<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/NOMEARQUIVO.png" width="100%">
+<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/HTA_calculadora_cidadao.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 3</b>: Diagrama da representação HTA da tarefa "Calculadora do Cidadão, parte 1" (Fonte: RIBEIRO, Bruno. 2023). </p>
