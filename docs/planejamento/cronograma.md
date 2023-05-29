@@ -101,11 +101,11 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Correção dos artefatos Ponto de Controle 4 | 24/05 - 26/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 26/06 - 27/06 | Giovanni Alvissus |
-| 2. Relatar os resultados do Story Board | 23/05 - 27/05 | Rafael Bosi | 27/05 - 28/05 | Bruno Ribeiro |
-| 3. Relatar a análise de tarefas | 23/05 - 27/05 | Bruno Ribeiro e Igor Penha | 27/05 - 28/05 | Giovanni Alvissus e Mizael Santos |
+| 2. Relatar os resultados do Story Board | 23/05 - 27/05 | Bruno Ribeiro e Igor Penha | 27/05 - 28/05 | Giovanni Alvissus |
+| 3. Relatar a análise de tarefas | 23/05 - 27/05 | Lucas Gobbi e Rafael Bosi | 27/05 - 28/05 | Bruno Ribeiro e Mizael Santos |
 | 4. Planejar a avaliação do protótipo de papel | 23/05 - 25/05 | Giovanni Alvissus e Larissa Gomes | 25/05 - 26/05 | Igor Penha |
-| 5. Planejar o relato dos resultados da avaliação do protótipo de papel | 26/05 - 28/05 | Lucas Gobbi e Mizael Santos | 28/05 | Larissa Gomes |
-| 6. Atualizar GitPage | 26/05 - 27/05 | Larissa Gomes | 27/05 - 28/05 | Lucas Gobbi |
+| 5. Planejar o relato dos resultados da avaliação do protótipo de papel | 26/05 - 28/05 | Mizael Santos | 28/05 | Larissa Gomes |
+| 6. Atualizar GitPage | 26/05 - 27/05 | Larissa Gomes | 27/05 - 28/05 | Giovanni Alvissus |
 | 7. Gravação da apresentação | 28/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 28/05 | Rafael Bosi |
 | 8. Edição da apresentação | 28/05 - 29/05 | Mizael Santos | 29/05 - 29/05 | Rafael Bosi |
 | 9. Cronograma Executado| 28/05 | Larissa Gomes | 28/05 | Giovanni Alvissus |
@@ -202,6 +202,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 23/04/2023 | `1.3` | Criação dos pontos de controle 7 e 8 | [Rafael Bosi](https://github.com/StrangeUnit28) | 23/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 23/04/2023 | `1.4` | Criação do cronograma geral | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 24/04/2023 | `1.5` | Correção dos pontos de controle 2, 7, 8 e Entrega Final | [Larissa Gomes](https://github.com/larigs)| 24/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 21/05/2023 | `2.0` | Correção dos pontos de controle 4| [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 21/05/2023 | `2.0` | Correção do ponto de controle 4| [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 29/05/2023 | `3.0` | Correção dos pontos de controle 5| [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>

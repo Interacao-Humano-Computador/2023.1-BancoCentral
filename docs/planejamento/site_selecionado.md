@@ -28,7 +28,7 @@ Durante a [reunião 02](https://raw.githubusercontent.com/Interacao-Humano-Compu
 
 <div style="text-align: justify;">
 
-A princípio, o site selecionado pelo grupo era o [VideoLAN](https://www.videolan.org), porém, ao realizarmos que essa aplicação possuia poucas funcionalidades, escolheu-se mudar para o Banco Central do Brasil, site do governo o qual possui diversas funcionalidades, além de termos liberdade para trabalhar-mos com essa aplicação.
+A princípio, o site selecionado pelo grupo era o [VideoLAN](https://www.videolan.org), porém, ao realizarmos que essa aplicação possuia poucas funcionalidades, escolheu-se mudar para o [Banco Central do Brasil](https://www.bcb.gov.br), site do governo o qual possui diversas funcionalidades, além de termos liberdade para trabalhar-mos com essa aplicação.
 
 O Banco Central do Brasil (Imagem 1) é um site com intuito de auxiliar os seus usuários em questões financeiras. Ele tem como funcionalidades, por exemplo, consultar valores a receber, onde você tem dívidas, converter moedas, analisar panoramas econômicos, etc. O site se destaca pelo grande suporte ao cidadão brasileiro em informações e cálculos financeiros.
 
@@ -62,8 +62,9 @@ Para saber mais sobre os pontos negativos, a [análise heurística](avaliacoes/a
 <br/>
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| :-: | :-: | :-: | :-: | :-: | :-: |
+| :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 23/04/2023   | `1.0`  | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 23/04/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 24/04/2023   | `1.1`  | Separação e atualização do artefato | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 06/05/2023   | `1.2`  | Alteração do site | [Rafael Bosi](https://github.com/StrangeUnit28) e [Lucas Gobbi](https://github.com/LucasBergholz) | 07/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 27/05/2023   | `1.3`  | Add link BCB | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 27/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 </div>
