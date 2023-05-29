@@ -98,7 +98,7 @@ O objetivo desta avaliação é obter informações dos _stakeholders_, especial
 | 7°                  | 3                      | Como é sua navegação pelo site?       | Aberta           | Resposta discursiva   |
 | 8°                  | 3                      | Consegue encontrar as tarefas que procura facilmente?    | Fechada               | Sim</br>Não  |
 | 9°                  | 1                      | Ao utilizar o site, sente vontade de utilizar outra funcionalidade dele?         | Fechada      | Sim</br>Não</br>Talvez| 
-| 10°                 | 3                      | Ao utilizar utilizar uma funcionalidade, suas necessidades são completamente satisfeitas?       | Fechada               | Sim</br>Não</br>Parcialmente |
+| 10°                 | 3                      | Ao  utilizar uma funcionalidade, suas necessidades são completamente satisfeitas?       | Fechada               | Sim</br>Não</br>Parcialmente |
 | 11°                 | 3                      | Acredita que perde algum tempo devido alguma questão de interface?               | Fechada               | Sim</br>Não</br>Parcialmente |
 | 12°                 | 3                      | Alguma parte da interface e da interação o deixa insatisfeito? (Em caso afirmativo, perguntar qual seria essa parte)| Fechada/Aberta         | Sim</br>Não</br>Caso sim, adicionar resposta discursiva  |
 | 13°                 | 3                      | Alguma parte da interface o desmotiva a explorar novas funcionalidades? (Em caso afirmativo, perguntar qual seria essa parte)               | Fechada/Aberta         | Sim</br>Não</br>Caso sim, adicionar resposta discursiva  |
@@ -122,7 +122,7 @@ O método utilizado foi o investigativo, por meio de uma entrevista. Trata-se de
 
 <div align="justify">
 
-Para selecionar os usuários que participarão da avaliação, iremos convidar usuários da plataforma que tenham perfis semelhantes aos identificados no [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario) e nas [Personas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas). Seguiremos a recomendação de Dumas e Redish, que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas [3]. A entrevista será conduzida por dois membros do grupo de IHC: um será responsável por conduzir a entrevista, enquanto o outro registrará as informações relevantes. Utilizaremos a plataforma Microsoft Teams, que é gratuita para os estudantes da Universidade de Brasília, portanto não haverá custos adicionais. A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
+Para selecionar os usuários que participarão da avaliação, iremos convidar usuários da plataforma que tenham perfis semelhantes aos identificados no [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario) e nas [Personas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas). Seguiremos a recomendação de Dumas e Redish, que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas [3]. A entrevista será conduzida, quando possível, por dois membros do grupo de IHC: um será responsável por conduzir a entrevista, enquanto o outro registrará as informações relevantes, caso apenas um membro esteja disponível, esse deve realizar os dois papéis. Utilizaremos a plataforma Microsoft Teams, que é gratuita para os estudantes da Universidade de Brasília, portanto não haverá custos adicionais. A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de documentação das entrevistas realizadas.
 </div>
 </br>
 
@@ -135,7 +135,7 @@ Para selecionar os usuários que participarão da avaliação, iremos convidar u
 <p> Tabela 4: Modelo de ficha de entrevistas (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
-Os 5 participantes selecionados responderam que gostariam de participar de pesquisas futuras relacionadas ao projeto no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) realizado para identificação do perfil do usuário. A Tabela 5 relata o planejamento para realização das entrevistas, com data, horário, entrevistadores e entrevistados.
+Os 5 participantes selecionados responderam que gostariam de participar de pesquisas futuras relacionadas ao projeto no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) realizado para identificação do perfil do usuário. A Tabela 5 apresenta de maneira meramente ilustrativa, ou seja, um exemplo para realização das entrevistas, com data, horário, entrevistadores e entrevistados.
 
 |    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    | 
 | :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
