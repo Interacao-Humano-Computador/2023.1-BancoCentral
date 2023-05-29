@@ -1,5 +1,3 @@
-<!-- _navbar.md -->
-
 <!-- _sidebar.md -->
 
 - [Home](home.md)
@@ -9,6 +7,7 @@
     - [3ª Reunião](atas/reuniao03.md)
     - [4ª Reunião](atas/reuniao04.md)
     - [5ª Reunião](atas/reuniao05.md)
+    - [6ª Reunião](atas/reuniao06.md)
 - [Planejamento](planejamento/cronograma.md)
     - [Avaliação do Site](planejamento/avaliacoes/AvaliacaoBCB.md)
     - [Cronograma](planejamento/cronograma.md)
@@ -31,6 +30,7 @@
     - [Característica da Plataforma para o Projeto](analise_requisitos/caracteristicas_da_plataforma.md)
 - [Design](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
     - [Nível 1](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
+    - [Nível 2](design_prototipo/prototipo_papel/planejamento_avaliacao.md)
 - [Questionários](questionarios/termo-de-consentimento.md)
     - [Termo de Consentimento](questionarios/termo-de-consentimento.md)
     - [Questionário 1 - Perfil do Usuário](questionarios/questionario_01.md)
