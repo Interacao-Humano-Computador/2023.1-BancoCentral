@@ -237,7 +237,7 @@ Essas relações entre tarefas podem ser observadas na Figura 5, logo a seguir.<
 
 <p align="justify"> TEXTO DESCREVENDO A TAREFA </p>
 
-<img title="a title" alt="Consultar valores" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/NOMEARQUIVO.png" width="100%">
+<img title="a title" alt="Consultar valores" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/master/docs/img/analise_tarefas/Analise_de_tarefa_ValoresReceber.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 9</b>: Diagrama da representação CTT da tarefa "Consultar valores" (Fonte: PENHA, Igor. 2023). </p>
