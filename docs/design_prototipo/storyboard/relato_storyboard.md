@@ -29,100 +29,11 @@ Durante a entrevista, foram feitas perguntas conceituais que tivessem relação 
 
 ## Participantes
 
-Foi encontrada _*x*_ voluntários, que aceitaram fazer a entrevista e que se encaixassem no [perfil de usuário](/docs/analise_requisitos/perfil_usuario.md) definido anteriormente para o sistema. A entrevista teve apenas _*x*_ participantes, os entrevistadores e o entrevistado. O local de realização das entrevistas foram a plataforma Teams para maior conforto dos entrevistados.
+Foi encontrado _*5*_ voluntários, que aceitaram fazer a entrevista e que se encaixassem no [perfil de usuário](/docs/analise_requisitos/perfil_usuario.md) definido anteriormente para o sistema. A entrevista teve apenas _*5*_ participantes, os entrevistadores e o entrevistado. O local de realização das entrevistas foram a plataforma Teams para maior conforto dos entrevistados.
 
-## Dados obtidos
+## Storyboards Utilizados
 
-Os dados obtidos nas entrevistas foram transcritos para as tabelas 1 e 2.</p>
-
-### Entrevista 1 - João Nobrega
-
-| Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | Sim | Verificar a concordância |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Sim | Verificar a concordância |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | Sim| Verificar o entendimento |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Não sei responder | Verificar usabilidade |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | Sim | Verificar a coerência |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
-| 11 | O storyboard é adequado ao público-alvo do produto? | Sim | Verificar a adequação |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | Sim | Verificar o valor |
-| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard e funções do site|
-<div style="text-align: center">
-    <p> <b>Tabela 1: </b> Perguntas realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
-</div>
-
-### Entrevista 2 - Bruno Lazar
-
-| Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | Sim | Verificar a concordância |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Sim | Verificar a concordância |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | Sim| Verificar o entendimento |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Sim | Verificar usabilidade |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | Sim | Verificar a coerência |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
-| 11 | O storyboard é adequado ao público-alvo do produto? | Sim | Verificar a adequação |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | Não sei responder | Verificar o valor |
-| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard e funções do site|
-<div style="text-align: center">
-    <p> <b>Tabela 1: </b> Perguntas realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
-</div>
-
-### Entrevista 3 - Nome
-
-| Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o entendimento |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a coerência |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [] Sim <br/> [] Não <br/> [] Não sei responder | Verificar coerência |
-| 11 | O storyboard é adequado ao público-alvo do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a adequação |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o valor |
-| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
-<div style="text-align: center">
-    <p> <b>Tabela 3: </b> Perguntas realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
-</div>
-
-### Entrevista 4 - Nome
-
-| Numero | Pergunta | Resposta | Objetivo |
-| :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a concordância |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o entendimento |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar usabilidade |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a coerência |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [] Sim <br/> [] Não <br/> [] Não sei responder | Verificar coerência |
-| 11 | O storyboard é adequado ao público-alvo do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar a adequação |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Verificar o valor |
-| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
-<div style="text-align: center">
-    <p> <b>Tabela 4: </b> Perguntas realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
-</div>
-
-
-### Storyboards Utilizados
-
-Logo em seguida das perguntas seguimos a entrevista apresentando aos entrevistados os seguintes storyboards produzidos pelo grupo com o objetivo de analisar se concordavam com as breves histórias produzidas:
+A seguir, seguem os storyboards utilizados na entrevista, antes da realização do questionário, representados nas figuras de 1 a 7:
 
 <p align="justify">A Figura 1 apresenta o StoryBoard do membro Giovanni, onde o usuário realiza a tarefa de checar as taxas de juros dos bancos.</p>
 
@@ -180,27 +91,186 @@ Logo em seguida das perguntas seguimos a entrevista apresentando aos entrevistad
 <p> <b>Figura 7</b>: Storyboard da tarefa de utilizar Correção de Valores (Fonte: MIZAEL, Francisco. 2023). </p>
 </div>
 
+## Dados obtidos
+
+Os dados obtidos nas entrevistas foram transcritos para as tabelas de 1 a 5.</p>
+
+### Entrevista 1 - João Nobrega
+Entrevistador: Lucas Gobbi e Igor Penha;
+
+| Numero | Pergunta | Resposta | Objetivo |
+| :-: | - | :- | - |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | Sim | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Sim | Verificar a concordância |
+| 5 | As informações apresentadas no storyboard são compreensíveis? | Sim| Verificar o entendimento |
+| 6 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
+| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Não sei responder | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
+| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | Sim | Verificar a coerência |
+| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
+| 11 | O storyboard é adequado ao público-alvo do produto? | Sim | Verificar a adequação |
+| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | Sim | Verificar o valor |
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard e funções do site|
+<div style="text-align: center">
+    <p> <b>Tabela 1: </b> Perguntas realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+</div>
+
+### Entrevista 2 - Bruno Lazar
+Entrevistador: Igor Penha;
+
+| Numero | Pergunta | Resposta | Objetivo |
+| :-: | - | :- | - |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | Sim | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Sim | Verificar a concordância |
+| 5 | As informações apresentadas no storyboard são compreensíveis? | Sim| Verificar o entendimento |
+| 6 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
+| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Sim | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
+| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | Sim | Verificar a coerência |
+| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
+| 11 | O storyboard é adequado ao público-alvo do produto? | Sim | Verificar a adequação |
+| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | Não sei responder | Verificar o valor |
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard e funções do site|
+<div style="text-align: center">
+    <p> <b>Tabela 2: </b> Perguntas realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+</div>
+
+### Entrevista 3 - Cícero Barrozo
+Entrevistador: Lucas Gobbi;
+
+| Numero | Pergunta | Resposta | Objetivo |
+| :-: | - | - | - |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | Sim | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Sim | Verificar a concordância |
+| 5 | As informações apresentadas no storyboard são compreensíveis? | Sim | Verificar o entendimento |
+| 6 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
+| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Sim | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
+| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | Não sei responder | Verificar a coerência |
+| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
+| 11 | O storyboard é adequado ao público-alvo do produto? | Não sei responder | Verificar a adequação |
+| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | Sim | Verificar o valor |
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
+<div style="text-align: center">
+    <p> <b>Tabela 3: </b> Perguntas a serem realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+</div>
+
+### Entrevista 4 - Samuel Alves
+Entrevistador: Lucas Gobbi e Igor Penha;
+
+| Numero | Pergunta | Resposta | Objetivo |
+| :-: | - | :- | - |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | Sim | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Sim | Verificar a concordância |
+| 5 | As informações apresentadas no storyboard são compreensíveis? | Sim | Verificar o entendimento |
+| 6 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
+| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Sim | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
+| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | Não sei responder | Verificar a coerência |
+| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
+| 11 | O storyboard é adequado ao público-alvo do produto? | Sim | Verificar a adequação |
+| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | Sim | Verificar o valor |
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
+<div style="text-align: center">
+    <p> <b>Tabela 4: </b> Perguntas realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+</div>
+
+### Entrevista 5 - Victor Hugo Borges
+Entrevistador: Lucas Gobbi e Igor Penha;
+
+| Numero | Pergunta | Resposta | Objetivo |
+| :-: | - | :- | - |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | Sim | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | Sim | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | Sim | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | Não sei responder | Verificar a concordância |
+| 5 | As informações apresentadas no storyboard são compreensíveis? | Sim | Verificar o entendimento |
+| 6 | Houve dificuldade ao realizar a interação com o storyboard? | Não | Verificar usabilidade |
+| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | Sim | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | Sim | Verificar usabilidade |
+| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | Sim | Verificar a coerência |
+| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | Sim | Verificar coerência |
+| 11 | O storyboard é adequado ao público-alvo do produto? | Sim | Verificar a adequação |
+| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | Sim | Verificar o valor |
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
+<div style="text-align: center">
+    <p> <b>Tabela 5: </b> Perguntas realizadas (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+</div>
 
 
+## Sugestões e Problemas Encontrados
+A seguir, seguem alguns dos problemas e sugestões obtidos a partir da pergunta 13 do questionário passado ao entrevistado:
+
+Problemas:
+- João Nobrega: Dificuldade de utilizar algumas tarefas por necessitar ter conta gov com nível prata.
+
+- Cícero Barrozo: Em um storyboard específico, o de Registrato, ficou faltando contexto à história.
+
+- Samuel Alves: O site redireciona algumas vezes para abas externas.
+
+Sugestões:
+- Bruno Lazar: Acessar todas as funcionalidades do site sem ter necessidade de ter uma conta gov com nível.
 
 
-## Problemas encontrados
-João Nobrega: Dificuldade de utilizar algumas tarefas por necessitar ter conta gov com nível prata.
+## Análise dos dados
+
+### Organização dos dados
+Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de auxiliar na análise dos dados obtidos nas entrevistas.
+
+| Numero | Pergunta | [Quantidade] Resposta | Objetivo |
+| :-: | - | :- | - |
+| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [5] Sim | Verificar a concordância |
+| 2 | O cenário que o storyboard está inserido condiz com a realidade? | [5] Sim | Verificar a concordância |
+| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [5] Sim | Verificar a concordância |
+| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | [4] Sim <br> [1] Não sei responder| Verificar a concordância |
+| 5 | As informações apresentadas no storyboard são compreensíveis? | [5] Sim | Verificar o entendimento |
+| 6 | Houve dificuldade ao realizar a interação com o storyboard? | [5] Não | Verificar usabilidade |
+| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [4] Sim <br> [1] Não sei responder | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | [5] Sim | Verificar usabilidade |
+| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | [3] Sim <br> [2] Não sei responder | Verificar a coerência |
+| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [5] Sim | Verificar coerência |
+| 11 | O storyboard é adequado ao público-alvo do produto? | [4] Sim <br> [1] Não sei responder | Verificar a adequação |
+| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | [4] Sim <br> [1] Não sei responder | Verificar o valor |
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
+<div style="text-align: center">
+    <p> <b>Tabela 6: </b> Dados organizados (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+</div>
+
+### Análise Quantitativa
+Foram analisados, a partir dos dados obtidos na tabela 6, que os storyboards tiveram sucesso em sua interação com o entrevistado, pois, em perguntas chave como as de número 1, 5 e 10, a resposta majoritária foi "Sim". Tendo isso em vista, algumas perguntas podem melhorar sua clareza ao entrevistado, entre elas as de número 7 e 9, tendo em vista que houveram algumas respostas de "Não sei responder".
+
+### Análise Qualitativa
+Quanto a análise qualitativa, as entrevistas poderiam fornecer mais frutos quanto a possíveis melhorias nos storyboards e no site, pois, devido às perguntas serem majoritariamente fechadas, diminuiu a eficácia da análise qualitativa deste processo. Todavia, a questão 13, a qual é aberta, permitiu-nos perceber algumas melhorias, entre elas:
+
+- Diminuir as funcionalidades do site que precisam de conta do governo em determinado nível;
+- Aumentar a qualidade de alguns storyboards;
+- Diminuir o redirecionamento do usuário para novas abas.
+
+### Interpretação dos resultados
+A partir de reflexões acerca do processo de avaliação dos storyboards, foi possível perceber que:
+
+- Para uma análise quantitativa de maior acurácia, seria interessante um número maior de entrevistados;
+- Em relação ao tempo disposto pelo entrevistado, e para um melhor desempenho do processo, foi ideal a realização de poucas perguntas abertas;
+- Devido às entrevistas terem sido realizadas de forma virtual, o contato com o usuário diminuiu, e, portanto, não se pode analisar por completo seus comportamentos em relação aos storyboards e as perguntas.
 
 
+A partir da análise dos dados obtidos acima, foi possível perceber que:
 
-
-
-## Sugestões obtidas
-Bruno Lazar: Acessar todas as funcionalidades do site sem ter necessidade de ter uma conta gov com nível.
-
-
-
-
-
+- Para uma análise qualitativa de maior acurácia, seria interessante um número maior de perguntas abertas;
+- Algumas perguntas (como a 7, a 9 e a 11) devem melhorar sua clareza, pois obtivemos um número acentuado de respostas "Não sei responder";
+- O processo de avaliação dos storyboards foi, em geral, um sucesso, pois nas perguntas chave do questionário, as quais envolviam perguntas sobre a clareza do storyboard em si (entre elas as perguntas 1, 2, 5, 6 e 10), e as tarefas representadas neles, obtivemos, em sua maioria, respostas positivas.
 
 
 ## Gravação das entrevistas
+Todas as entrevistas foram gravadas e estão disponíveis para visualização abaixo, do vídeo 1 ao 5:
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OJ02eL5vl3E" title="Entrevista João Nobrega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
@@ -217,24 +287,14 @@ Bruno Lazar: Acessar todas as funcionalidades do site sem ter necessidade de ter
 <p> <b>Vídeo 3</b>: gravação entrevista 3 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/66V5ZOcsOCw" title="Entrevista NOME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/66V5ZOcsOCw" title="Entrevista Samuel Alves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 4</b>: gravação entrevista 4 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
 
 
-## Análise dos dados coletados
-
-
-
-
-
-
-
 ## Conclusão
-
-
-
+A partir da realização das entrevistas, conseguimos ter um feedback dos usuários em relação aos storyboards produzidos pelo grupo, além de alguns insights em relação a aplicação estudada. Quanto à análise dos dados em si, foram realizadas dois tipos, a quantitativa e a qualitativa, permitindo uma avaliação do próprio grupo em relação às entrevistas realizadas, utilizando-se, por exemplo, tabelas de auxílio a essa atividade, como a tabela 6. Na análise interna do grupo, foi considerado um sucesso a realização das avaliações, pois foi possível obter pontos de vistas os quais não haviam passado anteriormente pelo grupo.
 
 
 
