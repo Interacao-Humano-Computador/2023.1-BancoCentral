@@ -90,6 +90,14 @@ A seguir, seguem os storyboards utilizados na entrevista, antes da realização 
 <div align="center">
 <p> <b>Figura 7</b>: Storyboard da tarefa de utilizar Correção de Valores (Fonte: MIZAEL, Francisco. 2023). </p>
 </div>
+    
+## Teste Piloto
+    Previamente as entrevistas, foi realizado o teste piloto das entrevistas para ter certeza que todas as ferramentas que seriam utilizadas estariam funcionando, no momento, da gravação da entrevista, a seguir segue o vídeo da gravação do teste piloto:
+    
+    <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/SMabXlyj0ks" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 2</b>: gravação Teste Piloto (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+</div>
 
 ## Dados obtidos
 
@@ -270,31 +278,31 @@ A partir da análise dos dados obtidos acima, foi possível perceber que:
 
 
 ## Gravação das entrevistas
-Todas as entrevistas foram gravadas e estão disponíveis para visualização abaixo, do vídeo 1 ao 5:
+Todas as entrevistas foram gravadas e estão disponíveis para visualização abaixo, do vídeo 2 ao 6:
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OJ02eL5vl3E" title="Entrevista João Nobrega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 1</b>: gravação entrevista 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+<p> <b>Vídeo 2</b>: gravação entrevista 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/C2uHTRxXY9Y" title="Entrevista Bruno Lazar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 2</b>: gravação entrevista 2 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+<p> <b>Vídeo 3</b>: gravação entrevista 2 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/t8GF5t_WxUA" title="Entrevista Cícero Barrozo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 3</b>: gravação entrevista 3 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+<p> <b>Vídeo 4</b>: gravação entrevista 3 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/7Ld3uM5kcfs" title="Entrevista Samuel Alves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 4</b>: gravação entrevista 4 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+<p> <b>Vídeo 5</b>: gravação entrevista 4 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
     
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/gevlPAQJhbU" title="Entrevista Victor Hugo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
-<p> <b>Vídeo 5</b>: gravação entrevista 5 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
+<p> <b>Vídeo 6</b>: gravação entrevista 5 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
 
 ## Conclusão
