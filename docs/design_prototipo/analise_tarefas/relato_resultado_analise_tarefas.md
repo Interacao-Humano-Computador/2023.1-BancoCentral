@@ -74,9 +74,12 @@
 
 - ### Primeira Entrevista
 
-    - Gravação da entrevista:
+    - Gravação da [entrevista 1](https://youtu.be/bS0RILaA5sM):
 
 <iframe width="1000vw" height="650vh" src="https://youtu.be/bS0RILaA5sM" title="Entrevista 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="left">
+<p> <b>Entrevista 1</b>: Fonte: RIBEIRO, Bruno. 2023). </p>
+</div>
 
 | <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
@@ -112,9 +115,12 @@
 
 - ### Segunda Entrevista
 
-    - Gravação da entrevista:
+    - Gravação da [entrevista 2](https://youtu.be/RliI9_favE8):
 
 <iframe width="1000vw" height="650vh" src="https://youtu.be/RliI9_favE8" title="Entrevista 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="left">
+<p> <b>Entrevista 2</b>: Fonte: RIBEIRO, Bruno. 2023). </p>
+</div>
 
 | <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
@@ -149,9 +155,12 @@
 
 - ### Terceira Entrevista
 
-    - Gravação da entrevista:
+    - Gravação da [entrevista 3](https://youtu.be/s7PDf4YHujI):
 
 <iframe width="1000vw" height="650vh" src="https://youtu.be/s7PDf4YHujI" title="Entrevista 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="left">
+<p> <b>Entrevista 3</b>: Fonte: RIBEIRO, Bruno. 2023). </p>
+</div>
 
 | <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
@@ -186,9 +195,12 @@
 
 - ### Quarta Entrevista
 
-    - Gravação da entrevista:
+    - Gravação da [entrevista 4](https://youtu.be/ql1rRj-hno4):
 
 <iframe width="1000vw" height="650vh" src="https://youtu.be/ql1rRj-hno4" title="Entrevista 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="left">
+<p> <b>Entrevista 4</b>: Fonte: RIBEIRO, Bruno. 2023). </p>
+</div>
 
 | <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
@@ -223,9 +235,12 @@
 
 - ### Quinta Entrevista
 
-    - Gravação da entrevista:
+    - Gravação da [entrevista 5](https://youtu.be/9C_TxXRSJWY):
 
 <iframe width="1000vw" height="650vh" src="https://youtu.be/9C_TxXRSJWY" title="Entrevista 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="left">
+<p> <b>Entrevista 5</b>: Fonte: RIBEIRO, Bruno. 2023). </p>
+</div>
 
 | <p align="center">Ordem</p> | <p align="center">Data</p> | <p align="center">Horário de início e fim</p> | <p align="center">Local</p> | <p align="center">Entrevistador(es)</p> | <p align="center">Entrevistado</p> | 
 | :--------: | :--------: | :---------------------: | :------: | :--------------: | :--------------: |
