@@ -1,5 +1,3 @@
-<div class="body">
-
 # Planejamento do relato do protótipo de papel
 # Introdução
 <div align="justify">
@@ -94,5 +92,3 @@ método
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 21/05/2023 | `1.0`  | Criação da documento de planejamento do relato da análise de tarefas | [Mizael Santos](https://github.com/frmiza)  | 22/05/2023 | [Larissa Gomes](https://github.com/larigs) |
-	
-</div>
