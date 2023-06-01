@@ -35,9 +35,9 @@ Ficou decidido na reunião, que as atividades individuais seguiriam o que está 
 | Verificação etapa 1 | Bruno Ribeiro | Rafael Bosi |
 | Verificação etapa 2 | Larissa Gomes | Igor Penha |
 | Ata da reunião (incluindo gravação postada no Youtube) | Igor Penha | Bruno Ribeiro |
-| Verificação etapa 3 | Rafael Bosi e Giovanni Alvissuss| Mizael Santos |
+| Verificação etapa 3 | Rafael Bosi e Giovanni Alvissus| Mizael Santos |
 | Verificação etapa 4 | Mizael Santos | Larissa Gomes |
-| Verificação etapa 5 | Igor e Lucas | Bruno Ribeiro |
+| Verificação etapa 5 | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
 | Atualizar GitPage | Larissa Gomes | Lucas Gobbi |
 
 
