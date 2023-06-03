@@ -36,17 +36,23 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - |
-| <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| ... | ... | ... | ... |
+| O artefato possui o objetivo do documento? | Sim | Excelente | O artefato descreve com clareza o objetivo do mesmo |
+| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Boa | O artefato refere ao método de entrevistas, porém não falou com quantas pessoas será realizada |
+| O artefato descreve a atividade a ser realizada (no caso a avaliação do protótipo de papel)? | Sim | Excelente | O artefato descreve o que é um protótipo de papel e sua utilidade |
+| O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Excelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista |
+| O artefato possui teste piloto junto de sua data de realização? | Sim | Excelente | O teste piloto foi bem descrito e possui data e local a ser realizado |
+| O artefato possui cronograma para realização das atividades propostas pelo documento? | Sim | Excelente | Todas as atividades do artefato estão presentes em um cronograma, com data, local e hora de sua realização |
+| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | Excelente | Todas as perguntas do questionário estão presentes com suas respectivas descrições |
+| O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Sim | Incompleta | O artefato descreve que será realizada a análise dos dados mas não descreve suficientemente como será realizada essa atividade |
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. GOBBI, Lucas. 2023).
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+O artefato, em sua grande maioria, está completo com o que se espera dele, porém, algumas pequenas ressalvas são necessárias:
+- O artefato deveria mencionar quantas pessoas o grupo pretende entrevistar.
+- O artefato deveria destrinchar melhor como será realizada a análise dos dados, pois, da maneira atual, será necessário no momento da avaliação desenvolver como essa análise será feita.
 
 </div>
 
@@ -61,45 +67,59 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 </div>
 
 1. Padronização:
-   - [ ] O artefato segue as diretrizes de formatação especificadas.
-   - [ ] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [ ] As margens e os espaçamentos estão corretos.
-   - [ ] O uso de negrito, itálico e sublinhado está adequado e consistente.
+   - [X] O artefato segue as diretrizes de formatação especificadas.
+   - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
+   - [X] As margens e os espaçamentos estão corretos.
+   - [X] O uso de negrito, itálico e sublinhado está adequado e consistente.
    - [ ] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [ ] O artefato possui uma introdução clara e contextualizada.
-   - [ ] As seções estão organizadas de forma lógica e coerente.
-   - [ ] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [ ] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [X] O artefato possui uma introdução clara e contextualizada.
+   - [X] As seções estão organizadas de forma lógica e coerente.
+   - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [X] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
-   - [ ] As citações estão corretamente formatadas de acordo com o estilo especificado.
-   - [ ] Todas as referências citadas no texto estão presentes na lista de referências.
-   - [ ] As referências estão formatadas corretamente, seguindo o estilo especificado.
+   - [X] As citações estão corretamente formatadas de acordo com o estilo especificado.
+   - [X] Todas as referências citadas no texto estão presentes na lista de referências.
+   - [X] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-@ caso exista tabela no artefato @
 4. Tabelas:
-   - [ ] As tabelas possuem legenda.
-   - [ ] As tabelas são chamadas no texto.
-   - [ ] 
-
-@ caso exista figura no artefato @
-5. Figuras:
-   - [ ] As figuras possuem legenda.
-   - [ ] As figuras são chamadas no texto.
-
-6. <Outros critérios específicos>:
-   - [ ] -> Inclua aqui outros critérios específicos que devem ser verificados no artefato. <-
-
-<b>Observações:</b>
-- -> Insira aqui quaisquer observações relevantes sobre a verificação realizada. <-
+   - [X] As tabelas possuem legenda.
+   - [X] As tabelas são chamadas no texto.
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão de como se encontra a qualidade do documento em relação aos tópicos gerais avaliados <-
+O artefato conseguiu com sucesso respeitar as regras determinadas pela ABNT e pelos critérios de aceitação da disciplina, faltando apenas a questão dos textos justificados.
+
+</div>
+
+## Correções e ajustes sugeridos
+
+<div align="justify">
+
+Algumas correções sugeridas são:
+- Especificar quantos entrevistados serão.
+- Detalhar melhor as análises dos dados obtidos pelo artefato, afim de diminuir o trabalho do documento que sucederá ele.
+- Justificar os textos.
+
+</div>
+
+## Bibliografia
+
+- BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
+
+- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+
+
+## Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 03/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 03/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+
 
 </div>
