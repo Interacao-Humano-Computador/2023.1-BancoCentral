@@ -10,15 +10,15 @@ Este artefato tem como objetivo criar um template para auxiliar o grupo a manter
 
 </div>
 
-## Template
-
-### Como utilizar
+## Como utilizar
 
 <div align="justify">
 
 O template é apenas uma base para guiar os avaliadores na hora da verificação e facilitar o trabalho de todos.
 
 Para sua utilização basta copiar o código abaixo e colar no artefato de verificação, podendo adicionar ou retirar itens conforme a necessidade.
+
+## Template
 
 O template possue alguns padrões que devem ser substituídos de acordo com o artefato que será verificado, sendo eles: 
 
@@ -173,7 +173,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 </div>
 ```
 
-### Como atualizar
+## Como atualizar
 
 <div align="justify">
 
