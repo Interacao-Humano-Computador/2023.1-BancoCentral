@@ -105,7 +105,7 @@ Tabela de versão não possui a data correta em que o artefato foi revisado, ape
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão de como se encontra a qualidade do documento em relação aos tópicos gerais avaliados <-
+De modo geral o documento esta bem padronizado, falhando em apenas alguns tópicos. Dos que não foram seguidos, vale a pena ressaltar as margens e a conclusão.
 
 </div>
 
