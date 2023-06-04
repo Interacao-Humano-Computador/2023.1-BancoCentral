@@ -43,6 +43,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 ## Conclusão
 <div align="justify">
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
+  
   - O artefato deveria detalhar melhor qual a metodologia utilizada pela equipa durante a elaboração do documento.
   - O artefato deveria referenciar todas as correntes e modelos éticos os quais foram embasados.
   </div>
