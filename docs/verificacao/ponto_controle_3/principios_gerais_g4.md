@@ -1,12 +1,14 @@
 <div class="body">
 
-# Verificação do artefato "Principios Gerais"
+# Verificação do artefato "Princípios Gerais"
 
 ## Introdução
 
 <div align="justify">
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
+
+Neste documento foi realizada a verificação do artefato "Princípios Gerais" do Grupo 4 da matéria de Interação Humano Computador.
 
 </div>
 
