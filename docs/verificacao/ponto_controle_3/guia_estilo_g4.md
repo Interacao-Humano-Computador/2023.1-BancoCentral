@@ -59,7 +59,9 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 <div align="justify">
 
-É possível observar que alguns ajustes devem ser feitos 
+O artefato entregue pelo Grupo 4 possui um bom conteúdo, porém é percepitível pela Tabela 1 que alguns ajustes são necessários, o principal entre eles é acrescentar mais do que foi analisado no documento dos Princípios Gerais, uma vez que esse documento descreve o que o site segue ou não dos princípios estabelecido e o Guia de Estilo já poderia recomendar modificações. Além disso, exlicar mais detalhadamente o objetivo do artefato, exemplificar o como utilizar o guia, documentar mais a fundo a analise feita em cima do ambiente de trabalho e, por fim, adicionar um tópico explicando a interação entre os artefatos "Princípios Gerais" e "Guia de Estilo".
+
+Outro ponto de ajuste importante é a criação de um tópico explicando o porque do Grupo manter o guia de estilo padrão do site ou, se caso alterarem algum ponto, o porque dessa alteração em relação ao padrão do site.
 
 </div>
 
@@ -73,60 +75,37 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 </div>
 
-✅ ❌
-
-
 1. Padronização:
-   - [ ] O artefato segue as diretrizes de formatação especificadas.
-   - [ ] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [ ] As margens e os espaçamentos estão corretos.
-   - [ ] O uso de negrito, itálico e sublinhado está adequado e consistente.
-   - [ ] Os parágrafos estão todos justificados.
+   - [✅] O artefato segue as diretrizes de formatação especificadas.
+   - [✅] A fonte e o tamanho do texto estão consistentes em todo o documento.
+   - [❌] As margens e os espaçamentos estão corretos.
+   - [✅] O uso de negrito, itálico e sublinhado está adequado e consistente.
+   - [❌] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [ ] O artefato possui uma introdução clara e contextualizada.
-   - [ ] As seções estão organizadas de forma lógica e coerente.
-   - [ ] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [ ] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [✅] O artefato possui uma introdução clara e contextualizada.
+   - [✅]] As seções estão organizadas de forma lógica e coerente.
+   - [✅] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [❌] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [❌] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
-   - [ ] As citações estão corretamente formatadas de acordo com o estilo especificado.
-   - [ ] Todas as referências citadas no texto estão presentes na lista de referências.
-   - [ ] As referências estão formatadas corretamente, seguindo o estilo especificado.
+   - [✅] As citações estão corretamente formatadas de acordo com o estilo especificado.
+   - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
+   - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-@ caso exista tabela no artefato @
-4. Tabelas:
-   - [ ] As tabelas possuem legenda.
-   - [ ] As tabelas são chamadas no texto.
-   - [ ] 
-
-@ caso exista figura no artefato @
-5. Figuras:
-   - [ ] As figuras possuem legenda.
-   - [ ] As figuras são chamadas no texto.
-
-6. <Outros critérios específicos>:
-   - [ ] -> Inclua aqui outros critérios específicos que devem ser verificados no artefato. <-
+4. Figuras:
+   - [✅] As figuras possuem legenda.
+   - [✅] As figuras são chamadas no texto.
 
 <b>Observações:</b>
-- -> Insira aqui quaisquer observações relevantes sobre a verificação realizada. <-
+Tabela de versão não possui a data correta em que o artefato foi revisado, apenas uma data de previsão.
 
 ### Conclusão
 
 <div align="justify">
 
 -> Deve ser feita uma breve conclusão de como se encontra a qualidade do documento em relação aos tópicos gerais avaliados <-
-
-</div>
-
-## Correções e ajustes sugeridos
-
-<div align="justify">
-
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
-
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
 
 </div>
 
@@ -141,6 +120,6 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| - | `-` | - | [-](-) | - | [-](-) |
+| 04/06/2023 | `1.0` | Criação do documento | [Rafael Bosi](https://github.com/strangeunit28) | 04/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
