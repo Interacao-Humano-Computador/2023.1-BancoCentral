@@ -28,9 +28,7 @@ Para tal, a verificação será dividida em duas etapas, a primeira sendo a veri
 
 <div align="justify">
 
--> Deve ser descrito o que é esperado encontrar nesse artefato, como seu objetivo por exemplo <-
-
-& O artefato em questão tem como objetivo documentar os relatórios obtidos durante o processo de pesquisa. Visando simplificar a visualização de graficos e tabelas &
+O documento analisado deve possuir os seguintes pontos introdução, público alvo , como utilizar o guia e como o manter. Além disso, o artefato deve conter os resultados de análise, elementos de interface, elementos de interação, elementos de ação, vocabulário e padrões e, por fim, se o guia esta de acordo com o analisado nos princípios gerais.
 
 Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
@@ -43,20 +41,25 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 @ A observação deve ser utilizada para justificar o por que de não estar excelente @
 | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - |
-| <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| ... | ... | ... | ... |
+| Possui introdução, com objetivo do guia de estilo, organização e conteúdo ? | Sim | Boa | Elaborar melhor o objetivo |
+| Possui público alvo do guia de estilo ? (programadores, gerentes, equipe de suporte) | Sim | Excelente | -------------- |
+| Faz menção de como utilizar o guia (em produção e manutenção) ? | Sim | Boa | O como utilizar o guia de estilo esta muito simples |
+| Faz menção de como manter o guia ? | Sim | Excelente | -------------- |
+| Mostra os resultados de análise ?<br>(descrição do ambiente de trabalho do usuário) | Sim | Boa | A analise esta muito pouco detalhada |
+| Possui os elementos de interface, como disposição espacial e grid, janelas, tipografia e cores ? | Sim | Boa | Aborda apenas os presentes no site |
+| Possui elementos de interação, como estilos de interação, seleção de um estilo, aceleradores (teclas de atalho) ? | Sim | Boa | Aborda apenas interações presentes no site |
+| Possui elementos de ação, como preenchimento de campos, seleção, ativação ? | Sim | Excelente | --------------- |
+| Fala sobre vocabulário e padrões, como terminologia, tipos de tela (para tarefas comuns), sequências de diálogos (e.g., para feedback ou confirmação de uma operação) | Sim | Boa | Exemplificar cada caso | 
+| Explicação do porque mantiveram os mesmos padrões do site ? | Não | -------------- | Acrescentar esse tópico ao documento |
+| Faz uso do que foi documentado no artefato de Princípios Gerais ? | Não | --------------- | Fazer uso dos Princípios Gerais (Caso já tenham feito, documentar) |
 
--> Completar a tabela com os critérios de avaliação do artefato e verificar se o artefato em questão possue ou não, dando uma nota de qualidade <-
-
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela &ALVISSUS, Giovanni&>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+É possível observar que alguns ajustes devem ser feitos 
 
 </div>
 
@@ -69,6 +72,9 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
 
 </div>
+
+✅ ❌
+
 
 1. Padronização:
    - [ ] O artefato segue as diretrizes de formatação especificadas.
