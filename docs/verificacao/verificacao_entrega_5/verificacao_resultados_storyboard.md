@@ -118,6 +118,8 @@ Para corrigir com qualidade o artefato analisado, seria necessária a realizaç�
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
+- Documento do Relato dos Resultados dos Storyboards do Grupo 4 da Disciplina de Interação Humano Computador. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap/blob/main/docs/DesignAvalia%C3%A7%C3%A3o/storyboard/relatoresultados.md. Acesso em: 03 jun. 2023.
+
 
 ## Histórico de Versões
 

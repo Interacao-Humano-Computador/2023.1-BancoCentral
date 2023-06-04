@@ -114,6 +114,8 @@ Algumas correções sugeridas são:
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
+- Documento do Planejamento da Avaliação do Protótipo de Papel do Grupo 4 da Disciplina de Interação Humano Computador. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap/blob/main/docs/DesignAvalia%C3%A7%C3%A3o/Prototipopapel/planejamento_Prototipopapel.md. Acesso em: 03 jun. 2023.
+
 
 ## Histórico de Versões
 

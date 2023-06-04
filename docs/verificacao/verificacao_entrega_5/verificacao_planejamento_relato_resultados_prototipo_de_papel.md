@@ -1,14 +1,12 @@
 <div class="body">
 
-# Verificação do Relato dos Resultados das Análises de Tarefas do Grupo 4 (Open Street Map)
+# Verificação do artefato de Planejamento do Relato dos Reulstados da Avaliação do Protótipo de Papel do Grupo 4 (Open Street Map)
 
 ## Introdução
 
 <div align="justify">
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
-
-Este artefato tem como objetivo realizar a verificação do artefato do elato dos Resultados das Análises de Tarefas do Grupo 4.
 
 </div>
 
@@ -28,7 +26,7 @@ Para tal, a verificação será dividida em duas etapas, a primeira sendo a veri
 
 <div align="justify">
 
-Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possui ou não a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possue parte do conteúdo esperado na avaliação).
@@ -36,26 +34,24 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 </div>
 
-| Conteúdo | Possui | Qualidade | Observação |
+| Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - |
-| O artefato segue o planejamento proposto? | Sim | Bom | A avaliação em sua maior parte o planejamento proposto, faltando apenas a metodologia de percurso cognitivo, escolhida no planejamento |
-| Foi realizado teste piloto anteriormente à realização das entrevistas? | Não | Incompleta | O teste piloto não se encontra no artefato |
-| O participante da entrevista leu e concordou com o termo de consentimento proposto? | Sim | Incompleta | O termo de consentimento não foi lido durante a gravação, então o participante aceitou os termos mas não ficou registrado para quais termos foi aceito |
-| As entrevistas foram gravadas e publicadas no artefato? | Sim | Excelente | Todas as entrevistas estão gravadas e presentes no artefato |
-| As tarefas foram apresentados ao usuário? | Sim | Incompleta | As tarefas foram apresentadas antes da gravação, não havendo assim registro de tais apresentações. |
-| As tarefas estão consistentes com a aplicação analisada pelo grupo? | Sim | Excelente | As tarefas estão de acordo com o sistema |
-| Foram feitas análises com os resultados da entrevista? | Sim | Incompleta | A análise foi comprometida pela baixa quantidade de entrevistas |
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
+| O artefato possui o objetivo do documento? | Sim | Excelente | O artefato descreve com clareza o objetivo do mesmo |
+| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Boa | O artefato refere ao método de entrevistas, porém não falou com quantas pessoas será realizada |
+| O artefato descreve a atividade a ser realizada (no caso o relato dos resultados da avaliação)? | Sim | Excelente | O artefato descreve o que é um protótipo de papel e sua utilidade |
+| O artefato possui a tarefa a ser realizada no Protótipo de Papel? | Sim | Excelente | O artefato possui a tarefa a ser realizada, já prototipada em papel |
+| O artefato descreve um possível roteiro da simulação? | Sim | Excelente | O artefato descreve, por meio de um vídeo, a simulação |
+| O artefato descreve como será registrado a simulação? | Sim | Excelente | O artefato descreve como será registrada a simulação |
+| O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Não | Incompleta | O artefato descreve que será realizada a análise dos dados mas não descreve como ela será feita |
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. GOBBI, Lucas. 2023).
 
 ### Conclusão
 
 <div align="justify">
 
-Com a tabela 1 como referência, pode-se realizar uma breve análise sobre questões problemáticas do artefato:
-
-- Foi realizada apenas uma entrevista pelo grupo, comprometendo a qualidade dos dados obtidos por essa avaliação de tarefas.
-- O termo de consentimento não foi lido na gravação, apenas mostrado previamente à entrevistada. Dessa forma, não está gravado sobre o que a entrevistada aceitou de termos.
-- Foram realizadas 5 análises de tarefas pelo grupo, mas apenas 2 foram apresentadas à entrevistada, diminuindo a qualidade da análise dos resultados dessas tarefas.
+O artefato, em sua grande maioria, está completo com o que se espera dele, porém, algumas ressalvas são necessárias:
+- O artefato não menciona quantas pessoas serão entrevistadas.
+- O artefato não descreve como será realizada a análise dos dados.
 
 </div>
 
@@ -80,7 +76,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [X] O artefato possui uma introdução clara e contextualizada.
    - [X] As seções estão organizadas de forma lógica e coerente.
    - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [X] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
    - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
@@ -88,17 +84,15 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [X] Todas as referências citadas no texto estão presentes na lista de referências.
    - [X] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-4. Tabelas:
-   - [x] As tabelas possuem legenda.
-   - [x] As tabelas são chamadas no texto.
+4. Figuras:
+   - [X] As figuras possuem legenda.
+   - [X] As figuras são chamadas no texto.
 
 ### Conclusão
 
 <div align="justify">
 
-O artefato respeita a maioria dos pontos estruturais analisados, entretanto, alguns poucos problemas foram encontrados:
-- Os parágrafos não foram justificados.
-- O artefato não possui uma conclusão reunindo os principais pontos retirados no documento.
+O artefato conseguiu com sucesso respeitar as regras determinadas pela ABNT e pelos critérios de aceitação da disciplina, faltando apenas a questão dos textos justificados.
 
 </div>
 
@@ -106,7 +100,9 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, alg
 
 <div align="justify">
 
-Para corrigir com qualidade o artefato analisado, seria necessária a realização de entrevistas. Com isso sendo feito, outros problemas podem ser facilmente resolvidos, entre eles a análise dos dados arrecadados nas entrevistas, que foram muito poucos. Outra importante alteração é a de apresentar tanto as tarefas quanto o termo de consentimento durante a entrevista, pois, é de suma importância gravar exatamente o que o entrevistado está aceitando quanto termos de consentimento, para evitar qualquer inconveniência legal posteriormente.
+Algumas correções sugeridas são:
+- Justificar os textos.
+- Descrever como será realizada a análise dos dados. Da maneira atual, a análise de dados não está organizada, podendo comprometer sua qualidade.
 
 </div>
 
@@ -116,7 +112,7 @@ Para corrigir com qualidade o artefato analisado, seria necessária a realizaç�
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
-- Documento do Relato dos Resultados das Análises de Tarefas do Grupo 4 da Disciplina de Interação Humano Computador. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap/blob/main/docs/DesignAvalia%C3%A7%C3%A3o/analisetarefas/relatoresultado.md. Acesso em: 03 jun. 2023.
+- Documento do Planejamento do Relato dos Resultados do Protótipo de Papel do Grupo 4 da Disciplina de Interação Humano Computador. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap/blob/main/docs/DesignAvalia%C3%A7%C3%A3o/Prototipopapel/planejamento-relato.md. Acesso em: 03 jun. 2023.
 
 
 ## Histórico de Versões
