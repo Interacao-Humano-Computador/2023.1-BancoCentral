@@ -8,7 +8,7 @@
 
 A verificação busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados. Qualquer documento gerado pode ser verificado, como o código, os testes, os artefatos, por exemplo. A técnica de verificação utilizada é a de inspeção proposta por Fagan. O objetivo de uma inspeção é verificar se o modelo de requisitos está de acordo com a notação do modelo e com o que se espera desse modelo.
 
-Este documento relata a verificação do artefato [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas/) do Grupo 4 da matéria de Interação Humano Computador.
+Este documento relata a verificação do artefato [Personas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/Personas/) do Grupo 4 da matéria de Interação Humano Computador.
 
 </div>
 
@@ -26,7 +26,7 @@ Seguindo os passos propostos por Fagan, após a definição do objeto a ser veri
 | As personas definidas a partir dos dados do perfil do usuário |  |  |  |
 | Identidade: nome e sobrenome |  |  |  |
 | Idade e dados demográficos |  |  |  |
-| Foto |  |  |  |
+| Foto da persona |  |  |  |
 | Status: primária, secundária, outro stakeholder ou representa um antiusuário do seu sistema |  |  |  |
 | Objetivos: os objetivos desta persona |  |  |  |
 | Habilidades: especialidade, educação, treinamento e competências específicas. |  |  |  |
@@ -41,7 +41,7 @@ Seguindo os passos propostos por Fagan, após a definição do objeto a ser veri
 A tabela foi elaborada de forma que além de ser definido se o artefato possui ou não aquele item avaliado, também seja descrito a qualidade deste item, uma observação e sugestão de correção caso necessário.
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
-- Boa (Possue parte do conteúdo esperado na avaliação).
+- Boa (Possui parte do conteúdo esperado na avaliação).
 - Incompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
@@ -61,7 +61,7 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 | As personas definidas a partir dos dados do perfil do usuário | Sim | Excelente | |
 | Identidade: nome e sobrenome | Sim | Excelente |  |
 | Idade e dados demográficos | Sim | Excelente |  |
-| Foto | Sim | Excelente |  |
+| Foto da persona | Sim | Excelente |  |
 | Status: primária, secundária, outro stakeholder ou representa um antiusuário do seu sistema | Sim | Excelente |  |
 | Objetivos: os objetivos desta persona | Sim | Excelente |  |
 | Habilidades: especialidade, educação, treinamento e competências específicas. | Sim | Excelente |  |
@@ -114,15 +114,19 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 <div align="justify">
 
-O documento está de acordo com todo conteúdo esperado na entrega, faltando apenas alguns ajustes de estrutura, mas em geral foi feito um excelente trabalho pelo grupo.
+Não foram encontrados erros ou falhas no artefato seguindo os pontos de verificação descritos na Tabela 1. O artefato está bem escrito e organizado, além de seguir todos os itens de observação relatados no checklist do [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf).
 
 </div>
 
+## Referência Bibliográfica
+
+[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 06/05/2023.
+
 ## Bibliografia
 
-- BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
+BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
 
 ## Histórico de Versões

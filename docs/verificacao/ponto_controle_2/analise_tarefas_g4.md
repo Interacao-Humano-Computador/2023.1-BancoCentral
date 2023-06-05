@@ -36,7 +36,7 @@ Seguindo os passos propostos por Fagan, após a definição do objeto a ser veri
 A tabela foi elaborada de forma que além de ser definido se o artefato possui ou não aquele item avaliado, também seja descrito a qualidade deste item, uma observação e sugestão de correção caso necessário.
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
-- Boa (Possue parte do conteúdo esperado na avaliação).
+- Boa (Possui parte do conteúdo esperado na avaliação).
 - Incompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
