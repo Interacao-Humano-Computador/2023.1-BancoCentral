@@ -7,3 +7,4 @@
     - [4ª Reunião](atas/reuniao04.md)
     - [5ª Reunião](atas/reuniao05.md)
     - [6ª Reunião](atas/reuniao06.md)
+    - [7ª Reunião](atas/reuniao07.md)
