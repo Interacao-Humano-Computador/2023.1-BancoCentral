@@ -1,6 +1,7 @@
 
 
 - [Verificação Grupo 4](#)
+    - [Template de verificação](verificacao/template.md)
     - [Ponto de controle 1](#)
 
         - [Cronograma](verificacao/ponto_controle_1/cronograma_g4.md)
