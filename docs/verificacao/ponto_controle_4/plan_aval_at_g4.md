@@ -38,12 +38,12 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - |
 | O artefato apresenta o objetivo do documento? | Sim | Excelente | Foi dada uma boa descrição do objetivo e motivo da realização da avaliação do análise de tarefas. |
-| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Exelente | O artefato refere ao método de percurso cognitivo juntamente ao framework decide, onde é dado uma boa descrição de como as metodologias serão desenvolvidas. |
+| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente | O artefato refere ao método de percurso cognitivo juntamente ao framework decide, onde é dado uma boa descrição de como as metodologias serão desenvolvidas. |
 | O artefato descreve a atividade a ser realizada? | Sim | Excelente | Foi dado uma boa descrição de como as atividades serão desenvolvidas devido ao nível de exigência que o framework decide requer, portanto foram cumpridas com êxito. |
-| O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Exelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista. |
+| O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Excelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista. |
 | O artefato possui teste piloto junto de sua data de realização? | Não | --- | Não foi dito nada sobre teste piloto no artefato |
-| O artefato possui cronograma para realização das atividades propostas pelo artefato? | Não | Exelente | Não foi dado um cronograma para realizar as atividades com os avaliadores |
-| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | Exelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
+| O artefato possui cronograma para realização das atividades propostas pelo artefato? | Não | Excelente | Não foi dado um cronograma para realizar as atividades com os avaliadores |
+| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | Excelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
 | O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Sim | Bom | O artefato apresenta um bom plano de documentação dos dados, porém apenas no quesito registrar, peca um pouco quanto a organização dos mesmos tal como detalhar o processo de análise. |
 | O artefato apresenta o número de participantes das metodologias utilizadas, tal como o motivo da escolha? | Não | --- | Não foi dito nada sobre a escolha do número de participantes tanto dos entrevistados quanto dos avaliadores.|
 

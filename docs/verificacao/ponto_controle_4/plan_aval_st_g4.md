@@ -41,10 +41,10 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | O artefato possui o objetivo do documento? | Sim | Excelente | Foi dada uma boa descrição do objetivo da realização da avaliação do storyboard. |
 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Incompleta | O artefato refere ao método de entrevistas, não possui informação sobre o framework usado (DECIDE), apenas é que ele está sendo usado, porém não apresenta as etapas dele. |
 | O artefato descreve a atividade a ser realizada? | Sim | Excelente | O artefato descreve o que é um storyboard e sua importância. |
-| O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Exelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista. |
-| O artefato possui teste piloto junto de sua data de realização? | Sim | Exelente | Foi detalhada a execução do teste piloto,data de realização e motivo de realização. |
-| O artefato possui cronograma para realização das atividades propostas pelo artefato? | Sim | Exelente | A data da realização das atividades foi descrita conforme o esperado. |
-| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | exelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
+| O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Excelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista. |
+| O artefato possui teste piloto junto de sua data de realização? | Sim | Excelente | Foi detalhada a execução do teste piloto,data de realização e motivo de realização. |
+| O artefato possui cronograma para realização das atividades propostas pelo artefato? | Sim | Excelente | A data da realização das atividades foi descrita conforme o esperado. |
+| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | Excelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
 | O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Não | --- | O artefato não detalha o framework usado (DECIDE) portanto não temos uma boa noção de como é realizado as etapas para essa metodologia. |
 
 
@@ -134,5 +134,6 @@ Algumas correções sugeridas são:
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 05/05/2023 | 1.0 | Criado o documento | [Mizael Santos](https://github.com/frmiza) | 06/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 05/05/2023 | 1.1 | Corrigido o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 </div>

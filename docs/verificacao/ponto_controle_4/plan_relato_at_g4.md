@@ -40,11 +40,11 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | - | - | - | - |
 | O artefato possui o objetivo do documento? | Sim | Excelente | Foi dada uma boa descrição do objetivo para a realização da avaliação da análise de tarefas. |
 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Boa | O artefato apresenta a metodologia da realização da avaliação danálise de tarefas, porém falta informações, como os nomes das metodologias que se pretende trabalhar em cima. |
-| O artefato fala sobre os participantes e avaliadores? | Sim | Exelente | O artefato possui um plano para escolhas e documentação dos dados dos participantes tal como define um conhecimento necessário para os avaliadores na metodologia de percurso cognitivo. |
-| O artefato descreve sobre o objetivo do relato da avaliação da análise de tarefas?| Sim | Exelente | O artefato descreve o objetivo com clareza e de forma direta, incluindo sugestão de escopo  que será trabalhado em cima. |
-| O artefato apresenta um plano de documentação das respostas para uma analise dos resultados? | Sim | Exelente | O artefato apresenta um plano de documentação das respostas, como serão organizadas, descrição e justificativa do problema, tal como sugestões de soluções. |
+| O artefato fala sobre os participantes e avaliadores? | Sim | Excelente | O artefato possui um plano para escolhas e documentação dos dados dos participantes tal como define um conhecimento necessário para os avaliadores na metodologia de percurso cognitivo. |
+| O artefato descreve sobre o objetivo do relato da avaliação da análise de tarefas?| Sim | Excelente | O artefato descreve o objetivo com clareza e de forma direta, incluindo sugestão de escopo  que será trabalhado em cima. |
+| O artefato apresenta um plano de documentação das respostas para uma analise dos resultados? | Sim | Excelente | O artefato apresenta um plano de documentação das respostas, como serão organizadas, descrição e justificativa do problema, tal como sugestões de soluções. |
 | O artefato apresenta um plano de registro das atividades realizadas com o respondente? | Não | --- | Não foi dito como as reuniões com o usuário devem ser guiadas nem oferece um plano para sua realização, por exemplo através de uma tabela template que descreve tais atividades. |
-| O artefato possui metodologia que deve ser utilizada para lidar com problemas encontrados pelo usuário? | Sim | Exelente | Foi dado uma boa descrição de como será feito esse processo. |
+| O artefato possui metodologia que deve ser utilizada para lidar com problemas encontrados pelo usuário? | Sim | Excelente | Foi dado uma boa descrição de como será feito esse processo. |
 
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela SANTOS, MIZAEL>. 2023).
@@ -56,7 +56,7 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 O artefato, em sua grande maioria, está mediano com o que se espera dele, falta informações sobre o plano de realização das atividades detalhadamente, assim como falta dados sobre como será documentado, armazenado e organizado as respostas do avaliadores, tal como será registrado a reunião com ele.
 
 <ul>
-<li> Não apresenta os nomes de metodologias candidatas para realizar a metodologia.
+<li> Não apresenta os nomes de metodologias candidatas para realizar o desenvilmento das atividades.
 <li> Carece de informações sobre como devem ser guiadas as entrevistas.
 </ul>
 </div>
@@ -126,5 +126,6 @@ Algumas correções sugeridas são:
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 05/05/2023 | 1.0 | Criado o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 05/05/2023 | 1.1 | Corrigido o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 </div>
