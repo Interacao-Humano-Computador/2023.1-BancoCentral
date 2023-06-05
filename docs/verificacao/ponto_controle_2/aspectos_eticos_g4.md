@@ -94,14 +94,6 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
    - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-4. Tabelas:
-   - [✅] As tabelas possuem legenda.
-   - [✅] As tabelas são chamadas no texto.
-
-5. Figuras:
-   - [✅] As figuras possuem legenda.
-   - [✅] As figuras são chamadas no texto.
-
 <b>Observações:</b>
 - Justificar os parágrafos.
 - Seria bom possuir uma conclusão sobre o estudado no artefato.
