@@ -91,6 +91,14 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
    - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
+4. Tabelas:
+   - [✅] As tabelas possuem legenda.
+   - [✅] As tabelas são chamadas no texto.
+
+5. Figuras:
+   - [✅] As figuras possuem legenda.
+   - [✅] As figuras são chamadas no texto.
+
 <b>Observações:</b>
 - Justificar os parágrafos.
 - Seria bom possuir uma conclusão sobre o estudado no artefato.
@@ -101,6 +109,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 <div align="justify">
 
 A tarefa de 'Buscar locais' é muito simples. No subobjetivo 'navegar até a barra de pesquisa' não há necessidade de o decompor em um único subobjetivo, onde a relação indicada (1>2) não faz sentido, então o objetivo 1 pode ser retirado e substituído por 'digitar local desejado na barra de pesquisa'. Além disso, essa tarefa não apresenta uma legenda, uma solução para isso sem que precise recriar a imagem seria criar um texto referenciando como legendo do diagrama a Figura 1 (uma figura que descreve os elementos de um diagrama HTA).
+
 </div>
 
 ### Conclusão
@@ -117,9 +126,9 @@ Os textos e diagramas estão condizentes com os objetivos das tarefas estabeleci
 
 ## Bibliografia
 
-[1] BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
+BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
 
-[2] ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
 
 ## Histórico de Versões
