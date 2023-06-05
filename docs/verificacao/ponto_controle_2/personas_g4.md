@@ -100,24 +100,21 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
    - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
+4. Tabelas:
+   - [✅] As tabelas possuem legenda.
+   - [❌] As tabelas são chamadas no texto.
+
 <b>Observações:</b>
 - Justificar os parágrafos.
 - Seria bom possuir uma conclusão sobre o estudado no artefato.
 - O histórico de versão não possue data de realização da revisão, apenas prevista.
-
-## Correções e ajustes sugeridos
-
-<div align="justify">
-
-Justificar os textos e colocar data de revisão realizada.
-
-</div>
+- Chamar as tabelas antes de serem apresentadas.
 
 ## Conclusão
 
 <div align="justify">
 
-O documento está de acordo com todo conteúdo esperado na entrega, foi feito um excelente trabalho pelo grupo.
+O documento está de acordo com todo conteúdo esperado na entrega, faltando apenas alguns ajustes de estrutura, mas em geral foi feito um excelente trabalho pelo grupo.
 
 </div>
 
