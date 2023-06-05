@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "Cenários" do Grupo 4
+# Verificação do artefato "Aspéctos Éticos" do Grupo 4
 
 ## Introdução
 
@@ -8,7 +8,7 @@
 
 A verificação busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados. Qualquer documento gerado pode ser verificado, como o código, os testes, os artefatos, por exemplo. A técnica de verificação utilizada é a de inspeção proposta por Fagan. O objetivo de uma inspeção é verificar se o modelo de requisitos está de acordo com a notação do modelo e com o que se espera desse modelo.
 
-Este documento relata a verificação do artefato [Cenários](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/cenarios/) do Grupo 4 da matéria de Interação Humano Computador.
+Este documento relata a verificação do artefato [Aspéctos Éticos](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Aspectos_Eticos/) do Grupo 4 da matéria de Interação Humano Computador.
 
 </div>
 
@@ -18,17 +18,20 @@ Este documento relata a verificação do artefato [Cenários](https://interacao-
 
 A metodologia para verificar o artefato em questão será baseado, na descrição dos itens fundamentais de uma análise de tarefas descrita por Barbosa e Silva [1]. Para itens gerais, será utilizado principalmente, os critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf), como histórico de versão com autor e revisor, bibliografia, entre outros.
 
-Seguindo os passos propostos por Fagan, após a definição do objeto a ser verificado e uma leitura dele (etapas de planejamento e visão geral), foi formulado uma lista de verificação demonstrado na Tabela 1, onde cada item é um elemento de um cenário.
+Seguindo os passos propostos por Fagan, após a definição do objeto a ser verificado e uma leitura dele (etapas de planejamento e visão geral), foi formulado uma lista de verificação demonstrado na Tabela 1.
 
 | Conteúdo | Possui | Qualidade | Observação |
 | -------- | ------ | --------- | ---------- |
-| Ambiente ou contexto |  |  |  |
-| Atores |  |  |  |
-| Objetivos |  |  |  |
-| Planejamento |  |  |  |
-| Ações |  |  |  |
-| Eventos |  |  |  |
-| Avaliação |  |  |  |
+| É descrito como os aspectos serão utilizados no projeto? |  |  |  |
+| Há termo de consentimento? |  |  |  |
+| E descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de
+começar a gravação? |  |  |  |
+| É seguido o princípio da autonomia? |  |  |  |
+| É seguido o princípio da beneficência? |  |  |  |
+| É seguido o princípio da não maleficência? |  |  |  |
+| É seguido o princípio da justiça e igualdade? |  |  |  |
+| Os objetivos, operadores, métodos e regras de seleção estão claros? |  |  |  |
+| É considerado os aspéctos éticos relacionado aos dados coletados?|  |  |  |
 
 <b>Tabela 1</b>: Lista de verificação (Fonte: GOMES, Larissa. 2023).
 
@@ -51,14 +54,16 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 </div>
 
 | Conteúdo | Possui | Qualidade | Observação |
-| -------- | ------ | --------- | ---------- |
-| Ambiente ou contexto | Sim | Excelente |  |
-| Atores | Sim | Boa | Deve ser incluído caracteristicas pessoais relevantes ao cenário |
-| Objetivos | Sim | Excelente |  |
-| Planejamento | Sim | Boa | Poderia ser feita em um único parágrafo, como uma ideia mental do que fazer, sem muitos detalhes pois eles serão adicionados nas ações |
-| Ações | Sim | Excelente |  |
-| Eventos | Sim | Incompleto | Os eventos devem ser ações externas ou reações produzidas pelo computador ou outras características do ambiente |
-| Avaliação | Sim | Boa | Poderia ser mais elaborada |
+| -------- | :------: | :---------: | ---------- |
+| É descrito como os aspectos serão utilizados no projeto? | Sim | Incompleta | É descrito que os princípios nortearão a coleta de dados e informações com o usuários, mas acredito que poderia ser detalhado um pouco melhor como seria isso |
+| Há termo de consentimento? | Sim | Excelente |  |
+| É descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de
+começar a gravação? | Sim | Incompleta | É descrito no termo de consentimento a permissão para gravar voz e imagem, porém não é descrito que será novamente pedido a permissão antes de iniciar a gravação de fato |
+| É seguido o princípio da autonomia? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
+| É seguido o princípio da beneficência? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
+| É seguido o princípio da não maleficência? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
+| É seguido o princípio da justiça e igualdade? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
+| É considerado os aspectos éticos relacionados aos dados coletados?| Não | - | - |
 
 <b>Tabela 2</b>: Resultado da Inspeção (Fonte: GOMES, Larissa. 2023).
 
@@ -93,6 +98,10 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [✅] As tabelas possuem legenda.
    - [✅] As tabelas são chamadas no texto.
 
+5. Figuras:
+   - [✅] As figuras possuem legenda.
+   - [✅] As figuras são chamadas no texto.
+
 <b>Observações:</b>
 - Justificar os parágrafos.
 - Seria bom possuir uma conclusão sobre o estudado no artefato.
@@ -102,7 +111,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 <div align="justify">
 
-Na parte de planejamento pode ser feito de maneira mais simples como se fosse um planejamento mental da atividade a ser realizada. Os eventos devem ser reações do sistema para as ações realizadas. E a avaliação é um checklist mental do ator para com a atividade realizada.
+Há muitos erros no documento, para resolver seria necessário um melhor detalhamento dos princípios a serem seguidos, principalmente os citados pelo grupo como a Resolução N°466 de 2012, do Conselho Nacional de Saúde e os códigos de ética ACM e IEEE. Também é necessário descrever de forma mais clara de que forma esses aspectos serão seguidos e utilizados no projeto. 
 
 </div>
 
@@ -110,7 +119,9 @@ Na parte de planejamento pode ser feito de maneira mais simples como se fosse um
 
 <div align="justify">
 
-Os cenários ficaram bem elaborados e com contextos significativos, faltando apenas alguns ajustes sugeridos na sessão de correções.
+O artefato possui uma introdução falando sobre seguir resoluções e códigos de ética, mas no texto não é mostrado de forma clara como isso seria seguido, apenas sobre do que elas se tratam. O mesmo ocorre com os 4 princípios, eles são citados, mas não há uma descrição do que são, nem de como seriam utilizados no projeto. Na ultima linha do parágrafo é dito "Este artefato tem como objetivo apresentar os princípios éticos que nortearão a coleta de informações com usuários do sistema, a fim de garantir a sua confiabilidade e legitimidade.", porém em nenhum momento me seguida esses princípios são apresentados.
+
+Dessa forma é possível concluir que há muitos pontos a serem revisados e corrigidos.
 
 </div>
 
@@ -121,8 +132,6 @@ Os cenários ficaram bem elaborados e com contextos significativos, faltando ape
 ## Bibliografia
 
 BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
-
-UNB. Apresentação Capítulo 06: Design Centrado no Usuário. 2023. Disponível em: https://aprender3.unb.br/pluginfile.php/2523447/mod_resource/content/4/Apresentacao%20cap06.pdf. Acesso em: 3 jun. 2023.
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
