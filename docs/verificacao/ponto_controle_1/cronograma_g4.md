@@ -37,7 +37,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 </div>
   
 | Conteúdo | Possue | Qualidade | Observação |
-| -------- | :----: | :-------: | ---------- |
+| -------- | ------ | --------- | ---------- |
 | O artefato possui o objetivo do documento? | Não | - | Não foi encontrado o objetivo do documento. |
 | O artefato prevê todas as entregas previstas pelo plano de ensino? | Sim | Excelente | Todas as entregas estão presentes no documento. |
 | Cada ponto de controle tem seus tópicos detalhados? | Sim | Excelente | O artefato detalha todos os pontos de controle. |

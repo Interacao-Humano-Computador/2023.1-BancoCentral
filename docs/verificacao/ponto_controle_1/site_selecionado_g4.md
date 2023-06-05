@@ -37,7 +37,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 </div>
   
 | Conteúdo | Possue | Qualidade | Observação |
-| -------- | :----: | :-------: | ---------- |
+| -------- | ------ | --------- | ---------- |
 | O artefato possui o objetivo do documento? | Não | - | Os objetivos do artefato não foram encontrados. |
 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Boa | Por mais que a metodologia seja apresentada no documento, essa poderia ser melhor referenciada. |
 | O artefato apresenta critérios nos quais foram baseados na hora da escolha do site? | Sim | Excelente | O artefato apresenta todas as justificativas para a escolha do site. |

@@ -37,7 +37,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 </div>
   
 | Conteúdo | Possue | Qualidade | Observação |
-| -------- | :----: | :-------: | ---------- |
+| -------- | ------ | --------- | ---------- |
 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
 | O artefato apresenta uma introdução? | Sim | Boa | A introdução é encontrada no artefato, porém poderia ser melhor detalhada. |
 | O artefato prevê todas as ferramenta que serão utilizadas no projeto? | Sim | Excelente | Todas as ferramentas estão presentes no documento. |
