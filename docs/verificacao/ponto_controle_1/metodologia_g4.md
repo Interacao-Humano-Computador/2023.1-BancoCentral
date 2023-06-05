@@ -8,7 +8,7 @@
   
 A técnica de verificação de artefatos é um processo usado para avaliar e validar a qualidade, corretude e conformidade de um determinado artefato. Esses artefatos podem incluir documentos, código-fonte, modelos de dados, projetos de design, especificações de requisitos, entre outros. Assim sendo, é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-  </div>
+</div>
 
 ## Metodologia
   
@@ -20,7 +20,7 @@ Para tal, será utilizada a técnica de Análise estática, essa técnica consis
   
 Desse modo, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
-  </div>
+</div>
   
 ## Conteúdo esperado
   
@@ -34,7 +34,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   - **_Boa_** (possue parte do conteúdo esperado na avaliação)
   - **_Imcompleta_** (passa brevemente pelo conteúdo esperado na avaliação)
 
-  </div>
+</div>
   
 | Conteúdo | Possue | Qualidade | Observação |
 | -------- | :----: | :-------: | ---------- |
@@ -56,7 +56,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
   
   - O artefato deveria detalhar melhor a eficácia das metodologias utilizadas.
 
-  </div>
+</div>
   
 ## Critérios gerais
   
@@ -89,14 +89,14 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
    - [X] As tabelas possuem legenda.
    - [X] As tabelas são chamadas no texto.
  
-  </div>
+</div>
   
 ## Conclusão
 <div align="justify">
   
 O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critérios de aceitação da disciplina, com exceção da justificação dos textos, falta de conclusão, e citação de referências.
   
-  </div>
+</div>
   
 ## Correções e ajustes sugeridos
   
@@ -108,7 +108,7 @@ Algumas correções sugeridas são:
   - Escrever uma conclusão.
   - Referenciar os métodos citados com referências de valor acadêmico.
 
-  </div>
+</div>
   
 ## Bibliografia
   
@@ -120,4 +120,4 @@ Algumas correções sugeridas são:
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 04/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 05/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
   
-  </div>
+</div>
