@@ -37,7 +37,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 </div>
   
 | Conteúdo | Possue | Qualidade | Observação |
-| -------- | :----: | :-------: | ---------- |
+| -------- | ------ | --------- | ---------- |
 | O artefato possui o objetivo do documento? | Sim | Excelente | Os objetivos do artefato são redigidos com clareza. |
 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Imcompleta | Por mais que a metodologia seja apresentada no documento, essa carece de desenvolvimento e apresenta pouco detalhamento. |
 | O artefato é claro e preciso em sua redação, evitando ambiguidades e interpretações equivocadas? Os termos e conceitos éticos são definidos de forma inequívoca? | Sim | Excelente | Não há ambiguidade nos termos propóstos pelo grupo. |
