@@ -9,7 +9,8 @@ A técnica de verificação de artefatos é um processo usado para avaliar e val
 
 ## Metodologia
 <div align="justify">
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) e mais detalhado na [avaliação de apresentação](<Link da avaliação do ponto de controle>), podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+  
+A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) e mais detalhado na avaliação de apresentação, podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
   
 Para tal, será utilizada a técnica de Análise estática, essa técnica consiste em examinar o código-fonte ou outro tipo de artefato sem executá-lo, em busca de erros, vulnerabilidades e problemas de qualidade. A análise estática pode ser feita manualmente ou com o auxílio de ferramentas automatizadas que realizam análises de sintaxe, semântica e conformidade com padrões.
   
