@@ -28,7 +28,7 @@
     - [Metas de Usabilidade](analise_requisitos/metas_usabilidade.md)
     - [Guia de Estilo](analise_requisitos/guia_estilo.md)
     - [Característica da Plataforma para o Projeto](analise_requisitos/caracteristicas_da_plataforma.md)
-- [Design, Avaliação e Desenvolvimento](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
+- [Design](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
     - [Nível 1](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
     - [Nível 2](design_prototipo/prototipo_papel/planejamento_avaliacao.md)
 - [Verificação Grupo 4](verificacao/ponto_controle_1/cronograma_g4.md)
