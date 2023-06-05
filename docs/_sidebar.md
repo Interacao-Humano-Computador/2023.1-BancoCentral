@@ -1,4 +1,3 @@
-<!-- _sidebar.md -->
 
 - [Home](home.md)
 - [Atas](atas/reuniao01.md)
@@ -31,6 +30,12 @@
 - [Design, Avaliação e Desenvolvimento](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
     - [Nível 1](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
     - [Nível 2](design_prototipo/prototipo_papel/planejamento_avaliacao.md)
+- [Verificação Grupo 4](verificacao/ponto_controle_1/cronograma_g4.md)
+    - [Ponto de controle 1](verificacao/ponto_controle_1/cronograma_g4.md)
+    - [Ponto de controle 2](verificacao/ponto_controle_2/analise_tarefa_g4.md)
+    - [Ponto de controle 3](verificacao/ponto_controle_3/guia_estilo_g4.md)
+    - [Ponto de controle 4](verificacao/ponto_controle_4/plan_aval_at_g4.md)
+    - [Ponto de controle 5](verificacao/ponto_controle_5/plan_aval_st_g4.md)
 - [Questionários](questionarios/termo-de-consentimento.md)
     - [Termo de Consentimento](questionarios/termo-de-consentimento.md)
     - [Questionário 1 - Perfil do Usuário](questionarios/questionario_01.md)
