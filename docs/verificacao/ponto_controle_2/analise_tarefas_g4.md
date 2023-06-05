@@ -31,7 +31,7 @@ Seguindo os passos propostos por Fagan, após a definição do objeto a ser veri
 | O diagrama HTA possui legenda? |  |  |  |
 | Os objetivos, operadores, métodos e regras de seleção estão claros? |  |  |  |
 
-<b>Tabela 1</b>: Lista de verificação (Fonte: GOMES, Alvissus. 2023).
+<b>Tabela 1</b>: Lista de verificação (Fonte: GOMES, Larissa. 2023).
 
 A tabela foi elaborada de forma que além de ser definido se o artefato possui ou não aquele item avaliado, também seja descrito a qualidade deste item, uma observação e sugestão de correção caso necessário.
 
@@ -54,13 +54,13 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 | Conteúdo | Possui | Qualidade | Observação |
 | -------- | ------ | --------- | ---------- |
 | Foi utilizada ao menos 2 técnicas para especificar as tarefas? | Sim | Excelente |  |
-| As tarefas representam o objetivo que os usuários desejam atingir? | Sim | Boa | A tarefa de 'buscar locais desejados' é muito simples, 'navegar até a barra de pesquisa' pode ser retirada e substituída por 'digitar local desejado na barra de pesquisa'. |
-| O comportamento da tarefa está descrito de forma detalhada? |  |  |  |
-| O diagrama possui os elementos de um diagrama HTA? |  |  |  |
-| Os elementos de plano, operação e ação estão claros? |  |  |  |
-| O diagrama possui todas as informações necessárias para atingir os objetivos da análise? |  |  |  |
-| O diagrama HTA possui legenda? |  |  |  |
-| Os objetivos, operadores, métodos e regras de seleção estão claros? |  |  |  |
+| As tarefas representam o objetivo que os usuários desejam atingir? | Sim | Excelente |  |
+| Os comportamento das tarefas estão descrito de forma detalhada? | Sim | Excelente |  |
+| Os diagrama possui os elementos de um diagrama HTA? | Sim | Excelente |  |
+| Os elementos de plano, operação e ação estão claros? | Sim | Boa | Na tarefa 'buscar locais desejados' não foi descrito o plano que define os subobjetivos |
+| Os diagramas possuem todas as informações necessárias para atingir os objetivos da análise? | Sim | Excelente |  |
+| Os diagramas HTA possuem legenda? | Sim | Boa | Na tarefas 'buscar locais desejados' não há legenda |
+| Os objetivos, operadores, métodos e regras de seleção estão claros na análise GOMS? | Sim | Excelente |  |
 
 <b>Tabela 2</b>: Resultado da Inspeção (Fonte: GOMES, Larissa. 2023).
 
@@ -96,27 +96,30 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 - Seria bom possuir uma conclusão sobre o estudado no artefato.
 - O histórico de versão não possue data de realização da revisão, apenas prevista.
 
-### Conclusão
-
-<div align="justify">
-
-Documento está bem organizado e estruturado, faltam algumas melhorias que foram citadas acima porém de modo geral ficou bom.
-
-</div>
-
 ## Correções e ajustes sugeridos
 
 <div align="justify">
 
-Seria interessante exemplificar mais e mostrar soluções aos possiveis desajustes do site, pois os principios gerais são utilizados por outros artefatos, logo, ele estando incompleto compromete a qualidade de todos que o usam como base.
+A tarefa de 'Buscar locais' é muito simples. No subobjetivo 'navegar até a barra de pesquisa' não há necessidade de o decompor em um único subobjetivo, onde a relação indicada (1>2) não faz sentido, então o objetivo 1 pode ser retirado e substituído por 'digitar local desejado na barra de pesquisa'. Além disso, essa tarefa não apresenta uma legenda, uma solução para isso sem que precise recriar a imagem seria criar um texto referenciando como legendo do diagrama a Figura 1 (uma figura que descreve os elementos de um diagrama HTA).
+</div>
+
+### Conclusão
+
+<div align="justify">
+
+Os textos e diagramas estão condizentes com os objetivos das tarefas estabelecidos e com os conceitos de uma análise de tarefas descrito por Barbosa e Silva [1], com ressalva apenas para a tarefa de "Buscar locais", que poderia ser trocada por uma um pouco mais complexa, caso não seja possível apenas corrigir os erros indicados na sessão de correção.
 
 </div>
 
+## Referência Bibliográfica
+
+[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 06/05/2023.
+
 ## Bibliografia
 
-- BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
+[1] BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
+[2] ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
 
 ## Histórico de Versões
