@@ -31,6 +31,6 @@
 - [Ponto de controle 5](#)
 
     - [Relato Resultados da Análise de Tarefas](verificacao/ponto_controle_5/resultados_at_g4.md)
-    - [Relato Resultados da Análise de Tarefas](verificacao/ponto_controle_5/resultados_st_g4.md)
+    - [Relato Resultados do Storyboad](verificacao/ponto_controle_5/resultados_st_g4.md)
     - [Planejamento da Avaliação](verificacao/ponto_controle_5/plan_aval_pp_g4.md)
     - [Planejamento do Relato dos Resultados](verificacao/ponto_controle_5/plan_relato_pp_g4.md)
