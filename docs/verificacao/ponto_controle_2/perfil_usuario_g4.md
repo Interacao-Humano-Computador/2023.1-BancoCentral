@@ -22,14 +22,23 @@ Seguindo os passos propostos por Fagan, após a definição do objeto a ser veri
 
 | Conteúdo | Possui | Qualidade | Observação |
 | -------- | ------ | --------- | ---------- |
-| Foi utilizada ao menos 2 técnicas para especificar as tarefas? |  |  |  |
-| As tarefas representam o objetivo que os usuários desejam atingir? |  |  |  |
-| O comportamento da tarefa está descrito de forma detalhada? |  |  |  |
-| O diagrama possui os elementos de um diagrama HTA? |  |  |  |
-| Os elementos de plano, operação e ação estão claros? |  |  |  |
-| O diagrama possui todas as informações necessárias para atingir os objetivos da análise? |  |  |  |
-| O diagrama HTA possui legenda? |  |  |  |
-| Os objetivos, operadores, métodos e regras de seleção estão claros? |  |  |  |
+| Dados demográficos: idade, sexo, status socioeconômico; |  |  |  |
+| Cargo que ocupa:  |  |  |  |
+| Educação | Sim | Boa | Poderia estar mais completos com dados sobre a frequencia de leitura entre outros aspectos |
+| Experiência com computadores |  |  | |
+| Experiência com um produto específico ou ferramentas semelhantes |  |  |  |
+| Tecnologia disponível: hardware (tamanho e resolução do monitor ou tela do dispositivo, velocidade do processamento etc.), software e outras ferramentas aos quais tem acesso |    |           |            |
+| Treinamento: o quanto o usuário valoriza treinamento? Prefere um estilo de aprendizado visual, auditivo ou outro? Pode investir tempo aprendendo a utilizar o produto em questão?; |    |           |            |
+| Atitudes e valores: preferências de produto, medo de tecnologia etc. O usuário costuma assumir riscos e explorar novas formas de fazer o mesmo trabalho? Ou evita novas experiências, preferindo caminhos já percorridos e testados? Ou prefere que alguém lhes mostre cada passo de uma nova tarefa sendo aprendida?; |   |           |            |
+| Conhecimento do domínio: o que e quanto o usuário conhece sobre o assunto em questão? É especialista? É esperado que se torne um especialista?; |    |           |            |
+| Objetivos: quais são os principais objetivos dos usuário? Como eles são alcançados atualmente?; |    |           |            |
+| Tarefas: quais são as tarefas do usuário que precisam ser apoiadas? Quais dessas são consideradas primárias, e quais são secundárias? Há quanto tempo realiza essas tarefas? São tarefas frequentes ou infrequentes? São tarefas inovadoras? Que experiência ele possui em tarefas semelhantes?; |    |           |            |
+| Gravidade dos erros: quais são as possíveis consequências negativas dos erros do usuário?; |     |           |            |
+| Motivação para o trabalho: o usuário se limita a cumprir a carga horária ou trabalha além do expediente, por prazer? Gosta da interação social no local de trabalho? Tem ambição de ser promovido?; |     |           |            |
+| Idiomas e jargões: que idiomas o usuário conhece e utiliza fluentemente? Ele possui um jargão profissional particular, um vocabulário próprio da empresa, da sua atividade ou de algum grupo social relevante para o seu projeto?; |    |           |            |
+| O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de |       |           |            |
+| Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)? |     |           |            |
+
 
 <b>Tabela 1</b>: Lista de verificação (Fonte: GOMES, Larissa. 2023).
 
@@ -53,14 +62,16 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 
 | Conteúdo | Possui | Qualidade | Observação |
 | -------- | ------ | --------- | ---------- |
-| Foi utilizada ao menos 2 técnicas para especificar as tarefas? | Sim | Excelente |  |
-| As tarefas representam o objetivo que os usuários desejam atingir? | Sim | Excelente |  |
-| Os comportamento das tarefas estão descrito de forma detalhada? | Sim | Excelente |  |
-| Os diagrama possui os elementos de um diagrama HTA? | Sim | Excelente |  |
-| Os elementos de plano, operação e ação estão claros? | Sim | Boa | Na tarefa 'buscar locais desejados' não foi descrito o plano que define os subobjetivos |
-| Os diagramas possuem todas as informações necessárias para atingir os objetivos da análise? | Sim | Excelente |  |
-| Os diagramas HTA possuem legenda? | Sim | Boa | Na tarefas 'buscar locais desejados' não há legenda |
-| Os objetivos, operadores, métodos e regras de seleção estão claros na análise GOMS? | Sim | Excelente |  |
+| Metodologia utilizada | Não | | |
+| Dados demográficos: idade, sexo, status socioeconômico; | Sim | Boa | Faltou adicionar o status socioeconômico |
+| Cargo que ocupa:  | Sim | Excelente | |
+| Educação | Sim | Boa | Poderia estar mais completos com dados sobre a frequencia de leitura entre outros aspectos |
+| Experiência com computadores | Sim | Excelente | |
+| Experiência com um produto específico ou ferramentas semelhantes | Sim | Boa | Mostra as ferramentas utilizadas porém não é fornecidaa a frequencia |
+| Tecnologia disponível | Nao |  |  |
+| Conhecimento do domínio | Não |  |  |
+| Objetivos | Sim | Excelente |  |
+| No mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários | Não |  |  |
 
 <b>Tabela 2</b>: Resultado da Inspeção (Fonte: GOMES, Larissa. 2023).
 
@@ -80,9 +91,9 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [❌] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [✅] O artefato possui uma introdução clara e contextualizada.
-   - [✅] As seções estão organizadas de forma lógica e coerente.
-   - [✅] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [❌] O artefato possui uma introdução clara e contextualizada.
+   - [❌] As seções estão organizadas de forma lógica e coerente.
+   - [❌] Os títulos e subtítulos estão bem definidos e formatados corretamente.
    - [❌] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
    - [❌] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
@@ -91,15 +102,14 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
    - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-4. Tabelas:
-   - [✅] As tabelas possuem legenda.
-   - [✅] As tabelas são chamadas no texto.
-
-5. Figuras:
+4. Figuras:
    - [✅] As figuras possuem legenda.
    - [✅] As figuras são chamadas no texto.
 
 <b>Observações:</b>
+
+- A introdução está sem título
+- A estrutura e organização do artefato estão a desejar
 - Justificar os parágrafos.
 - Seria bom possuir uma conclusão sobre o estudado no artefato.
 - O histórico de versão não possue data de realização da revisão, apenas prevista.
@@ -108,7 +118,9 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 <div align="justify">
 
-A tarefa de 'Buscar locais' é muito simples. No subobjetivo 'navegar até a barra de pesquisa' não há necessidade de o decompor em um único subobjetivo, onde a relação indicada (1>2) não faz sentido, então o objetivo 1 pode ser retirado e substituído por 'digitar local desejado na barra de pesquisa'. Além disso, essa tarefa não apresenta uma legenda, uma solução para isso sem que precise recriar a imagem seria criar um texto referenciando como legendo do diagrama a Figura 1 (uma figura que descreve os elementos de um diagrama HTA).
+Alguns ajustes críticos devem ser realizados, um deles é a definição do perfil de forma clara e sucinta, o artefato possue apenas as respostas dos questionários. Outro ajuste crítico é a utilização de mais um tipo de análise, pois o grupo utiliza apenas do questionário.
+
+Outra coisa importante a ser levada em conta é um tópico de metodologia, explicando quais metodos serão utilizados e o por que. Além de que o artefato está mais condizente com um artefato de questionário do que perfil de usuário.
 
 </div>
 
@@ -116,7 +128,7 @@ A tarefa de 'Buscar locais' é muito simples. No subobjetivo 'navegar até a bar
 
 <div align="justify">
 
-Os textos e diagramas estão condizentes com os objetivos das tarefas estabelecidos e com os conceitos de uma análise de tarefas descrito por Barbosa e Silva [1], com ressalva apenas para a tarefa de "Buscar locais", que poderia ser trocada por uma um pouco mais complexa, caso não seja possível apenas corrigir os erros indicados na sessão de correção.
+De modo geral o questionário foi bem elaborado e conseguiram bastantes respostas, porém faltou organização e planejamento no artefato, faltando também mais uma tenica para coleta do perfil. Contudo, se feita as correções sugeridas o questionário ficaria excelente para a criação do perfil.
 
 </div>
 
