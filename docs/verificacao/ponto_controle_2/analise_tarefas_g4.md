@@ -112,7 +112,7 @@ A tarefa de 'Buscar locais' é muito simples. No subobjetivo 'navegar até a bar
 
 </div>
 
-### Conclusão
+## Conclusão
 
 <div align="justify">
 
