@@ -74,32 +74,27 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 </div>
 
 1. Padronização:
-   - [ ] O artefato segue as diretrizes de formatação especificadas.
-   - [ ] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [ ] As margens e os espaçamentos estão corretos.
-   - [ ] O uso de negrito, itálico e sublinhado está adequado e consistente.
+   - [X] O artefato segue as diretrizes de formatação especificadas.
+   - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
+   - [X] As margens e os espaçamentos estão corretos.
+   - [X] O uso de negrito, itálico e sublinhado está adequado e consistente.
    - [ ] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [ ] O artefato possui uma introdução clara e contextualizada.
-   - [ ] As seções estão organizadas de forma lógica e coerente.
-   - [ ] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [ ] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [X] O artefato possui uma introdução clara e contextualizada.
+   - [X] As seções estão organizadas de forma lógica e coerente.
+   - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [X] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
-   - [ ] As citações estão corretamente formatadas de acordo com o estilo especificado.
-   - [ ] Todas as referências citadas no texto estão presentes na lista de referências.
-   - [ ] As referências estão formatadas corretamente, seguindo o estilo especificado.
+   - [X] As citações estão corretamente formatadas de acordo com o estilo especificado.
+   - [X] Todas as referências citadas no texto estão presentes na lista de referências.
+   - [X] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
 4. Tabelas:
-   - [ ] As tabelas possuem legenda.
-   - [ ] As tabelas são chamadas no texto.
-   - [ ] 
-
-5. Figuras:
-   - [ ] As figuras possuem legenda.
-   - [ ] As figuras são chamadas no texto.
+   - [X] As tabelas possuem legenda.
+   - [X] As tabelas são chamadas no texto.
 
 ### Conclusão
 
