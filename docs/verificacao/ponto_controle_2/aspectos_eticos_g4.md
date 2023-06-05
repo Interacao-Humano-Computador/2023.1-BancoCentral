@@ -24,8 +24,7 @@ Seguindo os passos propostos por Fagan, após a definição do objeto a ser veri
 | -------- | ------ | --------- | ---------- |
 | É descrito como os aspectos serão utilizados no projeto? |  |  |  |
 | Há termo de consentimento? |  |  |  |
-| E descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de
-começar a gravação? |  |  |  |
+| E descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |  |  |  |
 | É seguido o princípio da autonomia? |  |  |  |
 | É seguido o princípio da beneficência? |  |  |  |
 | É seguido o princípio da não maleficência? |  |  |  |
@@ -57,8 +56,7 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 | -------- | :------: | :---------: | ---------- |
 | É descrito como os aspectos serão utilizados no projeto? | Sim | Incompleta | É descrito que os princípios nortearão a coleta de dados e informações com o usuários, mas acredito que poderia ser detalhado um pouco melhor como seria isso |
 | Há termo de consentimento? | Sim | Excelente |  |
-| É descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de
-começar a gravação? | Sim | Incompleta | É descrito no termo de consentimento a permissão para gravar voz e imagem, porém não é descrito que será novamente pedido a permissão antes de iniciar a gravação de fato |
+| É descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? | Sim | Incompleta | É descrito no termo de consentimento a permissão para gravar voz e imagem, porém não é descrito que será novamente pedido a permissão antes de iniciar a gravação de fato |
 | É seguido o princípio da autonomia? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
 | É seguido o princípio da beneficência? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
 | É seguido o princípio da não maleficência? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |

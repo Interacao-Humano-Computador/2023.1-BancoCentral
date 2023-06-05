@@ -66,5 +66,6 @@
 | 15/05/2023 | `3.0` | Adição dos artefatos do ponto de controle 3 | [Larissa Gomes](https://github.com/larigs)| 15/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 21/05/2023 | `4.0` | Adição dos artefatos do ponto de controle 4 | [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 29/05/2023 | `5.0` | Adição dos artefatos do ponto de controle 5 | [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 05/06/2023 | `6.0` | Adição dos artefatos do ponto de controle 6.1 | [Larissa Gomes](https://github.com/larigs)| 05/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>

@@ -54,7 +54,7 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
     <p> <b>Tabela 2</b>: Ponto de Controle Executado 2 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-## Cronograma realizado Ponto de Controle 3
+## Cronograma Executado Ponto de Controle 3
 
 <div align="justify">A tabela 3 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 3. Devido a entrega do relatório do Ponto de Controle 2 ter ocorrido no dia da final para a entrega do Ponto de Controle 3, não foi possível fazer as devidas correções. Portanto, esta entrega ocorreu sem as mudanças observadas no relatório. Tendo isso em vista, a correção dos artefatos do Ponto de Controle 2 ficará para o Ponto de Controle 4.
 </div>
@@ -76,7 +76,7 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 </div>
 
 
-## Cronograma Ponto de Controle Executado 4
+## Cronograma Executado Ponto de Controle 4
 
 <div align="justify">A Tabela 4 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 4. P tópico 1 está com as datas vazias devido essa atividade não ter sido realizada. Segue abaixo:
 </div>
@@ -96,7 +96,7 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
     <p> <b>Tabela 4</b>: Ponto de Controle Executado 4 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-## Cronograma Ponto de Controle 5
+## Cronograma Executado Ponto de Controle 5
 | Atividade | Data de entrega | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Correção dos artefatos Ponto de Controle 4 | - | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | - | Giovanni Alvissus |
@@ -110,6 +110,24 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 | 9. Cronograma Executado| 29/05 | Larissa Gomes | 29/05 | Giovanni Alvissus |
 <div style="text-align: center">
     <p> <b>Tabela 5</b>: Ponto de Controle 5 (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+## Cronograma Executado Ponto de Controle 6.1
+| Atividade | Data de entrega | Autores | Período de revisão | Revisores |
+|-----------|:------------------:|---------|:-----------:|-----------|
+| 1. Correção dos artefatos Ponto de Controle 5 | 02/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 02/06 | Giovanni Alvissus |
+| 2. Verificação dos artefatos da Etapa 1 do Grupo 4 | 05/06 | Bruno Ribeiro | 05/06 | Larissa Gomes |
+| 3. Verificação dos artefatos da Etapa 2 do Grupo 4 | 05/06 | Larissa Gomes | 05/06 | Giovanni Alvissus |
+| 4. Verificação dos artefatos da Etapa 3 do Grupo 4 | 05/06 | Rafael Bosi e Giovanni Alvissus | 05/06 | Igor Penha |
+| 5. Verificação dos artefatos da Etapa 4 do Grupo 4 | 05/06 | Mizael Santos | 05/06 | Mizael Santos |
+| 6. Verificação dos artefatos da Etapa 5 do Grupo 4 | 05/06 | Lucas Gobbi e Igor Penha | 05/06 | Bruno Ribeiro |
+| 7. Atualizar GitPage | 05/06 | Larissa Gomes | 05/06 | Giovanni Alvissus |
+| 8. Gravação da apresentação | 05/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 05/06 | Rafael Bosi |
+| 9. Edição da apresentação | 05/06 | Mizael Santos | 05/06 | Rafael Bosi |
+| 10. Cronograma Executado| 05/06 | Larissa Gomes | 05/06 | Giovanni Alvissus |
+
+<div style="text-align: center">
+    <p> <b>Tabela 7</b>: Ponto de Controle 6.1 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Bibliografia
@@ -126,7 +144,9 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 | 24/04/2023 | `1.1` | Correção das das datas de entrega e revisão | [Larissa Gomes](https://github.com/larigs)| 25/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 08/05/2023 | `2.0` | Adição ponto de controle executado 2 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 15/05/2023 | `3.0` | Adição ponto de controle executado 3 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 15/05/2023 | [Giovanni Alvissus](https://github.com/larigs) |
-| 15/05/2023 | `3.1` | Correção texto ponto de controle 3 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 21/05/2023 | `4.0` | Adição ponto de controle 4 | [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 29/05/2023 | `5.0` | Adição ponto de controle 5 | [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 15/05/2023 | `3.1` | Correção texto ponto de controle executado 3 | [Larissa Gomes](https://github.com/larigs)| 08/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 21/05/2023 | `4.0` | Adição ponto de controle executado 4 | [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 29/05/2023 | `5.0` | Adição ponto de controle executado 5 | [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 05/06/2023 | `6.0` | Adição ponto de controle executado 6.1 | [Larissa Gomes](https://github.com/larigs)| 05/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+
 </div>
