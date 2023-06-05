@@ -8,7 +8,7 @@
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-Este artefato tem como objetivo realizar a verificação do artefato do elato dos Resultados das Análises de Tarefas do Grupo 4.
+Este artefato tem como objetivo realizar a verificação do artefato do relato dos Resultados das Análises de Tarefas do Grupo 4.
 
 </div>
 
@@ -16,7 +16,7 @@ Este artefato tem como objetivo realizar a verificação do artefato do elato do
 
 <div align="justify">
 
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) e mais detalhado na [avaliação de apresentação](<Link da avaliação do ponto de controle>), podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
 Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
