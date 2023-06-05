@@ -22,22 +22,16 @@ Seguindo os passos propostos por Fagan, após a definição do objeto a ser veri
 
 | Conteúdo | Possui | Qualidade | Observação |
 | -------- | ------ | --------- | ---------- |
-| Dados demográficos: idade, sexo, status socioeconômico; |  |  |  |
-| Cargo que ocupa:  |  |  |  |
-| Educação | Sim | Boa | Poderia estar mais completos com dados sobre a frequencia de leitura entre outros aspectos |
-| Experiência com computadores |  |  | |
-| Experiência com um produto específico ou ferramentas semelhantes |  |  |  |
-| Tecnologia disponível: hardware (tamanho e resolução do monitor ou tela do dispositivo, velocidade do processamento etc.), software e outras ferramentas aos quais tem acesso |    |           |            |
-| Treinamento: o quanto o usuário valoriza treinamento? Prefere um estilo de aprendizado visual, auditivo ou outro? Pode investir tempo aprendendo a utilizar o produto em questão?; |    |           |            |
-| Atitudes e valores: preferências de produto, medo de tecnologia etc. O usuário costuma assumir riscos e explorar novas formas de fazer o mesmo trabalho? Ou evita novas experiências, preferindo caminhos já percorridos e testados? Ou prefere que alguém lhes mostre cada passo de uma nova tarefa sendo aprendida?; |   |           |            |
-| Conhecimento do domínio: o que e quanto o usuário conhece sobre o assunto em questão? É especialista? É esperado que se torne um especialista?; |    |           |            |
-| Objetivos: quais são os principais objetivos dos usuário? Como eles são alcançados atualmente?; |    |           |            |
-| Tarefas: quais são as tarefas do usuário que precisam ser apoiadas? Quais dessas são consideradas primárias, e quais são secundárias? Há quanto tempo realiza essas tarefas? São tarefas frequentes ou infrequentes? São tarefas inovadoras? Que experiência ele possui em tarefas semelhantes?; |    |           |            |
-| Gravidade dos erros: quais são as possíveis consequências negativas dos erros do usuário?; |     |           |            |
-| Motivação para o trabalho: o usuário se limita a cumprir a carga horária ou trabalha além do expediente, por prazer? Gosta da interação social no local de trabalho? Tem ambição de ser promovido?; |     |           |            |
-| Idiomas e jargões: que idiomas o usuário conhece e utiliza fluentemente? Ele possui um jargão profissional particular, um vocabulário próprio da empresa, da sua atividade ou de algum grupo social relevante para o seu projeto?; |    |           |            |
-| O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de |       |           |            |
-| Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)? |     |           |            |
+| Metodologia utilizada | | | |
+| Dados demográficos: idade, sexo, status socioeconômico; | | | |
+| Cargo que ocupa:  | | | |
+| Educação | | | |
+| Experiência com computadores | | | |
+| Experiência com um produto específico ou ferramentas semelhantes | | |  |
+| Tecnologia disponível | |  |  |
+| Conhecimento do domínio | |  |  |
+| Objetivos | | |  |
+| No mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários | |  |  |
 
 
 <b>Tabela 1</b>: Lista de verificação (Fonte: GOMES, Larissa. 2023).
