@@ -23,7 +23,6 @@ Desse modo, a verificação será dividida em duas etapas, a primeira sendo a ve
 </div>
   
 ## Conteúdo esperado
-  
 ### Verificação
   
 <div align="justify">
