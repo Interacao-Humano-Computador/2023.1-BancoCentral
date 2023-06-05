@@ -47,7 +47,7 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | O artefato possui metodologia que deve ser utilizada para lidar com problemas encontrados pelo usuário? | Sim | Excelente | Foi dado uma boa descrição de como será feito esse processo. |
 
 
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela SANTOS, MIZAEL>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: SANTOS, MIZAEL. 2023).
 
 ### Conclusão
 
@@ -127,5 +127,6 @@ Algumas correções sugeridas são:
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 05/05/2023 | 1.0 | Criado o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 05/05/2023 | 1.1 | Corrigido o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 </div>

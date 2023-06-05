@@ -47,7 +47,7 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | O artefato possui metodologia que deve ser utilizada para lidar com problemas encontrados pelo usuário? | Sim | Excelente | Foi dado uma boa descrição de como será feito esse processo. |
 
 
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela SANTOS, MIZAEL>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: SANTOS, MIZAEL. 2023).
 
 ### Conclusão
 

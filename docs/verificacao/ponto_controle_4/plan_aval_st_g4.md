@@ -48,7 +48,7 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Não | --- | O artefato não detalha o framework usado (DECIDE) portanto não temos uma boa noção de como é realizado as etapas para essa metodologia. |
 
 
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela SANTOS, MIZAEL>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: SANTOS, MIZAEL. 2023).
 
 ### Conclusão
 

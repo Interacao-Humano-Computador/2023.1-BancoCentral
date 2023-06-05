@@ -42,12 +42,12 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | O artefato descreve a atividade a ser realizada? | Sim | Excelente | Foi dado uma boa descrição de como as atividades serão desenvolvidas devido ao nível de exigência que o framework decide requer, portanto foram cumpridas com êxito. |
 | O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Excelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista. |
 | O artefato possui teste piloto junto de sua data de realização? | Não | --- | Não foi dito nada sobre teste piloto no artefato |
-| O artefato possui cronograma para realização das atividades propostas pelo artefato? | Não | Excelente | Não foi dado um cronograma para realizar as atividades com os avaliadores |
+| O artefato possui cronograma para realização das atividades propostas pelo artefato? | Não | --- | Não foi dado um cronograma para realizar as atividades com os avaliadores |
 | O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | Excelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
 | O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Sim | Bom | O artefato apresenta um bom plano de documentação dos dados, porém apenas no quesito registrar, peca um pouco quanto a organização dos mesmos tal como detalhar o processo de análise. |
 | O artefato apresenta o número de participantes das metodologias utilizadas, tal como o motivo da escolha? | Não | --- | Não foi dito nada sobre a escolha do número de participantes tanto dos entrevistados quanto dos avaliadores.|
 
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela SANTOS, MIZAEL>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: SANTOS, MIZAEL. 2023).
 
 ### Conclusão
 
