@@ -68,13 +68,13 @@ Para tal, a verificação será dividida em duas etapas, a primeira sendo a veri
 Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
-- Boa (Possue parte do conteúdo esperado na avaliação).
-- Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
+- Boa (Possui parte do conteúdo esperado na avaliação).
+- Incompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
 
 @ A observação deve ser utilizada para justificar o por que de não estar excelente @
-| Conteúdo | Possue | Qualidade | Observação |
+| Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - |
 | <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
 | <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
@@ -192,6 +192,6 @@ Caso algum membro do grupo deseje atualizar o template basta seguir o padrão do
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 03/06/2023 | `1.0`  | Criação do documento | [Giovanni Alvissus](https://github.com/giovanni1106) | - | [Larissa Gomes](https://github.com/larigs) |
+| 03/06/2023 | `1.0`  | Criação do documento | [Giovanni Alvissus](https://github.com/giovanni1106) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 </div>
