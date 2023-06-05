@@ -1,14 +1,11 @@
 <div class="body">
 
-# Verificação do artefato "<nome do artefato a ser verificado>"
-
+# Verificação do artefato Avaliação da Análise de tarefa
 ## Introdução
 
 <div align="justify">
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
-
-@ Caso ache necessário pode ser complementado @
 
 </div>
 
@@ -28,7 +25,7 @@ Para tal, a verificação será dividida em duas etapas, a primeira sendo a veri
 
 <div align="justify">
 
-O artefato em questão tem como objetivo detalhar o planejamento da avaliação do artefato análise de tarefas, o artefato em questão deve seguir o padrão que o artefato planejamento do relato do análise de tarefas sugere.
+O artefato em questão tem como objetivo detalhar o planejamento da avaliação do artefato análise de tarefas, o artefato em questão deve seguir o padrão que o artefato planejamento do relato do análise de tarefas sugere, tendo em vista que o planejamento do relato, deve servir como uma base, para construir uma avaliação consistente.
 
 Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
@@ -40,15 +37,15 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - |
-| O artefato possui o objetivo do documento? | Sim | Excelente | Foi dada uma boa descrição do objetivo da realização da avaliação do análise de tarefas. |
-| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Boa | O artefato refere ao método de percurso cognitivo, porém não falou com quantas pessoas será realizada nem o por que da escolha número de avaliadores do percurso cognitivo |
-| O artefato descreve a atividade a ser realizada? | Sim | Excelente | O artefato descreve o que é um análise de tarefas e sua importância. |
+| O artefato apresenta o objetivo do documento? | Sim | Excelente | Foi dada uma boa descrição do objetivo e motivo da realização da avaliação do análise de tarefas. |
+| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Exelente | O artefato refere ao método de percurso cognitivo juntamente ao framework decide, onde é dado uma boa descrição de como as metodologias serão desenvolvidas. |
+| O artefato descreve a atividade a ser realizada? | Sim | Excelente | Foi dado uma boa descrição de como as atividades serão desenvolvidas devido ao nível de exigência que o framework decide requer, portanto foram cumpridas com êxito. |
 | O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Exelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista. |
 | O artefato possui teste piloto junto de sua data de realização? | Não | --- | Não foi dito nada sobre teste piloto no artefato |
 | O artefato possui cronograma para realização das atividades propostas pelo artefato? | Não | Exelente | Não foi dado um cronograma para realizar as atividades com os avaliadores |
-| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | exelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
-| O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Sim | Exelente | O artefato detalha o framework usado (DECIDE) portanto temos uma boa noção de como é realizado as etapas para essa metodologia, no entanto ele falha no quisito cronograma da atividades. |
-
+| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | Exelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
+| O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Sim | Bom | O artefato apresenta um bom plano de documentação dos dados, porém apenas no quesito registrar, peca um pouco quanto a organização dos mesmos tal como detalhar o processo de análise. |
+| O artefato apresenta o número de participantes das metodologias utilizadas, tal como o motivo da escolha? | Não | --- | Não foi dito nada sobre a escolha do número de participantes tanto dos entrevistados quanto dos avaliadores.|
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela SANTOS, MIZAEL>. 2023).
 
@@ -62,6 +59,7 @@ O artefato, em sua grande maioria, está completo com o que se espera dele, por�
 <li> Especificar o número de respondentes das entrevistas
 <li> Carece de explicação sobre o motivo da escolha de usar percurso cognitivo.
 </ul>
+
 </div>
 
 ## Critérios gerais
@@ -134,6 +132,7 @@ Algumas correções sugeridas são:
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 05/05/2023 | 1.0 | Criado o documento | [Mizael Santos](-) | - | [Larissa Gomes](-) |
+| 05/05/2023 | 1.0 | Criado o documento | [Mizael Santos](https://github.com/frmiza) | 06/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 05/05/2023 | 1.1 | Corrigido o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 </div>
