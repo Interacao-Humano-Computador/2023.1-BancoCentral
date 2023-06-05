@@ -9,7 +9,7 @@
         - [Metodologias](verificacao/ponto_controle_1/metodologia_g4.md)
         - [Sites Avaliados](verificacao/ponto_controle_1/sites_avaliados_g4.md)
         - [Site Selecionado](verificacao/ponto_controle_1/site_selecionado_g4.md)
-        - [Projeto de Design](verificacao/ponto_controle_1/projeto_design_g4.md)
+        - [Projeto de Design](verificacao/ponto_controle_1/processo_design_g4.md)
     - [Ponto de controle 2](#)
 
         - [Perfil de Usuário](verificacao/ponto_controle_2/perfil_usuario_g4.md)
@@ -31,6 +31,6 @@
     - [Ponto de controle 5](#)
 
         - [Relato Resultados da Análise de Tarefas](verificacao/ponto_controle_5/resultados_at_g4.md)
-        - [Relato Resultados da Análise de Tarefas](design_prototipo/analise_tarefas/resultados_gt_g4.md)
+        - [Relato Resultados da Análise de Tarefas](design_prototipo/analise_tarefas/resultados_st_g4.md)
         - [Planejamento da Avaliação](design_prototipo/prototipo_papel/plan_aval_pp_g4.md)
         - [Planejamento do Relato dos Resultados](design_prototipo/prototipo_papel/plan_relato_pp_g4.md)

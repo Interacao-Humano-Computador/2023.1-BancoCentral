@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "Aspéctos Éticos" do Grupo 4
+# Verificação do artefato "Aspectos Éticos" do Grupo 4
 
 ## Introdução
 
