@@ -1,14 +1,12 @@
 <div class="body">
 
-# Verificação do artefato "<nome do artefato a ser verificado>"
+# Verificação do artefato Avaliação do Relato do Storyboard
 
 ## Introdução
 
 <div align="justify">
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
-
-@ Caso ache necessário pode ser complementado @
 
 </div>
 
@@ -41,16 +39,16 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - |
 | O artefato possui o objetivo do documento? | Sim | Excelente | Foi dada uma boa descrição do objetivo da realização da avaliação do storyboard. |
-| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Incompleta | O artefato refere ao método de entrevistas, porém não falou com quantas pessoas será realizada nem o por que da escolha número de respondentes, também ao possui detalhamento sobre o framework usado (DECIDE). |
+| O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Incompleta | O artefato refere ao método de entrevistas, não possui informação sobre o framework usado (DECIDE), apenas é que ele está sendo usado, porém não apresenta as etapas dele. |
 | O artefato descreve a atividade a ser realizada? | Sim | Excelente | O artefato descreve o que é um storyboard e sua importância. |
-| O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Exelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista. |
-| O artefato possui teste piloto junto de sua data de realização? | Sim | Exelente | Foi detalhada a execução do teste piloto,data de realização e motivo de realização. |
-| O artefato possui cronograma para realização das atividades propostas pelo artefato? | Sim | Exelente | A data da realização das atividades foi descrita conforme o esperado. |
-| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | exelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
-| O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Nao | --- | O artefato não detalha o framework usado (DECIDE) portanto não temos uma boa noção de como é realizado as etapas para essa metodologia. |
+| O artefato possui o termo de consentimento que será utilizado na entrevista? | Sim | Excelente | O termo de consentimento possui todo o necessário, cumprindo as questões éticas propostas em uma entrevista. |
+| O artefato possui teste piloto junto de sua data de realização? | Sim | Excelente | Foi detalhada a execução do teste piloto,data de realização e motivo de realização. |
+| O artefato possui cronograma para realização das atividades propostas pelo artefato? | Sim | Excelente | A data da realização das atividades foi descrita conforme o esperado. |
+| O artefato possui o questionário a ser realizado na entrevista, com descrição, tipo de pergunta e objetivo? | Sim | Excelente | Todas as perguntas do questionário estão presentes com descrições e objetivos que pretente atender com tais perguntas. |
+| O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Não | --- | O artefato não detalha o framework usado (DECIDE) portanto não temos uma boa noção de como é realizado as etapas para essa metodologia. |
 
 
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela SANTOS, MIZAEL>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: SANTOS, MIZAEL. 2023).
 
 ### Conclusão
 
@@ -76,32 +74,31 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 </div>
 
 1. Padronização:
-   - [ ] O artefato segue as diretrizes de formatação especificadas.
-   - [ ] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [ ] As margens e os espaçamentos estão corretos.
-   - [ ] O uso de negrito, itálico e sublinhado está adequado e consistente.
+   - [X] O artefato segue as diretrizes de formatação especificadas.
+   - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
+   - [X] As margens e os espaçamentos estão corretos.
+   - [X] O uso de negrito, itálico e sublinhado está adequado e consistente.
    - [ ] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [ ] O artefato possui uma introdução clara e contextualizada.
-   - [ ] As seções estão organizadas de forma lógica e coerente.
-   - [ ] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [ ] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [X] O artefato possui uma introdução clara e contextualizada.
+   - [X] As seções estão organizadas de forma lógica e coerente.
+   - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [X] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
-   - [ ] As citações estão corretamente formatadas de acordo com o estilo especificado.
-   - [ ] Todas as referências citadas no texto estão presentes na lista de referências.
-   - [ ] As referências estão formatadas corretamente, seguindo o estilo especificado.
+   - [X] As citações estão corretamente formatadas de acordo com o estilo especificado.
+   - [X] Todas as referências citadas no texto estão presentes na lista de referências.
+   - [X] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
 4. Tabelas:
-   - [ ] As tabelas possuem legenda.
-   - [ ] As tabelas são chamadas no texto.
-   - [ ] 
+   - [X] As tabelas possuem legenda.
+   - [X] As tabelas são chamadas no texto.
 
 5. Figuras:
-   - [ ] As figuras possuem legenda.
-   - [ ] As figuras são chamadas no texto.
+   - [X] As figuras possuem legenda.
+   - [X] As figuras são chamadas no texto.
 
 ### Conclusão
 
@@ -120,7 +117,8 @@ Algumas correções sugeridas são:
 <ul>
 <li> Especificar o que é o framework utilizado e os motivos da escolha.
 <li> Detalhar etapas da realização da avaliação via framework.
-<li> especificar número de escolhas de participantes da entrevista e motivo da escolha.
+<li> Especificar número de escolhas de participantes da entrevista e motivo da escolha.
+<li> Remover Storyboard, pois não pode estar presente no artefato de plano de avaliação do storyboard.
 <li> Justificar textos.
 </div>
 
@@ -135,6 +133,7 @@ Algumas correções sugeridas são:
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 05/05/2023 | 1.0 | Criado o documento | [Mizael Santos](-) | - | [Larissa Gomes](-) |
+| 05/05/2023 | 1.0 | Criado o documento | [Mizael Santos](https://github.com/frmiza) | 06/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 05/05/2023 | 1.1 | Corrigido o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 </div>
