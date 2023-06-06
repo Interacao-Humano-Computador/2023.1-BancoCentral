@@ -47,9 +47,9 @@ A apresentação da quinta etapa, do ponto de controle 5, pode ser vista no [Ví
 </div>
 
 ## Apresentação 6
-A apresentação da quinta etapa, do ponto de controle 6, pode ser vista no [Vídeo 5](https://youtu.be/UT_FoqY9TWg).
+A apresentação da quinta etapa, do ponto de controle 6, pode ser vista no [Vídeo 5](https://youtu.be/Ais7PgkO5D4).
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/UT_FoqY9TWg" title="Ponto de controle 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Ais7PgkO5D4" title="Ponto de controle 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 6</b>: Sexta apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
