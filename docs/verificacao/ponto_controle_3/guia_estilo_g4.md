@@ -38,7 +38,6 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 </div>
 
-@ A observação deve ser utilizada para justificar o por que de não estar excelente @
 | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - |
 | Possui introdução, com objetivo do guia de estilo, organização e conteúdo ? | Sim | Boa | Elaborar melhor o objetivo |
