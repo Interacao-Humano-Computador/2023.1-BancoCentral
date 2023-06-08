@@ -4,6 +4,7 @@
 - [Template de verificação](verificacao/template.md)
 - [Ponto de controle 1](#)
 
+    - [Aspectos éticos](verificacao/ponto_controle_1/aspectos_eticos_g4.md)
     - [Cronograma](verificacao/ponto_controle_1/cronograma_g4.md)
     - [Ferramentas](verificacao/ponto_controle_1/ferramentas_g4.md)
     - [Metodologias](verificacao/ponto_controle_1/metodologia_g4.md)
