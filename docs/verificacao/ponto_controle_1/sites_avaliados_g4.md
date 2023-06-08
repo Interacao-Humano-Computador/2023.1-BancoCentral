@@ -68,6 +68,8 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
   
   Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
 
+</div>
+  
 1. Padronização:
   - [ ] O artefato segue as diretrizes de formatação especificadas.
   - [X] A fonte e o tamanho do texto estão consistentes em todo o documento.
@@ -90,9 +92,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
 4. Tabelas:
    - [X] As tabelas possuem legenda.
    - [X] As tabelas são chamadas no texto.
- 
-</div>
-  
+   
 ## Conclusão
 <div align="justify">
   
@@ -115,6 +115,7 @@ Algumas correções sugeridas são:
 ## Bibliografia
   
   - BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
+  - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
   
 ## Histórico de Versões
   
