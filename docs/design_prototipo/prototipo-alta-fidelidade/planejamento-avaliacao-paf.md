@@ -156,16 +156,12 @@ Convidamos você a participar da pesquisa universitária da matéria de Interaç
 <p>Ao participar da pesquisa, você estará indicando que leu e compreendeu as informações acima e concorda em participar do questionário. Entende que sua participação é voluntária e que pode desistir a qualquer momento, sem qualquer penalidade. Também entende que as informações coletadas serão anônimas e serão usadas apenas para fins acadêmicos.<p>
 <p>Eu participante, __________(Concordo/Não Concordo) em participar desta avaliação </p>
 <p>Agradecemos a sua colaboração!</p>
+
 ------
 
 ### E - Avaliar, interpretar e apresentar os dados
 <div style="text-align: justify">
 <p>Previamente ao término do processo deve-se realizar uma análise dos resultados, será avaliado a confiabilidade dos dados obtidos e a validade externa do estudo. Também é de suma importância quantificar os resultados e se eles podem ser generalizados além da amostra obtida, ou seja, até que ponto os dados são representativos de uma população.</p>
-</div>
-
-#### Executar teste piloto
-<div style="text-align: justify">
-<p>O objetivo da realização do teste piloto na avaliação do protótipo de alta fidelidade a princípio é avaliar a viabilidade de sua execução, além de ajudar a contabilizar uma escala de tempo médio e recursos despendidos em uma situação real, mesmo que ainda sem o usuário alvo. Os resultados obtidos no teste piloto são importantes para auxiliar a equipe a otimizar recursos e preparar o ambiente devidamente para o usuário. Desta forma ao se executar o teste piloto ele deve ser gravado e documentado adequadamente a fim de obter êxito na avaliação com os participantes futuramente.</p>
 </div>
 
 </div>
