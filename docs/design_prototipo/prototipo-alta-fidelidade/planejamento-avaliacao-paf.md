@@ -12,7 +12,7 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 <div align="justify">
 <p>Para o desenvolvimento do artefato utilizaremos o framework DECIDE, um acrônimo onde cada letra representa uma etapa de desenvolvimento que deve ser respeitada , esta série de etapas bem descritas é ideal para guiar a realização de uma avaliação de IHC.
 Juntamente ao framework DECIDE foi escolhido também para método de avaliação a abordagem de testes de usabilidade.</p>
-<p>A Tabela 1 resume, essas informações e explica o significado da sigla DECIDE.</p> 
+<p>A <b>Tabela 1</b> resume, essas informações e explica o significado da sigla DECIDE.</p> 
 
 | Letra | Significado |
 | ----- | ----------------------------------------------------------- |
@@ -55,7 +55,7 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 
 <div style="text-align: justify">
 <p>Para a realização bem sucedida da entrevista, será contextualizado a importância da avaliação do protótipo de alta fidelidade para um projeto de IHC. Também será dada uma explicação mais detalhada sobre o processo para o usuário participante a fim de garantir uma experiência agradável durante a avaliação do protótipo.</p>
-<p>A Tabela 2 apresenta as perguntas que devem ser realizadas ao término da avaliação .</p> 
+<p>A <b>Tabela 2</b> apresenta as perguntas que devem ser realizadas ao término da avaliação .</p> 
   
 | Número | Pergunta | Resposta | Justificativa |
 | :-: | - | - | - |
@@ -72,7 +72,7 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 <div style="text-align: justify">
 <p>Existem vários métodos de avaliação de IHC, no entanto o método escolhido, e também mais adequado, tendo em vista que nesta etapa a presença do usuário na avaliação e teste se torna determinante, foi o método de teste de usabilidade. O teste de usabilidade não permite realizar uma avaliação junto ao usuário em um ambiente controlado normalmente sobre uma versão específica do sistema testado, a fim de extrair informações de usabilidade do usuário.</p>
 <p>Segundo a literatura de Barbosa e Silva [1] os testes de usabilidade devem seguir as metas de usabilidade definidas para o projeto. A literatura também destaca a necessidade de seguir um roteiro de atividades, que pode ser visto na tabela abaixo.</p>
-<p>A Tabela 3 apresenta o roteiro de atividades a ser realizadas para uma boa avaliação .</p> 
+<p>A <b>Tabela 3</b> apresenta o roteiro de atividades a ser realizadas para uma boa avaliação .</p> 
 
 | Atividade | Tarefa |
 | :-: | - |
@@ -100,10 +100,10 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 
 #### Definir perfil dos participantes e recrutá-los
 <div style="text-align: justify">
-<p>O perfil dos usuários escolhidos foi baseado no artefato Perfil de Usuário para participarem da avaliação. A quantidade foi decidida com base no livro[2] que usaremos 3 usuários para essa etapa, tanto pela quantidade de participantes disponíveis quanto pela demanda de trabalho.</p>
+<p>O perfil dos usuários escolhidos foi baseado no artefato <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">Perfil de Usuário</a> para participarem da avaliação. A quantidade foi decidida com base no livro[2] que usaremos 3 usuários para essa etapa, tanto pela quantidade de participantes disponíveis quanto pela demanda de trabalho.</p>
 </div>
 
-#### Definir perfil dos participantes e recrutá-los
+#### Preparar material para observar e registrar o uso 
 <div style="text-align: justify">
 <p>Materiais necessários para o desenvolvimento da avaliação pode ser reunidos abaixo:</p>
 
@@ -114,8 +114,30 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 <li>Tarefas para o usuário realizar 
 <li>Teste piloto
 </ul>
+
+<p>Tendo em mente que as plataformas citadas anteriormente são gratuitas, não haverá custos adicionais para utilizar esta ferramenta. </p>
+
 </div>
 
+#### Executar teste piloto
+<div style="text-align: justify">
+<p>O objetivo da realização do teste piloto na avaliação do protótipo de alta fidelidade a princípio é avaliar a viabilidade de sua execução, além de ajudar a contabilizar uma escala de tempo médio e recursos despendidos em uma situação real, mesmo que ainda sem o usuário alvo. Os resultados obtidos no teste piloto são importantes para auxiliar a equipe a otimizar recursos e preparar o ambiente devidamente para o usuário. Desta forma ao se executar o teste piloto ele deve ser gravado e documentado adequadamente a fim de obter êxito na avaliação com os participantes futuramente.</p>
+</div>
+
+### I - Identificar questões práticas
+
+<div align="justify">
+<p>Para selecionar os usuários que dá avaliarem o sistema, será escolhido e recrutado usuários da plataforma que tenham perfis semelhantes aos identificados no <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">Perfil de Usuário</a> como descrito na literatura[1]. A avaliação será conduzida, quando possível, por dois membros do grupo de IHC: um será responsável por conduzir e orientar o usuário alvo em seu uso do sistema, enquanto o outro registrará as informações relevantes, caso apenas um membro esteja disponível, esse deve realizar os dois papéis.</p>
+</div>
+<p>A <b>Tabela 4</b> apresenta um modelo que foi utilizado para criar as tabelas de documentação das entrevistas realizadas.</p>
+
+|   Ordem	|	Data	| Horário de início e fim | Local	| Entrevistadores |  Entrevistado  |
+| :--------: | :--------: | :---------------------: | -------- | --------------- | ---------------- |
+| Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
+
+<p>A <b>Tabela 4</b> modelo utilizado para criar as tabelas de documentação das entrevistas realizadas.  (Fonte: SANTOS, Mizael. 2023).</p>
+
+</div>
 #### Executar teste piloto
 <div style="text-align: justify">
 <p>O objetivo da realização do teste piloto na avaliação do protótipo de alta fidelidade a princípio é avaliar a viabilidade de sua execução, além de ajudar a contabilizar uma escala de tempo médio e recursos despendidos em uma situação real, mesmo que ainda sem o usuário alvo. Os resultados obtidos no teste piloto são importantes para auxiliar a equipe a otimizar recursos e preparar o ambiente devidamente para o usuário. Desta forma ao se executar o teste piloto ele deve ser gravado e documentado adequadamente a fim de obter êxito na avaliação com os participantes futuramente.</p>
