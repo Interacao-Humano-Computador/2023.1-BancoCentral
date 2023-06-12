@@ -12,6 +12,7 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 <div align="justify">
 <p>Para o desenvolvimento do artefato utilizaremos o framework DECIDE, um acrônimo onde cada letra representa uma etapa de desenvolvimento que deve ser respeitada , esta série de etapas bem descritas é ideal para guiar a realização de uma avaliação de IHC.
 Juntamente ao framework DECIDE foi escolhido também para método de avaliação a abordagem de testes de usabilidade.</p>
+<p>A Tabela 1 resume, essas informações e explica o significado da sigla DECIDE.</p> 
 
 | Letra | Significado |
 | ----- | ----------------------------------------------------------- |
@@ -21,6 +22,7 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 | I | Identificar e administrar as questões práticas da avaliação |
 | D | Decidir como lidar com as questões éticas |
 | E | (Evaluate) Avaliar, interpretar e apresentar os dados |
+<p> <b>Tabela 1</b>: Significado da sigla DECIDE(Fonte: SANTOS, Mizael. 2023). </p>
 
 </div>
 
@@ -53,7 +55,8 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 
 <div style="text-align: justify">
 <p>Para a realização bem sucedida da entrevista, será contextualizado a importância da avaliação do protótipo de alta fidelidade para um projeto de IHC. Também será dada uma explicação mais detalhada sobre o processo para o usuário participante a fim de garantir uma experiência agradável durante a avaliação do protótipo.</p>
-
+<p>A Tabela 2 apresenta as perguntas que devem ser realizadas ao término da avaliação .</p> 
+  
 | Número | Pergunta | Resposta | Justificativa |
 | :-: | - | - | - |
 | 1 | A interface apresentada foi de fácil utilização?| [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se não, justifique |
@@ -61,7 +64,7 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 | 3 | Teve algum problema com a disposição dos elementos na tela? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se sim, justifique |
 | 4 | Teve alguma dificuldade ao realizar as tarefas designadas? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se sim, justifique | 
 | 5 | Teve de lidar com algum erro durante a utilização do sistema?| [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se sim, qual? | 
-
+<p> <b>Tabela 2</b>: Perguntas realizadas na avaliação (Fonte: SANTOS, Mizael. 2023). </p>
 </div>
 
 ### Métodos de Avaliação (C)
@@ -69,11 +72,13 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 <div style="text-align: justify">
 <p>Existem vários métodos de avaliação de IHC, no entanto o método escolhido, e também mais adequado, tendo em vista que nesta etapa a presença do usuário na avaliação e teste se torna determinante, foi o método de teste de usabilidade. O teste de usabilidade não permite realizar uma avaliação junto ao usuário em um ambiente controlado normalmente sobre uma versão específica do sistema testado, a fim de extrair informações de usabilidade do usuário.</p>
 <p>Segundo a literatura de Barbosa e Silva [1] os testes de usabilidade devem seguir as metas de usabilidade definidas para o projeto. A literatura também destaca a necessidade de seguir um roteiro de atividades, que pode ser visto na tabela abaixo.</p>
+<p>A Tabela 3 apresenta o roteiro de atividades a ser realizadas para uma boa avaliação .</p> 
 
 | Atividade | Tarefa |
 | :-: | - |
 | Preparo | </ul> <li> definir tarefas para os participantes executarem <li> definir o perfil dos participantes e recrutá-los <li> preparar material para observar e registrar o uso <li> executar um teste-piloto </ul>|
 | Coleta de dados| </ul> <li> observar e registrar a performance e a opinião dos participantes durante sessões de uso controladas </ul>|
+<p> <b>Tabela 3</b>: roteiro de atividades a ser realizadas para uma boa avaliação (Fonte: Barbosa e Silva. 2010). </p>
 </div>
 
 #### Preparação
