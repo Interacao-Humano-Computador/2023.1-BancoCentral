@@ -141,7 +141,7 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 
 ### D - Decidir as questões éticas
 <div align="justify">
-<p>Para realização das metodologias que envolvam terceiros, como neste caso a avaliação com  usuário, é necessário que o mesmo esteja ciente dos href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos”>Aspectos Éticos</a> que os resguardam, dessa forma devem assinar um  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#design prototipo/análise tarefas/termo-de-consentimento">Termo de Consentimento</a>  referente à entrevista para a realização do processo.</p>
+<p>Para realização das metodologias que envolvam terceiros, como neste caso a avaliação com  usuário, é necessário que o mesmo esteja ciente dos <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos">Aspectos Éticos</a> que os resguardam, dessa forma devem assinar um  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#design prototipo/análise tarefas/termo-de-consentimento">Termo de Consentimento</a>  referente à entrevista para a realização do processo. </p>
 </div>
 
 ------
