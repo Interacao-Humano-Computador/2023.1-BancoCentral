@@ -139,6 +139,30 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 
 </div>
 
+### D - Decidir as questões éticas
+<div align="justify">
+<p>Para realização das metodologias que envolvam terceiros, como neste caso a avaliação com  usuário, é necessário que o mesmo esteja ciente dos href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos”>Aspectos Éticos</a> que os resguardam, dessa forma devem assinar um  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#design prototipo/análise tarefas/termo-de-consentimento">Termo de Consentimento</a>  referente à entrevista para a realização do processo.</p>
+</div>
+
+------
+<h4>Termo de consentimento</h4>
+<p>Prezado participante,
+Convidamos você a participar da pesquisa universitária da matéria de Interação Humano Computador da Universidade de Brasília. O objetivo desta pesquisa é nos aproximarmos mais das pessoas que utilizam ou não o site do Banco Central do Brasil. Para isso, precisamos coletar informações contidas no questionário em questão.<p>
+<ul>
+<li>Sua participação é voluntária e os resultados obtidos serão utilizados para fins de pesquisa e poderão ser publicados em artigos ou apresentações, mas sem a identificação dos participantes.
+<li>Ao concordar em participar desta pesquisa, você estará dando o seu consentimento para a utilização das suas respostas para fins acadêmicos.
+<li>Se você decidir participar, por favor, leia e concorde com este termo de consentimento, indicando que você está ciente dos procedimentos da pesquisa e concorda em participar.
+</ul>
+<p>Ao participar da pesquisa, você estará indicando que leu e compreendeu as informações acima e concorda em participar do questionário. Entende que sua participação é voluntária e que pode desistir a qualquer momento, sem qualquer penalidade. Também entende que as informações coletadas serão anônimas e serão usadas apenas para fins acadêmicos.<p>
+<p>Eu participante, __________(Concordo/Não Concordo) em participar desta avaliação </p>
+<p>Agradecemos a sua colaboração!</p>
+------
+
+### E - Avaliar, interpretar e apresentar os dados
+<div style="text-align: justify">
+<p>Previamente ao término do processo deve-se realizar uma análise dos resultados, será avaliado a confiabilidade dos dados obtidos e a validade externa do estudo. Também é de suma importância quantificar os resultados e se eles podem ser generalizados além da amostra obtida, ou seja, até que ponto os dados são representativos de uma população.</p>
+</div>
+
 #### Executar teste piloto
 <div style="text-align: justify">
 <p>O objetivo da realização do teste piloto na avaliação do protótipo de alta fidelidade a princípio é avaliar a viabilidade de sua execução, além de ajudar a contabilizar uma escala de tempo médio e recursos despendidos em uma situação real, mesmo que ainda sem o usuário alvo. Os resultados obtidos no teste piloto são importantes para auxiliar a equipe a otimizar recursos e preparar o ambiente devidamente para o usuário. Desta forma ao se executar o teste piloto ele deve ser gravado e documentado adequadamente a fim de obter êxito na avaliação com os participantes futuramente.</p>
@@ -156,3 +180,4 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 10/06/2023 | `1.0`  | Criação do documento | [Mizael Santos](https://github.com/frmiza) | 12/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 12/06/2023 | `1.1`  | Novo termo de consentimento e dados | [Mizael Santos](https://github.com/frmiza) | 12/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
