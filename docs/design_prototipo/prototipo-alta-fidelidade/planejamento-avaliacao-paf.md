@@ -138,6 +138,7 @@ Juntamente ao framework DECIDE foi escolhido também para método de avaliação
 <p>A <b>Tabela 4</b> modelo utilizado para criar as tabelas de documentação das entrevistas realizadas.  (Fonte: SANTOS, Mizael. 2023).</p>
 
 </div>
+
 #### Executar teste piloto
 <div style="text-align: justify">
 <p>O objetivo da realização do teste piloto na avaliação do protótipo de alta fidelidade a princípio é avaliar a viabilidade de sua execução, além de ajudar a contabilizar uma escala de tempo médio e recursos despendidos em uma situação real, mesmo que ainda sem o usuário alvo. Os resultados obtidos no teste piloto são importantes para auxiliar a equipe a otimizar recursos e preparar o ambiente devidamente para o usuário. Desta forma ao se executar o teste piloto ele deve ser gravado e documentado adequadamente a fim de obter êxito na avaliação com os participantes futuramente.</p>
