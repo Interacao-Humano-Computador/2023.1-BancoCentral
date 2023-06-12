@@ -1,0 +1,130 @@
+<div class="body">
+
+# Planejamento da Avaliação do Protótipo de Alta Fidelidade
+
+## Introdução
+<div align="justify"> 
+<p>A avaliação é uma etapa preciosa para o desenvolvimento de uma interface de um sistema de boa qualidade. O artefato em questão tem como objetivo planejar a avaliação do protótipo de alta fidelidade.
+Em um protótipo de alta fidelidade um design realiza a construção de uma interface fidedigna com a esperada pelas partes interessadas, nessa etapa é crucial a participação do usuário a fim deste realizar uma avaliação sobre o design final elaborado pela equipe[1].</p>
+</div>
+
+## Metodologia 
+<div align="justify">
+<p>Para o desenvolvimento do artefato utilizaremos o framework DECIDE, um acrônimo onde cada letra representa uma etapa de desenvolvimento que deve ser respeitada , esta série de etapas bem descritas é ideal para guiar a realização de uma avaliação de IHC.
+Juntamente ao framework DECIDE foi escolhido também para método de avaliação a abordagem de testes de usabilidade.</p>
+
+| Letra | Significado |
+| ----- | ----------------------------------------------------------- |
+| D | Determinar os objetivos gerais da avaliação |
+| E | Explorar perguntas a serem feitas na avaliação |
+| C | (Choose) Escolher os métodos de avaliação |
+| I | Identificar e administrar as questões práticas da avaliação |
+| D | Decidir como lidar com as questões éticas |
+| E | (Evaluate) Avaliar, interpretar e apresentar os dados |
+
+</div>
+
+## Planejamento da Avaliação
+
+### Objetivos Gerais (D)
+<div style="text-align: justify">
+<p>O objetivo de realizar uma avaliação de um protótipo de alta fidelidade é avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo[1] para então obter um feedback do mesmo sobre o sistema planejado. Tendo em mente que esse protótipo tem o objetivo de ser fidedigno ao proposto pelas partes interessadas, a avaliação visa identificar problemas, avaliar a eficácia do design e ajustar, caso necessário, antes da implementação de uma versão final.</p>
+</div>
+
+### Roteiro de Entrevista (E)
+
+<div style="text-align: justify">
+<p>A realização de um roteiro de perguntas para o usuário responder durante a etapa de avaliação, ajuda a reunir as informações necessárias para realizar uma análise dos dados obtidos devidamente. </p>
+</div>
+
+#### Usuários
+
+<div style="text-align: justify">
+<p>O perfil dos usuários escolhidos para participarem da avaliação foram selecionados com base no protótipo de papel realizado. Foi decidido com base no livro[2] que usaremos 3 usuários para essa etapa, tanto pela quantidade de participantes disponíveis quanto pela demanda de trabalho.</p>
+</div>
+
+#### Ferramenta
+
+<div style="text-align: justify">
+<p>As avaliações serão realizadas através da plataforma microsoft teams, pois a plataforma permite a gravação facilitada da entrevista. Os avaliadores e participantes também podem lançar mão de papel e caneta para documentar as perguntas e respostas.</p>
+</div>
+
+#### Roteiro das perguntas
+
+<div style="text-align: justify">
+<p>Para a realização bem sucedida da entrevista, será contextualizado a importância da avaliação do protótipo de alta fidelidade para um projeto de IHC. Também será dada uma explicação mais detalhada sobre o processo para o usuário participante a fim de garantir uma experiência agradável durante a avaliação do protótipo.</p>
+
+| Número | Pergunta | Resposta | Justificativa |
+| :-: | - | - | - |
+| 1 | A interface apresentada foi de fácil utilização?| [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se não, justifique |
+| 2 | Existe uma correspondência com a realidade ao realizar essa ação? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se não, justifique |
+| 3 | Teve algum problema com a disposição dos elementos na tela? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se sim, justifique |
+| 4 | Teve alguma dificuldade ao realizar as tarefas designadas? | [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se sim, justifique | 
+| 5 | Teve de lidar com algum erro durante a utilização do sistema?| [] Sim <br /> [] Não <br /> [] Não sei responder <br /> | Se sim, qual? | 
+
+</div>
+
+### Métodos de Avaliação (C)
+
+<div style="text-align: justify">
+<p>Existem vários métodos de avaliação de IHC, no entanto o método escolhido, e também mais adequado, tendo em vista que nesta etapa a presença do usuário na avaliação e teste se torna determinante, foi o método de teste de usabilidade. O teste de usabilidade não permite realizar uma avaliação junto ao usuário em um ambiente controlado normalmente sobre uma versão específica do sistema testado, a fim de extrair informações de usabilidade do usuário.</p>
+<p>Segundo a literatura de Barbosa e Silva [1] os testes de usabilidade devem seguir as metas de usabilidade definidas para o projeto. A literatura também destaca a necessidade de seguir um roteiro de atividades, que pode ser visto na tabela abaixo.</p>
+
+| Atividade | Tarefa |
+| :-: | - |
+| Preparo | </ul> <li> definir tarefas para os participantes executarem <li> definir o perfil dos participantes e recrutá-los <li> preparar material para observar e registrar o uso <li> executar um teste-piloto </ul>|
+| Coleta de dados| </ul> <li> observar e registrar a performance e a opinião dos participantes durante sessões de uso controladas </ul>|
+</div>
+
+#### Preparação
+#### Definir Tarefas para os participantes executarem
+<div style="text-align: justify">
+<p>Nessa etapa é designado tarefas para os usuários realizarem no site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>. As tarefas que ele deve realizar serão: </p>
+
+<ul>
+<li>Se cadastrar em um curso de educação financeira do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>.
+<li>Checar o registro, onde visualiza-se as dívidas do CPF buscado.
+<li>Realiza a tarefa de conversão monetária com valores arbitrários.
+<li>Checar as taxas de juros dos bancos.
+<li>Consultar Valores a receber do estado.
+<li>Simular depósitos utilizando a calculadora do cidadão.
+<li>Simular depósitos utilizando a correção de valores.
+</ul>
+
+</div>
+
+#### Definir perfil dos participantes e recrutá-los
+<div style="text-align: justify">
+<p>O perfil dos usuários escolhidos foi baseado no artefato Perfil de Usuário para participarem da avaliação. A quantidade foi decidida com base no livro[2] que usaremos 3 usuários para essa etapa, tanto pela quantidade de participantes disponíveis quanto pela demanda de trabalho.</p>
+</div>
+
+#### Definir perfil dos participantes e recrutá-los
+<div style="text-align: justify">
+<p>Materiais necessários para o desenvolvimento da avaliação pode ser reunidos abaixo:</p>
+
+<ul>
+<li>Criar protótipos de alta fidelidade utilizando uma ferramenta de design, <a href="https://www.figma.com/">Figma</a>, sua fácil usabilidade somado a experiência de uso por membros da equipe.
+<li>Termo de consentimento
+<li>Perguntas
+<li>Tarefas para o usuário realizar 
+<li>Teste piloto
+</ul>
+</div>
+
+#### Executar teste piloto
+<div style="text-align: justify">
+<p>O objetivo da realização do teste piloto na avaliação do protótipo de alta fidelidade a princípio é avaliar a viabilidade de sua execução, além de ajudar a contabilizar uma escala de tempo médio e recursos despendidos em uma situação real, mesmo que ainda sem o usuário alvo. Os resultados obtidos no teste piloto são importantes para auxiliar a equipe a otimizar recursos e preparar o ambiente devidamente para o usuário. Desta forma ao se executar o teste piloto ele deve ser gravado e documentado adequadamente a fim de obter êxito na avaliação com os participantes futuramente.</p>
+</div>
+
+</div>
+
+## Referência Bibliográfica
+[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 10/06/2023.
+
+[2] Courage, C. & Baxter, K. Understanding your users: a practical guide to user requirements, methods, tools, and techniques. San Francisco, CA: Morgan Kaufmann Publishers, 2005.
+
+## Histórico de Versões
+
+| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
+| :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
+| 10/06/2023 | `1.0`  | Criação do documento | [Mizael Santos](https://github.com/frmiza) | 12/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
