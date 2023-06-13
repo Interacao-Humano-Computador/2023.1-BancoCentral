@@ -87,6 +87,14 @@ Os protótipos desenvolvidos seguiram os princípios do [Guia de estilo]() e for
 <p> Figura 10: Interações (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
+## Teste piloto
+
+<div align="justify">
+
+O teste piloto foi realizado logo após a conclusão dos protótipos, para validar se o fluxo estava de facil entendimento e se as ferramentas utilizadas estavam de acordo com o esperado.
+
+</div>
+
 ## Sessões
 
 <div align="justify">
