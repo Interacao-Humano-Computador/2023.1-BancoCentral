@@ -31,6 +31,7 @@
 - [Design](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
     - [Nível 1](design_prototipo/analise_tarefas/planejamento_avaliacao.md)
     - [Nível 2](design_prototipo/prototipo_papel/planejamento_avaliacao.md)
+    - [Nível 3](design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao.md)
 - [Verificação Grupo 4](verificacao/ponto_controle_1/cronograma_g4.md)
     - [Ponto de controle 1](verificacao/ponto_controle_1/cronograma_g4.md)
     - [Ponto de controle 2](verificacao/ponto_controle_2/analise_tarefa_g4.md)
