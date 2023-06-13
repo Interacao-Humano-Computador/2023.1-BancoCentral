@@ -99,7 +99,7 @@ Os protótipos desenvolvidos seguiram os princípios do [Guia de estilo](https:/
 
 <div align="justify">
 
-O teste piloto foi realizado logo após a conclusão dos protótipos, com o objetivo de validar a simulação de uso do artefato e garantir que as ferramentas estivessem de acordo com as expectativas, onde pode-se observar o cronograma do teste piloto realizado na Tabela 1.
+Antes de apresentar o protótipo de papel para os usuários, é altamente recomendado realizar um teste piloto. Essa etapa prévia permite validar o protótipo, identificar possíveis problemas e ajustar detalhes antes de expor o produto aos usuários finais. O teste piloto é uma oportunidade valiosa para aprimorar a experiência do usuário e garantir que o protótipo esteja alinhado com as expectativas e necessidades do público-alvo. Onde o cronograma realizado do teste piloto pode ser observado na Tabela 1.
 
 </div>
 
@@ -110,7 +110,6 @@ O teste piloto foi realizado logo após a conclusão dos protótipos, com o obje
 <div align="center">
 <p> Tabela 1: Cronograma realizado do teste piloto (Fonte: GOMES, Larissa 2023).</p>
 </div>
-
 
 
 ## Sessões
