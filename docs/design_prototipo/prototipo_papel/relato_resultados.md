@@ -17,77 +17,91 @@ Os protótipos desenvolvidos seguiram os princípios do [Guia de estilo]() e for
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/tela_principal.jpg" alt="Tela principal" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/tela_principal.jpg" alt="Tela principal" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 1: Tela principal (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros.jpg" alt="Taxas de Juros" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros.jpg" alt="Taxas de Juros" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 2: Taxas de Juros (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros_01.jpg" alt="Taxas de Juros" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros_01.jpg" alt="Taxas de Juros" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 3: Taxas de juros (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros_02.jpg" alt="Taxas de Juros" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros_02.jpg" alt="Taxas de Juros" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 4: Taxas de juros (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/registrato.jpg" alt="Registrato" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/registrato.jpg" alt="Registrato" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 5: Registrato (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/cursos_01.jpg" alt="Cursos" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/curso_01.jpg" alt="Cursos" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 6: Cursos (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/cursos_02.jpg" alt="Cursos" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/curso_02.jpg" alt="Cursos" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 7: Cursos (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/calculadora.jpg" alt="Calculadora" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/calculadora.jpg" alt="Calculadora" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 8: Calculadora (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/valores_receber.jpg" alt="Valores a receber" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/valores_receber.jpg" alt="Valores a receber" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 9: Valores a receber (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/interacoes.jpg" alt="Interações" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/interacoes.jpg" alt="Interações" style="max-width: 1000px; max-height: 1000px;">
 
 
 <div align="center">
 <p> Figura 10: Interações (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
+## Teste piloto
+
+<div align="justify">
+
+O teste piloto foi realizado logo após a conclusão dos protótipos, para validar se o fluxo estava de facil entendimento e se as ferramentas utilizadas estavam de acordo com o esperado.
+
+</div>
+
 ## Sessões
+
+<div align="justify">
+
+As sessões seguiram a metodologia do [planejamento](), portanto foram feita 3 sessões, cada uma com 2 desenvolvedores, e antes de cada gravação e sessão foi lido os [termos de uso]() e perguntado se o usuário estava de acordo.
+
+</div>
 
 ### Sessão 01
 
