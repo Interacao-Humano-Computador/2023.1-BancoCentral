@@ -109,7 +109,7 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 | 8. Edição da apresentação | 29/05 | Mizael Santos | 29/05 | Rafael Bosi |
 | 9. Cronograma Executado| 29/05 | Larissa Gomes | 29/05 | Giovanni Alvissus |
 <div style="text-align: center">
-    <p> <b>Tabela 5</b>: Ponto de Controle 5 (Fonte: GOMES, Larissa. 2023).</p>
+    <p> <b>Tabela 5</b>: Ponto de Controle Executado 5 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Cronograma Executado Ponto de Controle 6.1
@@ -127,7 +127,21 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 | 10. Cronograma Executado| 05/06 | Larissa Gomes | 05/06 | Giovanni Alvissus |
 
 <div style="text-align: center">
-    <p> <b>Tabela 7</b>: Ponto de Controle 6.1 (Fonte: GOMES, Larissa. 2023).</p>
+    <p> <b>Tabela 7</b>: Ponto de Controle Executado 6.1 (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+    
+## Cronograma Executado Ponto de Controle 7
+| Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
+| ----------- | :---------: | --------- | :---------: | ----------- |
+| 1. Correção dos artefatos Ponto de Controle 6.1 | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 09/06 | Giovanni Alvissus |
+| 2. Relato dos resultados do Protótipo de Papel |12/06 | Giovanni Alvissus e Larissa Gomes | 12/06 | Rafael Bosi | 
+| 3. Planejamento da avaliação do protótipo de alta fidelidade | 12/06 | Mizael Santos | 12/06 | Bruno Ribeiro | 
+| 4. Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 12/06 | Igor Penha, Bruno Ribeiro e Lucas Gobbi | 12/06 | Larissa Gomes | 
+| 5. Gravação da apresentação | 12/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 12/06 | Rafael Bosi | 
+| 6. Edição da apresentação | 12/06 | Mizael Santos | 12/06 | Rafael Bosi | 
+| 7. Cronograma executado | 12/06 | Larissa Gomes | 12/06 | Igor Penha |
+<div style="text-align: center">
+    <p> <b>Tabela 8</b>: Ponto de Controle Executado 7 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Bibliografia
@@ -148,5 +162,6 @@ A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefato
 | 21/05/2023 | `4.0` | Adição ponto de controle executado 4 | [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 29/05/2023 | `5.0` | Adição ponto de controle executado 5 | [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 05/06/2023 | `6.0` | Adição ponto de controle executado 6.1 | [Larissa Gomes](https://github.com/larigs)| 05/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 12/06/2023 | `7.0` | Adição ponto de controle executado 7.0 | [Larissa Gomes](https://github.com/larigs)| 12/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
