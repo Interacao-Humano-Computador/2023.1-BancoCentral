@@ -6,7 +6,13 @@
 
 <div align="justify">
 
-O artefato em questão é um relato dos resultados da avaliação de um protótipo de papel. O objetivo desse relato é apresentar as etapas do desenvolvimento do protótipo, descrever os testes pilotos realizados e fornecer informações sobre as sessões de avaliação, além de registrar melhorias coletadas durante as sessões com os usuários.
+Os protótipos de papel desempenham um papel fundamental no desenvolvimento de sites, permitindo que designers e desenvolvedores testem e refinem suas ideias antes de investir tempo e recursos na implementação completa. Eles fornecem uma representação visual e interativa do produto final, permitindo que os usuários experimentem sua funcionalidade e forneçam feedback valioso.
+
+O uso de protótipos de papel na fase inicial do processo de design e desenvolvimento de um site é crucial, pois oferece uma oportunidade para explorar diferentes conceitos, layouts e fluxos de interação de maneira rápida e econômica. Esses protótipos são criados com materiais simples, como papel, canetas e adesivos, e permitem que as equipes de desenvolvimento e design colaborem de forma eficiente e iterativa.
+
+Além disso, obter feedback dos usuários sobre os protótipos de papel é uma etapa essencial para garantir a usabilidade e a satisfação do público-alvo. Ao observar e entrevistar os usuários enquanto eles interagem com os protótipos, é possível identificar problemas de usabilidade, pontos confusos e oportunidades de melhoria. Essas informações são valiosas para refinar o design do site, otimizar a experiência do usuário e evitar retrabalho desnecessário durante as fases subsequentes do desenvolvimento.
+
+Essa tecnica permite que os designers testem suas ideias rapidamente, iterem o design com base no feedback dos usuários e economizem tempo e recursos no longo prazo. Além disso, protótipos de papel também podem ajudar a comunicar e alinhar as expectativas entre as equipes de design, desenvolvimento e stakeholders [1].
 
 </div>
 
@@ -255,7 +261,7 @@ Na calculadora, os ajustes realizados no protótipo foi a adição da opção de
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/calculadora.jpg" alt="Calculadora" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/calculadora.jpg" alt="Calculadora" style="max-width: 100%; max-height: 100%;">
 
 
 <div align="center">
@@ -268,7 +274,7 @@ Na tela de cursos, após acessar o curso desejado, foi adicionado na side-bar to
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/calculadora.jpg" alt="Calculadora" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/cursos.jpg" alt="Calculadora" style="max-width: 100%; max-height: 100%;">
 
 
 <div align="center">
@@ -283,18 +289,18 @@ Nas taxas de juros os ajustes foram:
 
 - Adição da opção de ser redirecionado para a calculadora do cidadão com os dados consultados.
 
-Onde pôdemm ser observados nas figuras 12 e 13.
+Onde pôdemm ser observados nas figuras 13 e 14.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/juros.jpg" alt="Taxas de Juros" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/juros.jpg" alt="Taxas de Juros" style="max-width: 100%; max-height: 100%;">
 
 
 <div align="center">
 <p> Figura 13: Taxas de Juros (Fonte: GOMES, Larissa 2023).</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/juros_01.jpg" alt="Taxas de Juros" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/juros_01.jpg" alt="Taxas de Juros" style="max-width: 100%; max-height: 100%;">
 
 
 <div align="center">
@@ -304,11 +310,11 @@ Onde pôdemm ser observados nas figuras 12 e 13.
 
 <div align="justify">
 
-Na tela principal foi alterado o nome do botão de `Para você` para `Recursos para você`. Dando mais entendimento para o usuário em saber onde procurar o que precisa, como pôde ser visto na figura 14. 
+Na tela principal foi alterado o nome do botão de `Para você` para `Recursos para você`. Dando mais entendimento para o usuário em saber onde procurar o que precisa, como pôde ser visto na figura 15. 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/tela_principal.jpg" alt="Calculadora" style="max-width: 500px; max-height: 500px;">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/depois/tela_principal.jpg" alt="Calculadora" style="max-width: 100%; max-height: 100%;">
 
 
 <div align="center">
@@ -341,6 +347,10 @@ Durante as atividades específicas os botões e layouts ajudaram significamente 
 A melhoria e correção do protótipo foi realizada entre a segunda e terceira entrevista, sendo possível observar uma mudança notável nos resultados das interações entre o terceiro entrevistado e o protótipo, dessa forma sendo capaz de moldar bem o protótipo de papel para o de alta fidelidade.
 
 </div>
+
+## Referência Bibliográfica
+
+[1] Nielsen, J. (2003). Prototipagem em papel: A maneira rápida e fácil de projetar e aprimorar interfaces de usuário. Morgan Kaufmann.
 
 ## Bibliografia
 
