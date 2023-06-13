@@ -47,11 +47,19 @@ A apresentação da quinta etapa, do ponto de controle 5, pode ser vista no [Ví
 </div>
 
 ## Apresentação 6
-A apresentação da quinta etapa, do ponto de controle 6, pode ser vista no [Vídeo 5](https://youtu.be/Ais7PgkO5D4).
+A apresentação da sexta etapa, do ponto de controle 6.1, pode ser vista no [Vídeo 6](https://youtu.be/Ais7PgkO5D4).
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Ais7PgkO5D4" title="Ponto de controle 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 6</b>: Sexta apresentação (Fonte: Grupo 3. 2023). </p>
+</div>
+
+## Apresentação 7
+A apresentação da sétima etapa, do ponto de controle 7, pode ser vista no [Vídeo 7](https://youtu.be/VLpQavZ8dKE).
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/VLpQavZ8dKE" title="Ponto de controle 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 7</b>: Sétima apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
 
 ## Bibliografia
@@ -67,5 +75,6 @@ A apresentação da quinta etapa, do ponto de controle 6, pode ser vista no [Ví
 | 22/05/2023 | `4.0`  | Adição da apresentação 4 | [Larissa Gomes](https://github.com/larigs) | 22/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 | 29/05/2023 | `5.0`  | Adição da apresentação 5 | [Larissa Gomes](https://github.com/larigs) | 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 | 05/06/2023 | `6.0`  | Adição da apresentação 6 | [Larissa Gomes](https://github.com/larigs) | 05/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
+| 12/06/2023 | `7.0`  | Adição da apresentação 7 | [Larissa Gomes](https://github.com/larigs) | 12/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 
 </div>
