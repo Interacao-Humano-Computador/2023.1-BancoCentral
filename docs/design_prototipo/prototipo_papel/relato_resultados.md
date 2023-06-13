@@ -99,7 +99,7 @@ O teste piloto foi realizado logo após a conclusão dos protótipos, para valid
 
 <div align="justify">
 
-As sessões seguiram a metodologia do [planejamento](), portanto foram feita 3 sessões, cada uma com 2 desenvolvedores, e antes de cada gravação e sessão foi lido os [termos de uso]() e perguntado se o usuário estava de acordo.
+As sessões seguiram a metodologia do [planejamento](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao), portanto foram feita 3 sessões, cada uma com 2 desenvolvedores, e antes de cada gravação e sessão foi lido os [termos de uso](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/termo-de-consentimento) e perguntado se o usuário estava de acordo.
 
 </div>
 
@@ -109,8 +109,11 @@ As sessões seguiram a metodologia do [planejamento](), portanto foram feita 3 s
 
 <div align="justify">
 
-A tabela 1 abaixo mostra a relação de onde, quando e quem participaram da primeira entrevista, onde a gravação se encontra em [sessão 01]().
-
+A tabela 1 abaixo mostra a relação de onde, quando e quem participaram da primeira entrevista, onde a gravação se encontra em [Vídeo 1]().
+  
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/ZxD0aDZ2OSg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 1</b>: Primeira entrevista (Fonte: ALVISSUS, Giovanni. 2023). </p>
 </div>
 
 | Entrevistado | Desenvolvedores | Local|  Data | Hora | Fluxos |
@@ -125,7 +128,7 @@ A tabela 1 abaixo mostra a relação de onde, quando e quem participaram da prim
 
 <div align="justify">
 
-As considerações foram feitas durante o fluxo pelo participante ou percebida pelos desenvolvedores. O que pode ser resolvido na hora foi ajustado e o que era mais complexo foi considerado abaixo:
+As considerações foram feitas durante o fluxo pelo participante ou percebida pelos desenvolvedores. O que pode ser resolvido na hora e foi ajustado e o que era mais complexo foi considerado abaixo:
 
 </div>
 
@@ -156,8 +159,11 @@ As considerações foram feitas durante o fluxo pelo participante ou percebida p
 
 <div align="justify">
 
-A tabela 3 abaixo mostra a relação de onde, quando e quem participaram da primeira entrevista, onde a gravação se encontra em [sessão 02]().
-
+A tabela 3 abaixo mostra a relação de onde, quando e quem participaram da primeira entrevista, onde a gravação se encontra em [Vídeo 2]().
+  
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/ZxD0aDZ2OSg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 2</b>: Segunda Entrevista (Fonte: ALVISSUS, Giovanni. 2023). </p>
 </div>
 
 | Entrevistado | Desenvolvedores | Local|  Data | Hora | Fluxos |
@@ -172,10 +178,12 @@ A tabela 3 abaixo mostra a relação de onde, quando e quem participaram da prim
 
 <div align="justify">
 
-As considerações foram feitas durante o fluxo pelo participante ou percebida pelos desenvolvedores. O que pode ser resolvido na hora foi ajustado e o que era mais complexo foi considerado abaixo:
+As considerações foram feitas durante o fluxo pelo participante ou percebida pelos desenvolvedores. O que pode ser resolvido na hora e foi ajustado e o que era mais complexo foi considerado abaixo:
 
 </div>
 
+- `Informações e consultas` esta confundindo as `taxas e juros` e `cursos`.
+- `Informações e consultas` esta confundindo as `taxas e juros` e `cursos`.  
 - `Informações e consultas` esta confundindo as `taxas e juros` e `cursos`.
 
 #### Questões finais
@@ -201,7 +209,11 @@ As considerações foram feitas durante o fluxo pelo participante ou percebida p
 
 <div align="justify">
 
-A tabela 5 abaixo mostra a relação de onde, quando e quem participaram da primeira entrevista, onde a gravação se encontra em [sessão 03]().
+A tabela 5 abaixo mostra a relação de onde, quando e quem participaram da primeira entrevista, onde a gravação se encontra em [Vídeo 3]().
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/ZxD0aDZ2OSg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 3</b>: Terceira entrevista (Fonte: ALVISSUS, Giovanni. 2023). </p>
 
 </div>
 
@@ -217,7 +229,7 @@ A tabela 5 abaixo mostra a relação de onde, quando e quem participaram da prim
 
 <div align="justify">
 
-As considerações foram feitas durante o fluxo pelo participante ou percebida pelos desenvolvedores. O que pode ser resolvido na hora foi ajustado e o que era mais complexo foi considerado abaixo:
+As considerações foram feitas durante o fluxo pelo participante ou percebida pelos desenvolvedores. O que pode ser resolvido na hora e foi ajustado e o que era mais complexo foi considerado abaixo:
 
 </div>
 
@@ -229,12 +241,12 @@ As considerações foram feitas durante o fluxo pelo participante ou percebida p
 | Ordem das perguntas | Objetivos Relacionados | Perguntas | Resposta  | 
 | - | - | - | - | 
 |1°|2|Após simular o uso das tarefa, você considera a sequência de atividades coerente?| Sim | 
-|2°|2|Alguma questão de interface ou terminologia o confundiu ou foi de difícil entendimento?| Sim, o termo 'Para Você' é um termo muito vago e não indicou sobre o que se tratava. |  
+|2°|2|Alguma questão de interface ou terminologia o confundiu ou foi de difícil entendimento?| Não |  
 |3°|2|O processo de execução da tarefa foi muito longa?| Não | 
 |4°|1|A disposição dos elementos de interação auxiliaram na rapidez da execução da sua tarefa?| Sim | 
 |5°|1|Em termos de layout e design, achou alguma parte estranha ou desconexa com o objetivo do site?| Não | 
-|6°|1|Quais foram as partes do protótipo de papel que você achou mais intuitivas e fáceis de usar?| A tela de cursos, pois era a que possuia a maior afinidade e a com menos afinidade a tela de 'Consulta de Taxas' pois não havia uma indicação clara sobre isso.| 
-|7°|2|Você imagina alguma forma de melhorar alguma tarefa?| Adicionar uma barra lateral mostrando todas as aulas disponiveis para poder navegar entre elas. E sobre a calculadora adicionar um histório das ultimas contas realizadas. |
+|6°|1|Quais foram as partes do protótipo de papel que você achou mais intuitivas e fáceis de usar?| A tela de cursos, pois era a que possuia a maior afinidade.| 
+|7°|2|Você imagina alguma forma de melhorar alguma tarefa?| Não |
 
 
 <div align="center">
@@ -244,6 +256,8 @@ As considerações foram feitas durante o fluxo pelo participante ou percebida p
 ## Correções realizadas
 
 <div align="justify">
+
+Após as entrevistas e considerações feitas e observadas, foram realizadas correções nos protótipos de papel. 
 
 Na calculadora, os ajustes realizados no protótipo foi a adição da opção de histórico, precisandoo então a realização do login pelo site do gov antes de acessar o serviço como pode ser visto na figura 11.
 
@@ -331,6 +345,8 @@ Além dos ajustes ja realizados, abaixo será listado os ajustes principais regi
 De modo geral pudemos perceber que a interface da tela principal ajudou com a rapidez e simplicidade na hora de acessar as atividades, porém os usuários ainda se confundem na hora de achar as atividades que precisam diante as opções, logo melhoramos as escritas e colocamos as opções onde mais houveram cliques na primeira vez que fizeram a busca. 
 
 Durante as atividades específicas os botões e layouts ajudaram significamente os usuários a se guiarem pelas páginas e deixaram o fluxo mais coeso e curto, muito elogiado pelos usuários.
+  
+A melhoria e correção do protótipo foi realizada entre a segunda e terceira entrevista, sendo possível observar uma mudança notável nos resultados das interações entre o terceiro entrevistado e o protótipo, dessa forma sendo capaz de moldar bem o protótipo de papel para o de alta fidelidade.
 
 </div>
 
