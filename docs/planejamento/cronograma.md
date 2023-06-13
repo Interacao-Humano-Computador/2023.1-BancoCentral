@@ -118,14 +118,14 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Correção dos artefatos Ponto de Controle 5 | 30/05 - 02/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 02/06 - 04/06 | Giovanni Alvissus |
-| 2. Planejar a avaliação dos artefatos da Etapa 1 | 30/05 - 03/06 | Rafael Bosi e Mizael Santos| 03/06 - 04/06 | Larissa Gomes |
-| 3. Planejar a avaliação dos artefatos da Etapa 2 | 30/05 - 03/06 | Bruno Ribeiro | 03/06 - 04/06 | Giovanni Alvissus |
-| 4. Planejar a avaliação dos artefatos da Etapa 3 | 30/05 - 03/06 | Giovanni Alvissus | 03/06 - 04/06 | Igor Penha |
-| 5. Planejar a avaliação dos artefatos da Etapa 4 | 30/05 - 03/06 | Lucas Gobbi e Igor Penha | 03/06 - 04/06 | Mizael Santos |
-| 6. Planejar a avaliação dos artefatos da Etapa 5 | 30/05 - 03/06 | Larissa Gomes | 03/06 - 04/06 | Bruno Ribeiro |
+| 2. Verificação dos artefatos da Etapa 1 do Grupo 4 | 30/05 - 03/06 | Bruno Ribeiro | 03/06 - 04/06 | Larissa Gomes |
+| 3. Verificação dos artefatos da Etapa 2 do Grupo 4 | 30/05 - 03/06 | Larissa Gomes | 03/06 - 04/06 | Giovanni Alvissus |
+| 4. Verificação dos artefatos da Etapa 3 do Grupo 4 | 30/05 - 03/06 | Rafael Bosi e Giovanni Alvissus | 03/06 - 04/06 | Igor Penha |
+| 5. Verificação dos artefatos da Etapa 4 do Grupo 4 | 30/05 - 03/06 | Mizael Santos | 03/06 - 04/06 | Mizael Santos |
+| 6. Verificação dos artefatos da Etapa 5 do Grupo 4 | 30/05 - 03/06 | Lucas Gobbi e Igor Penha | 03/06 - 04/06 | Bruno Ribeiro |
 | 7. Atualizar GitPage | 03/06 - 04/06 | Larissa Gomes | 04/06 | Lucas Gobbi |
 | 8. Gravação da apresentação | 05/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 05/06 | Rafael Bosi |
-| 9. Edição da apresentação | 05/06 - 06/06 | Mizael Santos | 05/06 - 06/06 | Rafael Bosi |
+| 9. Edição da apresentação | 05/06 | Mizael Santos | 05/06 | Rafael Bosi |
 | 10. Cronograma Executado| 05/06 | Larissa Gomes | 05/06 | Giovanni Alvissus |
 
 <div style="text-align: center">
@@ -203,6 +203,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 23/04/2023 | `1.4` | Criação do cronograma geral | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 24/04/2023 | `1.5` | Correção dos pontos de controle 2, 7, 8 e Entrega Final | [Larissa Gomes](https://github.com/larigs)| 24/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 21/05/2023 | `2.0` | Correção do ponto de controle 4| [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 29/05/2023 | `3.0` | Correção dos pontos de controle 5| [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 29/05/2023 | `3.0` | Correção do ponto de controle 5| [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 05/06/2023 | `4.0` | Correção do ponto de controle 6.1| [Larissa Gomes](https://github.com/larigs)| 05/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
