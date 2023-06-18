@@ -41,7 +41,8 @@ Sendo assim, foi elaborado 2 tabelas a tabela 1 diretamenta da avaliação elabo
 - Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
-<p>A Tabela 1 apresenta as perguntas realizadas pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia"> Grupo 2</a> no documento <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia/blob/main/docs/verificacao/pontoControle4/planejamentoAvaliacaoAnaliseDeTarefas.md">Verificação da Avaliação da Análise de tarefas</a> a respeito da formatação do artefato <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/storyboard/planejamento_avaliacao.md">Planejamento da avaliação da análise de tarefas</p>.
+<p>A Tabela 1 apresenta as perguntas realizadas pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia"> Grupo 2</a> no documento <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia/blob/main/docs/verificacao/pontoControle4/planejamentoAvaliacaoAnaliseDeTarefas.md">Verificação da Avaliação da Análise de tarefas</a> a respeito da formatação do artefato <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/storyboard/planejamento_avaliacao.md">Planejamento da avaliação da análise de tarefas.</p>
+
 | ID | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - | - |
 | 1 | As legendas estão no padrão do projeto? | Sim | Excelente | --- |
@@ -50,9 +51,13 @@ Sendo assim, foi elaborado 2 tabelas a tabela 1 diretamenta da avaliação elabo
 | 4 | Existe tabela de versionamento padronizado e completo? | Sim | Excelente | --- |
 | 5 | Há referências bibliográficas e/ou bibliografia no artefato? | Sim | Excelente | --- |
 | 6 | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? | Sim | Excelente | --- |
+
 <b>Tabela 1</b>: perguntas realizadas pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia"> Grupo 2</a>(Fonte: <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia/blob/main/docs/verificacao/pontoControle4/planejamentoAvaliacaoAnaliseDeTarefas.md"> Avaliação da Análise de Tarefas Grupo 3</a>. 2023).
 
 <p>A Tabela 2 apresenta as perguntas realizadas pelo <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia"> Grupo 2</a>, e perguntas identificadas pelo membro que realizou a avaliação por parte do <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral">Grupo 3</a> a respeito do conteúdo do artefato <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/analise_tarefas/planejamento_avaliacao.md">.</p>
+
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
 | 7 | O artefato faz uso do framework DECIDE, ou outra metodologia de planeamento de avaliação de artefato? | Sim | Excelente | ---  |
 | 8 | O artefato apresenta o objetivo do documento estabelecido pela metodologia? | Sim | Incompleto | Apresenta apenas os tópicos do objetivo, não os detalha. |
 | 9 | A respeito das perguntas, elas possuem uma rastreabilidade? | Sim | Excelente | --- |
