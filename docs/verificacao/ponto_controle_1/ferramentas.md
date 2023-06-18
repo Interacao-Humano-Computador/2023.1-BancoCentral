@@ -32,7 +32,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 - **_Excelente_** (Cumpre com todo conteúdo esperado na avaliação).
 - **_Boa_** (Possue parte do conteúdo esperado na avaliação).
-- **_Imcompleta_** (Passa brevemente pelo conteúdo esperado na avaliação).
+- **_Incompleta_** (Passa brevemente pelo conteúdo esperado na avaliação).
 
 </div>
 
