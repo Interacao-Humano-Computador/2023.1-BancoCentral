@@ -20,17 +20,15 @@ A metodologia para verificar o artefato em questão será baseado, na descriçã
 
 Seguindo os passos propostos por Fagan, após a definição do objeto a ser verificado e uma leitura dele (etapas de planejamento e visão geral), foi formulado uma lista de verificação demonstrado na Tabela 1.
 
-| Conteúdo | Possui | Qualidade | Observação |
-| -------- | ------ | --------- | ---------- |
-| É descrito como os aspectos serão utilizados no projeto? |  |  |  |
-| Há termo de consentimento? |  |  |  |
-| E descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |  |  |  |
-| É seguido o princípio da autonomia? |  |  |  |
-| É seguido o princípio da beneficência? |  |  |  |
-| É seguido o princípio da não maleficência? |  |  |  |
-| É seguido o princípio da justiça e igualdade? |  |  |  |
-| Os objetivos, operadores, métodos e regras de seleção estão claros? |  |  |  |
-| É considerado os aspéctos éticos relacionado aos dados coletados?|  |  |  |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| -- | -------- | ------ | --------- | ---------- |
+| 1  | Existe algum tópico falando sobre o objetivo do documento? |  |  |  |
+| 2  | Existe uma metodologia baseada em alguma referência? |  |  |  |
+| 3  | Existe um passo a passo do que deve ser feito durante a elaboração do documento do relato? |  |  |  |
+| 4  | Existe modelos de cronograma e/ou tabelas para serem seguidos? |  |  |  |
+| 5  | Existe um roteiro da simulação? |  |  |  |
+| 6  | Existe um passo a passo para documentar a validação do protótipo? |  |  |  |
+| 7  | O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? |  |  |  |
 
 <b>Tabela 1</b>: Lista de verificação (Fonte: GOMES, Larissa. 2023).
 
@@ -52,18 +50,23 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 
 </div>
 
-| Conteúdo | Possui | Qualidade | Observação |
-| -------- | :------: | :---------: | ---------- |
-| É descrito como os aspectos serão utilizados no projeto? | Sim | Incompleta | É descrito que os princípios nortearão a coleta de dados e informações com o usuários, mas acredito que poderia ser detalhado um pouco melhor como seria isso |
-| Há termo de consentimento? | Sim | Excelente |  |
-| É descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? | Sim | Incompleta | É descrito no termo de consentimento a permissão para gravar voz e imagem, porém não é descrito que será novamente pedido a permissão antes de iniciar a gravação de fato |
-| É seguido o princípio da autonomia? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
-| É seguido o princípio da beneficência? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
-| É seguido o princípio da não maleficência? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
-| É seguido o princípio da justiça e igualdade? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
-| É considerado os aspectos éticos relacionados aos dados coletados?| Não | - | - |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| -- | -------- | ------ | --------- | ---------- |
+| 1  | Existe algum tópico falando sobre o objetivo do documento? | Não | - |  |
+| 2  | Existe uma metodologia baseada em alguma referência? | Sim | Incompleta | Faltou a referência de onde a metodologia se baseia. |
+| 3  | Existe um passo a passo do que deve ser feito durante a elaboração do documento do relato? | Não | - |  |
+| 4  | Existe modelos de cronograma e/ou tabelas para serem seguidos? | Sim | Incompleto | Poderia ser mais explicativo quando utilizar o modelo, além de apresentar modelo para a tabela de perguntas ou até mesmo documentação das melhorias a serem realizadas. |
+| 5  | Existe um roteiro da simulação? | Não | - |  |
+| 6  | Existe um passo a passo para documentar a validação do protótipo? | Sim | Boa | Poderia ser mais detalhado |
+| 7  | O artefato descreve como serão realizadas as análises dos dados obtidos pelo artefato? | Sim | Excelente |  |
 
 <b>Tabela 2</b>: Resultado da Inspeção (Fonte: GOMES, Larissa. 2023).
+
+A seguir o Gráfico 1 mostra uma relação da qualidade do artefato com o esperado na avaliação.
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/nosso_grupo/ponto_de_controle_7/planejamento_relato_alta_fidelidade/grafico_qualidade.png" alt="Gráfico de qualidade">
+
+<b>Gráfico 1</b>: Resultado da Inspeção representado graficamente (Fonte: GOMES, Larissa. 2023).
 
 ## Critérios gerais
 
