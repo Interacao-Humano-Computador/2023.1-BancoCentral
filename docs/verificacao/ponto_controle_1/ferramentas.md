@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação de Ferramentas do Grupo 3 (Banco Central do Brasil)
+# Verificação de ferramentas do Grupo 3 (Banco Central do Brasil)
 
 ## Introdução
 
@@ -8,7 +8,7 @@
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-Este artefato tem como objetivo realizar a verificação do artefato de ferramentas versã0 `1.4` do Grupo 3.
+Este artefato tem como objetivo realizar a verificação do artefato de ferramentas versão `1.4` do Grupo 3.
 
 </div>
 
