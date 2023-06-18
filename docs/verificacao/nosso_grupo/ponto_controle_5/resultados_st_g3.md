@@ -48,6 +48,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 8 | Os problemas encontrados nos storyboards foram relatados? | Sim | Excelente | - |
 | 9 | Foram feitas análises com os resultados da entrevista? | Sim | Excelente | - |
 | 10 | O artefato utiliza de gráficos para auxílio da compreensão dos dados obtidos? | Não | - | - |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
 
 ### Conclusão

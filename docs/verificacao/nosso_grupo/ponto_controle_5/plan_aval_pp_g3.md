@@ -50,6 +50,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 10 | O artefato possui as ferramentas utilizadas, custo e mão de obra necessária para realização da avaliação? | Não | - | O artefato não possui nenhuma dessas informações. |
 | 11 | O artefato descreve quais tarefas serão realizadas nos protótipos de papel? | Sim | Excelente | - |
 | 12 | O artefato projeta o auxílio dos Stakeholders na elaboração dos protótipos? | Sim | Boa | O artefato descreve a utilização dos stakeholders na correção dos protótipos, mas não em sua elaboração inicial. |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. GOBBI, Lucas. 2023).
 
 ### Conclusão

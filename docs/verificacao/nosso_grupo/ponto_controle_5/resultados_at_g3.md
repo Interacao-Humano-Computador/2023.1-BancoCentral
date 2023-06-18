@@ -46,6 +46,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 6 | As tarefas estão consistentes com a aplicação analisada pelo grupo? | Não | - | O artefato não possui análise dos diagramas das tarefas. |
 | 7 | Foram feitas análises com os resultados da entrevista? | Não | - | O artefato não possui uma análise dos dados obtidos. |
 | 8 | O artefato descreve os problemas encontrados nas entrevistas? | Sim | Incompleta | O artefato apresenta os problemas mas de maneira vaga. |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
 
 ### Conclusão

@@ -46,6 +46,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 6 | O artefato demanda a análise de dados da avaliação? | Sim | Excelente | - |
 | 7 | O artefato descreve como será realizada a análise de dados? | Sim | Excelente | - |
 | 8 | O artefato demanda o registro estruturado de todos os problemas encontrados nas simulações? | Sim | Incompleta | O artefato não descreve como os problemas serão descritos. |
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. GOBBI, Lucas. 2023).
 
 ### Conclusão
