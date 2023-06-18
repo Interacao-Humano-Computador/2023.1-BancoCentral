@@ -115,7 +115,7 @@ Para corrigir com qualidade o artefato analisado, separamos os seguintes pontos:
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
-- Documento do Cronograma Planejado do Grupo 3 da Disciplina de Requisitos. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma>. Acesso em: 18 jun. 2023.
+- Documento do Cronograma Planejado do Grupo 3 da Disciplina de Requisitos. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/ferramentas>. Acesso em: 18 jun. 2023.
 
 
 ## Histórico de Versões
