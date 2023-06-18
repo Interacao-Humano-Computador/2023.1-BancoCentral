@@ -8,7 +8,7 @@
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-Este artefato tem como objetivo realizar a verificação do artefato de metodologia versã0 `1.2 ` do Grupo 3.
+Este artefato tem como objetivo realizar a verificação do artefato de metodologia versão `1.2 ` do Grupo 3.
 
 </div>
 
@@ -95,7 +95,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 <div align="justify">
 
-O artefato respeita a todos dos pontos estruturais analisados.
+O artefato respeita a todos dos pontos estruturais analisados, porém o histórico de versão encontra-se quebrado.
 
 </div>
 
