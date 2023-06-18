@@ -81,30 +81,25 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [✅] A fonte e o tamanho do texto estão consistentes em todo o documento.
    - [✅] As margens e os espaçamentos estão corretos.
    - [✅] O uso de negrito, itálico e sublinhado está adequado e consistente.
-   - [❌] Os parágrafos estão todos justificados.
+   - [✅] Os parágrafos estão todos justificados.
 
 2. Estrutura:
    - [✅] O artefato possui uma introdução clara e contextualizada.
    - [✅] As seções estão organizadas de forma lógica e coerente.
    - [✅] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [❌] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [❌] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [✅] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [✅] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
    - [✅] As citações estão corretamente formatadas de acordo com o estilo especificado.
    - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
    - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-<b>Observações:</b>
-- Justificar os parágrafos.
-- Seria bom possuir uma conclusão sobre o estudado no artefato.
-- O histórico de versão não possue data de realização da revisão, apenas prevista.
-
 ## Correções e ajustes sugeridos
 
 <div align="justify">
 
-Há muitos erros no documento, para resolver seria necessário um melhor detalhamento dos princípios a serem seguidos, principalmente os citados pelo grupo como a Resolução N°466 de 2012, do Conselho Nacional de Saúde e os códigos de ética ACM e IEEE. Também é necessário descrever de forma mais clara de que forma esses aspectos serão seguidos e utilizados no projeto. 
+O artefato apresenta deficiências em organização e embasamento, podendo ser melhorado ao adicionar mais referências e oferecer um melhor suporte para a realização do relato do protótipo de alta fidelidade.
 
 </div>
 
@@ -112,9 +107,11 @@ Há muitos erros no documento, para resolver seria necessário um melhor detalha
 
 <div align="justify">
 
-O artefato possui uma introdução falando sobre seguir resoluções e códigos de ética, mas no texto não é mostrado de forma clara como isso seria seguido, apenas sobre do que elas se tratam. O mesmo ocorre com os 4 princípios, eles são citados, mas não há uma descrição do que são, nem de como seriam utilizados no projeto. Na ultima linha do parágrafo é dito "Este artefato tem como objetivo apresentar os princípios éticos que nortearão a coleta de informações com usuários do sistema, a fim de garantir a sua confiabilidade e legitimidade.", porém em nenhum momento me seguida esses princípios são apresentados.
+Após realizar a verificação do artefato "Aspectos Éticos" do Grupo 4, identificamos alguns pontos que necessitam de ajustes e melhorias. O artefato não apresenta um tópico falando sobre o objetivo do documento e também não possui um passo a passo do que deve ser feito durante a elaboração do relato. Além disso, a metodologia utilizada é baseada em alguma referência, porém, não foi fornecida a devida citação. Outro ponto de melhoria é a falta de um roteiro da simulação.
 
-Dessa forma é possível concluir que há muitos pontos a serem revisados e corrigidos.
+Por outro lado, o artefato descreve de forma excelente como serão realizadas as análises dos dados obtidos e apresenta um passo a passo para documentar a validação do protótipo. Os modelos de cronograma e/ou tabelas estão presentes, mas poderiam ser mais explicativos e incluir um modelo para a tabela de perguntas ou até mesmo documentar as melhorias a serem realizadas.
+
+Sugerimos que as correções e ajustes apontados sejam realizados no artefato, buscando aprimorar sua organização, embasamento e fornecendo um suporte mais completo para a elaboração do relato. Com essas melhorias, o artefato estará mais completo e atenderá aos critérios de avaliação estabelecidos.
 
 </div>
 
@@ -133,6 +130,6 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 04/06/2023 | `1.0` | Criação do documento | [Larissa Gomes](https://github.com/larigs) | 04/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 18/06/2023 | `1.0` | Criação do documento | [Larissa Gomes](https://github.com/larigs) | 18/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
