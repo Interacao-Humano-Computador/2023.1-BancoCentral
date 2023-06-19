@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "Aspectos Éticos" do Grupo 4
+# Verificação do artefato "Planejamento do relato do protótipo de alta fidelidade"
 
 ## Introdução
 
@@ -8,7 +8,7 @@
 
 A verificação busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados. Qualquer documento gerado pode ser verificado, como o código, os testes, os artefatos, por exemplo. A técnica de verificação utilizada é a de inspeção proposta por Fagan. O objetivo de uma inspeção é verificar se o modelo de requisitos está de acordo com a notação do modelo e com o que se espera desse modelo.
 
-Este documento relata a verificação do artefato [Aspéctos Éticos](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Aspectos_Eticos/) do Grupo 4 da matéria de Interação Humano Computador.
+Este documento relata a verificação do artefato [Planejamento do relato do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao).
 
 </div>
 
@@ -16,7 +16,7 @@ Este documento relata a verificação do artefato [Aspéctos Éticos](https://in
 
 <div align="justify">
 
-A metodologia para verificar o artefato em questão será baseado, na descrição dos itens fundamentais de uma análise de tarefas descrita por Barbosa e Silva [1]. Para itens gerais, será utilizado principalmente, os critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf), como histórico de versão com autor e revisor, bibliografia, entre outros.
+A metodologia para verificar o artefato em questão será baseado no livro de [Design de Interação](https://aprender3.unb.br/pluginfile.php/2523514/mod_resource/content/1/Design%20de%20intera%C3%A7%C3%A3o%20cap%208.pdf)[1]. Para itens gerais, será utilizado principalmente, os critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf), como histórico de versão com autor e revisor, bibliografia, entre outros.
 
 Seguindo os passos propostos por Fagan, após a definição do objeto a ser verificado e uma leitura dele (etapas de planejamento e visão geral), foi formulado uma lista de verificação demonstrado na Tabela 1.
 
@@ -107,17 +107,20 @@ O artefato apresenta deficiências em organização e embasamento, podendo ser m
 
 <div align="justify">
 
-Após realizar a verificação do artefato "Aspectos Éticos" do Grupo 4, identificamos alguns pontos que necessitam de ajustes e melhorias. O artefato não apresenta um tópico falando sobre o objetivo do documento e também não possui um passo a passo do que deve ser feito durante a elaboração do relato. Além disso, a metodologia utilizada é baseada em alguma referência, porém, não foi fornecida a devida citação. Outro ponto de melhoria é a falta de um roteiro da simulação.
+O artefato analisado, "Planejamento do relato do protótipo de alta fidelidade", passou por uma verificação baseada em uma lista de verificação e critérios gerais. Durante a inspeção, foram identificadas algumas deficiências, como a falta de um tópico sobre o objetivo do documento, uma metodologia incompleta sem referência explícita, a ausência de um passo a passo para elaboração do relato, a necessidade de mais modelos e informações no cronograma e a falta de um roteiro da simulação.
 
-Por outro lado, o artefato descreve de forma excelente como serão realizadas as análises dos dados obtidos e apresenta um passo a passo para documentar a validação do protótipo. Os modelos de cronograma e/ou tabelas estão presentes, mas poderiam ser mais explicativos e incluir um modelo para a tabela de perguntas ou até mesmo documentar as melhorias a serem realizadas.
+No entanto, o artefato apresentou pontos positivos, como a descrição da validação do protótipo e a abordagem sobre as análises dos dados obtidos. Além disso, o documento seguiu as diretrizes de padronização em relação à formatação, fonte, espaçamento, parágrafos justificados, entre outros.
 
-Sugerimos que as correções e ajustes apontados sejam realizados no artefato, buscando aprimorar sua organização, embasamento e fornecendo um suporte mais completo para a elaboração do relato. Com essas melhorias, o artefato estará mais completo e atenderá aos critérios de avaliação estabelecidos.
+Para aprimorar o artefato, sugerimos adicionar um tópico sobre o objetivo do documento, complementar a metodologia com referências explícitas, fornecer um passo a passo para elaboração do relato, aprimorar o cronograma e incluir um roteiro da simulação.
+
+Com base na análise realizada, recomenda-se que o autor revise e atualize o artefato, levando em consideração as correções e ajustes sugeridos. Essas melhorias contribuirão para a qualidade e completude do relato do protótipo de alta fidelidade.
 
 </div>
 
+
 ## Referência Bibliográfica
 
-[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 06/05/2023.
+[1] BARROS, André. Design De interação, 1a. Edição, Editora Campus, 2010. Disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html. Acessado em: 06/05/2023.
 
 ## Bibliografia
 
