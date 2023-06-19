@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "Aspectos Éticos" do Grupo 4
+# Verificação do artefato "Relato do Protótipo de papel"
 
 ## Introdução
 
