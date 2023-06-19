@@ -133,7 +133,7 @@ Algumas correções sugeridas são:
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 08/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 09/06/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 08/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 09/06/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 
 
 </div>
