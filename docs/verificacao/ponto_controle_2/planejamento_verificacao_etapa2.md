@@ -1,6 +1,6 @@
 <div class="body">
 
-# Planejamento da Verificação da Etapa 2 do Grupo 3
+# Planejamento da Verificação da Etapa 2 do Grupo 3 (Banco Central do Brasil)
 
 ## Introdução
 
@@ -37,9 +37,9 @@ A verificação será realizada no período de 06 de junho de 2023 até dia 12 d
 | - | - |
 | 08/06/2023 | Verificação do Perfil de Usuário. |
 | 08/06/2023 | Verificação das Personas. |
-| 11/06/2023 | Verificação dos Cenários. |
-| 11/06/2023 | Verificação do Aspecto Ético. |
-| 12/06/2023 | Verificação da Analise de tarefa. |
+| 14/06/2023 | Verificação dos Cenários. |
+| 14/06/2023 | Verificação do Aspecto Ético. |
+| 16/06/2023 | Verificação da Analise de tarefa. |
 <b>Tabela 1</b>: Cronograma das atividades (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
 
 A tabela 1 apresenta o cronograma das atividades a serem realizadas.

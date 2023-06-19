@@ -8,7 +8,7 @@
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-Este artefato tem como objetivo realizar a verificação do artefato do perfil de usuário do Grupo 4.
+Este documento relata a verificação do artefato [Aspéctos Éticos](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario) do Grupo 3 da matéria de Interação Humano Computador.
 
 </div>
 
@@ -38,14 +38,17 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 | id | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - | - |
-| 1 | Dados demográficos: idade, sexo, status socioeconômico; | Sim |  |
-| 2 | Cargo que ocupa:  | Sim | Incompleta | A informação não está explicita no texto |
+| 1 | Dados demográficos: idade, sexo, status socioeconômico; | Sim | Excelente |  |
+| 2 | Cargo que ocupa:  | Sim | Excelente |  |
 | 3 | Educação: | Sim | Excelente |  |
 | 4 | Experiência com um produto específico ou ferramentas semelhantes? | Sim | Excelente |  |
-| 5 | Foi agrupado os usuários com características semelhantes? | Não |  |  |
-| 6 | Idiomas e jargões: que idiomas o usuário conhece e utiliza fluentemente? Ele possui um jargão profissional particular, um vocabulário próprio da empresa, da sua atividade ou de algum grupo social relevante para o seu projeto?; | Sim | Excelente |  |
-| 7 | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)? | Não |  | O grupo utilizou apenas o questionário para coletar os dados de usuários |
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
+| 5 | Foi agrupado os usuários com características semelhantes, seja elas: faixa etária, experiência, atitude e tarefas primárias no sistema? | Sim | Excelente |  |
+| 6 | Idiomas e jargões: que idiomas o usuário conhece e utiliza fluentemente? Ele possui um jargão profissional particular, um vocabulário próprio da empresa, da sua atividade ou de algum grupo social relevante para o seu projeto?; | Sim | Boa |  |
+| 7 | O perfil do usuário define os grupos de atributos? | Sim | Excelente |  |
+| 8 | Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)? | Não |  | O grupo utilizou apenas o questionário para coletar os dados de usuários |
+| 9 | Possui termo de consentimento? | Sim | Excelente |  |
+
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. 2023).
 
 ### Conclusão
 
@@ -53,9 +56,13 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 Com a tabela 1 como referência, pode-se realizar uma breve análise sobre questões problemáticas do artefato:
 
-- id 2, Informação de difícil acesso e falta de detalhamento;
-- id 5, os dados obtidos dos usuários com características comuns não foram agrupados.
-- id 7, para a coleta dos dados foi utilizado apenas o questionário o que pode prejudicar a vericidade dos dados.
+- id 6, A pergunta 8 poderia ser de dificíl compreensão para alguns usuários devido a utilização de jargões;
+- id 8, para a coleta dos dados foi utilizado apenas o questionário o que pode prejudicar a vericidade dos dados.
+
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/verificacao/entrega_2/perfil_usuario.png" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor. 2023).
 
 </div>
 
@@ -78,7 +85,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 2. Estrutura:
    - [X] O artefato possui uma introdução clara e contextualizada.
-   - [X] As seções estão organizadas de forma lógica e coerente.
+   - [ ] As seções estão organizadas de forma lógica e coerente.
    - [X] Os títulos e subtítulos estão bem definidos e formatados corretamente.
    - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
    - [X] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
@@ -97,7 +104,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 <div align="justify">
 
 O artefato respeita a maioria dos pontos estruturais analisados, entretanto, alguns poucos problemas foram encontrados:
-- Não são todos os parágrafos que foram justificados.
+- Não são todos os parágrafos que foram justificados;
 - O artefato não possui uma conclusão reunindo os principais pontos retirados no documento.
 
 </div>
@@ -108,9 +115,9 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, alg
 
 Para corrigir com qualidade o artefato analisado, separamos os seguintes pontos:
 - Realização de mais técnicas de coleta de dados;
-- Artefato poderia ser melhor organizado, com informações de mais fácil acesso, poderia utilizar tópicos;
+- Artefato poderia ser melhor organizado, com informações de mais fácil acesso, poderia utilizar tópicos evitar ter duas páginas de documento, pois dificulta a navegação;
 - Análise dos resultados poderia ter aprupado os perfis com caracteristicas semelhantes em uma tabela;
-- Realizar uma conclusão para sintetizar os principais pontos abordados e a uma conclusão dos dados analisados.
+- Realizar uma conclusão para sintetizar os principais pontos abordados e a uma conclusão dos dados analisados e justificar os textos.
 
 </div>
 
@@ -127,7 +134,7 @@ Para corrigir com qualidade o artefato analisado, separamos os seguintes pontos:
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 08/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 09/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 08/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 09/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 
 </div>
