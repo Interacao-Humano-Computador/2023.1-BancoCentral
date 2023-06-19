@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-Este artefato tem como propósito definir as metas de usabilidade, que, por sua vez, estabelecem quais fatores de qualidade de uso devem ser priorizados no projeto, além de como a avaliação ocorrerá durante o processo de design, bem como quais faixas de valores são aceitáveis ou inaceitáveis. As metas de usabilidade que seram tratadas nesse documento são as metas de usbilidade definidas pelo pesquisador Jacob Nielsen. As metas que serão abordadas nesse artefato são fundamentais para que o design de sistemas computacionais mais intuitivos e agradáveis para os usuários dentro da nossa aplicação, as metas também podem ser aplicadas a outros contextos, além do computacional.
+Este artefato tem como propósito definir as metas de usabilidade, que, por sua vez, estabelecem quais fatores de qualidade de uso devem ser priorizados no projeto, além de como a avaliação ocorrerá durante o processo de design, bem como quais faixas de valores são aceitáveis ou inaceitáveis. As metas de usabilidade que seram tratadas nesse documento são as metas de usabilidade definidas pelo pesquisador Jacob Nielsen. As metas que serão abordadas nesse artefato são fundamentais para que o design de sistemas computacionais mais intuitivos e agradáveis para os usuários dentro da nossa aplicação, as metas também podem ser aplicadas a outros contextos, além do computacional.
 
 ## Definição das Metas de Usabilidade 
 
