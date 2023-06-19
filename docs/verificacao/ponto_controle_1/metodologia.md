@@ -34,6 +34,11 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 - **_Boa_** (Possue parte do conteúdo esperado na avaliação).
 - **_Incompleta_** (Passa brevemente pelo conteúdo esperado na avaliação).
 
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/verificacao/entrega_1/metodologia.png" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023).
+
 </div>
 
 | id | Conteúdo | Possui | Qualidade | Observação |
