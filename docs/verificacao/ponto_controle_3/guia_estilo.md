@@ -1,14 +1,14 @@
 <div class="body">
 
-# Verificação do artefato "<nome do artefato a ser verificado>"
+# Verificação do artefato "Guia de Estilo"
 
 ## Introdução
 
 <div align="justify">
 
-A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
+&emsp;&emsp;A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-@ Caso ache necessário pode ser complementado @
+&emsp;&emsp;Nesse documento será verificada a versão '1.1' do artefato <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo.md">Guia de Estilo</a> do projeto do <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/">Banco Central do Brasil</a>.
 
 </div>
 
@@ -16,9 +16,9 @@ A técnica de verificação de artefatos é uma etapa crucial no processo de ava
 
 <div align="justify">
 
-A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf) e mais detalhado na [avaliação de apresentação](<Link da avaliação do ponto de controle>), podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+&emsp;&emsp;A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf), podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
-Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
+&emsp;&emsp;Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
 </div>
 
@@ -28,11 +28,9 @@ Para tal, a verificação será dividida em duas etapas, a primeira sendo a veri
 
 <div align="justify">
 
--> Deve ser descrito o que é esperado encontrar nesse artefato, como seu objetivo por exemplo <-
+&emsp;&emsp;O artefato Guia de Estilo tem como objetivo ser um registro das principais decisões de design tomadas, para que assim, essas não sejam perdidas e, também, para que sejam efetivamente implementadas no produto final.
 
-& O artefato em questão tem como objetivo documentar os relatórios obtidos durante o processo de pesquisa. Visando simplificar a visualização de graficos e tabelas &
-
-Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+&emsp;&emsp;Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possui parte do conteúdo esperado na avaliação).
@@ -40,7 +38,6 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 
 </div>
 
-@ A observação deve ser utilizada para justificar o por que de não estar excelente @
 | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - |
 | <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
@@ -48,9 +45,7 @@ Sendo assim, foi elaborada a tabela 1 abaixo relacionando as especificações id
 | <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
 | ... | ... | ... | ... |
 
--> Completar a tabela com os critérios de avaliação do artefato e verificar se o artefato em questão possue ou não, dando uma nota de qualidade <-
-
-<b>Tabela 1</b>: Relação do conteúdo (Fonte: <Autor da tabela &ALVISSUS, Giovanni&>. 2023).
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: ALVISSUS, Giovanni. 2023).
 
 ### Conclusão
 
