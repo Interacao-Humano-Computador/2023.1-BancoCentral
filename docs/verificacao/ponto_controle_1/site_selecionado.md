@@ -57,6 +57,11 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 
 - **id 1** Redigir um objetivo para o ducumento;
 
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/verificacao/entrega_1/site_selecionado.png" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023).
+
 </div>
 
 ## Critérios gerais
