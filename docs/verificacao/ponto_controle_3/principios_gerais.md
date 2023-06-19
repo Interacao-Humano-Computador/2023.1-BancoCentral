@@ -61,9 +61,11 @@
 
 <div align="justify">
 
-Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
+&emsp;&emsp;Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
 
 </div>
+
+✅ ❌
 
 1. Padronização:
    - [ ] O artefato segue as diretrizes de formatação especificadas.

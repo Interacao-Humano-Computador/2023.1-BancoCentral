@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
+&emsp;&emsp;A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
 &emsp;&emsp;Nesse documento será verificada a versão '1.1' do artefato <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade.md">Metas de Usabilidade</a> do projeto do <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/">Banco Central do Brasil</a>.
 
@@ -61,9 +61,11 @@ A técnica de verificação de artefatos é uma etapa crucial no processo de ava
 
 <div align="justify">
 
-Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
+&emsp;&emsp;Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
 
 </div>
+
+✅ ❌
 
 1. Padronização:
    - [ ] O artefato segue as diretrizes de formatação especificadas.
