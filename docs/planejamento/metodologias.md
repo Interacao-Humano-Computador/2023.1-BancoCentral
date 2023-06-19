@@ -17,7 +17,7 @@ A fim de assegurar uma quantidade consistente e rápida de entregas, a metodolog
 Foi definido o timebox de uma ou duas semanas para cada sprint variado com as necessidades e prazos de entrega, iniciado e finalizado pelas reuniões semanais nas segundas-feira às 20:00.
 
 As reuniões semanais têm como principais objetivos a realização de um  momento de review (_sprint review_) da sprint finalizada e organização das tarefas da sprint que se inicia (_sprint planning_). 
-A atribuição das tarefas foi feita no início do projeto e encontra-se disponível no [cronograma](/docs/planejamento/Cronograma.md). 
+A atribuição das tarefas foi feita no início do projeto e encontra-se disponível no [cronograma](https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/planejamento/cronograma.md). 
 Dessa forma, em cada _sprint planning_ será verificado com cada integrante a possibilidade de realizar a entrega à qual ele foi designado.
 A verificação ocorre com a intenção de tomar as melhore decisões para o grupo sem prejudicar o projeto.
 
@@ -32,7 +32,7 @@ Nós usamos também, o método XP pois, de maneira direta, ele tem como objetivo
 
 O principal inspiração na escolha desse método para nos auxiliar no projeto, já que é uma metodologia
 focada em programação, foi o pareamento para que as entregas sejam feitas com mais qualidade
-e, dessa maneira, mitigar os erros no projeto. Essa qualidade é visível no [cronograma planejado](/docs/planejamento/Cronograma.md).  
+e, dessa maneira, mitigar os erros no projeto. Essa qualidade é visível no [cronograma planejado](https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/planejamento/cronograma_realizado.md).  
 
 Nós fizemos adaptações dentro dessa metodologia ao nosso contexto. De forma que não ficassemos sobrecarregados e possamos usurfruir da melhor maneira possível o que a metodologia tem a oferecer.
 
@@ -58,7 +58,7 @@ Assim, sempre que tiver algum imprevisto com o integrante ou possibilidade de aj
 Além de todos os meios de comunicação seja por mensagens, presencial e tarefas do git, nós nos reunimos toda semana nas segundas-feira às 20 horas na plataforma "Teams", para alinharmos nossas questões, ideias e tarefas acerca do projeto.
 Também organizamos nosso cronograma e planejamos as tarefas de todo o projeto e semanalmente discutimos se estam todos de acordo, verificamos se alguma tarefa está atrasada e se tiver colocamos como preferência para suprir a demanda.
 
-E caso algum participante não possa comparecer à reunião, deixamos ela gravada e postada do YouTube, além de ter a [ata](/docs/atas) da reuniao
+E caso algum participante não possa comparecer à reunião, deixamos ela gravada e postada do YouTube, além de ter a ata da reuniao, como exemplo, [1ª ata](https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/atas/reuniao01.md)
 
 
 ## Políticas
@@ -107,12 +107,14 @@ E políticas de entregas para termos o padrão, assim, conhecendo uma será capa
 
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
+[2] Conventional Commits Disponível em: https://www.conventionalcommits.org/en/v1.0.0/. Acessado em: 20/04/2023
+
 </div>
 
 ## Histórico de Versão
 
-| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
-| :------: | :--------: |:----------------------------: | :-----------: | :-----:                    |
+| Data | Versão | Descrição | Autor | Data de revisão | Revisor |
+|:------:|:--------:|-----------|-------|:---------:|-----------|
 | 20/04/2023 | `1.0` | Criação do documento         |   Igor Penha   | 20/04/2023 | Bruno Ribeiro e Lucas Gobbi|
 | 25/04/2023 | `1.1` | Atualizando a metodologia    |   Igor Penha   | 25/04/2023 | Bruno Ribeiro              |
 | 08/05/2023 | `1.2` | Metodologia finalizada       |   Igor Penha   | 08/05/2023 | Larissa Gomes              |
