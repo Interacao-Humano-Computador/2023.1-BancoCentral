@@ -8,7 +8,7 @@
 
 A técnica de verificação de artefatos é uma etapa crucial no processo de avaliação de documentos, projetos ou produtos desenvolvidos em diversas áreas, incluindo a interação humano-computador. Essa técnica visa analisar minuciosamente o conteúdo, a estrutura e as características específicas de um artefato, a fim de avaliar sua qualidade, conformidade com requisitos e adequação aos objetivos propostos.
 
-Este artefato tem como objetivo realizar a verificação do artefato das Personas do Grupo 3.
+Este documento relata a verificação do artefato [Personas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas) do Grupo 3 da matéria de Interação Humano Computador.
 
 </div>
 
@@ -39,17 +39,13 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | id | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - | - |
 | 1 | As personas definidas a partir dos dados do perfil do usuário | sim | Excelente | As personas foram criadas a partir do perfil de usuário definido pelo grupo |
-| 2 | Identidade: nome e sobrenome | Sim | Excelente | Todas as personas montadas possuem nome e sobrenome |
-| 3 | Idade e dados demográficos | Sim | Excelente | Todas as personas montadas possuem Idade e dados demográficos |
-| 4 | Foto da persona | Sim | Excelente | Todas as personas montadas possuem fotos |
-| 5 | Status: primária, secundária, outro stakeholder ou representa um antiusuário do seu sistema | Sim | Excelente | Todas as personas montadas possuem status |
-| 6 | Objetivos: os objetivos desta persona | Sim | Excelente | Todas as personas montadas possuem objetivos |
-| 7 | Habilidades: especialidade, educação, treinamento e competências específicas. | Sim | Excelente | Todas as personas montadas possuem habilidades |
-| 8 | Tarefas: em linhas gerais, apresenta as tarefas básicas ou críticas que a persona realiza, a frequência, importância e duração dessas tarefas | Sim | Excelente | Todas as personas montadas possuem tarefas |
-| 9 | Relacionamentos: entender com quem a persona se relaciona é importante, pois ajuda a identificar outros stakeholders | Sim | Excelente | Todas as personas montadas possuem relacionamentos |
-| 10 | Requisitos: de que a persona precisa? Inclua citações que ajudam a dar mais vida a essas necessidades | Sim | Excelente | Todas as personas montadas possuem os requisitos |
-| 11 | Expectativas: como a persona acredita que o produto funciona, como ela organiza as informações no seu domínio ou trabalho | Sim | Excelente | Todas as personas montadas possuem suas expectativas |
-| 12 | O elenco de personas e a razão da quantidade de personas é justificada? | Sim | Boa |  |
+| 2 | As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)? | Sim | Excelente | |
+| 3 | As personas apresentam as situações em que seram utilizadas? | Sim | Excelente | Foi identificado que as personas foram utilizadas nos storyboards |
+| 4 | O elenco de personas tem entre 3 a 12 personas? | sim | Excelente |  |
+| 5 | O elenco de personas e a razão da quantidade de personas é justificada? | Sim | boa |  |
+| 6 | O projeto contém a anti-persona e persona primária | sim | Excelente |  |
+
+
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. PENHA, Igor. 2023).
 
 ### Conclusão
@@ -58,7 +54,13 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 
 Com a tabela 1 como referência, pode-se realizar uma breve análise sobre questões problemáticas do artefato:
 
-- id 12, o artefato explica bem sobre a razão da formação das personas, porém a explicação sobre a quantidade escolhida é breve e com fracos detalhes.
+- Em questão de conteúdo o documento de personas foi muito bem realizado.
+- id 5, é explicado de forma breve, mas poderia ser melhor
+
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/verificacao/entrega_2/personas.png" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor. 2023).
 
 </div>
 
@@ -109,7 +111,6 @@ O artefato respeita a maioria dos pontos estruturais analisados, entretanto, ape
 <div align="justify">
 
 Para que o documento ficasse perfeitamente executado de acordo com essa verificação, bastaria:
-- Uma explicação mais condizente com o por quê da escolha de 4 usuários no documento;
 - Adicionar uma conclusão reunindo os principais pontos retirados no documento.
 
 
@@ -128,7 +129,7 @@ Para que o documento ficasse perfeitamente executado de acordo com essa verifica
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 08/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 09/06/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 08/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 09/06/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 
 
 </div>
