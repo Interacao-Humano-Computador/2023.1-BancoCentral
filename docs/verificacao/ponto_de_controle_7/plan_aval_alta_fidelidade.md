@@ -106,7 +106,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 - O item "Critérios de análise dos resultados" deve ser desenvolvido para estabelecer os critérios que serão utilizados para avaliar e interpretar os resultados obtidos na avaliação do protótipo.
 
-- O item "Plano de comunicação" deve ser aprimorado, fornecendo informações sobre como será realizado o teste piloto, quais serão os participantes envolvidos e como será feita a coleta de feedbacks durante essa etapa.
+- O item "Plano de comunicação" deve ser aprimorado, fornecendo informações sobre como será realizado o teste piloto e como será feita a coleta de feedbacks durante essa etapa.
 
 - O item "Plano de ação corretiva" deve ser elaborado, definindo as ações que serão tomadas caso sejam identificadas falhas ou necessidades de melhorias durante a avaliação do protótipo.
 
@@ -128,8 +128,6 @@ Essas correções e ajustes sugeridos visam garantir que o planejamento da avali
 [1] BARROS, André. Design De interação, 1a. Edição, Editora Campus, 2010. Disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html. Acessado em: 06/05/2023.
 
 ## Bibliografia
-
-BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 03 jun. 2023.
 
