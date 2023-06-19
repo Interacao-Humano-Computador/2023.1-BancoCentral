@@ -42,7 +42,7 @@ Foi elaborada a tabela 1 abaixo relacionando as especificações ideais do artef
 | 2 | O artefato possui a metodologia utilizada e sua respectiva descrição?  | Não |  | O documento não explica a metodologia utilizada para a avaliação dos sites. |
 | 3 | O artefato apresenta critérios nos quais foram baseados na hora da escolha do site? | Não |  | Não são apresentados os critérios de escolha do site. |
 | 4 | O artefato apresenta um site para cada membro do grupo? | Sim | Excelente |  |
-| 5 | O artefato apresenta um planejamento de avaliação para cada site selecionado? | Não | Boa | Um dos sites selecionados não possui planejamento de avaliação. |
+| 5 | O artefato apresenta um planejamento de avaliação para cada site selecionado? | Não | Incompleto | Um dos sites selecionados não possui planejamento de avaliação. |
 | 6 | O artefato apresenta uma avaliação para cada site selecionado? | Sim | Excelente |  |
 <p><b>Tabela 1</b>: Relação do conteúdo (Fonte: RIBEIRO, Bruno. 2023)</p>
 
@@ -56,6 +56,11 @@ Com a tabela 1 como referência, pode-se realizar uma breve análise sobre quest
 - **id 2** Apresentar a metodologia utilizada para a avaliação dos sites;
 - **id 3** Listar os critérios de escolha da disciplina para o site do projeto;
 - **id 5** Fazer um planejamento para a avaliação so site _Last.fm_;
+
+Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/verificacao/entrega_1/sites_avaliados.png" width="100%">
+<b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: RIBEIRO, Bruno. 2023).
 
 </div>
 
