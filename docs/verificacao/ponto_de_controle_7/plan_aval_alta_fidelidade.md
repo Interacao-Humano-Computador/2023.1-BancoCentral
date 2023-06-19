@@ -1,6 +1,6 @@
 <div class="body">
 
-# Verificação do artefato "Aspectos Éticos" do Grupo 4
+# Verificação do artefato "Planejamento da avaliação do protótipo de alta fidelidade"
 
 ## Introdução
 
@@ -8,7 +8,7 @@
 
 A verificação busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados. Qualquer documento gerado pode ser verificado, como o código, os testes, os artefatos, por exemplo. A técnica de verificação utilizada é a de inspeção proposta por Fagan. O objetivo de uma inspeção é verificar se o modelo de requisitos está de acordo com a notação do modelo e com o que se espera desse modelo.
 
-Este documento relata a verificação do artefato [Aspéctos Éticos](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Aspectos_Eticos/) do Grupo 4 da matéria de Interação Humano Computador.
+Este documento relata a verificação do artefato [Planejamento da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao?id).
 
 </div>
 
@@ -16,21 +16,19 @@ Este documento relata a verificação do artefato [Aspéctos Éticos](https://in
 
 <div align="justify">
 
-A metodologia para verificar o artefato em questão será baseado, na descrição dos itens fundamentais de uma análise de tarefas descrita por Barbosa e Silva [1]. Para itens gerais, será utilizado principalmente, os critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf), como histórico de versão com autor e revisor, bibliografia, entre outros.
+A metodologia para verificar o artefato em questão será baseado no capítulo 8 do livro de [Design de Interação](https://aprender3.unb.br/pluginfile.php/2523514/mod_resource/content/1/Design%20de%20intera%C3%A7%C3%A3o%20cap%208.pdf)[1]. Para itens gerais, será utilizado principalmente, os critérios de avaliação do artefato, disponível como prévia no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf), como histórico de versão com autor e revisor, bibliografia, entre outros.
 
 Seguindo os passos propostos por Fagan, após a definição do objeto a ser verificado e uma leitura dele (etapas de planejamento e visão geral), foi formulado uma lista de verificação demonstrado na Tabela 1.
 
-| Conteúdo | Possui | Qualidade | Observação |
-| -------- | ------ | --------- | ---------- |
-| É descrito como os aspectos serão utilizados no projeto? |  |  |  |
-| Há termo de consentimento? |  |  |  |
-| E descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? |  |  |  |
-| É seguido o princípio da autonomia? |  |  |  |
-| É seguido o princípio da beneficência? |  |  |  |
-| É seguido o princípio da não maleficência? |  |  |  |
-| É seguido o princípio da justiça e igualdade? |  |  |  |
-| Os objetivos, operadores, métodos e regras de seleção estão claros? |  |  |  |
-| É considerado os aspéctos éticos relacionado aos dados coletados?|  |  |  |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| -- | -------- | ------ | --------- | ---------- |
+| 1 | Requisitos de avaliação |  |  |  |
+| 2 | Métodos de coleta de dados |     |           |            |
+| 3 | Cronograma da avaliação |     |           |            |
+| 4 | Recursos necessários |     |           |            |
+| 5 | Critérios de análise dos resultados |     |           |            |
+| 6 | Plano de comunicação |     |           |            |
+| 7 | Plano de ação corretiva |     |           |            |
 
 <b>Tabela 1</b>: Lista de verificação (Fonte: GOMES, Larissa. 2023).
 
@@ -52,18 +50,23 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 
 </div>
 
-| Conteúdo | Possui | Qualidade | Observação |
-| -------- | :------: | :---------: | ---------- |
-| É descrito como os aspectos serão utilizados no projeto? | Sim | Incompleta | É descrito que os princípios nortearão a coleta de dados e informações com o usuários, mas acredito que poderia ser detalhado um pouco melhor como seria isso |
-| Há termo de consentimento? | Sim | Excelente |  |
-| É descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? | Sim | Incompleta | É descrito no termo de consentimento a permissão para gravar voz e imagem, porém não é descrito que será novamente pedido a permissão antes de iniciar a gravação de fato |
-| É seguido o princípio da autonomia? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
-| É seguido o princípio da beneficência? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
-| É seguido o princípio da não maleficência? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
-| É seguido o princípio da justiça e igualdade? | Sim | Incompleta | É citado no texto, mas não é especificado do que se trata esse princípio |
-| É considerado os aspectos éticos relacionados aos dados coletados?| Não | - | - |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| -- | -------- | ------ | --------- | ---------- |
+| 1 | Requisitos de avaliação | Sim | Excelente |  |
+| 2 | Métodos de coleta de dados | Sim | Excelente |  |
+| 3 | Cronograma da avaliação | Não |  |  |
+| 4 | Recursos necessários | Sim | Incompleto | As entrevistas devem ser feitas de forma presencial. |
+| 5 | Critérios de análise dos resultados | Não |  |  |
+| 6 | Plano de comunicação | Sim | Incompleto | Fala apenas do objetivo do teste piloto e sua importancia, mas não fala como executa-lo |
+| 7 | Plano de ação corretiva | Não |  |  |
 
 <b>Tabela 2</b>: Resultado da Inspeção (Fonte: GOMES, Larissa. 2023).
+
+A seguir o Gráfico 1 mostra uma relação da qualidade do artefato com o esperado na avaliação.
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/nosso_grupo/planejamento_avaliacao_prot_alta_fidelidade/meta-chart.png" alt="Gráfico de qualidade">
+
+<b>Gráfico 1</b>: Resultado da Inspeção representado graficamente (Fonte: GOMES, Larissa. 2023).
 
 ## Critérios gerais
 
@@ -78,30 +81,34 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [✅] A fonte e o tamanho do texto estão consistentes em todo o documento.
    - [✅] As margens e os espaçamentos estão corretos.
    - [✅] O uso de negrito, itálico e sublinhado está adequado e consistente.
-   - [❌] Os parágrafos estão todos justificados.
+   - [✅] Os parágrafos estão todos justificados.
 
 2. Estrutura:
    - [✅] O artefato possui uma introdução clara e contextualizada.
    - [✅] As seções estão organizadas de forma lógica e coerente.
    - [✅] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [❌] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [❌] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [✅] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [✅] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
    - [✅] As citações estão corretamente formatadas de acordo com o estilo especificado.
    - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
    - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
-<b>Observações:</b>
-- Justificar os parágrafos.
-- Seria bom possuir uma conclusão sobre o estudado no artefato.
-- O histórico de versão não possue data de realização da revisão, apenas prevista.
 
 ## Correções e ajustes sugeridos
 
 <div align="justify">
 
-Há muitos erros no documento, para resolver seria necessário um melhor detalhamento dos princípios a serem seguidos, principalmente os citados pelo grupo como a Resolução N°466 de 2012, do Conselho Nacional de Saúde e os códigos de ética ACM e IEEE. Também é necessário descrever de forma mais clara de que forma esses aspectos serão seguidos e utilizados no projeto. 
+- O item "Cronograma da avaliação" deve ser preenchido para fornecer um planejamento claro das atividades relacionadas à avaliação do protótipo de alta fidelidade.
+
+- O item "Recursos necessários" deve ser revisado e complementado, indicando de forma detalhada os recursos necessários para realizar a avaliação, incluindo informações sobre a necessidade de entrevistas presenciais.
+
+- O item "Critérios de análise dos resultados" deve ser desenvolvido para estabelecer os critérios que serão utilizados para avaliar e interpretar os resultados obtidos na avaliação do protótipo.
+
+- O item "Plano de comunicação" deve ser aprimorado, fornecendo informações sobre como será realizado o teste piloto, quais serão os participantes envolvidos e como será feita a coleta de feedbacks durante essa etapa.
+
+- O item "Plano de ação corretiva" deve ser elaborado, definindo as ações que serão tomadas caso sejam identificadas falhas ou necessidades de melhorias durante a avaliação do protótipo.
 
 </div>
 
@@ -109,15 +116,16 @@ Há muitos erros no documento, para resolver seria necessário um melhor detalha
 
 <div align="justify">
 
-O artefato possui uma introdução falando sobre seguir resoluções e códigos de ética, mas no texto não é mostrado de forma clara como isso seria seguido, apenas sobre do que elas se tratam. O mesmo ocorre com os 4 princípios, eles são citados, mas não há uma descrição do que são, nem de como seriam utilizados no projeto. Na ultima linha do parágrafo é dito "Este artefato tem como objetivo apresentar os princípios éticos que nortearão a coleta de informações com usuários do sistema, a fim de garantir a sua confiabilidade e legitimidade.", porém em nenhum momento me seguida esses princípios são apresentados.
+A verificação do artefato "Planejamento da avaliação do protótipo de alta fidelidade" revelou que o documento possui informações importantes para a realização da avaliação, como requisitos de avaliação e métodos de coleta de dados. No entanto, foram identificados alguns pontos que requerem ajustes e complementações, como o cronograma da avaliação, os critérios de análise dos resultados, o plano de comunicação e o plano de ação corretiva.
 
-Dessa forma é possível concluir que há muitos pontos a serem revisados e corrigidos.
+Essas correções e ajustes sugeridos visam garantir que o planejamento da avaliação do protótipo de alta fidelidade seja completo, abrangente e adequado para atingir os objetivos propostos. Com as devidas melhorias, espera-se que o artefato esteja pronto para ser executado de acordo com o planejado, fornecendo informações valiosas para o desenvolvimento do projeto.
 
 </div>
 
+
 ## Referência Bibliográfica
 
-[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 06/05/2023.
+[1] BARROS, André. Design De interação, 1a. Edição, Editora Campus, 2010. Disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html. Acessado em: 06/05/2023.
 
 ## Bibliografia
 
@@ -130,6 +138,6 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 04/06/2023 | `1.0` | Criação do documento | [Larissa Gomes](https://github.com/larigs) | 04/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 19/06/2023 | `1.0` | Criação do documento | [Larissa Gomes](https://github.com/larigs) | 19/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
