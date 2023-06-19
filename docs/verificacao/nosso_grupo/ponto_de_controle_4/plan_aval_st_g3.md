@@ -76,8 +76,11 @@ Sendo assim, foi elaborado 2 tabelas a tabela 1 diretamenta da avaliação elabo
 | 24 | Os storyboards avaliados está relacionado uma especificação do artefato da Análise de Tarefas?[2] | Não | --- | Não foi apresentado os storyboard na fase de planejamento. |
 | 25 | O planejamento apresenta os resultados obtidos pelo teste piloto?[2] | Não | --- | Não foi realizado teste piloto na fase de planejamento, apenas sua data de execução. |
 
-
 <b>Tabela 2</b>: Perguntas realizas, adaptadas ou adicionadas (Fonte: SANTOS, MIZAEL e <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia"> Grupo 2</a>. 2023).
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/entrega_4/pla_st.png" width="100%">
+
+<b>Figura 1</b>: Gráfico referente a tabela 1 e 2 (Fonte: SANTOS, MIZAEL. 2023).
 
 ### Conclusão
 

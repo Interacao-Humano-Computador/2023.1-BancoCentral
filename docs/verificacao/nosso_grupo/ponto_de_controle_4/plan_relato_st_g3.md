@@ -55,6 +55,7 @@ Sendo assim, foi elaborado 2 tabelas a tabela 1 diretamenta da avaliação elabo
 
 <b>Tabela 1</b>: perguntas retiradas de <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia"> Grupo 2</a>(Fonte: <a href="https://github.com/Interacao-Humano-Computador/2023.1-Wikipedia/blob/main/docs/verificacao/pontoControle4/planejamentoRelatoDaAvalia%C3%A7%C3%A3oDoStoryBoard.md">Planejamento do Relato do Stoyboard Grupo 3</a>. 2023).
 
+<p><b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato</p>
 
 | ID | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - | - |
@@ -75,8 +76,11 @@ Sendo assim, foi elaborado 2 tabelas a tabela 1 diretamenta da avaliação elabo
 | 21 | A respeito do orçamento, apresenta como será executado essa tarefa? | Não | --- | Não apresenta como será realizado o orçamento das atividades. |
 | 22 | O artefato explicita que será necessário realizar a apresentação dos storyboards na fase de planejamento da avaliação? | Não | --- | Não foi informado se deve conter os storyboards realizados. |
 
+<b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
 
-<b>Tabela 1</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/entrega_4/relato_st.png" width="100%">
+
+<b>Figura 1</b>: Gráfico referente a tabela 1 e 2 (Fonte: SANTOS, MIZAEL. 2023).
 
 ### Conclusão
 

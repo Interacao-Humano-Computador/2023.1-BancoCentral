@@ -76,6 +76,11 @@ Sendo assim, foi elaborado 2 tabelas a tabela 1 diretamenta da avaliação elabo
 
 <b>Tabela 2</b>: Perguntas realizas, adaptadas ou adicionadas (Fonte: SANTOS, MIZAEL. 2023).
 
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/entrega_4/pla_analise_t.png" width="100%">
+
+<b>Figura 1</b>: Gráfico referente a tabela 1 e 2 (Fonte: SANTOS, MIZAEL. 2023).
+
+
 ### Conclusão
 
 <div align="justify">
