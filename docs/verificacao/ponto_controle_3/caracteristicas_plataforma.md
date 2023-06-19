@@ -38,20 +38,28 @@
 
 </div>
 
-| Conteúdo | Possui | Qualidade | Observação |
-| - | - | - | - |
-| <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| ... | ... | ... | ... |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | É mostrado que o site possui ou não acessibilidade ? | Não |  | Não esta presente no documento se o site possui ou não acessibilidade |
+| 2 | É falado sobre a responsividade da página ? | Sim | Excelente |  |
+| 3 | O artefato apresenta a metodologia utilizada? | Sim | Excelente |  |
+| 4 | São analisadas as limitações da página ? | Sim | Excelente |  |
+| 5 | É verificado se o site oferece ou não um aplicativo mobile ? | Não |  | Não esta presente no documento se o site possui ou não aplicativo |
+| 6 | O artefato apresenta a metodologia utilizada ? | Não |  | O documento não possui metodologia |
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
+
+&emsp;&emsp;Na Figura 1 abaixo esta representado um gráfico que demonstra a distribuição de qualidade dos tópicos esperados no documento.
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/ponto_controle_3/qualidade_caracteristicas_plataforma" alt="Gráfico de qualidade de Características da Plataforma" width=50px>
+
+<b>Figura 1</b>: Gráfico de qualidade de Características da Plataforma (Fonte: BOSI, Rafael. 2023).
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+&emsp;&emsp;O artefato não entregou todo conteúdo esperado de um boa documentação de características da plataforma, deixando de informar se o site possui ou não acessibilidade, se o site possui um aplicativo mobile e deixando de apresentar uma metodologia no documento.
 
 </div>
 
@@ -96,9 +104,13 @@
 
 <div align="justify">
 
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
+&emsp;&emsp;Assim como já comentado anteriormente neste documento, o artefato de Características da Plataforma tem como objetivo relatar as capacidades e restrições da plataforma estudada no projeto. Porém o artefato deixou de apresentar alguns ponto que precisam ser adicionados e pode melhorar alguns outros, como:
 
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
+- Adicionar margens aos parágrafos;
+- Adicionar uma conclusão ao documento;
+- Adicionar um tópico de metodologia;
+- Descrever se o site possui ou não acessibilidade;
+- Adicionar se o site tem ou não um aplicativo mobile.
 
 </div>
 

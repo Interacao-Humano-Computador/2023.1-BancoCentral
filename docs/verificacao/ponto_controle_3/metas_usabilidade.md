@@ -38,20 +38,28 @@
 
 </div>
 
-| Conteúdo | Possui | Qualidade | Observação |
-| - | - | - | - |
-| <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| ... | ... | ... | ... |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | É mostrado quais metas de usabilidade foram utilizadas ? | Sim | Excelente |  |
+| 2 | As metas de usabilidade são explicadas ? | Sim | Excelente |  |
+| 3 | Possui a descrição das metas de usabilidade a serem alcançadas no projeto ? | Sim | Excelente |  |
+| 4 | Explica o motivo para escolha dessas metas de usabilidade ? | Sim | Incompleto | É explicado o motivo, mas de maneira muito implícita |
+| 5 | Metas de usabilidade foram contextualizadas para o Banco Central ? | Sim | Excelente |  |
+| 6 | O documento apresenta o objetivo do artefato de maneira detalhada ? | Sim | Excelente |  |
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
+
+&emsp;&emsp;Na Figura 1 abaixo esta representado um gráfico que demonstra a distribuição de qualidade dos tópicos esperados no documento.
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/ponto_controle_3/qualidade_metas_usabilidade" alt="Gráfico de qualidade de Metas de Usabilidade" width=50px>
+
+<b>Figura 1</b>: Gráfico de qualidade de Metas de Usabilidade (Fonte: BOSI, Rafael. 2023).
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+&emsp;&emsp;O artefato de maneira geral em relação ao conteúdo está muito completo. O único ponto que deixou a desejar foi o de explicar o motivo da escolha dessas metas de usabilidade, que esta presente no documento, porém de maneira muito sutil. 
 
 </div>
 
@@ -100,9 +108,10 @@
 
 <div align="justify">
 
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
+&emsp;&emsp;Como explicado anteriormente neste documento, as metas de usabilidade tem como objetivo estabelecer quais fatores de qualidade de uso devem ser priorizados no projeto e, tanto no quesito conteúdo quanto no quesito padronização, o documento esta muito bom. Porém deixou de entregar dois pontos:
 
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
+- Acrescentar margens aos parágrafos;
+- Adicionar de forma mais explícita a explicação do motivo da escolha das metas de usabilidade escolhidas.
 
 </div>
 

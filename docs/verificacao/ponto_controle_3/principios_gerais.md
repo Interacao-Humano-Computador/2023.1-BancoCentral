@@ -38,20 +38,36 @@
 
 </div>
 
-| Conteúdo | Possui | Qualidade | Observação |
-| - | - | - | - |
-| <Critério 1> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 2> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| <Critério 3> | <Sim/Não> | <Excelente/Boa/Incompleta> | <Observação> |
-| ... | ... | ... | ... |
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | É apresentado como o Princípios Gerais do Projeto será utilizado no projeto ? | Sim | Excelente |  |
+| 2 | O documento demonstra como aplicar os princípios na prática ? | Sim | Excelente |  |
+| 3 | Há descrição para cada um dos princípios ? | Sim | Excelente |  |
+| 4 | O documento deixa claro porquê os princípios devem ser aplicados ? | Sim | Excelente |  |
+| 5 | O documento apresenta a correspondência com as expectativas dos usuários ? | Sim | Excelente |  |
+| 6 | O documento apresenta a simplicidade nas estruturas das tarefas ? | Sim | Excelente |  |
+| 7 | O documento apresenta o equilíbrio entre controle e liberdade do usuário ? | Sim | Boa | Falta de exemplo do site |
+| 8 | O documento apresenta a consistência e padronização ? | Sim | Excelente |  |
+| 9 | O documento apresenta a promoção da eficiência do usuário ? | Sim | Excelente |  |
+| 10 | O documento apresenta antecipação das necessidades do usuário ? | Sim | Excelente |  |
+| 11 | O documento apresenta a visibilidade e reconhecimento ? | Sim | Excelente |  |
+| 12 | O documento apresenta conteúdo relevante e expressão adequada ? | Sim | Boa | Falta de exemplo do site |
+| 13 | O documento apresenta projeto para erros ? | Sim | Boa | Falta de exemplo do site |
+
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
+
+&emsp;&emsp;Na Figura 1 abaixo esta representado um gráfico que demonstra a distribuição de qualidade dos tópicos esperados no documento.
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/ponto_controle_3/qualidade_principios_gerais" alt="Gráfico de qualidade de Principios Gerais" width=50px>
+
+<b>Figura 1</b>: Gráfico de qualidade de Princípios Gerais (Fonte: BOSI, Rafael. 2023).
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão sobre a verificação do artefato em questão, citando o que pode ser melhorado entre outras coisas que achar necessário<-
+&emsp;&emsp;O artefato esta muito bem desenvolvido no que tange o conteúdo esperado em um documento de Princípios Gerais. O que ficou faltando foram alguns exemplos do site do Banco Central em relação a algumas diretrizes.
 
 </div>
 
@@ -100,9 +116,11 @@
 
 <div align="justify">
 
--> Deve ser feita uma breve introdução sobre o artefato em geral <-
+&emsp;&emsp;Assim como descrito anteriormente o documento de Princípios Gerais tem como objetivo listar quais princípios o site avaliado <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>, cumpri ou descumpri. E ficou evidente na verificação feita por esse documento, que o artefato ficou devendo:
 
--> Deve ser listada as melhorias a serem consideradas, além de verificar nas issues do repositório se ja estão a par dos ajustes que devem ser realizados, dando crédito ao grupo caso ele ja tenha notado e se organizado sobre as melhorias a serem feitas <-
+- Exemplo de equilíbrio entre controle e liberdade do usuário de dentro do site;
+- Exemplo de conteúdo relevante e expressão adequada de dentro do site;
+- Exemplo de projeto para erros de dentro do site.
 
 </div>
 
