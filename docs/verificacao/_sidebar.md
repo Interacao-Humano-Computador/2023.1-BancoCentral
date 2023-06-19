@@ -37,6 +37,6 @@
     - [Planejamento do Relato dos Resultados do Protótipo de Papel](verificacao/ponto_controle_5/plan_relato_pp.md)
 - [Ponto de controle 7](#)
 
-    - [Relato Resultados do Protótipo de Papel](verificacao/ponto_controle_5/resultados_at.md)
-    - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](verificacao/ponto_controle_5/plan_aval_pp.md)
-    - [Planejamento do Relato dos Resultados de Alta Fidelidade](verificacao/ponto_controle_5/plan_relato_pp.md)
+    - [Relato Resultados do Protótipo de Papel](verificacao/ponto_controle_5/resultados_pp.md)
+    - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](verificacao/ponto_controle_5/plan_aval_af.md)
+    - [Planejamento do Relato dos Resultados de Alta Fidelidade](verificacao/ponto_controle_5/plan_relato_F.md)

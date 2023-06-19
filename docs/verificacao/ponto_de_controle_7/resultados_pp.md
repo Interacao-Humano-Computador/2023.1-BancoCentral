@@ -37,7 +37,9 @@ Seguindo os passos propostos por Fagan, após a definição do objeto a ser veri
 | 13 | Foram documentados feedbacks dos usuários sobre as interações? |  |  |  |
 | 14 | Após a conclusão do fluxo de tarefas, houve um questionamento para o usuário perguntando sua opinião sobre o protótipo? |  |  |  |
 | 15 | Existe uma lista de melhorias a serem consideradas para o protótipo de alta fidelidade? |  |  |  |
-
+| 16 | Foi relatado a quantidade de participante, como foram selecionados e o motivo da escolha? |  |  |  |
+| 17 | Foi seguido o modelo do planejamento do relato do protótipo de papel? |  |  |  |
+| 18 | Foi seguido o padrão dos documentos de relatos do projeto feitos anteriormente? |  |  |  |
 
 <b>Tabela 1</b>: Lista de verificação (Fonte: GOMES, Larissa. 2023).
 
@@ -55,7 +57,7 @@ A tabela foi elaborada de forma que além de ser definido se o artefato possui o
 
 A verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
-Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1) criado. 
+Após a preparação, a inspeção foi realizada, seguindo o checklist criadod, disponível na Tabela 1 . 
 
 </div>
 
@@ -63,7 +65,7 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 | :-: | :------: | :----: | :-------: | :--------: |
 | 1  | Existe algum cronograma da realização do protótipo? | Não | - |  |
 | 2  | Existe uma tabela com a relação entre o protótipo e seu desenvolvedor? | Não | - |  |
-| 3  | Há algum detalhamento ou referência de onde foi baseado cada fluxo de tarefas prototipado? | Sim | Boa | Poderia existir alguma tabela referenciando um ID à atividade. |
+| 3  | Há algum detalhamento ou referência de onde foi baseado cada fluxo de tarefas prototipado? | Sim | Boa | Poderia existir alguma tabela referenciando um ID à atividade, além de uma referência de como era originalmente no site do BCB. |
 | 4  | Existiu alguma metodoligia para a elaboração dos protótipos? | Sim | Excelente |  |
 | 5  | Todos os fluxos são mostrados de maneira clara, exibindo suas ações e possiveis tarefas? | Não | - |  |
 | 6  | Existiu alguma entrevista para validar os protótipos? | Sim | Excelente |  |
@@ -76,6 +78,9 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 | 13 | Foram documentados feedbacks dos usuários sobre as interações? | Sim | Excelente |  |
 | 14 | Após a conslusão do fluxo de tarefas, houve um questionamento para o usuário perguntando sua opnião sobre o protótipo? | Sim | Excelente |  |
 | 15 | Existe uma lista de melhorias a serem consideradas para o protótipo de alta fidelidade? | Sim | Excelente |  |
+| 16 | Foi relatado a quantidade de participante, como foram selecionados e o motivo da escolha? | Sim | Incompleto | Não tem de onde os usuários foram selecionados para as entrevistas e o motivo da escolha |
+| 17 | Foi seguido o modelo do planejamento do relato do protótipo de papel? | Sim | Incompleto | A maioria dos pontos do planejamento do relato foram abordados no documento, porém alguns não foram seguidos como o planejado |
+| 18 | Foi seguido o padrão dos documentos de relatos do projeto feitos anteriormente? | Não | - | A forma do relato não foi realizada seguindo o padrão do projeto, em decorrência de não terem seguido o documento de planejamento do relato |
 
 <b>Tabela 2</b>: Resultado da Inspeção (Fonte: GOMES, Larissa. 2023).
 
@@ -95,7 +100,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 </div>
 
 1. Padronização:
-   - [✅] O artefato segue as diretrizes de formatação especificadas.
+   - [❌] O artefato segue as diretrizes de formatação especificadas.
    - [✅] A fonte e o tamanho do texto estão consistentes em todo o documento.
    - [✅] As margens e os espaçamentos estão corretos.
    - [✅] O uso de negrito, itálico e sublinhado está adequado e consistente.
@@ -117,7 +122,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 <div align="justify">
 
-Seria interessante adicionar uma relação entre as telas do protótipo ao invés de apenas adiciona-las ao documento, além de organizarem melhor a disposição das imagens pois ocupa grande parte do artefato e dificulta a navegação. Também adicionar de onde os usuários foram selecionados para as entrevistas e o motivo da escolha.
+Seria interessante adicionar uma relação entre as telas do protótipo, as tarefas que geraram elas e as telas do site do BCB. Também é necessário organizar melhor a disposição das imagens, pois ocupa grande parte do artefato e dificulta a navegação. Falta adicionar de onde os usuários foram selecionados para as entrevistas e o motivo da escolha. Por fim, o documento precisa ser reestruturado para seguir o padrão estabelecido no artefato de planejamento do relato do protóripo de papel.
 
 </div>
 
@@ -125,7 +130,7 @@ Seria interessante adicionar uma relação entre as telas do protótipo ao invé
 
 <div align="justify">
 
-De modo geral o artefato ficou bem documentado com informações muito relevantes para a evolução do projeto, faltaram apenas alguns detalhes e organização das ideias apresentadas.
+De modo geral o artefato ficou bem documentado com informações muito relevantes para a evolução da parte final do projeto, faltaram apenas alguns detalhes e organização das ideias apresentadas, reestruturando o modelo do artefato criado.
 
 </div>
 
@@ -135,9 +140,7 @@ De modo geral o artefato ficou bem documentado com informações muito relevante
 
 ## Bibliografia
 
-BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 18/06/2023.
-
-ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 18/06/2023.
+[1] ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: <https://www.abnt.org.br/>. Acesso em: 18/06/2023.
 
 
 ## Histórico de Versões
