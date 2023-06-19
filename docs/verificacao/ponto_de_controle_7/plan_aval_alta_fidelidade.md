@@ -57,8 +57,8 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist (Tabela 1
 | 3 | Cronograma da avaliação | Não |  |  |
 | 4 | Recursos necessários | Sim | Incompleto | As entrevistas devem ser feitas de forma presencial. |
 | 5 | Critérios de análise dos resultados | Não |  |  |
-| 6 | Plano de comunicação | Sim | Incompleto | Fala apenas do objetivo do teste piloto e sua importancia, mas não fala como executa-lo |
-| 7 | Plano de ação corretiva | Não |  |  |
+| 6 | Plano de comunicação | Sim | Incompleto | Fala apenas do objetivo do teste piloto e sua importancia, mas não fala como executa-lo. |
+| 7 | Plano de ação corretiva | Não | - | Não é descrito como será feita a correção dos erros encontradas no protótipo. |
 
 <b>Tabela 2</b>: Resultado da Inspeção (Fonte: GOMES, Larissa. 2023).
 
