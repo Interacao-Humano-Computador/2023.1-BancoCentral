@@ -83,7 +83,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 2. Estrutura:
    - [✅] O artefato possui uma introdução clara e contextualizada.
-   - [✅]] As seções estão organizadas de forma lógica e coerente.
+   - [✅] As seções estão organizadas de forma lógica e coerente.
    - [✅] Os títulos e subtítulos estão bem definidos e formatados corretamente.
    - [❌] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
    - [❌] O artefato possui histórico de versão com autor e revisor com as respectivas datas.

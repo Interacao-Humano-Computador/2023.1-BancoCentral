@@ -65,49 +65,30 @@
 
 </div>
 
-✅ ❌
-
 1. Padronização:
-   - [ ] O artefato segue as diretrizes de formatação especificadas.
-   - [ ] A fonte e o tamanho do texto estão consistentes em todo o documento.
-   - [ ] As margens e os espaçamentos estão corretos.
-   - [ ] O uso de negrito, itálico e sublinhado está adequado e consistente.
-   - [ ] Os parágrafos estão todos justificados.
+   - [✅] O artefato segue as diretrizes de formatação especificadas.
+   - [✅] A fonte e o tamanho do texto estão consistentes em todo o documento.
+   - [❌] As margens e os espaçamentos estão corretos.
+   - [✅] O uso de negrito, itálico e sublinhado está adequado e consistente.
+   - [✅] Os parágrafos estão todos justificados.
 
 2. Estrutura:
-   - [ ] O artefato possui uma introdução clara e contextualizada.
-   - [ ] As seções estão organizadas de forma lógica e coerente.
-   - [ ] Os títulos e subtítulos estão bem definidos e formatados corretamente.
-   - [ ] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
-   - [ ] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
+   - [✅] O artefato possui uma introdução clara e contextualizada.
+   - [✅] As seções estão organizadas de forma lógica e coerente.
+   - [✅] Os títulos e subtítulos estão bem definidos e formatados corretamente.
+   - [❌] O artefato possui uma conclusão que sintetiza os principais pontos abordados.
+   - [✅] O artefato possui histórico de versão com autor e revisor com as respectivas datas.
 
 3. Referências:
-   - [ ] As citações estão corretamente formatadas de acordo com o estilo especificado.
-   - [ ] Todas as referências citadas no texto estão presentes na lista de referências.
-   - [ ] As referências estão formatadas corretamente, seguindo o estilo especificado.
-
-@ caso exista tabela no artefato @
-4. Tabelas:
-   - [ ] As tabelas possuem legenda.
-   - [ ] As tabelas são chamadas no texto.
-   - [ ] 
-
-@ caso exista figura no artefato @
-5. Figuras:
-   - [ ] As figuras possuem legenda.
-   - [ ] As figuras são chamadas no texto.
-
-6. <Outros critérios específicos>:
-   - [ ] -> Inclua aqui outros critérios específicos que devem ser verificados no artefato. <-
-
-<b>Observações:</b>
-- -> Insira aqui quaisquer observações relevantes sobre a verificação realizada. <-
+   - [✅] As citações estão corretamente formatadas de acordo com o estilo especificado.
+   - [✅] Todas as referências citadas no texto estão presentes na lista de referências.
+   - [✅] As referências estão formatadas corretamente, seguindo o estilo especificado.
 
 ### Conclusão
 
 <div align="justify">
 
--> Deve ser feita uma breve conclusão de como se encontra a qualidade do documento em relação aos tópicos gerais avaliados <-
+&emsp;&emsp;O documento cumpriu todos os critérios gerais analisados, exceto dois, pois o artefato desenvolvido não apresenta margens nos parágrafos, apesar de os demais espaçamentos estarem corretos e o documento não possui uma conclusão sintetizando o que foi descoberto com o documento.
 
 </div>
 
