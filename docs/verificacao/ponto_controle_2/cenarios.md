@@ -45,6 +45,7 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
 | 3 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | Sim | Excelente |  |
 | 4 | A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais? | Sim | Incompleto |  |
 | 5 | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Incompleto | O artefato representa seis funcionalidades por parte do usuário. |
+
 <p> <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. 2023). </p>
   
 ## Conclusão
@@ -60,6 +61,7 @@ Embora o artefato esteja, em sua maior parte, completo em relação às expectat
 Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tabela 1:
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/verificacao/entrega_2/cenarios.png" width="100%">
+
 <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor. 2023).
 
 </div>
