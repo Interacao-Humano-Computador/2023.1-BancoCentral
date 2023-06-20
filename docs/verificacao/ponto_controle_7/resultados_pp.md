@@ -87,7 +87,7 @@ Após a preparação, a inspeção foi realizada, seguindo o checklist criadod, 
 
 A seguir o Gráfico 1 mostra uma relação da qualidade do artefato com o esperado na avaliação.
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/nosso_grupo/ponto_de_controle_7/relato_prototipo_papel/grafico_qualidade.png" alt="Gráfico de qualidade">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/nosso_grupo/relato_prototipo_papel/grafico_qualidade.png" alt="Gráfico de qualidade">
 
 <b>Gráfico 1</b>: Resultado da Inspeção representado graficamente (Fonte: GOMES, Larissa. 2023).
 

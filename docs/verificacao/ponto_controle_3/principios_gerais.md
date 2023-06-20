@@ -59,7 +59,7 @@
 
 &emsp;&emsp;Na Figura 1 abaixo esta representado um gráfico que demonstra a distribuição de qualidade dos tópicos esperados no documento.
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/ponto_controle_3/qualidade_principios_gerais" alt="Gráfico de qualidade de Principios Gerais" width=50px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/ponto_controle_3/qualidade_principios_gerais.png" alt="Gráfico de qualidade de Principios Gerais">
 
 <b>Figura 1</b>: Gráfico de qualidade de Princípios Gerais (Fonte: BOSI, Rafael. 2023).
 

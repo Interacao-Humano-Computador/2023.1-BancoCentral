@@ -51,7 +51,7 @@
 
 &emsp;&emsp;Na Figura 1 abaixo esta representado um gráfico que demonstra a distribuição de qualidade dos tópicos esperados no documento.
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/ponto_controle_3/qualidade_metas_usabilidade" alt="Gráfico de qualidade de Metas de Usabilidade" width=50px>
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/verificacao/ponto_controle_3/qualidade_metas_usabilidade.png" alt="Gráfico de qualidade de Metas de Usabilidade">
 
 <b>Figura 1</b>: Gráfico de qualidade de Metas de Usabilidade (Fonte: BOSI, Rafael. 2023).
 

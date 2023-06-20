@@ -57,10 +57,19 @@ A apresentação da sexta etapa, do ponto de controle 6.1, pode ser vista no [V�
 ## Apresentação 7
 A apresentação da sétima etapa, do ponto de controle 7, pode ser vista no [Vídeo 7](https://youtu.be/VLpQavZ8dKE).
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/VLpQavZ8dKE" title="Ponto de controle 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/VLpQavZ8dKE" title="Ponto de controle 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 7</b>: Sétima apresentação (Fonte: Grupo 3. 2023). </p>
 </div>
+
+## Apresentação 8
+A apresentação da oitava etapa, do ponto de controle 6.2, pode ser vista no [Vídeo 8](https://youtu.be/n57UeyLkTEg).
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/n57UeyLkTEg" title="Ponto de controle 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 8</b>: Oitava apresentação (Fonte: Grupo 3. 2023). </p>
+</div>
+
 
 ## Bibliografia
 [1] YouTube. Disponível em: [YouTube](https://www.youtube.com). Acesso em: 24 de Abril de 2023.
@@ -76,5 +85,6 @@ A apresentação da sétima etapa, do ponto de controle 7, pode ser vista no [V�
 | 29/05/2023 | `5.0`  | Adição da apresentação 5 | [Larissa Gomes](https://github.com/larigs) | 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 | 05/06/2023 | `6.0`  | Adição da apresentação 6 | [Larissa Gomes](https://github.com/larigs) | 05/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 | 12/06/2023 | `7.0`  | Adição da apresentação 7 | [Larissa Gomes](https://github.com/larigs) | 12/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
+| 19/06/2023 | `8.0`  | Adição da apresentação 7 | [Larissa Gomes](https://github.com/larigs) | 19/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 
 </div>

@@ -16,7 +16,7 @@
     - [Personas](verificacao/ponto_controle_2/personas.md)
     - [Cenários](verificacao/ponto_controle_2/cenarios.md)
     - [Aspectos éticos](verificacao/ponto_controle_2/aspectos_eticos.md)
-    - [Análise de Tarefas](verificacao/ponto_controle_2/analise_tarefas.md)
+    - [Análise de Tarefas](verificacao/ponto_controle_2/analise_tarefa.md)
 - [Ponto de controle 3](#)
 
     - [Características da Plataforma](verificacao/ponto_controle_3/caracteristicas_plataforma.md)
@@ -38,5 +38,5 @@
 - [Ponto de controle 7](#)
 
     - [Relato Resultados do Protótipo de Papel](verificacao/ponto_controle_7/resultados_pp.md)
-    - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](verificacao/ponto_controle_7/plan_aval_af.md)
-    - [Planejamento do Relato dos Resultados de Alta Fidelidade](verificacao/ponto_controle_7/plan_relato_af.md)
+    - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](verificacao/ponto_controle_7/plan_aval_alta_fidelidade.md)
+    - [Planejamento do Relato dos Resultados de Alta Fidelidade](verificacao/ponto_controle_7/plan_relato_alta_fidelidade.md)

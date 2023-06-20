@@ -137,6 +137,6 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| - | `-` | - | [-](-) | - | [-](-) |
+| 19/06/2023 | `1.0` | Criação do documento | [Giovanni Alvissus](github.com/giovanni1106) | 19/06/2023 | [Rafael Bosi](github.com/strangeunity28) |
 
 </div>
