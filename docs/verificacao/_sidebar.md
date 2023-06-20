@@ -4,7 +4,6 @@
 - [Template de verificação](verificacao/template.md)
 - [Ponto de controle 1](#)
 
-    - [Aspectos éticos](verificacao/ponto_controle_1/aspectos_eticos.md)
     - [Cronograma](verificacao/ponto_controle_1/cronograma.md)
     - [Ferramentas](verificacao/ponto_controle_1/ferramentas.md)
     - [Metodologias](verificacao/ponto_controle_1/metodologia.md)
@@ -20,6 +19,7 @@
     - [Análise de Tarefas](verificacao/ponto_controle_2/analise_tarefas.md)
 - [Ponto de controle 3](#)
 
+    - [Características da Plataforma](verificacao/ponto_controle_3/caracteristicas_plataforma.md)
     - [Princípios Gerais do Projeto](verificacao/ponto_controle_3/principios_gerais.md)
     - [Metas de Usabilidade](verificacao/ponto_controle_3/metas_usabilidade.md)
     - [Guia de Estilo](verificacao/ponto_controle_3/guia_estilo.md)
@@ -37,6 +37,6 @@
     - [Planejamento do Relato dos Resultados do Protótipo de Papel](verificacao/ponto_controle_5/plan_relato_pp.md)
 - [Ponto de controle 7](#)
 
-    - [Relato Resultados do Protótipo de Papel](verificacao/ponto_controle_5/resultados_pp.md)
-    - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](verificacao/ponto_controle_5/plan_aval_af.md)
-    - [Planejamento do Relato dos Resultados de Alta Fidelidade](verificacao/ponto_controle_5/plan_relato_F.md)
+    - [Relato Resultados do Protótipo de Papel](verificacao/ponto_controle_7/resultados_pp.md)
+    - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](verificacao/ponto_controle_7/plan_aval_af.md)
+    - [Planejamento do Relato dos Resultados de Alta Fidelidade](verificacao/ponto_controle_7/plan_relato_af.md)
