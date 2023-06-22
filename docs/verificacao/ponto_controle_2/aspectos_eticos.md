@@ -10,11 +10,9 @@ A verificação busca garantir que os produtos de trabalho selecionados cumpram 
 
 Este documento relata a verificação do artefato [Aspéctos Éticos](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos) do Grupo 3 da matéria de Interação Humano Computador.
   
-</div>
 
 ## Metodologia
-  
-<div align="justify">
+
   
 A metodologia para verificar o artefato em questão será baseado, principalmente, nos critérios de avaliação do artefato, disponível como prévia na [aula 10 - professora Milene e Maurício](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
   
@@ -22,13 +20,11 @@ Para tal, será utilizada a técnica de Análise estática, essa técnica consis
   
 Desse modo, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
-</div>
   
 ## Conteúdo esperado
   
 ### Verificação
   
-<div align="justify">
   
 A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do artefato e a qualidade da entrega, na qual a qualidade é baseada na seguinte classificação:
   
@@ -36,7 +32,6 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   - **_Boa_** (possue parte do conteúdo esperado na avaliação)
   - **_Imcompleta_** (passa brevemente pelo conteúdo esperado na avaliação)
  
-</div>
   
 | id | Conteúdo | Possue | Qualidade | Observação |
 | -- | -------- | :----: | :-------: | ---------- |
@@ -49,7 +44,6 @@ A tabela 1 foi elaborada com intuito de relacionar as especificações ideais do
   
 ## Conclusão
   
-<div align="justify">
   
 Embora o artefato esteja, em sua maior parte, completo em relação às expectativas, algumas pequenas ressalvas são necessárias:
   
@@ -62,17 +56,13 @@ Abaixo, segue um gráfico (figura 1) representativo das respostas obtidas na tab
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/master/docs/img/verificacao/entrega_2/aspectos_eticos.png" width="100%">
 <b>Figura 1</b>: Gráfico referente a tabela 1 (Fonte: PENHA, Igor. 2023).
 
-</div>
   
 ## Critérios gerais
   
 ### Verificação
   
-<div align="justify">
   
 Para verificação dos critérios gerais foi elaborada a lista abaixo com os tópicos principais de concordância do artefato baseadas tanto nos critérios gerais do plano de ensino que todo artefato deve possuir quanto em normas ABNT.
-
-</div>
   
 1. Padronização:
   - [X] O artefato segue as diretrizes de formatação especificadas.
@@ -99,15 +89,12 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
   
 ## Conclusão
   
-<div align="justify">
   
 O artefato atendeu com sucesso às regras determinadas pela ABNT e aos critérios de aceitação da disciplina, com exceção da realização da conclusão para o artefato.
 
-</div>
   
 ## Correções e ajustes sugeridos
   
-<div align="justify">
   
 Algumas correções sugeridas são:
   

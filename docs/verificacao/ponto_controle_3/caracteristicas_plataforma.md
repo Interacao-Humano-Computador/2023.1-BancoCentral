@@ -42,7 +42,7 @@
 | - | - | - | - | - |
 | 1 | É mostrado que o site possui ou não acessibilidade ? | Não |  | Não esta presente no documento se o site possui ou não acessibilidade |
 | 2 | É falado sobre a responsividade da página ? | Sim | Excelente |  |
-| 3 | O artefato apresenta a metodologia utilizada? | Sim | Excelente |  |
+| 3 | Existe a identificação de pontos negativos do sistema? | Sim | Excelente |  |
 | 4 | São analisadas as limitações da página ? | Sim | Excelente |  |
 | 5 | É verificado se o site oferece ou não um aplicativo mobile ? | Não |  | Não esta presente no documento se o site possui ou não aplicativo |
 | 6 | O artefato apresenta a metodologia utilizada ? | Não |  | O documento não possui metodologia |

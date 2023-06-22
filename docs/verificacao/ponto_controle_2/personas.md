@@ -16,7 +16,7 @@ Este documento relata a verificação do artefato [Personas](https://interacao-h
 
 <div align="justify">
 
-A metodologia para verificar o artefato em questão será baseado, principalmente, na apresentação [Organização do espaço de problema](https://aprender3.unb.br/pluginfile.php/2523447/mod_resource/content/4/Apresentacao%20cap06.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
+A metodologia para verificar o artefato em questão será baseado, principalmente, no livro da Simone Barbosa [Interação Humano-Computador e Experiência do Usuário](https://aprender3.unb.br/pluginfile.php/2523062/mod_resource/content/2/ihc-ux-%20Personas.pdf) e na apresentação [Organização do espaço de problema](https://aprender3.unb.br/pluginfile.php/2523447/mod_resource/content/4/Apresentacao%20cap06.pdf) podendo ser complementado pelo documento de avaliação entregue pelos monitores da disciplina sobre a qualidade do artefato. Além de também ser verificado critérios gerais, como a padronização conforme as diretrizes do repositório.
 
 Para tal, a verificação será dividida em duas etapas, a primeira sendo a verificação do conteúdo esperado no artefato e a segunda questões de padronização, estrutura, referências, entre outras.
 
