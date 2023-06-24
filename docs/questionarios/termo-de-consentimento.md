@@ -7,6 +7,7 @@
 ## Título da Pesquisa: Teste de usabilidade com protótipo de alta fidelidade do Banco Central do Brasil
 
 Pesquisador Responsável: [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa)
+
 Instituição: Universidade de Brasília
 
 Prezado(a) Participante,
