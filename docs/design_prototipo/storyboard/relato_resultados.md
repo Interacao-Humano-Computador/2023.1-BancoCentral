@@ -242,7 +242,7 @@ Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de 
 | 5 | As informações apresentadas no storyboard são compreensíveis? | [5] Sim | Verificar o entendimento |
 | 6 | Houve dificuldade ao realizar a interação com o storyboard? | [5] Não | Verificar usabilidade |
 | 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [4] Sim <br> [1] Não sei responder | Verificar usabilidade |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | [5] Sim | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard? | [5] Sim | Verificar usabilidade |
 | 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | [3] Sim <br> [2] Não sei responder | Verificar a coerência |
 | 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [5] Sim | Verificar coerência |
 | 11 | O storyboard é adequado ao público-alvo do produto? | [4] Sim <br> [1] Não sei responder | Verificar a adequação |
@@ -251,6 +251,23 @@ Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de 
 <div style="text-align: center">
     <p> <b>Tabela 6: </b> Dados organizados (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
+
+A seguir, seguem os gráficos (figura 1 a 3) representativo das respostas dos usuários para auxiliar a análise quantitativa:
+
+Grafico das perguntas relacionadas se os storyboard condizem com a realidade, se são satisfatórios e se são compreensíveis:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_1.png" width="100%">
+<b>Figura 1</b>: Gráfico 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
+Grafico se os o entrevistado teve dificuldade com as interações:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_2.png" width="100%">
+<b>Figura 1</b>: Gráfico 2 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
+Grafico das perguntas relacionadas se os storyboard estavam bem feitos com todas as informações necessárias e se ele se adequa aos usuários do Banco Central:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_3.png" width="100%">
+<b>Figura 1</b>: Gráfico 3 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Análise Quantitativa
 Foram analisados, a partir dos dados obtidos na tabela 6, que os storyboards tiveram sucesso em sua interação com o entrevistado, pois, em perguntas chave como as de número 1, 5 e 10, a resposta majoritária foi "Sim". Tendo isso em vista, algumas perguntas podem melhorar sua clareza ao entrevistado, entre elas as de número 7 e 9, tendo em vista que houveram algumas respostas de "Não sei responder".
@@ -320,5 +337,6 @@ A partir da realização das entrevistas, conseguimos ter um feedback dos usuár
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 26/05/2023 | `1.0`  | Criação do molde do documento de relato de storyboard | [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 27/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 26/06/2023 | `2.0`  | Correções do artefato após verificação | [Igor Penha](https://github.com/igorpenhaa)  | 28/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 </div>

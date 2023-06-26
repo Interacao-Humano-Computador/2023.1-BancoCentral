@@ -10,7 +10,7 @@ O storyboard consiste em quadros de desenhos em sequência que representam uma h
 
 ## Metodologia
 
-A metodologia a ser empregada para obtenção dos resultados será a entrevista. A entrevista terá um roteiro a ser seguido, ele foi criado com o objetivo de extrair o máximo de informação possível do entrevistado. As tarefas e funcionalidades ilustradas nos Storyboards são o alvo da investigação, de forma que a análise de tais tarefas e funcionalidades coincidam com o sistema avaliado. 
+A metodologia a ser empregada para obtenção dos resultados foi o framework DECIDE e as entrevistas dos usuários. A entrevista terá um roteiro a ser seguido, ele foi criado com o objetivo de extrair o máximo de informação possível do entrevistado. As tarefas e funcionalidades ilustradas nos Storyboards são o alvo da investigação, de forma que a análise de tais tarefas e funcionalidades coincidam com o sistema avaliado. 
 
 A partir daí temos que os critérios a serem avaliados são:
 
@@ -23,15 +23,15 @@ A partir daí temos que os critérios a serem avaliados são:
 - Lista de sugestões de melhorias;
 
 
-## Objetivo
+## Foco do Artefato
 
-O objetivo de relatar como foi realizada a avaliação é com a finalidade de quais perguntas, qual a ferramenta utilizada para a realização da entrevista, documentar os dados coletados a partir da entrevista e mostrar os resultados obtidos.
+O artefato tem como foco realizar um planejamento do relato de como foi realizada a avaliação é com a finalidade de quais perguntas, qual a ferramenta utilizada para a realização da entrevista, documentar os dados coletados a partir da entrevista e mostrar os resultados obtidos.
 
-O objetivo da avaliação descreve o que se pretende alcançar com o storyboard. Pode envolver identificar problemas de usabilidade, avaliar a eficácia de um sistema, obter feedback dos usuários ou propor melhorias no design de uma interface. O objetivo deve ser específico, mensurável e relevante para o contexto do projeto.
+O foco da avaliação descreve o que se pretende alcançar com o storyboard. Pode envolver identificar problemas de usabilidade, avaliar a eficácia de um sistema, obter feedback dos usuários ou propor melhorias no design de uma interface. O objetivo deve ser específico, mensurável e relevante para o contexto do projeto.
 
 Ao estabelecer o objetivo e o escopo da avaliação no planejamento do relato do storyboard, é possível alinhar as expectativas, definir os critérios de sucesso e garantir que a coleta de dados. Isso contribui para a eficácia e relevância do relatório final, fornecendo informações úteis e acionáveis para o desenvolvimento do sistema ou interface em questão.
 
-Assim o objetivo geral é que os avaliadores elaborarem um relatório a partir da análise dos resultados do storyboard, da mesma maneira deve encontrar utilidades para serem melhoradas. Além de conter os objetivos da avaliação juntamente com uma verificação de se esses objetivos foram alcançados.
+Assim, de forma geral, é necessário que os avaliadores elaborarem um relatório a partir da análise dos resultados do storyboard, da mesma maneira deve encontrar utilidades para serem melhoradas. Além de conter os objetivos da avaliação juntamente com uma verificação de se esses objetivos foram alcançados e documentar a experiência dos participantes com os storyboards.
 
 
 ### Participante
@@ -44,11 +44,12 @@ Os participantes devem ser os avaliador(es) e o entrevistado.
 ### Tarefa
 No planejamento do relato do storyboard utilizando o método de entrevistas, é importante considerar os seguintes aspectos:
 
-1. **Roteiro de entrevista**: Crie um roteiro de entrevista estruturado que inclua uma série de perguntas específicas relacionadas aos storyboard. As perguntas devem ser claras, objetivas e direcionadas para obter informações relevantes para a análise.
+1. **Roteiro de entrevista**: Crie um roteiro de entrevista estruturado que inclua uma série de perguntas específicas relacionadas aos storyboard que devem ser apresentados e avaliados pelos entrevistados. As perguntas devem ser claras, objetivas e direcionadas para obter informações relevantes para a análise.
 2. **Abordagem da entrevista**: Decida se as entrevistas serão individuais ou em grupo, dependendo do contexto e dos recursos disponíveis. As entrevistas individuais podem permitir uma exploração mais aprofundada das percepções e experiências dos participantes, enquanto as entrevistas em grupo podem facilitar a discussão e o compartilhamento de ideias entre os participantes.
 3. **Protocolo de registro**: Determine a forma como as entrevistas serão registradas, seja por meio de gravações, anotações ou ambos. Certifique-se de obter consentimento dos participantes para gravar as entrevistas, se aplicável, e garanta a confidencialidade e anonimato dos dados coletados.
 4. **Análise dos dados**: Planeje como os dados das entrevistas serão analisados. Isso pode envolver a identificação de temas recorrentes, codificação das respostas dos participantes ou utilização de técnicas de análise qualitativa ou quantitativa, dependendo dos objetivos da análise de tarefas.
 5. **Considerações éticas**: Esteja atento às questões éticas relacionadas às entrevistas, como o consentimento informado dos participantes, a privacidade e a proteção dos dados pessoais. Cumpra com as regulamentações e políticas relevantes de proteção de dados.
+6. **Teste Piloto**: Antes da realização das entrevistas é de suma importância que seja feito um teste piloto pelos entrevistadores para ter certeza a todas as ferramentas que serão utilizadas, como, gravação, áudio, se consegue mostrar o termo de consentimento, se os storyboard já estão preparados para serem apresentados ao úsuario.
 
 Além disso, para fornecer mais detalhes sobre o andamento do projeto, será incluído o cronograma executado. Com o objetivo de padronizá-lo, apresentaremos na Tabela 1 um exemplo de um item de cronograma.
 
@@ -66,6 +67,10 @@ Nessa etapa os avaliadores irão verificar e interpretar os resultados alcançad
 ## Sugestões
 
 Todas sugestões dadas pelos entrevistados, sejam elas de melhorias e/ou correções de problemas existentes, devem ser listadas e melhoradas pelo entrevistador em caso de necessidade.
+
+## Orçamento
+
+Deve estar presente no artefato de relato, todo o orçamento que foi necessário para a realização dos storyboards, dos gasto com materiais que foram utilizados para acrescentar ao projeto ou dos gasto mais gerais que não envolviam materiais, porém que ocorreu gastos.
 
 ## Análise dos dados coletados
 
@@ -94,5 +99,6 @@ O documento objetiva um planejamento de relato dos storyboard, traz quais pergun
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 20/05/2023 | `1.0`  | Criação da documento de planejamento do relato de storyboard | [Igor Penha](https://github.com/igorpenhaa)  | 21/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 | 21/05/2023 | `1.1`  | Detalhamento do documento com mais informações sobre com deve ser o relato | [Igor Penha](https://github.com/igorpenhaa)  | 21/05/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 26/06/2023 | `2.0`  | Correções do artefato após verificação | [Igor Penha](https://github.com/igorpenhaa)  | 28/06/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 
 </div>
