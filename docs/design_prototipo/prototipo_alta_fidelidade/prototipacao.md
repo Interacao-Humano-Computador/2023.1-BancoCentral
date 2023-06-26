@@ -3,9 +3,14 @@
 # Desenvolvimento do Protótipo de Alta Fidelidade
 
 ## Introdução
+
+
 <div align="justify">
-<p>Em um protótipo de alta fidelidade um design realiza a construção de uma interface fidedigna com a esperada pelas partes interessadas, nessa etapa é crucial a participação do usuário a fim deste realizar uma avaliação sobre o design final elaborado pela equipe[1]</p>
-<p>Este documento tem como objetivo de apresentar como foi realizada a prototipação de alta fidelidade e como é seu funcionamento. Além de apresentar também os objetivos, motivações das perguntas realizadas sobre os fluxos de tarefaz realizadas pelos usuários participantes da atividade.</p>
+
+O objetivo deste documento é apresentar o desenvolvimento do protótipo de alta fidelidade para o projeto do Banco Central do Brasil. O protótipo de alta fidelidade é uma representação visual e interativa do design proposto, que busca simular a experiência final do usuário com o sistema. 
+
+Este documento descreve a metodologia utilizada, os fluxos de tarefa prototipados e os objetivos de cada tarefa. Além disso, são apresentados os fluxos esperados para cada uma delas.
+
 </div>
 
 ## Metodologia
@@ -13,11 +18,8 @@
 <p> Para realização do protótipo de alta fidelidade foi utilizado o artefato <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md">Guia de Estilo</a>, pois segundo Simone Barbosa e Bruno Diniz [1], um guia de estilo reune os princípios e as diretrizes adotados em um projeto. Tratando-se de um registro das principais decisões de design tomadas. Desta forma a partir de estudos realizados em cima do design e funcionalidades do site do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>[2] foi contruído o protótipo em questão, levando em conta os elementos de interface, iteração e ação encontrados, um maior detalhamento sobre estes elementos pode ser encontrado em <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md">Guia de Estilo</a>.</p>
 <p>O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/">Figma</a>, ferramenta que tem como objetivo auxiliar no desenvolvimento de telas, ideal para prototipação de alta fidelidade. O projeto de design realizado conta com 5 fluxos de tarefas e 39 telas ao todo, onde cada fluxo de tarefa representa uma atividade que o usuário deve realizar, a quais foram propostas em <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao.md">Planejamento do Protótipo de Alta Fidelidade</a></p>
 
-### Motivações
-<div align="justify">
-<p>A escolha de 5 fluxos de tarefas foi motivada pelas 7 tarefas descritas em <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao.md">Planejamento do Protótipo de Alta Fidelidade</a>, a qual das 7, foram selecionadas apenas 5, tal exclusão de duas atividades foi encorajada pela similaridade entre essas tarefas com as demais.</p>
 
-#### Tarefas realizadas
+## Tarefas realizadas
 <p>As tarefas protótipadas selecionadas pela equipe foram:</p>
 <ul>
 <li>Consultar Valores a receber do estado.
