@@ -9,7 +9,7 @@
 
 O objetivo deste documento é apresentar o desenvolvimento do protótipo de alta fidelidade para o projeto do Banco Central do Brasil. O protótipo de alta fidelidade é uma representação visual e interativa do design proposto, que busca simular a experiência final do usuário com o sistema. 
 
-Este documento descreve a metodologia utilizada, os fluxos de tarefa prototipados e os objetivos de cada tarefa. Além disso, são apresentados os fluxos esperados para cada uma delas.
+Este documento descreve a metodologia utilizada, os fluxos de tarefa prototipados e os objetivos de cada tarefa. Além disso, são apresentados os fluxos esperados para cada uma delas. 
 
 </div>
 
@@ -17,8 +17,34 @@ Este documento descreve a metodologia utilizada, os fluxos de tarefa prototipado
 <div align="justify">
 O desenvolvimento do protótipo de alta fidelidade foi baseado no artefato de <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/prototipo_papel/relato_resultados.md">protótipo de baixa fidelidade</a>, criado seguindo os princípios do <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md">Guia de Estilo</a>, conforme sugerido por Simone Barbosa e Bruno Diniz [1]. O protótipo foi criado de acordo com as necessidades dos usuários relatados no documento <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/prototipo_papel/relato_resultados.md">relato dos resultados da avaliação do protótipo de baixa fidelidade</a>. 
 
-O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/">Figma</a>, ferramenta que tem como objetivo auxiliar no desenvolvimento de telas, ideal para prototipação de alta fidelidade. O projeto de design realizado conta com 5 fluxos de tarefas e 20 telas ao todo, onde cada fluxo de tarefa representa uma atividade que o usuário deve realizar, a quais foram propostas em <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao.md">Planejamento do Protótipo de Alta Fidelidade</a>
+O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/">Figma</a>, ferramenta que tem como objetivo auxiliar no desenvolvimento de telas, ideal para prototipação de alta fidelidade. O projeto de design realizado conta com 5 fluxos de tarefas e 20 telas ao todo, onde cada fluxo de tarefa segue as tarefas identificadas no artefato de <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/analise_tarefas.md">Análise de Tarefas</a>>. Os fluxos de tarefas prototipadas da Tabela 1 e a relação da produção do protótipo está descrita na Tabela 2.
 
+| <p align="center">Fluxo de tarefas</p> | 
+| :--:                       | 
+| Home page | 21/06 - 22/06 | 
+| Calculadora do cidadão | 
+| Consultar taxas de juros | 
+| Cursos | 
+| Registrato |  
+| Valores a receber | 
+
+<div align="center">
+<p> <b>Tabela 1</b>: Fluxos de tarefas prototipadas (Fonte: GOMES, Larissa. 2023). </p>
+</div>
+
+| <p align="center">Tarefas realizadas</p> | <p align="center">Período de desenvolvimento</p> | <p align="center">Desenvolvedor</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor</p> | 
+| :--------------: | :----: | :-------: | :---: | :-------------: | 
+| Home page | 21/06 - 22/06 | Larissa Gomes | 23/06 | Giovanni Alvissus |
+| Calculadora do cidadão | 22/06 - 23/06 | Larissa Gomes | 23/06 | Giovanni Alvissus | 
+| Consultar taxas de juros | 22/06 - 23/06 | Giovanni Alvissus | 23/06 | Larissa Gomes | 
+| Cursos | 22/06 - 23/06 | Giovanni Alvissus | 23/06 | Larissa Gomes | 
+| Interação entre as telas | 23/06 - 24/06 | Giovanni Alvissus e Lucas Gobbi | 25/06 | Larissa Gomes | 
+| Registrato | 22/06 - 23/06 | Larissa Gomes | 23/06 | Giovanni Alvissus | 
+| Valores a receber | 22/06 - 23/06 | Larissa Gomes | 23/06 | Giovanni Alvissus | 
+
+<div align="center">
+<p> <b>Tabela 2</b>: Tarefas realizadas para a criação do protótipo (Fonte: GOMES, Larissa. 2023). </p>
+</div>
 
 ## Tarefas realizadas
 <p>As tarefas protótipadas selecionadas pela equipe foram:</p>
@@ -137,8 +163,5 @@ O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 25/06/2023 | `1.0`  | Criação do artefato | [Mizael Santos](https://github.com/frmiza) | 25/06/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 25/06/2023 | `1.0`  | Criação do artefato inicial | [Mizael Santos](https://github.com/frmiza) | 25/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 
-## Apêndice A
-
-## Apêndice B
