@@ -24,6 +24,7 @@
 <li>Se cadastrar em um curso de educação financeira do <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a>.
 <li>Simular depósitos utilizando a calculadora do cidadão.
 <li>Registrato.
+<li>Checar as taxas de juros dos bancos.
 </ul>
 <p>Uma descrição mais detalhada sobre as tarefas e seus respectivos fluxos de tarefa serão descritas posteriormente.</p>
 </div>
@@ -78,6 +79,8 @@
 <p>O usuário navegar por meio dos botões fornecidos na página principal, ele deve clickar em "Recursos para vocẽ" em seguida no botão "Cursos", diante isso, ele pode escolher qual curso deseja realizar, ação que pode ser finalizada ao clickar no botão "inscrever-se". Ao termino da inscrição ele pode navegar pelas aulas disponíveis no canto esquerdo da tela.</p>
 </div>
 
+<br>
+
 <div align="justify">
 <h3><b>Simular depósitos utilizando a calculadora do cidadão.</b></h3>
 <img src="">
@@ -94,6 +97,8 @@
 <h3>Fluxo esperado</h3>
 <p>Para calcular os valores referente a aplicação de capital no Banco do Brasil, o usuário deve clickar em "Recursos para vocẽ" em seguida no botão "Calculadora cidadão", posteriormente ele sera redirecionado para uma página contendo campos que devem se preenchidos previamsnte antes de realizar os cálculos, são eles, "Aplicações com depósito regular", "Financiamento com prestações fixas" e "Valor futura de um capital", após escolher a modalidade da calculadora, deve preencher os campos de "Número de meses", "Taxa de juros mensais" e finalmente "Valor do depósito final" caso ele tenha escolhido "Aplicações com depósito regular" ou "Valor da prestação final" caso ele tenha escolhido a modalidade "Financiamento com prestações fixas" ou "Capital Atual" caso ele tenha selecionado "Valor futura de um capital". Adiante preenchimento dos dados ele pode limpar os dados caso estejam errados clickando em "Limpar" ou calcular o valor para a modalidade selecionada clickando em "Calcular". De maneira que os resultados serão mostrados na tebale ao lado direito da tela.</p>
 </div>
+
+<br>
 
 <div align="justify">
 <h3><b>Registrato.</b></h3>
@@ -114,7 +119,7 @@
 
 ## Considerações
 <div align="justify">
-<p>Todos os fluxos de tarefas e suas telas, podem ser encontradas no Apêndice A, tal como a comparação das telas realizadas com as já implementadas pelo  <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> no Apêndice B<p>.
+<p>Todos os fluxos de tarefas e suas telas, podem ser encontradas no Apêndice A, tal como a comparação das telas realizadas com as já implementadas pelo  <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> no Apêndice B.<p>
 </div>
 </div>
 
@@ -130,3 +135,7 @@
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 25/06/2023 | `1.0`  | Criação do artefato | [Mizael Santos](https://github.com/frmiza) | 25/06/2023 | [Larissa Gomes](https://github.com/larigs) |
+
+## Apêndice A
+
+## Apêndice B
