@@ -8,6 +8,7 @@
     - [5ª Reunião](atas/reuniao05.md)
     - [6ª Reunião](atas/reuniao06.md)
     - [7ª Reunião](atas/reuniao07.md)
+    - [8ª Reunião](atas/reuniao08.md)
 - [Planejamento](planejamento/cronograma.md)
     - [Avaliação do Site](planejamento/avaliacoes/AvaliacaoBCB.md)
     - [Cronograma](planejamento/cronograma.md)
