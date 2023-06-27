@@ -100,7 +100,7 @@ Não houve muitas mudanças nessa tarefa na tela inicial, apenas no acesso ao cu
 <p> <b>Figma 5</b>: Registrato do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
-A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de navegação superior para menos opções, abrangendo melhor as informações do site em categorias, além da área de visualizações passar de três colunas para dois, dessa forma diminuindo a quantidade de elementos visuais na principal página do site. Também foi reformulada as opções de acessibilidade de forma a ficar mais visível e mais simples de ser entendidas. 
+O Registrato possuia uma estrutura similar, senão igual em quase todas as opções de escolha são iguais. Tendo isso em vista, a tela foi sintetizada em uma tela o que antes eram 6 (sendo 4 iguais). Foi adicionada uma barra lateral onde é possível visualizar os dados do usuário. A tela de informações foi dividida em duas colunas, a coluna da esquerda contém todas as opções de relatórios, se fosse selecionada uma opção que precisava de dados a mais (como datas de inicio e fim), a tela era atualizada de forma a aparecer os campos equivalente a eles, além do checkbox dos termos de ciência e o botão de gerar relatório. A coluna direita disponiviliza todos os relatórios gerados pelo usuário, com um campo do tipo de serviço para diferenciá-los.
 
 ### Calculadora do cidadão
 
@@ -114,7 +114,7 @@ A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de 
 <p> <b>Figma 3</b>: Calculadora do cidadão do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
-A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de navegação superior para menos opções, abrangendo melhor as informações do site em categorias, além da área de visualizações passar de três colunas para dois, dessa forma diminuindo a quantidade de elementos visuais na principal página do site. Também foi reformulada as opções de acessibilidade de forma a ficar mais visível e mais simples de ser entendidas. 
+De forma similar ao registrato, as telas da calculadora era quase todas iguais, mudando um ou dois campos de dados. Portanto, os campos de dados iguais a todos foram adicionados a esquerda, junto a uma opção de definir qual tipo de calculadora gostaria. Após escolher o tipo de calculadora, os campos de dados específicos dessa calculadora são adicionados. A parte de visualização das informações é dividida em duas colunas, seguindo o padrão de telas de tarefas. A coluna da esquerda 
 
 ### Consultar taxas de juros
 
@@ -147,7 +147,7 @@ A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de 
 ## Conclusão
 
 <div align="justify">
-As telas foram desenvolvidas visando diminuir o tempo de execução das tarefas, visto que no site do BCB é necessário passar por muitas telas e muitos passos para conseguir realizar a tarefa.
+As telas foram desenvolvidas visando diminuir o tempo de execução das tarefas, visto que no site do BCB é necessário passar por muitas telas e muitos passos para conseguir realizar a tarefa. As telas das tarefas foram projetadas para manter um padrão de interação, mantendo em uma barra lateral a parte principal de interação e nas colunas centrais as informações geradas, com excessão das telas do registrato e valores a receber, visto que com a sintese se tornaram simples, além de não precisarem de dado a serem informados na maioria das opções, sendo realizadas em cima do CPF do usuário.
 
 Todos os fluxos de tarefas e suas telas, podem ser encontradas no Apêndice A, tal como a comparação das telas realizadas com as já implementadas pelo  <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> no Apêndice B.
 </div>
