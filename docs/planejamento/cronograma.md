@@ -57,7 +57,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 6. Criação dos cenário | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | 06/05 - 07/05 | Lucas Gobbi |
 | 7. Atualizar GitPage | 25/04 - 07/05 | Larissa Gomes | 08/05 | Giovanni Alvissus |
 | 8. Gravação da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 06/05 - 07/05 | Rafael Bosi |
-| 9. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 07/05 - 08/05 | Rafael Bosi |
+| 9. Edição da apresentação | 07/05 - 08/05 | Bruno Ribeiro | 07/05 - 08/05 | Rafael Bosi |
 | 10. Cronograma Executado| 07/05 | Larissa Gomes | 07/05 | Giovanni Alvissus |
 
 <div style="text-align: center">
@@ -74,7 +74,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 5. Determinar as características da plataforma para o projeto | 09/05 - 13/05 | Lucas Gobbi e Mizael Santos | 13/05 - 14/05 | Larissa Gomes |
 | 6. Atualizar GitPage | 13/05 - 14/05 | Larissa Gomes | 14/05 | Lucas Gobbi |
 | 7. Gravação da apresentação | 14/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 14/05 | Rafael Bosi |
-| 8. Edição da apresentação | 14/05 - 15/05 | Mizael Santos | 14/05 - 15/05 | Rafael Bosi |
+| 8. Edição da apresentação | 14/05 - 15/05 | Bruno Ribeiro | 14/05 - 15/05 | Rafael Bosi |
 | 9. Cronograma Executado| 14/04 | Larissa Gomes | 14/04 | Giovanni Alvissus |
 <div style="text-align: center">
     <p> <b>Tabela 4</b>: Ponto de Controle 3 (Fonte: ALVISSUS, Giovanni. 2023).</p>
@@ -90,7 +90,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 5. Planejar o retato da avaliação da Análise de Tarefas | 16/05 - 21/05 | Bruno Ribeiro | 21/05 - 22/05 | Igor Penha |
 | 6. Atualizar GitPage | 21/05 | Larissa Gomes | 21/05 | Giovanni Alvissus |
 | 7. Gravação da apresentação | 21/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 21/05 | Rafael Bosi |
-| 8. Edição da apresentação | 21/05 - 22/05 | Mizael Santos | 21/05 - 22/05 | Rafael Bosi |
+| 8. Edição da apresentação | 21/05 - 22/05 | Bruno Ribeiro | 21/05 - 22/05 | Rafael Bosi |
 | 9. Cronograma Executado| 21/05 | Larissa Gomes | 21/05 | Giovanni Alvissus |
 <div style="text-align: center">
     <p> <b>Tabela 5</b>: Ponto de Controle 4 (Fonte: ALVISSUS, Giovanni. 2023).</p>
@@ -107,7 +107,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 5. Planejar o relato dos resultados da avaliação do protótipo de papel | 26/05 - 28/05 | Mizael Santos | 28/05 | Larissa Gomes |
 | 6. Atualizar GitPage | 26/05 - 27/05 | Larissa Gomes | 27/05 - 28/05 | Giovanni Alvissus |
 | 7. Gravação da apresentação | 28/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 28/05 | Rafael Bosi |
-| 8. Edição da apresentação | 28/05 - 29/05 | Mizael Santos | 29/05 - 29/05 | Rafael Bosi |
+| 8. Edição da apresentação | 28/05 - 29/05 | Bruno Ribeiro | 29/05 - 29/05 | Rafael Bosi |
 | 9. Cronograma Executado| 28/05 | Larissa Gomes | 28/05 | Giovanni Alvissus |
 <div style="text-align: center">
     <p> <b>Tabela 6</b>: Ponto de Controle 5 (Fonte: GOMES, Larissa. 2023).</p>
@@ -125,7 +125,7 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 6. Verificação dos artefatos da Etapa 5 do Grupo 4 | 30/05 - 03/06 | Lucas Gobbi e Igor Penha | 03/06 - 04/06 | Bruno Ribeiro |
 | 7. Atualizar GitPage | 03/06 - 04/06 | Larissa Gomes | 04/06 | Lucas Gobbi |
 | 8. Gravação da apresentação | 05/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 05/06 | Rafael Bosi |
-| 9. Edição da apresentação | 05/06 | Mizael Santos | 05/06 | Rafael Bosi |
+| 9. Edição da apresentação | 05/06 | Bruno Ribeiro | 05/06 | Rafael Bosi |
 | 10. Cronograma Executado| 05/06 | Larissa Gomes | 05/06 | Giovanni Alvissus |
 
 <div style="text-align: center">
@@ -136,11 +136,11 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
 | 1. Correção dos artefatos Ponto de Controle 6.1 | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 09/06 | Giovanni Alvissus |
-| 2. Relato dos resultados do Protótipo de Papel | 05/06 - 08/06 | Giovanni Alvissus e Larissa Gomes | 09/06 - 10/06 | Lucas Gobbi | 
-| 3. Planejamento da avaliação do protótipo de alta fidelidade | 05/06 - 08/06 | Bruno Ribiero e Mizael Santos | 09/06 - 10/06 | Rafael Bosi | 
+| 2. Relato dos resultados e desenvolvimento do Protótipo de Papel | 05/06 - 08/06 | Giovanni Alvissus e Larissa Gomes | 09/06 - 10/06 | Lucas Gobbi | 
+| 3. Planejamento da avaliação do protótipo de alta fidelidade | 05/06 - 08/06 | Bruno Ribeiro e Mizael Santos | 09/06 - 10/06 | Rafael Bosi | 
 | 4. Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 07/06 - 09/06 | Igor Penha e Rafael Bosi | 10/06 - 11/06 | Larissa Gomes | 
 | 5. Gravação da apresentação | 11/06 - 11/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 11/06 - 11/06 | Rafael Bosi | 
-| 6. Edição da apresentação | 12/06 - 12/06 | Mizael Santos | 12/06 - 12/06 | Rafael Bosi | 
+| 6. Edição da apresentação | 12/06 - 12/06 | Bruno Ribeiro | 12/06 - 12/06 | Rafael Bosi | 
 | 7. Cronograma executado | 12/06 - 12/06 | Lucas Gobbi | 12/06 - 12/06 | Igor Penha |
 <div style="text-align: center">
     <p> <b>Tabela 8</b>: Ponto de Controle 7 (Fonte: BOSI, Rafael. 2023).</p>
@@ -150,15 +150,16 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
 | 1. Correção dos artefatos Ponto de Controle 7 | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 10/06 | Mizael Santos |
-| 2. Relatar a avaliação dos artefatos da Etapa 1 | 13/06 - 17/06 | Rafael Bosi e Mizael Santos| 17/06 - 18/06 | Larissa Gomes |
-| 3. Relatar a avaliação dos artefatos da Etapa 2 | 13/06 - 17/06 | Bruno Ribeiro | 17/06 - 18/06 | Giovanni Alvissus |
-| 4. Relatar a avaliação dos artefatos da Etapa 3 | 13/06 - 17/06 | Giovanni Alvissus | 17/06 - 18/06 | Igor Penha |
-| 5. Relatar a avaliação dos artefatos da Etapa 4 | 13/06 - 17/06 | Lucas Gobbi e Igor Penha | 17/06 - 18/06 | Mizael Santos |
-| 6. Relatar a avaliação dos artefatos da Etapa 5 | 13/06 - 17/06 | Larissa Gomes | 17/06 - 18/06 | Bruno Ribeiro |
-| 7. Atualizar GitPage | 17/06 - 18/06 | Larissa Gomes | 18/06 - 18/06 | Lucas Gobbi |
-| 8. Gravação da apresentação | 18/06 - 18/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 18/06 - 18/06 | Rafael Bosi |
-| 9. Edição da apresentação | 18/06 - 19/06 | Mizael Santos | 18/06 - 19/06 | Rafael Bosi |
-| 10. Cronograma Executado| 18/06 - 19/06 | Larissa Gomes | 18/06 - 19/06 | Giovanni Alvissus |
+| 2. Relatar a verificação dos artefatos da Etapa 1 | 13/06 - 17/06 | Bruno Ribeiro | 17/06 - 18/06 | Larissa Gomes |
+| 3. Relatar a verificação dos artefatos da Etapa 2 | 13/06 - 17/06 | Igor Penha | 17/06 - 18/06 | Giovanni Alvissus |
+| 4. Relatar a verificação dos artefatos da Etapa 3 | 13/06 - 17/06 | Giovanni Alvissus e Rafael Bosi | 17/06 - 18/06 | Igor Penha |
+| 5. Relatar a verificação dos artefatos da Etapa 4 | 13/06 - 17/06 | Mizael Santos | 17/06 - 18/06 | Mizael Santos |
+| 6. Relatar a verificação dos artefatos da Etapa 5 | 13/06 - 17/06 | Lucas Gobbi | 17/06 - 18/06 | Bruno Ribeiro |
+| 7. Relatar a verificação dos artefatos da Etapa 7 | 13/06 - 17/06 | Larissa Gomes | 17/06 - 18/06 | Giovanni Alvissus |
+| 8. Atualizar GitPage | 17/06 - 18/06 | Larissa Gomes | 18/06 - 18/06 | Lucas Gobbi |
+| 9. Gravação da apresentação | 18/06 - 18/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 18/06 - 18/06 | Rafael Bosi |
+| 10. Edição da apresentação | 18/06 - 19/06 | Bruno Ribeiro| 18/06 - 19/06 | Rafael Bosi |
+| 11. Cronograma Executado| 18/06 - 19/06 | Larissa Gomes | 18/06 - 19/06 | Giovanni Alvissus |
 <div style="text-align: center">
     <p> <b>Tabela 9</b>: Ponto de Controle 6.2 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
@@ -166,12 +167,13 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 ## Cronograma Ponto de Controle 8
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
-| 1. Relato dos resultados da avaliação do protótipo de alta fidelidade | 14/06 - 18/06 | Igor Penha e Rafael Bosi | 20/06 - 23/06 | Larissa Gomes | 
-| 2. Planejamento de verificação dos artefatos da Etapa 7 | 13/06 - 18/06 | Mizael Santos e Lucas Gobbi |21/06 - 24/06 | Bruno Ribeiro | 
-| 3. Relato da verificação da Etapa 7 e ajustes nos artefatos | 15/06 - 20/06 | Bruno Ribeiro e Giovanni Alvissus | 21/06 - 24/06 | Igor Penha | 
-| 4. Gravação da apresentação | 25/06 - 26/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 25/06 - 26/06 | Rafael Bosi |
-| 5. Edição da apresentação | 25/06 - 26/06 | Mizael Santos | 25/06 - 26/06 | Rafael Bosi | 
-| 6. Cronograma executado | 25/06 | Larissa Gomes | 25/06 | Lucas Gobbi |
+| 1. Desenvolvimento das telas do protótipo de alta fidelidade | 21/06 - 23/06 | Giovanni Alvissus e Larissa Gomes | 21/06 - 23/06 | Lucas Gobbi |  
+| 2. Adição de interação entre as telas do protótipo | 20/06 - 23/06 | Lucas Gobbi | 20/06 - 23/06 | Giovanni Alvissus | 
+| 3. Entrevista de avaliação do protótipo de alta fidelidade | 23/06 - 24/06 | Bruno Ribeiro e Igor Penha | 23/06 - 24/06 | Rafael Bosi e Mizael Santos | 
+| 4. Relato dos resultados da avaliação do protótipo de alta fidelidade | 24/06 - 26/06 | Rafael Bosi e Mizael Santos | 24/06 - 26/06 | Bruno Ribeiro e Igor Penha | 
+| 5. Gravação da apresentação | 25/06 - 26/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 25/06 - 26/06 | Rafael Bosi |
+| 6. Edição da apresentação | 25/06 - 26/06 | Bruno Ribeiro | 25/06 - 26/06 | Rafael Bosi | 
+| 7. Cronograma executado | 25/06 | Larissa Gomes | 25/06 | Lucas Gobbi |
 <div style="text-align: center">
     <p> <b>Tabela 10</b>: Ponto de Controle 8 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
@@ -205,5 +207,6 @@ Este documento tem como objetivo desenvolver um planejamento inicial para realiz
 | 21/05/2023 | `2.0` | Correção do ponto de controle 4| [Larissa Gomes](https://github.com/larigs)| 21/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 29/05/2023 | `3.0` | Correção do ponto de controle 5| [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 05/06/2023 | `4.0` | Correção do ponto de controle 6.1| [Larissa Gomes](https://github.com/larigs)| 05/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 26/06/2023 | `5.0` | Correção dos pontos de controle 6.2, 7 e 8 | [Larissa Gomes](https://github.com/larigs)| 26/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
