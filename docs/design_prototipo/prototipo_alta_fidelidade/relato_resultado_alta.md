@@ -12,7 +12,7 @@
 ## Teste Piloto
 <div align="justify">
 
-&emsp;&emsp;O teste piloto (vídeo 1) foi realizado com o integrante Igor Penha, na segunda-feira (26/06/2023) de maneira remota, e foi gravado por meio da plataforma Teams. A partir do teste piloto foi possível validar o planejamento e ferramentas para execução da avaliação.
+&emsp;&emsp;O teste piloto (vídeo 1) foi realizado com o integrante Igor Penha e Bruno Ribeiro, na quinta feira (22/06/2023) de maneira remota, e foi gravado por meio da plataforma Teams. A partir do teste piloto foi possível validar o planejamento e ferramentas para execução da avaliação.
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=s_vWBHML4Rw" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
