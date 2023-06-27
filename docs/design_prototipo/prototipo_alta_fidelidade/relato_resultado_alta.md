@@ -9,6 +9,17 @@
 &emsp;&emsp;O presente documento tem como objetivo relatar os resultados obtidos na avaliação do  <a href="https://www.figma.com/file/3rcAMPl41BO6GP2kxcAlIp/Prot%C3%B3tipo-Alta-Fidelidade-IHC?type=design&node-id=0-1&mode=design">protótipo de Alta Fidelidade</a> do site <a href="https://www.bcb.gov.br/">Banco Central do Brasil</a> por meio de gráficos e tabelas, além de uma análise mais detalha do que as informações coletadas nas entrevistas significam.
 </div>
 
+## Teste Piloto
+<div align="justify">
+
+&emsp;&emsp;O teste piloto (vídeo 1) foi realizado com o integrante Igor Penha, na segunda-feira (26/06/2023) de maneira remota, e foi gravado por meio da plataforma Teams. A partir do teste piloto foi possível validar o planejamento e ferramentas para execução da avaliação.
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=s_vWBHML4Rw" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Vídeo 1: Teste Piloto (Fonte: RIBEIRO, Bruno. 2023)
+
+</div>
+
 ## Metodologia 
 <div align="justify">
 
@@ -65,12 +76,13 @@
 
 &emsp;&emsp;Na Tabela 1 abaixo esta disposta a relação de avaliadores e participantes presentes em cada entrevista, além da data e local em que cada reunião foi realizada e os fluxos de tarefa que cada participante seguiu. 
 
-| ID | Entrevistador | Entrevistado | Data da entrevista | Local | Fluxos efetuados |
-| :-: | :------------: | :----------: | :-----------: | :-----------: | :-----------: |
-| 1 | [Igor Penha](https://github.com/igorpenhaa) | Ana Beatriz | 24/06/2023 |  | 1, 2 e 3  |
-| 2 | [Igor Penha](https://github.com/igorpenhaa) | Virginia Rebehy | 25/06/2023 |  | 2, 3 e 4 |
-| 3 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Liliane | 24/06/2023 |  | 1, 3 e 4 |
-| 4 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Victor Hugo | 25/06/2023|  | 1, 4 e 5 |
+| ID | Entrevistador | Entrevistado | Data da entrevista | Fluxos efetuados |
+| :-: | :------------: | :----------: | :-----------: | :-----------: |
+| 1 | [Igor Penha](https://github.com/igorpenhaa) | Ana Beatriz | 24/06/2023 | 1, 2 e 3  |
+| 2 | [Igor Penha](https://github.com/igorpenhaa) | Virginia Rebehy | 25/06/2023 | 2, 3 e 4 |
+| 3 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Liliane | 24/06/2023 | 1, 3 e 4 |
+| 4 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | Victor Hugo | 25/06/2023 | 1, 4 e 5 |
+| 5 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Igor Penha](https://github.com/igorpenhaa) | João Pedro | 26/06/2023 | 1, 3 e 5 |
 
 <p><b>Tabela 1</b>: Relação de avaliadores e participantes (Fonte: BOSI, Rafael. 2023).</p>
 
@@ -86,7 +98,7 @@
 ## Resultados das Avaliações 
 <div align="justify">
 
-&emsp;&emsp;A seguir estão dispostas todas as entrevistas (Vídeos 1 a 4), com os fluxos específicos seguidos por cada participante, além do tempo dispendido para cada tarefa.
+&emsp;&emsp;A seguir estão dispostas todas as entrevistas (Vídeos 2 a 6), com os fluxos específicos seguidos por cada participante, além do tempo dispendido para cada tarefa.
 
 &emsp;&emsp;Importante ressaltar que todas as tarefas pediam informações aos participantes, porém a maioria possuia um autocompletar, para facilitar nas avaliações e nos fluxos, por isso o tempo que os participantes usaram para realizar as tarefas estão em geral mais baixos do que seriam na realidade.
 
@@ -98,7 +110,7 @@
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=tEZ7Riyvoss" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Vídeo 1: Teste de usabilidade com Ana Beatriz (Fonte: PENHA, Igor. 2023)
+Vídeo 2: Teste de usabilidade com Ana Beatriz (Fonte: PENHA, Igor. 2023)
 
 ### Feedback dado pela Ana Beatriz
 &emsp;&emsp; O usuário não apresentou deificuldades relevates para realização das atividades propostas, no entanto elencou pontos positivos e negativos encontrados na usabilidade, são eles:
@@ -123,7 +135,7 @@ Vídeo 1: Teste de usabilidade com Ana Beatriz (Fonte: PENHA, Igor. 2023)
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=YE0RzOKiecA" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Vídeo 2: Teste de usabilidade com Virginia Rebehy (Fonte: PENHA, Igor. 2023)
+Vídeo 3: Teste de usabilidade com Virginia Rebehy (Fonte: PENHA, Igor. 2023)
 
 ### Feedback dado pela Virginia Rebehy
 &emsp;&emsp; O usuário não apresentou deificuldades relevates para realização das atividades propostas, no entanto elencou pontos positivos e negativos encontrados na usabilidade, são eles:
@@ -148,10 +160,10 @@ Vídeo 2: Teste de usabilidade com Virginia Rebehy (Fonte: PENHA, Igor. 2023)
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=bZtQdvghWa4" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Vídeo 3: Teste de usabilidade com Liliane (Fonte: RIBEIRO, Bruno. 2023)
+Vídeo 4: Teste de usabilidade com Liliane (Fonte: RIBEIRO, Bruno. 2023)
 
 ### Feedback dado pela Liliane
-&emsp;&emsp;O usuário não apresentou deificuldades para realização das atividades propostas, no entanto elencou pontos positivos e negativos encontrados na usabilidade, são eles:
+&emsp;&emsp;O usuário não apresentou dificuldades para realização das atividades propostas, no entanto elencou pontos positivos e negativos encontrados na usabilidade, são eles:
 ### Positivos
 <ul>
 <li>Gostou do protótipo, achou simples e intuitivo de manusear.
@@ -171,20 +183,42 @@ Vídeo 3: Teste de usabilidade com Liliane (Fonte: RIBEIRO, Bruno. 2023)
 
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=Qado85l0_aM" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Vídeo 4: Teste de usabilidade com Victor Hugo (Fonte: RIBEIRO, Bruno. 2023)
+Vídeo 5: Teste de usabilidade com Victor Hugo (Fonte: RIBEIRO, Bruno. 2023)
 
-### Feedback dado pela Liliane
-&emsp;&emsp;O usuário não apresentou deificuldades para realização das atividades propostas, no entanto elencou pontos positivos e negativos encontrados na usabilidade, são eles:
+### Feedback dado pelo Victor Hugo
+&emsp;&emsp;O participante não apresentou dificuldades em navegar pelo sistema, ainda afirmou que a interface esta bem intuitiva.
+
 ### Positivos
 <ul>
-<li>Gostou do protótipo, achou simples e intuitivo de manusear.
-<li>Alegou que a realização das atividade e o maniseio é intuitiva.
-<li>Pensamento intuitivo sobre a localização da inscrição dos cursos, realizar comparação de taxa de juros e consultar valores a receber, realizando atividade de forma rápida.
-<li>Alegou boa disposição dos elementos e funcionalidades.
+<li>As informações estão bem dispostas;
+<li>Considerou "fácil" realizar as consultas.
 </ul>
 
 ### Negativos
-&emsp;&emsp;Não apontou nenhum.
+&emsp;&emsp;Não ressaltou nenhum ponto negativo.
+
+5. Entrevista com João Pedro:
+
+    - Consultar taxas de juros pré-fixadas de diferentes bancos para aquisição de veículos: 60 segundos;
+    - Acessar o registrato e simular um empréstimo ou financiamento: 40 segundos;
+    - Consultar valores a receber de falecidos: 24 segundos. 
+
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=XeZfdQfPevw" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Vídeo 6: Teste de usabilidade com João Pedro (Fonte: RIBEIRO, Bruno. 2023)
+
+### Feedback dado pelo João Pedro
+&emsp;&emsp;O participante ressaltou que as tarefas analisadas não são fluxos que ele utiliza com frequência, mas considerou a interface bem intuitiva.
+
+### Positivos
+<ul>
+<li>Interface intuitiva;
+<li>As informações estavam onde o participante esperava;
+<li>Expressões e identificadores bem claros.
+</ul>
+
+### Negativos
+&emsp;&emsp;Foram avaliados fluxos pouco utilizados pelo participante.
 
 </div>
 
@@ -254,7 +288,7 @@ Vídeo 4: Teste de usabilidade com Victor Hugo (Fonte: RIBEIRO, Bruno. 2023)
 
 - [2] Ferramenta Figma, disponível no <a href="https://www.figma.com/">link</a>. Acesso durante Junho de 2023.
 
-- [4] PREECE, J. Design de Interação: Além da interação homem-computador. Editora Bookman, 2013.
+- [3] PREECE, J. Design de Interação: Além da interação homem-computador. Editora Bookman, 2013.
 
 ## Histórico de Versões
 
