@@ -68,7 +68,7 @@ Todos os protótipos disponíveis no Figma, tanto o de alta fidelidade desenvolv
 <p> <b>Figma 2</b>: Protótipo da Homepage (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D180-2%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign"allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 3</b>: Homepage do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
@@ -81,7 +81,7 @@ A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de 
 <p> <b>Figma 2</b>: Protótipo da tarefa de acessar cursos (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-635%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 3</b>: Cursos do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
@@ -95,7 +95,7 @@ Não houve muitas mudanças nessa tarefa na tela inicial, apenas no acesso ao cu
 <p> <b>Figma 4</b>: Protótipo do Registrato (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-634%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 5</b>: Registrato do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
@@ -109,7 +109,7 @@ O Registrato possuia uma estrutura similar, senão igual em quase todas as opç�
 <p> <b>Figma 2</b>: Protótipo da Calculadora do cidadão(Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D143-616%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 3</b>: Calculadora do cidadão do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
@@ -123,7 +123,8 @@ De forma similar ao registrato, as telas da calculadora era quase todas iguais, 
 <p> <b>Figma 2</b>: Protótipo da Taxa de juros (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-632%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 3</b>: Taxas de juros do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
@@ -137,7 +138,7 @@ A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de 
 <p> <b>Figma 2</b>: Protótipo da Valores a receber (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-636%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 3</b>: Valores a receber do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
