@@ -14,7 +14,7 @@
 
 &emsp;&emsp;O teste piloto (vídeo 1) foi realizado com o integrante Igor Penha e Bruno Ribeiro, na quinta feira (22/06/2023) de maneira remota, e foi gravado por meio da plataforma Teams. A partir do teste piloto foi possível validar o planejamento e ferramentas para execução da avaliação.
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=s_vWBHML4Rw" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/s_vWBHML4Rw" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vídeo 1: Teste Piloto (Fonte: RIBEIRO, Bruno. 2023)
 
@@ -108,7 +108,7 @@ Vídeo 1: Teste Piloto (Fonte: RIBEIRO, Bruno. 2023)
     - Acessar a calculadora do cidadão e consultar financiamento com prestações fixas: 30 segundos;
     - Acessar o registrato e simular um empréstimo ou financiamento: 24 segundos.
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=tEZ7Riyvoss" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/tEZ7Riyvoss" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vídeo 2: Teste de usabilidade com Ana Beatriz (Fonte: PENHA, Igor. 2023)
 
@@ -133,7 +133,7 @@ Vídeo 2: Teste de usabilidade com Ana Beatriz (Fonte: PENHA, Igor. 2023)
     - Acessar registrato e simular um empréstimo ou financiamento: 35 segundos;
     - Acessar a calculadora do cidadão e simular o valor futuro de um capital: 45 segundos.
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=YE0RzOKiecA" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/YE0RzOKiecA" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vídeo 3: Teste de usabilidade com Virginia Rebehy (Fonte: PENHA, Igor. 2023)
 
@@ -158,7 +158,7 @@ Vídeo 3: Teste de usabilidade com Virginia Rebehy (Fonte: PENHA, Igor. 2023)
     - Acessar o registrato e simular um empréstimo ou financiamento: 20 segundos;
     - Inscrição no curso de investimentos: 10 segundos.
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=bZtQdvghWa4" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/bZtQdvghWa4" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vídeo 4: Teste de usabilidade com Liliane (Fonte: RIBEIRO, Bruno. 2023)
 
@@ -181,7 +181,7 @@ Vídeo 4: Teste de usabilidade com Liliane (Fonte: RIBEIRO, Bruno. 2023)
     - Inscrição no curso de investimentos: 20 segundos;
     - Consultar taxas de juros pré-fixadas de bancos distintos para aquisição de veículos: 38 segundos. 
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=Qado85l0_aM" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/Qado85l0_aM" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vídeo 5: Teste de usabilidade com Victor Hugo (Fonte: RIBEIRO, Bruno. 2023)
 
@@ -203,7 +203,7 @@ Vídeo 5: Teste de usabilidade com Victor Hugo (Fonte: RIBEIRO, Bruno. 2023)
     - Acessar o registrato e simular um empréstimo ou financiamento: 40 segundos;
     - Consultar valores a receber de falecidos: 24 segundos. 
 
-<iframe width="1000vw" height="400vh" src="https://www.youtube.com/watch?v=XeZfdQfPevw" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/XeZfdQfPevw" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Vídeo 6: Teste de usabilidade com João Pedro (Fonte: RIBEIRO, Bruno. 2023)
 
