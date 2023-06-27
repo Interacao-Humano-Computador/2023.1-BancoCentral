@@ -4,7 +4,6 @@
 
 ## Introdução
 
-
 <div align="justify">
 
 O objetivo deste documento é apresentar o desenvolvimento do protótipo de alta fidelidade para o projeto do Banco Central do Brasil. O protótipo de alta fidelidade é uma representação visual e interativa do design proposto, que busca simular a experiência final do usuário com o sistema. 
@@ -14,7 +13,9 @@ Este documento descreve a metodologia utilizada, os fluxos de tarefa prototipado
 </div>
 
 ## Metodologia
+
 <div align="justify">
+
 O desenvolvimento do protótipo de alta fidelidade foi baseado no artefato de <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/prototipo_papel/relato_resultados.md">protótipo de baixa fidelidade</a>, criado seguindo os princípios do <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md">Guia de Estilo</a>, conforme sugerido por Simone Barbosa e Bruno Diniz [1]. O protótipo foi criado de acordo com as necessidades dos usuários relatados no documento <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/design_prototipo/prototipo_papel/relato_resultados.md">relato dos resultados da avaliação do protótipo de baixa fidelidade</a>. 
 
 O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/">Figma</a>, ferramenta que tem como objetivo auxiliar no desenvolvimento de telas, ideal para prototipação de alta fidelidade. O projeto de design realizado conta com 5 fluxos de tarefas e 20 telas ao todo, onde cada fluxo de tarefa segue as tarefas identificadas no artefato de <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/analise_tarefas.md">Análise de Tarefas</a>>. Os fluxos de tarefas prototipadas da Tabela 1 e a relação da produção do protótipo está descrita na Tabela 2.
@@ -78,12 +79,12 @@ A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de 
 ### Acessar cursos
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D20-717%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
-<p> <b>Figma 2</b>: Protótipo da tarefa de acessar cursos (Fonte: ALVISSUS, Giovanni. 2023).</p>
+<p> <b>Figma 4</b>: Protótipo da tarefa de acessar cursos (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-635%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 3</b>: Cursos do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
+<p> <b>Figma 5</b>: Cursos do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
 Não houve muitas mudanças nessa tarefa na tela inicial, apenas no acesso ao curso que foi desenvolvido de acordo com o modelo desenvolvido para as tarefas do site, onde há uma barra lateral para a navegação entre as aulas do curso e as informações do curso no centro. A incrição no curso foi padronizada pelo acesso e validação do gov.br.
@@ -92,12 +93,12 @@ Não houve muitas mudanças nessa tarefa na tela inicial, apenas no acesso ao cu
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 4</b>: Protótipo do Registrato (Fonte: GOMES, Larissa. 2023).</p>
+<p> <b>Figma 6</b>: Protótipo do Registrato (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-634%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 5</b>: Registrato do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
+<p> <b>Figma 7</b>: Registrato do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
 O Registrato possuia uma estrutura similar, senão igual em quase todas as opções de escolha são iguais. Tendo isso em vista, a tela foi sintetizada em uma tela o que antes eram 6 (sendo 4 iguais). Foi adicionada uma barra lateral onde é possível visualizar os dados do usuário. A tela de informações foi dividida em duas colunas, a coluna da esquerda contém todas as opções de relatórios, se fosse selecionada uma opção que precisava de dados a mais (como datas de inicio e fim), a tela era atualizada de forma a aparecer os campos equivalente a eles, além do checkbox dos termos de ciência e o botão de gerar relatório. A coluna direita disponiviliza todos os relatórios gerados pelo usuário, com um campo do tipo de serviço para diferenciá-los.
@@ -106,12 +107,12 @@ O Registrato possuia uma estrutura similar, senão igual em quase todas as opç�
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 2</b>: Protótipo da Calculadora do cidadão (Fonte: GOMES, Larissa. 2023).</p>
+<p> <b>Figma 8</b>: Protótipo da Calculadora do cidadão (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D143-616%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 3</b>: Calculadora do cidadão do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
+<p> <b>Figma 9</b>: Calculadora do cidadão do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
 De forma similar ao registrato, as telas da calculadora era quase todas iguais, mudando um ou dois campos de dados. Portanto, os campos de dados iguais a todos foram adicionados a esquerda, junto a uma opção de definir qual tipo de calculadora gostaria. Após escolher o tipo de calculadora, os campos de dados específicos dessa calculadora são adicionados. A parte de visualização das informações é dividida em duas colunas, seguindo o padrão de telas de tarefas. A coluna da esquerda apresenta uma tabela, onde contém o resultado do cálculo realizado pelo usuário, além de comparações com os valores e taxas de acordo com os meses anteriores. Na coluna da direita contém exemplos dos cálculos que aquela calculadora realiza.
@@ -120,13 +121,13 @@ De forma similar ao registrato, as telas da calculadora era quase todas iguais, 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 2</b>: Protótipo da Taxa de juros (Fonte: ALVISSUS, Giovanni. 2023).</p>
+<p> <b>Figma 10</b>: Protótipo da Taxa de juros (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-632%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 3</b>: Taxas de juros do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
+<p> <b>Figma 11</b>: Taxas de juros do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
 Nesta tela, a principal mudança foi a simplificação dos tipos de juros em um dropdown, facilitando a consulta em uma única tela, além de também adicionar gráficos para análisar o histórico das taxas e poder comparar com outros bancos, também sendo possivel levar os dados direto para a calculadora do cidadão para realizar devidos cálculos.
@@ -135,12 +136,12 @@ Nesta tela, a principal mudança foi a simplificação dos tipos de juros em um 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 2</b>: Protótipo da Valores a receber (Fonte: GOMES, Larissa. 2023).</p>
+<p> <b>Figma 12</b>: Protótipo da Valores a receber (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-636%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 3</b>: Valores a receber do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
+<p> <b>Figma 13</b>: Valores a receber do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
 Essa tela possui o mesmo design da tela do registrato e possui a mesma forma de interação, mudando apenas as opções da coluna da esquerda e o formato da tabela da coluna direita, projetada para apresentar os dados dos valores a receber.
@@ -148,7 +149,9 @@ Essa tela possui o mesmo design da tela do registrato e possui a mesma forma de 
 ## Conclusão
 
 <div align="justify">
+
 As telas foram desenvolvidas visando diminuir o tempo de execução das tarefas, visto que no site do BCB é necessário passar por muitas telas e muitos passos para conseguir realizar a tarefa. As telas das tarefas foram projetadas para manter um padrão de interação, mantendo em uma barra lateral a parte principal de interação e nas colunas centrais as informações geradas, com excessão das telas do registrato e valores a receber, visto que com a sintese se tornaram simples, além de não precisarem de dado a serem informados na maioria das opções, sendo realizadas em cima do CPF do usuário.
+
 </div>
 
 ## Referência Bibliográfica
