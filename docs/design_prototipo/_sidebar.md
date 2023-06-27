@@ -21,11 +21,11 @@
         - [Termo de Consentimento](design_prototipo/prototipo_papel/termo-de-consentimento.md)
         - [Planejamento da Avaliação](design_prototipo/prototipo_papel/planejamento_avaliacao.md)
         - [Planejamento do Relato dos Resultados](design_prototipo/prototipo_papel/planejamento_relato.md)
-        - [Relato dos Resultados](design_prototipo/prototipo_papel/relato_resultado_alta.md)
+        - [Relato dos Resultados](design_prototipo/prototipo_papel/relato_resultados.md)
 - [Nível 3](#)
     - [Protótipo de alta fidelidade](#)
 
         - [Protótipo de alta fidelidade](design_prototipo/prototipo_alta_fidelidade/prototipacao.md)
         - [Planejamento da Avaliação](design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao.md)
         - [Planejamento do Relato dos Resultados](design_prototipo/prototipo_alta_fidelidade/planejamento_relato.md)
-        - [Relato dos Resultados](design_prototipo/prototipo_alta_fidelidade/relato_resultados.md)
+        - [Relato dos Resultados](design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta.md)
