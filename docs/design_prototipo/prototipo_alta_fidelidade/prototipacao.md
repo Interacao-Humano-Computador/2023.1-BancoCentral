@@ -129,7 +129,7 @@ De forma similar ao registrato, as telas da calculadora era quase todas iguais, 
 <p> <b>Figma 3</b>: Taxas de juros do Banco Central(Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
-A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de navegação superior para menos opções, abrangendo melhor as informações do site em categorias, além da área de visualizações passar de três colunas para dois, dessa forma diminuindo a quantidade de elementos visuais na principal página do site. Também foi reformulada as opções de acessibilidade de forma a ficar mais visível e mais simples de ser entendidas. 
+Nesta tela, a principal mudança foi a simplificação dos tipos de juros em um dropdown, facilitando a consulta em uma única tela, além de também adicionar gráficos para análisar o histórico das taxas e poder comparar com outros bancos, também sendo possivel levar os dados direto para a calculadora do cidadão para realizar devidos cálculos.
 
 ### Consultar valores a receber
 
