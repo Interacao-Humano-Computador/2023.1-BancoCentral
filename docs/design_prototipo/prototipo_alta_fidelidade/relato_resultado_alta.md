@@ -203,6 +203,7 @@ Vídeo 4: Teste de usabilidade com Victor Hugo (Fonte: RIBEIRO, Bruno. 2023)
 | Prioridade | Baixa, não crítico |
 | Afeta | Afeta a eficiência do usuário ao navegar, sendo necessário mais de ma tentativa às vezes |
 | Encontrado em | Menus da página principal. |
+<p> <b>Tabela 2</b>: Problemas de navegabilidade (Fonte: SANTOS, Mizael. 2023). </p>
 
 ### PR2 - Problema na navegabilidade
 
@@ -213,6 +214,7 @@ Vídeo 4: Teste de usabilidade com Victor Hugo (Fonte: RIBEIRO, Bruno. 2023)
 | Prioridade | Médio. |
 | Afeta | Afeta a eficiência do usuário ao navegar, sendo necessário mais de ma tentativa às vezes, além de gerar confusão por não saber qual das funcionalidades duplicadas é certa ou errada, ou se ele representa outra coisa não compreendida. |
 | Encontrado em | Menus da página principal. |
+<p> <b>Tabela 3</b>: Problemas de navegabilidade (Fonte: SANTOS, Mizael. 2023). </p>
 
 </div>
 
