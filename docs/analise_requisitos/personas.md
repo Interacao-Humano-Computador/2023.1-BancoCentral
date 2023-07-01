@@ -41,7 +41,7 @@ Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários aned�
 
 <div align="justify">
 
-Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
+Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas.
 
 O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os perfis de usuários obtidos por intermédio de questionários. Nesse cenário, obtvemos 2 personas primárias, uma persona secundária e uma anti-persona.
 
