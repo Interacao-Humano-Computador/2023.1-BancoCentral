@@ -20,7 +20,7 @@ A escolha da metodologia a ser utilizada no documento de planejamento do relato 
 
 É importante adaptar a metodologia de acordo com as características do projeto e as necessidades específicas da análise de tarefas. A combinação de diferentes abordagens pode fornecer uma compreensão mais completa do desempenho e das experiências dos usuários.
 
-Nesta fase do projeto utilizaremos o método de entrevistas, com os seguintes tópicos de avaliação:
+Nesta fase do projeto utilizaremos o framework DECIDE e o método de entrevistas, com os seguintes tópicos de avaliação:
 
 - Objetivo e escopo da avaliação;
 - A forma como a avaliação foi realizada;
@@ -34,26 +34,28 @@ Nesta fase do projeto utilizaremos o método de entrevistas, com os seguintes t�
 
 O relato dos resultados da avaliação da Análise de tarefas deverá ter documentado os seguintes tópicos:
 
-### Objetivo e escopo da avaliação
+## Foco do Artefato
 
-O objetivo e o escopo da avaliação referem-se aos elementos que definem o propósito e a abrangência da análise de tarefas a ser realizada. Essas informações são importantes para estabelecer diretrizes claras e garantir que a avaliação seja conduzida de forma eficiente e focada nos resultados desejados.
+O artefato tem como foco realizar um planejamento do relato de como foi realizada a avaliação é com a finalidade de quais perguntas, qual a ferramenta utilizada para a realização da entrevista, documentar os dados coletados a partir da entrevista e mostrar os resultados obtidos.
 
-O objetivo da avaliação descreve o que se pretende alcançar com a análise de tarefas. Pode envolver identificar problemas de usabilidade, avaliar a eficácia de um sistema, obter feedback dos usuários ou propor melhorias no design de uma interface. O objetivo deve ser específico, mensurável e relevante para o contexto do projeto.
+O foco da avaliação descreve o que se pretende alcançar com a análise de tarefas. Pode envolver identificar problemas de usabilidade, avaliar a eficácia de um sistema, obter feedback dos usuários ou propor melhorias no design de uma interface. O objetivo deve ser específico, mensurável e relevante para o contexto do projeto.
 
-O escopo da avaliação define o âmbito e os limites da análise de tarefas. Ele determina quais tarefas e funcionalidades serão avaliadas, bem como quais usuários serão incluídos no estudo. O escopo também pode abordar aspectos como o ambiente de uso, o contexto de trabalho e quaisquer restrições ou restrições específicas que devem ser consideradas.
+Ao estabelecer o objetivo e o escopo da avaliação no planejamento do relato da análise de tarefas, é possível alinhar as expectativas, definir os critérios de sucesso e garantir que a coleta de dados. Isso contribui para a eficácia e relevância do relatório final, fornecendo informações úteis e acionáveis para o desenvolvimento do sistema ou interface em questão.
 
-Ao estabelecer o objetivo e o escopo da avaliação no planejamento do relato da análise de tarefas, é possível alinhar as expectativas, definir os critérios de sucesso e garantir que a coleta de dados e a análise sejam direcionadas aos objetivos estabelecidos. Isso contribui para a eficácia e relevância do relatório final, fornecendo informações úteis e acionáveis para o desenvolvimento do sistema ou interface em questão.
+Assim, de forma geral, é necessário que os avaliadores elaborarem um relatório a partir da análise dos resultados da análise de tarefas, da mesma maneira deve encontrar utilidades para serem melhoradas. Além de conter os objetivos da avaliação juntamente com uma verificação de se esses objetivos foram alcançados e documentar a experiência dos participantes com a análise de tarefas.
+
 
 ### Método
 
 No planejamento do relato da análise de tarefas utilizando o método de entrevistas, é importante considerar os seguintes aspectos:
 
 1. **Definição dos participantes**: Determine o perfil dos participantes da entrevista com base nos critérios relevantes para a análise de tarefas, como conhecimento do sistema, experiência prévia e demografia. Isso ajudará a garantir uma amostra representativa dos usuários-alvo.
-2. **Roteiro de entrevista**: Crie um roteiro de entrevista estruturado que inclua uma série de perguntas específicas relacionadas às tarefas avaliadas. As perguntas devem ser claras, objetivas e direcionadas para obter informações relevantes para a análise.
+2. **Roteiro de entrevista**: Crie um roteiro de entrevista estruturado que inclua uma série de perguntas específicas relacionadas às tarefas avaliadas que devem ser apresentados e avaliados pelos entrevistados. As perguntas devem ser claras, objetivas e direcionadas para obter informações relevantes para a análise.
 3. **Abordagem da entrevista**: Decida se as entrevistas serão individuais ou em grupo, dependendo do contexto e dos recursos disponíveis. As entrevistas individuais podem permitir uma exploração mais aprofundada das percepções e experiências dos participantes, enquanto as entrevistas em grupo podem facilitar a discussão e o compartilhamento de ideias entre os participantes.
 4. **Protocolo de registro**: Determine a forma como as entrevistas serão registradas, seja por meio de gravações, anotações ou ambos. Certifique-se de obter consentimento dos participantes para gravar as entrevistas, se aplicável, e garanta a confidencialidade e anonimato dos dados coletados.
 5. **Análise dos dados**: Planeje como os dados das entrevistas serão analisados. Isso pode envolver a identificação de temas recorrentes, codificação das respostas dos participantes ou utilização de técnicas de análise qualitativa ou quantitativa, dependendo dos objetivos da análise de tarefas.
 6. **Considerações éticas**: Esteja atento às questões éticas relacionadas às entrevistas, como o consentimento informado dos participantes, a privacidade e a proteção dos dados pessoais. Cumpra com as regulamentações e políticas relevantes de proteção de dados.
+7. **Teste Piloto**: Antes da realização das entrevistas é de suma importância que seja feito um teste piloto pelos entrevistadores para ter certeza a todas as ferramentas que serão utilizadas, como, gravação, áudio, se consegue mostrar o termo de consentimento, se os storyboard já estão preparados para serem apresentados ao úsuario.
 
 Além disso, para fornecer mais detalhes sobre o andamento do projeto, será incluído o cronograma executado. Com o objetivo de padronizá-lo, apresentaremos na Tabela 1 um exemplo de um item de cronograma.
 
@@ -91,6 +93,10 @@ Participantes:
 - 10 usuários do sistema do Banco Central do Brasil, com idades variando entre 25 e 45 anos.
 
 Ao incluir esse sumário no planejamento do relato da análise de tarefas, você fornece uma visão geral dos avaliadores e participantes envolvidos no estudo. Isso ajuda a contextualizar o processo de avaliação e fornece informações importantes para a compreensão dos resultados apresentados no relatório final.
+
+## Orçamento
+
+Deve estar presente no artefato de relato, todo o orçamento que foi necessário para a realização dos storyboards, dos gasto com materiais que foram utilizados para acrescentar ao projeto ou dos gasto mais gerais que não envolviam materiais, porém que ocorreu gastos.
 
 ### Sumário de dados
 
@@ -133,5 +139,6 @@ Finalmente, serão apresentadas sugestões de correção para cada um dos proble
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 21/05/2023 | `1.0`  | Criação da documento de planejamento do relato da análise de tarefas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro)  | 22/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 | 21/05/2023 | `1.1`  | Padronização da tabela de entrevista realizada | [Rafael Bosi](https://github.com/Strangeunit28)  | 21/05/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 26/06/2023 | `2.0`  | Correções do artefato após verificação | [Igor Penha](https://github.com/igorpenhaa)  | 28/06/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 
 </div>
