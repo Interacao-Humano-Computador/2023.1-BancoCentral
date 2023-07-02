@@ -82,21 +82,23 @@
  
  </div>
 
-| Ordem das perguntas | Objetivos Relacionados | Perguntas | Tipo de pergunta | Respostas possíveis | 
-| :-----------------: | :--------------------: | :------------------: | :--------------: | :------------------: | 
-| 1° | - | Qual seu nome completo? | Aberta | Resposta discursiva | 
-| 2° | - | Qual sua idade? | Aberta | Resposta discursiva |  
-| 3° | - | Qual sua ocupação? | Aberta | Resposta discursiva | 
-| 4° | 1 | Já utilizou o site do Banco Central? | Fechada | Sim </br>Não</br>Caso sim, pular a 5º pergunta | 
-| 5° | 1 | Utilizou ou utilizaria alguma das tarefas do BCB? (apresentar ao entrevistado a Tabela 3) | Fechada/Aberta | Sim </br>Não</br>Caso sim, perguntar qual ou quais</br>Caso não, finalizar a entrevista |
-| 6° | Entender contexto e frequência das tarefas | Com que frequência você realiza cada uma dessas tarefas? | Fechada (escala de frequência) |  |
-| 7° | 2 | Consegue executar a tarefa que utiliza com facilidade? | Fechada | Sim</br>Não |
-| 8° | 2 | Ao realizar as tarefas suas necessidades são completamente satisfeitas? | Fechada | Sim</br>Não</br>Parcialmente | 
-| 9° | 2 | Alguma parte do fluxo da tarefa faz com que executar ela seja mais demorado que o desejado? | Fechada | Sim</br>Não</br>Parcialmente |
-| 10° | 2 | Alguma parte do fluxo da tarefa o deixa insatisfeito? | Fechada/Aberta | Sim</br>Não</br>Caso sim, qual ou quais |
-| 11° | 2 | Consegue entender com clareza o fluxo de passos para executar as tarefas? | Fechada/Aberta | Sim</br>Não</br>Caso não, adicionar resposta discursiva |
-| 12° | 2 | Há alguma parte do diagrama apresentado que não esteja de acordo com o fluxo da tarefa que representa? | Fechada/Aberta | Sim</br>Não</br>Caso sim, adicionar resposta discursiva |
-| 13° | 2 | Acredita que há algo que possa ser adicionado a tarefa que a tornaria mais completa? | Fechada/Aberta | Sim</br>Não</br>Caso sim, adicionar resposta discursiva |
+| Ordem das perguntas | Perguntas | Tipo de pergunta | Respostas possíveis | 
+| :-----------------: | :-------: | :--------------: | :-----------------: | 
+| 1° | Qual seu nome completo? | Aberta | Resposta discursiva | 
+| 2° | Qual sua idade? | Aberta | Resposta discursiva |  
+| 3° | Qual sua ocupação? | Aberta | Resposta discursiva | 
+| 4° | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Fechada | Muito boa</br>Boa</br>Média</br>Ruim</br>Muito ruim |
+| 5° | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? | Fechada | Muito boa</br>Boa</br>Média</br>Ruim</br>Muito ruim |
+| 6° | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? | Fechada/Aberta | Sim</br>Não |
+| 7° | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? | Aberta |  |
+| 8° | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Fechada | Sim</br>Não |
+| 9° | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? | Aberta |  | 
+| 10° | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Fechada | Sim</br>Não |
+| 11° | Como você faria para cadastrar-se em um curso sobre finanças online? | Aberta |  |
+| 12° | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Fechada | Sim</br>Não |
+| 13° | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? | Aberta |  |
+| 14° | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Fechada | Sim</br>Não |
+| 15° | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta |  |
 
 <div align="center">
 <p> Tabela 3: Questões a serem tratadas nas entrevistas (Fonte: BOSI, Rafael. 2023).</p>
@@ -178,6 +180,7 @@
 | 20/05/2023 | `1.1` | Criação da Introdução, perguntas do questionário e cronogramas| [Larissa Gomes](https://github.com/larigs) | 20/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 20/05/2023 | `1.2` | Criação do Planejamento e textos do DECIDE | [Rafael Bosi](https://github.com/StrangeUnit28) | 20/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 01/07/2023 | `1.3` | Correção das perguntas, adição de margens e correções de alguns textos | [Rafael Bosi](https://github.com/StrangeUnit28) | 01/07/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 01/07/2023 | `1.4` | Correção das perguntas para analisar os diagramas de tarefas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 01/07/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 
 </div>
