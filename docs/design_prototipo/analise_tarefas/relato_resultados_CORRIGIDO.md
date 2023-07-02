@@ -87,18 +87,18 @@ Entrevistador(es): Bruno Ribeiro e Rafael Bosi;
 
 | Numero | Pergunta | Resposta | Objetivo |
 | :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? |  |  |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? |  |  |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? |  |  |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? |  |  |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | |  |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? |  |  |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? |  |  |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? |  |  |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? |  |  |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? |  |  |
-| 11 | O storyboard é adequado ao público-alvo do produto? |  |  |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? |  |  |
+| 1 | Qual o seu nome? |  |  |
+| 2 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |  |
+| 3 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |  |
+| 4 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |  |
+| 5 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |  |
+| 6 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | |  |
+| 7 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |  |
+| 8 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 9 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |  |
+| 10 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 11 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |  |
+| 12 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
 | 13 | Qual sugestão de melhoria você gostaria de compartilhar? |  | |
 <div style="text-align: center">
     <p> <b>Tabela 1: </b> Perguntas realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
@@ -109,18 +109,18 @@ Entrevistador: Bruno Ribeiro e Rafael Bosi;
 
 | Numero | Pergunta | Resposta | Objetivo |
 | :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? |  |  |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? |  |  |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? |  |  |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? |  |  |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | |  |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? |  |  |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? |  |  |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? |  |  |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? |  |  |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? |  |  |
-| 11 | O storyboard é adequado ao público-alvo do produto? |  |  |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? |  |  |
+| 1 | Qual o seu nome? |  |  |
+| 2 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |  |
+| 3 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |  |
+| 4 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |  |
+| 5 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |  |
+| 6 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | |  |
+| 7 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |  |
+| 8 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 9 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |  |
+| 10 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 11 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |  |
+| 12 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
 | 13 | Qual sugestão de melhoria você gostaria de compartilhar? |  | |
 <div style="text-align: center">
     <p> <b>Tabela 2: </b> Perguntas realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
@@ -131,18 +131,18 @@ Entrevistador: Bruno Ribeiro e Rafael Bosi;
 
 | Numero | Pergunta | Resposta | Objetivo |
 | :-: | - | - | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? |  |  |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? |  |  |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? |  |  |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? |  |  |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | |  |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? |  |  |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? |  |  |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? |  |  |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? |  |  |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? |  |  |
-| 11 | O storyboard é adequado ao público-alvo do produto? |  |  |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? |  |  |
+| 1 | Qual o seu nome? |  |  |
+| 2 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |  |
+| 3 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |  |
+| 4 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |  |
+| 5 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |  |
+| 6 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | |  |
+| 7 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |  |
+| 8 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 9 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |  |
+| 10 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 11 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |  |
+| 12 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
 | 13 | Qual sugestão de melhoria você gostaria de compartilhar? |  | |
 <div style="text-align: center">
     <p> <b>Tabela 3: </b> Perguntas a serem realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
@@ -153,18 +153,18 @@ Entrevistador: Bruno Ribeiro e Rafael Bosi;
 
 | Numero | Pergunta | Resposta | Objetivo |
 | :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? |  |  |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? |  |  |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? |  |  |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? |  |  |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | |  |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? |  |  |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? |  |  |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? |  |  |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? |  |  |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? |  |  |
-| 11 | O storyboard é adequado ao público-alvo do produto? |  |  |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? |  |  |
+| 1 | Qual o seu nome? |  |  |
+| 2 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |  |
+| 3 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |  |
+| 4 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |  |
+| 5 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |  |
+| 6 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | |  |
+| 7 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |  |
+| 8 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 9 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |  |
+| 10 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 11 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |  |
+| 12 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
 | 13 | Qual sugestão de melhoria você gostaria de compartilhar? |  | |
 <div style="text-align: center">
     <p> <b>Tabela 4: </b> Perguntas realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
@@ -175,18 +175,18 @@ Entrevistador: Bruno Ribeiro e Rafael Bosi;
 
 | Numero | Pergunta | Resposta | Objetivo |
 | :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? |  |  |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? |  |  |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? |  |  |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? |  |  |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | |  |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? |  |  |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? |  |  |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? |  |  |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? |  |  |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? |  |  |
-| 11 | O storyboard é adequado ao público-alvo do produto? |  |  |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? |  |  |
+| 1 | Qual o seu nome? |  |  |
+| 2 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |  |
+| 3 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |  |
+| 4 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |  |
+| 5 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |  |
+| 6 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | |  |
+| 7 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |  |
+| 8 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 9 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |  |
+| 10 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 11 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |  |
+| 12 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
 | 13 | Qual sugestão de melhoria você gostaria de compartilhar? |  | |
 <div style="text-align: center">
     <p> <b>Tabela 5: </b> Perguntas realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
@@ -213,19 +213,19 @@ Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de 
 
 | Numero | Pergunta | [Quantidade] Resposta | Objetivo |
 | :-: | - | :- | - |
-| 1 | Os usuários envolvidos no storyboard condizem com a realidade? | [5] Sim | Verificar a concordância |
-| 2 | O cenário que o storyboard está inserido condiz com a realidade? | [5] Sim | Verificar a concordância |
-| 3 | As tarefas realizadas pelo usuário no storyboard condizem com o esperado? | [5] Sim | Verificar a concordância |
-| 4 | O incentivo para o usuário realizar as tarefas no storyboard são satisfatórias? | [4] Sim <br> [1] Não sei responder| Verificar a concordância |
-| 5 | As informações apresentadas no storyboard são compreensíveis? | [5] Sim | Verificar o entendimento |
-| 6 | Houve dificuldade ao realizar a interação com o storyboard? | [5] Não | Verificar usabilidade |
-| 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [4] Sim <br> [1] Não sei responder | Verificar usabilidade |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard? | [5] Sim | Verificar usabilidade |
-| 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | [3] Sim <br> [2] Não sei responder | Verificar a coerência |
-| 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [5] Sim | Verificar coerência |
-| 11 | O storyboard é adequado ao público-alvo do produto? | [4] Sim <br> [1] Não sei responder | Verificar a adequação |
-| 12 | O storyboard demonstra os benefícios e as vantagens do produto? | [4] Sim <br> [1] Não sei responder | Verificar o valor |
-| 13 | Qual sugestão de melhoria você gostaria de compartilhar? | Aberta | Melhorar o storyboard |
+| 1 | Qual o seu nome? |  |  |
+| 2 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |  |
+| 3 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |  |
+| 4 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |  |
+| 5 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |  |
+| 6 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | |  |
+| 7 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |  |
+| 8 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 9 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |  |
+| 10 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 11 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |  |
+| 12 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
+| 13 | Qual sugestão de melhoria você gostaria de compartilhar? |  | |
 <div style="text-align: center">
     <p> <b>Tabela 6: </b> Dados organizados (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
