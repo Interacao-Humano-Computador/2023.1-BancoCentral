@@ -73,7 +73,7 @@ A seguir, seguem os diagramas de análise de tarefas utilizados na entrevista, a
 ## Teste Piloto
 Previamente as entrevistas, foi realizado o teste piloto das entrevistas para ter certeza que todas as ferramentas que seriam utilizadas estariam funcionando, no momento, da gravação da entrevista, a seguir segue o vídeo da gravação do teste piloto:
     
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/SMabXlyj0ks" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Wc_7fPmTe_s" title="Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 2</b>: gravação Teste Piloto (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
