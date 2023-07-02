@@ -89,14 +89,14 @@
 | 3° | - | Qual sua ocupação? | Aberta | Resposta discursiva | 
 | 4° | 1 | Já utilizou o site do Banco Central? | Fechada | Sim </br>Não</br>Caso sim, pular a 5º pergunta | 
 | 5° | 1 | Utilizou ou utilizaria alguma das tarefas do BCB? (apresentar ao entrevistado a Tabela 3) | Fechada/Aberta | Sim </br>Não</br>Caso sim, perguntar qual ou quais</br>Caso não, finalizar a entrevista |
-| 2° | Entender contexto e frequência das tarefas | Com que frequência você realiza cada uma dessas tarefas? | Fechada (escala de frequência) |  |
-| 6° | 2 | Consegue executar a tarefa que utiliza com facilidade? | Fechada | Sim</br>Não |
-| 7° | 2 | Ao realizar as tarefas suas necessidades são completamente satisfeitas? | Fechada | Sim</br>Não</br>Parcialmente | 
-| 8° | 2 | Alguma parte do fluxo da tarefa faz com que executar ela seja mais demorado que o desejado? | Fechada | Sim</br>Não</br>Parcialmente |
-| 9° | 2 | Alguma parte do fluxo da tarefa o deixa insatisfeito? | Fechada/Aberta | Sim</br>Não</br>Caso sim, qual ou quais |
-| 10° | 2 | Consegue entender com clareza o fluxo de passos para executar as tarefas? | Fechada/Aberta | Sim</br>Não</br>Caso não, adicionar resposta discursiva |
-| 11° | 2 | Há alguma parte do diagrama apresentado que não esteja de acordo com o fluxo da tarefa que representa? | Fechada/Aberta | Sim</br>Não</br>Caso sim, adicionar resposta discursiva |
-| 12° | 2 | Acredita que há algo que possa ser adicionado a tarefa que a tornaria mais completa? | Fechada/Aberta | Sim</br>Não</br>Caso sim, adicionar resposta discursiva |
+| 6° | Entender contexto e frequência das tarefas | Com que frequência você realiza cada uma dessas tarefas? | Fechada (escala de frequência) |  |
+| 7° | 2 | Consegue executar a tarefa que utiliza com facilidade? | Fechada | Sim</br>Não |
+| 8° | 2 | Ao realizar as tarefas suas necessidades são completamente satisfeitas? | Fechada | Sim</br>Não</br>Parcialmente | 
+| 9° | 2 | Alguma parte do fluxo da tarefa faz com que executar ela seja mais demorado que o desejado? | Fechada | Sim</br>Não</br>Parcialmente |
+| 10° | 2 | Alguma parte do fluxo da tarefa o deixa insatisfeito? | Fechada/Aberta | Sim</br>Não</br>Caso sim, qual ou quais |
+| 11° | 2 | Consegue entender com clareza o fluxo de passos para executar as tarefas? | Fechada/Aberta | Sim</br>Não</br>Caso não, adicionar resposta discursiva |
+| 12° | 2 | Há alguma parte do diagrama apresentado que não esteja de acordo com o fluxo da tarefa que representa? | Fechada/Aberta | Sim</br>Não</br>Caso sim, adicionar resposta discursiva |
+| 13° | 2 | Acredita que há algo que possa ser adicionado a tarefa que a tornaria mais completa? | Fechada/Aberta | Sim</br>Não</br>Caso sim, adicionar resposta discursiva |
 
 <div align="center">
 <p> Tabela 3: Questões a serem tratadas nas entrevistas (Fonte: BOSI, Rafael. 2023).</p>
