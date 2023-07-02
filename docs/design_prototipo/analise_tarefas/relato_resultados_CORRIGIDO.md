@@ -288,7 +288,7 @@ A partir da análise dos dados obtidos acima, foi possível perceber que:
 ## Gravação das entrevistas
 Todas as entrevistas foram gravadas e estão disponíveis para visualização abaixo, do vídeo 2 ao 6:
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/OJ02eL5vl3E" title="Entrevista João Nobrega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/_spvtrxHGsw" title="Entrevista João Nobrega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 2</b>: gravação entrevista 1 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
