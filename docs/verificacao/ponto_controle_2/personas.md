@@ -97,6 +97,29 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [x] As tabelas possuem legenda.
    - [x] As tabelas são chamadas no texto. Porém não são todas.
 
+
+## Correções Realizadas
+
+<div align="justify">
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+| id | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | As personas definidas a partir dos dados do perfil do usuário | sim | Excelente | As personas foram criadas a partir do perfil de usuário definido pelo grupo |
+| 2 | As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)? | Sim | Excelente | |
+| 3 | As personas apresentam as situações em que seram utilizadas? | Sim | Excelente | Foi identificado que as personas foram utilizadas nos storyboards |
+| 4 | O elenco de personas tem entre 3 a 12 personas? | sim | Excelente |  |
+| 5 | O elenco de personas e a razão da quantidade de personas é justificada? | Sim | Excelente |  |
+| 6 | O projeto contém a anti-persona e persona primária | sim | Excelente |  |
+
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. 2023).
+
+</div>
+
 ### Conclusão
 
 <div align="justify">
