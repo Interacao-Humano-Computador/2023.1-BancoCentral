@@ -237,7 +237,7 @@
 <p>Para se realizar uma boa ordenação e coleta dos dados é importante se seja realizado um simário de dados, isso permite que os dados sejam facilmente agrupados, ordenados, quantificados, além de fornecer agilidade no desenvolvimento da fase de análise:</p>
 <ul>
 <li><b>Tipos de dados</b>: Descreva os diferentes tipos de dados que foram coletados durante a prototipação. Isso pode incluir dados quantitativos, como métricas de desempenho, tempo gasto em cada tarefa ou taxas de erros e acertos dos participante ao realiza-la, bem como dados qualitativos, como observações comportamentais, respostas dos participantes ou comentários.
-<li><b>Quantidade de dados<b>: Indique a quantidade de dados coletados para cada tipo. Isso pode ser expresso em números, como o número total de simulações realizadas, o número de observações registradas ou o tamanho do conjunto de dados qualitativos posteriormente analisados.
+<li><b>Quantidade de dados</b>: Indique a quantidade de dados coletados para cada tipo. Isso pode ser expresso em números, como o número total de simulações realizadas, o número de observações registradas ou o tamanho do conjunto de dados qualitativos posteriormente analisados.
 <li><b>Fonte dos dados</b>: Identifique a fonte dos dados coletados. Isso pode incluir informações sobre quais participantes cometeu erros, local onde o erro foi realizado e quais fatores de usabilidade foram prejudicados.
 <li><b>Métodos de coleta</b>: Descreva brevemente os métodos utilizados para coletar os dados. 
 
