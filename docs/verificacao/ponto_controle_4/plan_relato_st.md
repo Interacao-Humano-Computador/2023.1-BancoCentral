@@ -178,7 +178,7 @@ Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato
 | 6 | Sobre os termos éticos, foi descrito que deve possuir um termo de consentimento? | Sim | Excelente |  |
 | 7 | Sobre os termos éticos, foi descrito que deve possuir um resguardo a respeito dos dados coletados? | Sim | Excelente |  |
 | 8 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Sim | Excelente |  |
-| 9 | Sobre a organização da realização das atividades propostas, foi descrito que ela deve conter um teste piloto antes da sua realização? | Sim | Excelente |  |
+| 9 | Sobre a organização da realização das atividades propostas, foi descrito que ela deve conter um teste piloto antes da sua realização? | Não | - |  |
 | 10 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente |  |
 | 11 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente |  |
 
