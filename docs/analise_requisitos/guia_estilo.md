@@ -65,14 +65,25 @@
 
 &emsp;&emsp; O guia de estilo deve ser consultado como referência na decisão de quais elementos de interface, interação e ação, além dos padrões de vocabulário utilizar no projeto sendo desenvolvido.
 
-### Como manter o Guia
+### Como manter o guia
 
-Reconhecemos que a criação do guia de estilo é um processo contínuo e dinâmico. Portanto, além das melhorias iniciais, planejamos fornecer manutenção regular ao guia de estilo à medida que o projeto evolui e novos insights são obtidos. Essa abordagem nos permitirá adaptar e aprimorar constantemente a interface, mantendo-a alinhada com as necessidades e expectativas dos usuários.
-&emsp;&emsp;Sempre que houver uma decisão de design ou desenvolvimento que afete o site, o Guia de Estilo deve ser atualizado para estar de acordo com essas alterações. Sendo importante ressaltar a necessidade de ser atualizado regularmente para garantir que a padronização seja mantida em todo o site.
+&emsp;&emsp; O guia de estilo é um recurso dinâmico que requer manutenção contínua para garantir sua relevância e eficácia ao longo do tempo. É fundamental que o guia seja mantido atualizado e alinhado com as evoluções do projeto, bem como com as novas descobertas e insights obtidos durante o desenvolvimento e a interação com os usuários.
+
+Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes práticas:
+
+1. **Atualizações regulares**: Sempre que ocorrerem decisões de design ou desenvolvimento que afetem o site, o guia de estilo deverá ser atualizado para refletir essas mudanças. Isso inclui adicionar novos elementos de interface, atualizar diretrizes existentes e ajustar as recomendações com base em feedbacks e aprendizados obtidos durante o processo de desenvolvimento.
+
+2. **Colaboração contínua**: Manter o guia de estilo é uma tarefa colaborativa. Encorajamos a participação ativa da equipe de desenvolvimento, designers e outros stakeholders para fornecer feedback, sugestões e contribuições para o aprimoramento do guia. Além disso, novos membros da equipe devem ser orientados sobre a importância do guia de estilo e como utilizá-lo corretamente.
+
+3. **Versionamento e controle de alterações**: É recomendado utilizar um sistema de controle de versão para o guia de estilo, permitindo rastrear e revisar as alterações feitas ao longo do tempo. Isso facilita a colaboração, a revisão de alterações anteriores e a identificação de possíveis regressões.
+
+4. **Avaliação e feedback dos usuários**: Devemos buscar constantemente o feedback dos usuários sobre a usabilidade da interface. As percepções e necessidades dos usuários podem mudar ao longo do tempo, portanto, é importante estar aberto a sugestões e críticas construtivas para aprimorar o guia de estilo e a experiência do usuário.
+
+&emsp;&emsp; Ao seguir essas práticas, o guia de estilo se manterá sempre atualizado e relevante, garantindo que as diretrizes de design sejam aplicadas de forma consistente em todo o projeto e oferecendo aos usuários uma experiência de qualidade e coerência.
 
 ## Resultados de análise
 
-&emsp;&emsp;Ao analisar o ambiente de trabalho do usuário para o site do Banco Central do Brasil, levando em consideração as respostas obtidas no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01), foram identificadas as seguintes características:
+&emsp;&emsp; Ao analisar o ambiente de trabalho do usuário para o site do Banco Central do Brasil, levando em consideração as respostas obtidas no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01), foram identificadas as seguintes características:
 
 1. **Monitor e Resolução**: A maioria dos usuários acessa o site por meio de monitores de desktop, com resoluções variando de 1366x768 pixels a resoluções maiores, como 1920x1080 pixels. Portanto, é importante otimizar o design para essas resoluções comuns, garantindo que o conteúdo seja legível e bem organizado.
 
@@ -86,28 +97,42 @@ Reconhecemos que a criação do guia de estilo é um processo contínuo e dinâm
 
 6. **Contexto de Uso**: Os usuários podem acessar o site do Banco Central do Brasil em diferentes contextos de uso, como em casa, no trabalho ou em locais públicos. É importante considerar a privacidade, a segurança e a confidencialidade dos dados dos usuários, garantindo que a interface seja projetada levando em conta essas preocupações.
 
-Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
+&emsp;&emsp;Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
+
+## Elementos de interface
+
+&emsp;&emsp; Os elementos de interface são responsáveis pela organização visual e estrutural da aplicação. Eles incluem:
+
+1. Disposição espacial e grid: Define as diretrizes para a organização dos elementos na tela, incluindo a estrutura de grade (grid) a ser utilizada para garantir alinhamento e consistência visual. O guia de estilo 
+
+2. Janelas: Estabelece os estilos e comportamentos das janelas, como posicionamento, tamanho, bordas e interações de abertura e fechamento.
+
+3. Tipografia: Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência.
+
+4. Cores: Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos.
 
 
-## Elementos de interface, interação e ação
+## Elementos de interação
 
-&emsp;&emsp;O [Figma 1](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1) apresenta os elementos do guia de estilo a ser seguido neste projeto. Os elementos estão divididos em 3 grupos:
+&emsp;&emsp;Os elementos de interação são responsáveis por fornecer feedback ao usuário e permitir a manipulação da interface. Eles incluem:
 
-- Elementos de interface:
-    1. Disposição espacial e grid
-    2. Janelas
-    3. Tipografia
-    4. Cores
+1. Estilos de interação: Define os diferentes estilos de interação, como botões, links, menus suspensos, campos de entrada, entre outros, e fornece diretrizes para o uso adequado de cada estilo.
 
-- Elementos de interação: 
-    1. Estilos de interação 
-    2. Seleção de um estilo 
-    3. Aceleradores (teclas de atalho) 
+2. Seleção de um estilo: Orienta a seleção do estilo de interação mais apropriado para cada tipo de elemento na interface, considerando sua finalidade e contexto de uso.
 
-- Elementos de ação 
-    1. Preenchimento de campos 
-    2. Seleção
-    3. Ativação
+3. Aceleradores (teclas de atalho): Define a utilização de teclas de atalho para ações comuns, visando a agilidade e a eficiência na interação do usuário com a aplicação.
+
+## Elementos de ação
+
+&emsp;&emsp;Os elementos de ação estão relacionados às ações que o usuário pode executar na interface. Eles incluem:
+
+1. Preenchimento de campos: Estabelece as diretrizes para o preenchimento de campos, como formulários e caixas de diálogo, garantindo a consistência na entrada de informações.
+
+2. Seleção: Define como o usuário pode selecionar elementos, como caixas de seleção, botões de rádio ou seleção de itens em listas, de forma clara e intuitiva.
+
+3. Ativação: Orienta a ativação de elementos interativos, como botões, links ou ícones, de maneira a fornecer feedback adequado ao usuário e garantir a execução da ação desejada.
+
+&emsp;&emsp;Consulte o Figma 1 para visualizar os elementos de interface, interação e ação definidos no guia de estilo, com exemplos visuais e especificações detalhadas.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1" allowfullscreen></iframe>
 
