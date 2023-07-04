@@ -98,6 +98,26 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [x] As tabelas são chamadas no texto. Porém não são todas.
 
 
+### Conclusão
+
+<div align="justify">
+
+O artefato respeita a maioria dos pontos estruturais analisados, entretanto, apenas 1 problema foi encontrado:
+- O artefato não possui uma conclusão reunindo os principais pontos retirados no documento.
+
+</div>
+
+## Correções e ajustes sugeridos
+
+<div align="justify">
+
+Para que o documento ficasse perfeitamente executado de acordo com essa verificação, bastaria:
+- Adicionar uma conclusão reunindo os principais pontos retirados no documento.
+
+
+</div>
+
+
 ## Correções Realizadas
 
 <div align="justify">
@@ -117,25 +137,6 @@ Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato
 | 6 | O projeto contém a anti-persona e persona primária | sim | Excelente |  |
 
 <b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. 2023).
-
-</div>
-
-### Conclusão
-
-<div align="justify">
-
-O artefato respeita a maioria dos pontos estruturais analisados, entretanto, apenas 1 problema foi encontrado:
-- O artefato não possui uma conclusão reunindo os principais pontos retirados no documento.
-
-</div>
-
-## Correções e ajustes sugeridos
-
-<div align="justify">
-
-Para que o documento ficasse perfeitamente executado de acordo com essa verificação, bastaria:
-- Adicionar uma conclusão reunindo os principais pontos retirados no documento.
-
 
 </div>
 
