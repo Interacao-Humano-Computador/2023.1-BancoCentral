@@ -95,35 +95,52 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 6. **Contexto de Uso**: Os usuários podem acessar o site do Banco Central do Brasil em diferentes contextos de uso, como em casa, no trabalho ou em locais públicos. É importante considerar a privacidade, a segurança e a confidencialidade dos dados dos usuários, garantindo que a interface seja projetada levando em conta essas preocupações.
 
-Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
+&emsp;&emsp;Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
 
 
 ## Elementos de interface, interação e ação
 
-&emsp;&emsp;O [Figma 1](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1) apresenta os elementos do guia de estilo a ser seguido neste projeto. Os elementos estão divididos em 3 grupos:
+&emsp;&emsp;O guia de estilo define os elementos de interface, interação e ação a serem seguidos neste projeto. Eles são organizados em três grupos principais:
 
-- Elementos de interface:
-    1. Disposição espacial e grid
-    2. Janelas
-    3. Tipografia
-    4. Cores
+### 1 Elementos de interface
 
-- Elementos de interação: 
-    1. Estilos de interação 
-    2. Seleção de um estilo 
-    3. Aceleradores (teclas de atalho) 
+&emsp;&emsp;Os elementos de interface são responsáveis pela organização visual e estrutural da aplicação. Eles incluem:
 
-- Elementos de ação 
-    1. Preenchimento de campos 
-    2. Seleção
-    3. Ativação
+1. Disposição espacial e grid: Define as diretrizes para a organização dos elementos na tela, incluindo a estrutura de grade (grid) a ser utilizada para garantir alinhamento e consistência visual.
+
+2. Janelas: Estabelece os estilos e comportamentos das janelas, como posicionamento, tamanho, bordas e interações de abertura e fechamento.
+
+3. Tipografia: Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência.
+
+4. Cores: Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos.
+
+### 2 Elementos de interação
+
+&emsp;&emsp;Os elementos de interação são responsáveis por fornecer feedback ao usuário e permitir a manipulação da interface. Eles incluem:
+
+1. Estilos de interação: Define os diferentes estilos de interação, como botões, links, menus suspensos, campos de entrada, entre outros, e fornece diretrizes para o uso adequado de cada estilo.
+
+2. Seleção de um estilo: Orienta a seleção do estilo de interação mais apropriado para cada tipo de elemento na interface, considerando sua finalidade e contexto de uso.
+
+3. Aceleradores (teclas de atalho): Define a utilização de teclas de atalho para ações comuns, visando a agilidade e a eficiência na interação do usuário com a aplicação.
+
+### 3 Elementos de ação
+
+&emsp;&emsp;Os elementos de ação estão relacionados às ações que o usuário pode executar na interface. Eles incluem:
+
+1. Preenchimento de campos: Estabelece as diretrizes para o preenchimento de campos, como formulários e caixas de diálogo, garantindo a consistência na entrada de informações.
+
+2. Seleção: Define como o usuário pode selecionar elementos, como caixas de seleção, botões de rádio ou seleção de itens em listas, de forma clara e intuitiva.
+
+3. Ativação: Orienta a ativação de elementos interativos, como botões, links ou ícones, de maneira a fornecer feedback adequado ao usuário e garantir a execução da ação desejada.
+
+&emsp;&emsp;Consulte o Figma 1 para visualizar os elementos de interface, interação e ação definidos no guia de estilo, com exemplos visuais e especificações detalhadas.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1" allowfullscreen></iframe>
 
 <div align="center">
 <p> <b>Figma 1</b>: Guia de Estilo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
-
 
 ## Vocabulário e padrões
 
