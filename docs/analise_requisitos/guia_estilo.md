@@ -8,7 +8,7 @@
 
 &emsp;&emsp; De acordo com Simone Barbosa e Bruno Diniz [1], um <b>Guia de Estilo</b> reune os princípios e as diretrizes adotados em um projeto. Tratando-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, sendo assim efetivamente incorporadas no produto final. 
 
-&emsp;&emsp; Para a realização do guia de estilo, foi adotada uma abordagem baseada nos pontos negativos identificadas durante a [Avaliação Heurística]() do site. Para desenvolver as melhorias foi seguido os princípios definidos no [Princípios Gerais do Projeto](), priorizando a simplicidade nas estruturas das tarefas, consistência e padronização, promoção da eficiência do usuário na realização da tarefa. Entretanto, mesmo priorizando esses princípios, os demais disponíveis no documento de [Princípios Gerais do Projeto]() também serão seguidos. O objetivo é aprimorar a experiência do usuário, proporcionando uma interface intuitiva, eficiente e agradável.
+&emsp;&emsp; Para a realização do guia de estilo, foi adotada uma abordagem baseada nos pontos negativos identificadas durante a [Avaliação Heurística](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/avaliacoes/avaliacaoBCB) do site. Para desenvolver as melhorias foi seguido os princípios definidos no [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais), priorizando a simplicidade nas estruturas das tarefas, consistência e padronização, promoção da eficiência do usuário na realização da tarefa. Entretanto, mesmo priorizando esses princípios, os demais disponíveis no documento de [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais) também serão seguidos. O objetivo é aprimorar a experiência do usuário, proporcionando uma interface intuitiva, eficiente e agradável.
 
 ### Objetivo, Conteúdo e Organização do guia de estilo 
 
@@ -47,7 +47,7 @@
 
 ### Público-alvo
 
-&emsp;&emsp; O público-alvo deste guia de estilo são os desenvolvedores, designers e equipes envolvidas no projeto de desenvolvimento de uma aplicação. No contexto atual, este guia será utilizado pelos estudantes de Interação Humano Computador (IHC) da UnB-FGA, com o objetivo de cumprir a análise e o redesign propostos pela disciplina.
+&emsp;&emsp; O público-alvo deste guia de estilo são os desenvolvedores, designers e equipes envolvidas no projeto de desenvolvimento de uma aplicação.
 
 &emsp;&emsp; O público-alvo do guia de estilo inclui:
 
@@ -55,29 +55,20 @@
 - Designers: envolvidos na criação e prototipagem da interface, garantindo que os princípios de design sejam aplicados corretamente.
 - Equipe de suporte: encarregada de fornecer assistência técnica e manter a consistência do design durante o desenvolvimento e a manutenção da aplicação.
 
-&emsp;&emsp; Este guia de estilo é especialmente direcionado aos estudantes de IHC da UnB-FGA, fornecendo orientações e referências para a realização da análise e do redesign propostos pela disciplina. Ele servirá como um recurso valioso para garantir a coerência e a qualidade da interface, bem como promover a aprendizagem e a aplicação dos princípios de IHC.
-
-&emsp;&emsp; Os estudantes devem consultar este guia de estilo durante o processo de desenvolvimento da aplicação, seguindo as diretrizes estabelecidas para garantir uma interface usável, acessível e eficiente. Além disso, eles podem contribuir para a evolução do guia, fornecendo feedback, sugestões e atualizações com base em suas experiências e aprendizados.
+&emsp;&emsp; Os usuários do guia devem consultá-lo durante o processo de desenvolvimento da aplicação, seguindo as diretrizes estabelecidas para garantir uma interface usável, acessível e eficiente. Além disso, eles podem contribuir para a evolução do guia, fornecendo feedback, sugestões e atualizações com base em suas experiências e aprendizados.
 
 ### Como utilizar o Guia
 
-&emsp;&emsp;Este documento deve ser consultado sempre que houver uma decisão de design ou desenvolvimento que afete o projeto. Ele também deve ser utilizado como referência para manutenção e atualização do site. Tendo como propósito ser utilizado unicamente para o desenvolvimento do projeto de IHC.
+&emsp;&emsp; Quando um guia de estilo é elaborado, não basta simplesmente produzi-lo. Deve ser comunicado adequadamente sua existência e importância para os demais designers e desenvolvedores, oferecer treinamento, facilitar o acesso ao documento como um todo ou a um tópico específico e investir em uma mudança na cultura de design e desenvolvimento da equipe. 
 
-### Como manter o guia
+&emsp;&emsp; Além disso, o guia de estilo deve ser tratado como uma ferramenta de apoio de trabalho e criatividade, não como um guia de regras. Em outras palavras, um guia de estilo deve ser utilizado como parte de um processo reflexivo de design, e não como um conjunto de soluções prontas ou fórmulas geradoras de soluções. Schön [4] propôs que existem diversas soluções e o designer não está buscando uma em específico, ele procura descobrir as características particulares de sua situação tida como problemática, e a partir dessa descoberta gradual, projeta uma intervenção.
 
-&emsp;&emsp;O guia de estilo é um recurso dinâmico que requer manutenção contínua para garantir sua relevância e eficácia ao longo do tempo. É fundamental que o guia seja mantido atualizado e alinhado com as evoluções do projeto, bem como com as novas descobertas e insights obtidos durante o desenvolvimento e a interação com os usuários.
+&emsp;&emsp; O guia de estilo deve ser consultado como referência na decisão de quais elementos de interface, interação e ação, além dos padrões de vocabulário utilizar no projeto sendo desenvolvido.
 
-Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes práticas:
+### Como manter o Guia
 
-1. **Atualizações regulares**: Sempre que ocorrerem decisões de design ou desenvolvimento que afetem o site, o guia de estilo deverá ser atualizado para refletir essas mudanças. Isso inclui adicionar novos elementos de interface, atualizar diretrizes existentes e ajustar as recomendações com base em feedbacks e aprendizados obtidos durante o processo de desenvolvimento.
-
-2. **Colaboração contínua**: Manter o guia de estilo é uma tarefa colaborativa. Encorajamos a participação ativa da equipe de desenvolvimento, designers e outros stakeholders para fornecer feedback, sugestões e contribuições para o aprimoramento do guia. Além disso, novos membros da equipe devem ser orientados sobre a importância do guia de estilo e como utilizá-lo corretamente.
-
-3. **Versionamento e controle de alterações**: É recomendado utilizar um sistema de controle de versão para o guia de estilo, permitindo rastrear e revisar as alterações feitas ao longo do tempo. Isso facilita a colaboração, a revisão de alterações anteriores e a identificação de possíveis regressões.
-
-4. **Avaliação e feedback dos usuários**: Devemos buscar constantemente o feedback dos usuários sobre a usabilidade da interface. As percepções e necessidades dos usuários podem mudar ao longo do tempo, portanto, é importante estar aberto a sugestões e críticas construtivas para aprimorar o guia de estilo e a experiência do usuário.
-
-&emsp;&emsp;Ao seguir essas práticas, estaremos comprometidos em manter o guia de estilo atualizado e relevante, garantindo que as diretrizes de design sejam aplicadas de forma consistente em todo o projeto e oferecendo aos usuários uma experiência de qualidade e coerência.
+Reconhecemos que a criação do guia de estilo é um processo contínuo e dinâmico. Portanto, além das melhorias iniciais, planejamos fornecer manutenção regular ao guia de estilo à medida que o projeto evolui e novos insights são obtidos. Essa abordagem nos permitirá adaptar e aprimorar constantemente a interface, mantendo-a alinhada com as necessidades e expectativas dos usuários.
+&emsp;&emsp;Sempre que houver uma decisão de design ou desenvolvimento que afete o site, o Guia de Estilo deve ser atualizado para estar de acordo com essas alterações. Sendo importante ressaltar a necessidade de ser atualizado regularmente para garantir que a padronização seja mantida em todo o site.
 
 ## Resultados de análise
 
@@ -95,46 +86,28 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 6. **Contexto de Uso**: Os usuários podem acessar o site do Banco Central do Brasil em diferentes contextos de uso, como em casa, no trabalho ou em locais públicos. É importante considerar a privacidade, a segurança e a confidencialidade dos dados dos usuários, garantindo que a interface seja projetada levando em conta essas preocupações.
 
-&emsp;&emsp;Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
+Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
 
 
 ## Elementos de interface, interação e ação
 
-&emsp;&emsp;O guia de estilo define os elementos de interface, interação e ação a serem seguidos neste projeto. Eles são organizados em três grupos principais:
+&emsp;&emsp;O [Figma 1](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1) apresenta os elementos do guia de estilo a ser seguido neste projeto. Os elementos estão divididos em 3 grupos:
 
-### 1 Elementos de interface
+- Elementos de interface:
+    1. Disposição espacial e grid
+    2. Janelas
+    3. Tipografia
+    4. Cores
 
-&emsp;&emsp;Os elementos de interface são responsáveis pela organização visual e estrutural da aplicação. Eles incluem:
+- Elementos de interação: 
+    1. Estilos de interação 
+    2. Seleção de um estilo 
+    3. Aceleradores (teclas de atalho) 
 
-1. Disposição espacial e grid: Define as diretrizes para a organização dos elementos na tela, incluindo a estrutura de grade (grid) a ser utilizada para garantir alinhamento e consistência visual.
-
-2. Janelas: Estabelece os estilos e comportamentos das janelas, como posicionamento, tamanho, bordas e interações de abertura e fechamento.
-
-3. Tipografia: Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência.
-
-4. Cores: Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos.
-
-### 2 Elementos de interação
-
-&emsp;&emsp;Os elementos de interação são responsáveis por fornecer feedback ao usuário e permitir a manipulação da interface. Eles incluem:
-
-1. Estilos de interação: Define os diferentes estilos de interação, como botões, links, menus suspensos, campos de entrada, entre outros, e fornece diretrizes para o uso adequado de cada estilo.
-
-2. Seleção de um estilo: Orienta a seleção do estilo de interação mais apropriado para cada tipo de elemento na interface, considerando sua finalidade e contexto de uso.
-
-3. Aceleradores (teclas de atalho): Define a utilização de teclas de atalho para ações comuns, visando a agilidade e a eficiência na interação do usuário com a aplicação.
-
-### 3 Elementos de ação
-
-&emsp;&emsp;Os elementos de ação estão relacionados às ações que o usuário pode executar na interface. Eles incluem:
-
-1. Preenchimento de campos: Estabelece as diretrizes para o preenchimento de campos, como formulários e caixas de diálogo, garantindo a consistência na entrada de informações.
-
-2. Seleção: Define como o usuário pode selecionar elementos, como caixas de seleção, botões de rádio ou seleção de itens em listas, de forma clara e intuitiva.
-
-3. Ativação: Orienta a ativação de elementos interativos, como botões, links ou ícones, de maneira a fornecer feedback adequado ao usuário e garantir a execução da ação desejada.
-
-&emsp;&emsp;Consulte o Figma 1 para visualizar os elementos de interface, interação e ação definidos no guia de estilo, com exemplos visuais e especificações detalhadas.
+- Elementos de ação 
+    1. Preenchimento de campos 
+    2. Seleção
+    3. Ativação
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1" allowfullscreen></iframe>
 
@@ -155,6 +128,7 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 ## Conclusão
 
+
 Além disso, estamos utilizando protótipos de [baixa]() e [alta]() fidelidade para validar as soluções propostas. Esses protótipos nos permitem testar e interar o design, considerando diferentes fluxos de interação, layouts e elementos visuais. Com base nos resultados obtidos, faremos ajustes e refinamentos no guia de estilo, garantindo que as [Metas de Usabilidade]() sejam alcançadas.
 
 
@@ -167,6 +141,9 @@ NY: Th e ACM Press, 1992.
 
 [3] Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface
 design. San Francisco, CA: Morgan Kaufmann, 1999.
+
+[4] Schön, D.A. & Bennett, J. “Refl ective conversation with materials”. In: T. Winograd (ed.),
+Bringing Design to Soft ware. New York, NY: Addison-Wesley, pp. 171–184, 1996.
 
 ## Bibliografia
 
