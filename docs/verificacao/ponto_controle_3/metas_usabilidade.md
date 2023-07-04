@@ -113,6 +113,27 @@
 - Acrescentar margens aos parágrafos;
 - Adicionar de forma mais explícita a explicação do motivo da escolha das metas de usabilidade escolhidas.
 
+
+## Correções Realizadas
+
+<div align="justify">
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | É mostrado quais metas de usabilidade foram utilizadas ? | Sim | Excelente |  |
+| 2 | As metas de usabilidade são explicadas ? | Sim | Excelente |  |
+| 3 | Possui a descrição das metas de usabilidade a serem alcançadas no projeto ? | Sim | Excelente |  |
+| 4 | Explica o motivo para escolha dessas metas de usabilidade ? | Sim | Excelente |  |
+| 5 | Metas de usabilidade foram contextualizadas para o Banco Central ? | Sim | Excelente |  |
+| 6 | O documento apresenta o objetivo do artefato de maneira detalhada ? | Sim | Excelente |  |
+
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: BOSI, Rafael. 2023).
+
 </div>
 
 ## Bibliografia
@@ -127,5 +148,6 @@
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 19/06/2023 | `1.0` | Criação do documento | [Rafael Bosi](https://github.com/strangeunit28) | 19/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 04/07/2023 | `2.0` | Acompanhando os artefatos |  [Igor Penha](https://github.com/igorpenhaa) | 04/07/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 
 </div>
