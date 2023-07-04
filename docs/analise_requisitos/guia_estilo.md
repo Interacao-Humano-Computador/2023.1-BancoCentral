@@ -6,13 +6,15 @@
 
 <div align="justify">
 
-De acordo com Simone Barbosa e Bruno Diniz [1], um <b>Guia de Estilo</b> reune os princípios e as diretrizes adotados em um projeto. Tratando-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, sendo assim efetivamente incorporadas no produto final. 
+&emsp;&emsp; De acordo com Simone Barbosa e Bruno Diniz [1], um <b>Guia de Estilo</b> reune os princípios e as diretrizes adotados em um projeto. Tratando-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, sendo assim efetivamente incorporadas no produto final. O guia de estilo seguirá a estrutura proposta por Marcus e Mayhew [2].
+
+&emsp;&emsp; Para a realização do guia de estilo, foi adotada uma abordagem baseada nos pontos negativos identificadas durante a [Avaliação Heurística]() do site. Para desenvolver as melhorias foi seguido os princípios definidos no [Princípios Gerais do Projeto](), priorizando a simplicidade nas estruturas das tarefas, consistência e padronização, promoção da eficiência do usuário na realização da tarefa. Entretanto, mesmo priorizando esses princípios, os demais disponíveis no documento de [Princípios Gerais do Projeto]() também serão seguidos. O objetivo é aprimorar a experiência do usuário, proporcionando uma interface intuitiva, eficiente e agradável.
 
 ### Objetivo, Conteúdo e Organização do guia de estilo 
 
-O objetivo de um guia de estilo é servir de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. As decisões de design devem ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto. 
+&emsp;&emsp; O objetivo de um guia de estilo é servir de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. As decisões de design devem ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto. 
 
-Simone Barbosa e Bruno Diniz [1] apresentam o que um guia de estilo deve possuir e sua organização. Este artefato deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. Fazem parte de um guia de estilo os seguintes elementos:
+&emsp;&emsp; Marcus [3] apresenta os elementos que um guia de estilo. Este artefato deve incorporar decisões de design envolvendo os principais elementos e considerações de design de interface. Fazem parte de um guia de estilo os seguintes elementos:
 
  - <b>Layout:</b>
 
@@ -38,27 +40,28 @@ Simone Barbosa e Bruno Diniz [1] apresentam o que um guia de estilo deve possuir
  
 </dl>
 
-Esses elemento serão utilizados para cumprir o objetivo deste guia de estilo, fornecendo orientações sobre os elementos de interface, interação e ação utilizados no site do <b>Banco Central do Brasil</b>. O objetivo final deste artefato é padronizar a aparência e a interação do site, garantindo uma experiência do usuário consistente e de alta qualidade.
+&emsp;&emsp;Esses elemento serão utilizados para cumprir o objetivo deste guia de estilo, fornecendo orientações sobre os elementos de interface, interação e ação utilizados no site do <b>Banco Central do Brasil</b>. O objetivo final deste artefato é padronizar a aparência e a interação do site, garantindo uma experiência do usuário consistente e de alta qualidade.
 
 ### Público Alvo
 
-Um guia de estilo destina-se a todos os desenvolvedores, designers e equipes envolvidas no projeto de desenvolvimento de uma aplicação. No contexto atual, este guia será utilizado pelos estudantes de Interação Humano Computador(IHC) da UnB-FGA, visando cumprir com a análise e re-design propostos pela matéria.
+&emsp;&emsp;Um guia de estilo destina-se a todos os desenvolvedores, designers e equipes envolvidas no projeto de desenvolvimento de uma aplicação. No contexto atual, este guia será utilizado pelos estudantes de Interação Humano Computador(IHC) da UnB-FGA, visando cumprir com a análise e re-design propostos pela matéria.
 
 ### Como utilizar o Guia
 
-Este documento deve ser consultado sempre que houver uma decisão de design ou desenvolvimento que afete o projeto. Ele também deve ser utilizado como referência para manutenção e atualização do site. Tendo como propósito ser utilizado unicamente para o desenvolvimento do projeto de IHC.
+&emsp;&emsp;Este documento deve ser consultado sempre que houver uma decisão de design ou desenvolvimento que afete o projeto. Ele também deve ser utilizado como referência para manutenção e atualização do site. Tendo como propósito ser utilizado unicamente para o desenvolvimento do projeto de IHC.
 
 ### Como manter o Guia
 
-Sempre que houver uma decisão de design ou desenvolvimento que afete o site, o Guia de Estilo deve ser atualizado para estar de acordo com essas alterações. Sendo importante ressaltar a necessidade de ser atualizado regularmente para garantir que a padronização seja mantida em todo o site.
+Reconhecemos que a criação do guia de estilo é um processo contínuo e dinâmico. Portanto, além das melhorias iniciais, planejamos fornecer manutenção regular ao guia de estilo à medida que o projeto evolui e novos insights são obtidos. Essa abordagem nos permitirá adaptar e aprimorar constantemente a interface, mantendo-a alinhada com as necessidades e expectativas dos usuários.
+&emsp;&emsp;Sempre que houver uma decisão de design ou desenvolvimento que afete o site, o Guia de Estilo deve ser atualizado para estar de acordo com essas alterações. Sendo importante ressaltar a necessidade de ser atualizado regularmente para garantir que a padronização seja mantida em todo o site.
 
 ## Resultados de análise
 
-Pelo [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) foi possivel identificar que o principal ambiente de trabalho do usuário é um computador desktop ou um notebook. 
+&emsp;&emsp;Pelo [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) foi possivel identificar que o principal ambiente de trabalho do usuário é um computador desktop ou um notebook. 
 
 ## Elementos de interface, interação e ação
 
-O [Figma 1](link do figma) apresenta os elementos do guia de estilo a ser seguido neste projeto. Os elementos estão divididos em 3 grupos:
+&emsp;&emsp;O [Figma 1](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1) apresenta os elementos do guia de estilo a ser seguido neste projeto. Os elementos estão divididos em 3 grupos:
 
 - Elementos de interface:
     1. Disposição espacial e grid
@@ -93,12 +96,21 @@ O [Figma 1](link do figma) apresenta os elementos do guia de estilo a ser seguid
 
 </div>
 
+## Conclusão
 
+
+Além disso, estamos utilizando protótipos de [baixa]() e [alta]() fidelidade para validar as soluções propostas. Esses protótipos nos permitem testar e interar o design, considerando diferentes fluxos de interação, layouts e elementos visuais. Com base nos resultados obtidos, faremos ajustes e refinamentos no guia de estilo, garantindo que as [Metas de Usabilidade]() sejam alcançadas.
 
 
 ## Referência Bibliográfica
 
 [1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 06/05/2023.
+
+[2] Marcus, A. Graphic Design for Electronic Documents and User Interfaces. New York,
+NY: Th e ACM Press, 1992.
+
+[3] Mayhew, D. Th e Usability Engineering Lifecycle: a practitioner’s handbook for user interface
+design. San Francisco, CA: Morgan Kaufmann, 1999.
 
 ## Bibliografia
 
@@ -111,6 +123,8 @@ O [Figma 1](link do figma) apresenta os elementos do guia de estilo a ser seguid
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 06/05/2023 | `1.0`  | Criação da introdução e escolha das tarefas | [Larissa Gomes](https://github.com/larigs) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
-| 15/05/2023 | `1.0`  | Criação do figma | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 15/05/2023 | `1.1`  | Criação do figma | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 03/07/2023 | `2.0`  | Correção do figma | [Giovanni Alvissus](https://github.com/giovanni1106) | 03/07/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 15/05/2023 | `2.1`  | Correção dos textos | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>
