@@ -63,16 +63,13 @@ Sendo assim, foi elaborado 2 tabelas a tabela 1 diretamenta da avaliação elabo
 | 8 | O artefato apresenta quais objetivos devem ser alcançados ou estebelecidos de se realizar uma avaliação? | Sim | Excelente | --- |
 | 9 | A respeito dos participantes, foi descrito que devem apresentar uma quantidade definida de participantes para as atividades proposta? | Sim | Excelente | --- |
 | 10 | A respeito dos participantes, foi descrito que devem apresentar um motivo da  escolha da quantidade definida de participantes para as atividades propostas? | Sim | Excelente | --- |
-| 11 | A respeito dos participantes, foi descrito que será documentado a experiência dos participantes quanto a design? | Não | --- | Não foi dito que especialidade dos participantes será documentada. |
-| 12 | A respeito das atividades de coleta porposta foi descrito que elas devem possuir uma rastreabilidade? | Não | --- | Não foi descrito que as perguntas na avaliação devem ter rastreabilidade. |
-| 13 | A respeito das atividades de coleta porposta, foi dito que ela deve possuir o objetivo de sua escolha? | Não | --- | Não foi descrito que deve possuir um motivo da escolha da atividade proposta. |
-| 14 | A respeito do registro das atividades de coleta porposta, foi dito que o mesmo deve possuir um? | Sim | Excelente | --- |
-| 15 | Sobre os termos éticos, foi descrito que deve possuir um termo de consentimento? | Sim | Excelente | --- |
-| 16 | Sobre os termos éticos, foi descrito que deve possuir um resguardo a respeito dos dados coletados? | Sim | Excelente | --- |
-| 17 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Não | --- | Não foi dito nada sobre assinatura do participante. |
-| 18 | Sobre a organização da realização das atividades propostas, foi descrito que ela deve conter um teste piloto antes da sua realização? | Não | --- | Não foi dito que as atividades devem conter um teste piloto. |
-| 19 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente | --- |
-| 20 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente | --- |
+| 11 | A respeito das atividades de coleta porposta, foi dito que ela deve possuir o objetivo de sua escolha? | Não | --- | Não foi descrito que deve possuir um motivo da escolha da atividade proposta. |
+| 12 | A respeito do registro das atividades de coleta porposta, foi dito que o mesmo deve possuir um? | Sim | Excelente | --- |
+| 13 | Sobre os termos éticos, foi descrito que deve possuir um termo de consentimento? | Sim | Excelente | --- |
+| 14 | Sobre os termos éticos, foi descrito que deve possuir um resguardo a respeito dos dados coletados? | Sim | Excelente | --- |
+| 15 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Não | --- | Não foi dito nada sobre assinatura do participante. |
+| 16 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente | --- |
+| 17 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente | --- |
 
 <b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
 
@@ -156,6 +153,34 @@ Algumas correções sugeridas são:
 <li> Eleger a necessidade de um teste piloto para a atividade escolhida.
 </div>
 
+## Correções Realizadas
+
+<div align="justify">
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 3):
+
+| ID | Conteúdo | Possue | Qualidade | Observação |
+| - | - | - | - | - |
+| 7 | O artefato faz referência ao uso do framework DECIDE, ou outra metodologia de planeamento de avaliação de artefato? | Sim | Excelente |  |
+| 8 | O artefato apresenta quais objetivos devem ser alcançados ou estebelecidos de se realizar uma avaliação? | Sim | Excelente |  |
+| 9 | A respeito dos participantes, foi descrito que devem apresentar uma quantidade definida de participantes para as atividades proposta? | Sim | Excelente |  |
+| 10 | A respeito dos participantes, foi descrito que devem apresentar um motivo da  escolha da quantidade definida de participantes para as atividades propostas? | Sim | Excelente |  |
+| 11 | A respeito das atividades de coleta porposta, foi dito que ela deve possuir o objetivo de sua escolha? | Sim | Excelente |  |
+| 12 | A respeito do registro das atividades de coleta porposta, foi dito que o mesmo deve possuir um? | Sim | Excelente |  |
+| 13 | Sobre os termos éticos, foi descrito que deve possuir um termo de consentimento? | Sim | Excelente |  |
+| 14 | Sobre os termos éticos, foi descrito que deve possuir um resguardo a respeito dos dados coletados? | Sim | Excelente |  |
+| 15 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Sim | Excelente |  |
+| 16 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente |  |
+| 17 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente |  |
+
+
+<b>Tabela 3</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: PENHA, Igor. 2023).
+
+</div>
+
 ## Bibliografia
 
 - [1]BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 05 jun. 2023.
@@ -176,5 +201,6 @@ Algumas correções sugeridas são:
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 05/05/2023 | 1.0 | Criado o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 05/05/2023 | 1.1 | Corrigido o documento | [Mizael Santos](https://github.com/frmiza) | 05/06/2023 | [Larissa Gomes](https://github.com/larigs) |
+| 04/07/2023 | `2.0` | Acompanhando os artefatos |  [Igor Penha](https://github.com/igorpenhaa) | 04/07/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 
 </div>
