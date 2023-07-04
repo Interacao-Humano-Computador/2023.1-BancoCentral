@@ -294,6 +294,6 @@ Vídeo 6: Teste de usabilidade com João Pedro (Fonte: RIBEIRO, Bruno. 2023)
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 25/06/2023 | `1.0` | Criação do documento | [Rafael Bosi](https://github.com/StrangeUnit28) | 25/06/2023 | [Mizael Santos](https://github.com/frmiza) |
+| 25/06/2023 | `1.0` | Criação do documento | [Rafael Bosi](https://github.com/StrangeUnit28), [Igor Penha](https://github.com/igorpenhaa) e [Bruno Ribeiro](https://github.com/brunoriibeiro) | 25/06/2023 | [Mizael Santos](https://github.com/frmiza) |
 
 </div>
