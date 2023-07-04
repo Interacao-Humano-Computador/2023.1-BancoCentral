@@ -105,69 +105,93 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 ### Disposição espacial, grid e Janelas
 
-&emsp;&emsp; Define as diretrizes para a organização dos elementos na tela, incluindo a estrutura de grade (grid) a ser utilizada para garantir alinhamento e consistência visual, além de estabelecer os estilos e comportamentos das janelas, como posicionamento, tamanho, bordas e interações de abertura e fechamento. Foram desenvolvidas quatro padrões de janelas, uma para a Home, outra para as telas de informação e uma para as telas de operações(tarefas. As seções das janelas foram feitas considerando o grid, ja com suas medidas e espaçamentos. As seções e medidas do grid são apresentadas na Figura 1.
+&emsp;&emsp; Define as diretrizes para a organização dos elementos na tela, incluindo a estrutura de grade (grid) a ser utilizada para garantir alinhamento e consistência visual, além de estabelecer os estilos e comportamentos das janelas, como posicionamento, tamanho, bordas e interações de abertura e fechamento.  As seções e medidas do grid são apresentadas na Figura 1.
 
-<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Grid.png" width="100%">
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/grid.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 1</b>: Sistema de grids e janelas (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
 
+&emsp;&emsp; Foram desenvolvidas três padrões de janelas, uma para a Home, outra para as telas de informação e uma para as telas de operações(tarefas. As seções das janelas foram feitas considerando o grid, ja com suas medidas e espaçamentos.
+
 ### Tipografia
 
-&emsp;&emsp; Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência. O guia dispões de duas fontes diferentes, como a Cormorant Garamond para títulos ou textos que precisem de destaque e a Ubuntu para os demais textos. Na Figura 2 é representado como seriam essas fontes, além de especificado o tamanho e weight de acordo com cada opção.
+&emsp;&emsp; Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência. Na Figura 2 é representado como seriam essas fontes, além de especificado o tamanho e weight de acordo com cada opção.
 
-<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Fonts.png" width="100%">
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/fonts.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 2</b>: Tipografia (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
 
+&emsp;&emsp; O guia dispõe de duas fontes diferentes, como a Cormorant Garamond para títulos ou textos que precisem de destaque e a Ubuntu para os demais textos. 
+
 ### Símbolos não tipográficos
 
-&emsp;&emsp; São elementos gráficos que são usados para representar informações ou conceitos específicos e não são parte do conjunto de caracteres alfanuméricos tradicionais. Esses elementos são representados como ícones (Figura 3), possuindo funcionalidades como pesquisa, contraste, troca de idioma, entre outros.
+&emsp;&emsp; São elementos gráficos que são usados para representar informações ou conceitos específicos e não são parte do conjunto de caracteres alfanuméricos tradicionais. Esses elementos são representados como ícones na Figura 3. 
 
 <img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/icons.png" width="100%">
 
 <div align="center">
-<p> <b>Figura 3</b>: Símbolos não tipográficos (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+<p> <b>Figura 3</b>: Ícones (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
+
+&emsp;&emsp; Os ícones desenvolvidos possuem funcionalidades como pesquisa, contraste, troca de idioma, entre outros.
 
 ### Cores
 
-&emsp;&emsp; Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos. As cores escolhidas (Figura 4) foram baseadas na paleta já utilizada pelo Banco Central. Com excessão dos links, todos os tipos possuem pelo menos duas cores, a primária e a secundária, em alguns casos apenas a primária e a cor de destaque.
+&emsp;&emsp; Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos. As cores escolhidas (Figura 4) foram baseadas na paleta já utilizada pelo Banco Central. 
 
-<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Cores.png" width="100%">
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/cores.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 4</b>: Cores (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
 
+&emsp;&emsp; Com excessão dos links, todos os tipos possuem pelo menos duas cores, a primária e a secundária, em alguns casos apenas a primária e a cor de destaque.
+
 ## Elementos de interação
 
 &emsp;&emsp; Os elementos de interação são responsáveis por fornecer feedback ao usuário e permitir a manipulação da interface. Eles incluem:
 
-### Estilos de interação, Seleção de um estilo
+### Estilos de interação, Seleção de um estilo e Aceleradores
 
-&emsp;&emsp; É definido os diferentes estilos de interação, como botões, links, menus suspensos, campos de entrada, entre outros, e fornece diretrizes para o uso adequado de cada estilo. Além disso é importante definir a seleção do estilo de interação mais apropriado para cada tipo de elemento na interface, considerando sua finalidade e contexto de uso. A Figura 5 contém todos os elementos possíveis de se interagir, com uma diretriz de sua funcionalidade e em qual contexto de interface usar (baseado no constraste)
+&emsp;&emsp; É definido os diferentes estilos de interação, como botões, links, menus suspensos, campos de entrada, entre outros, e fornece diretrizes para o uso adequado de cada estilo. Além disso é importante definir a seleção do estilo de interação mais apropriado para cada tipo de elemento na interface, considerando sua finalidade e contexto de uso. A Figura 5 contém todos os elementos possíveis de se interagir, com uma diretriz de sua funcionalidade e em qual contexto de interface usar (baseado no constraste). A Figura 6 apresenta um acelerador em formato de menu suspenso.
 
-<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Cores.png" width="100%">
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/elementos_int_acao.png" width="100%">
 
 <div align="center">
-<p> <b>Figura 5</b>: Elementos de interação (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+<p> <b>Figura 5</b>: Elementos de interação e seleção de estilo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
 
-3. Aceleradores (teclas de atalho): Define a utilização de teclas de atalho para ações comuns, visando a agilidade e a eficiência na interação do usuário com a aplicação.
+&emsp;&emsp; Há dois tipos de caixas de texto, dois tipos de botões comuns, um tipo de dropbox e um de radiobox, cada um possuindo as alternativas para o modo claro e escuro.
+
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/navbar.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 6</b>: Acelerador (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
+
+&emsp;&emsp; O menu suspenso foi projetado para facilitar a navegação do usuário, devendo estar sempre presente em todas as telas.
 
 ## Elementos de ação
 
-&emsp;&emsp;Os elementos de ação estão relacionados às ações que o usuário pode executar na interface. Eles incluem:
+&emsp;&emsp; Os elementos de ação estão relacionados às ações que o usuário pode executar na interface. Eles incluem:
 
-1. Preenchimento de campos: Estabelece as diretrizes para o preenchimento de campos, como formulários e caixas de diálogo, garantindo a consistência na entrada de informações.
+### Preenchimento de campos
 
-2. Seleção: Define como o usuário pode selecionar elementos, como caixas de seleção, botões de rádio ou seleção de itens em listas, de forma clara e intuitiva.
+&emsp;&emsp; Estabelece as diretrizes para o preenchimento de campos, como formulários e caixas de diálogo, garantindo a consistência na entrada de informações. Os elementos que um usuário pode preencher estão presentes na Figura 5, são eles as caixas de texto, onde o usuário deve digitar, em cima ou ao lado da caixa de texto deve ser informado com coerência o que o usuário deve preencher.
 
-3. Ativação: Orienta a ativação de elementos interativos, como botões, links ou ícones, de maneira a fornecer feedback adequado ao usuário e garantir a execução da ação desejada.
+### Seleção
+
+&emsp;&emsp; Define como o usuário pode selecionar elementos, como caixas de seleção, botões de rádio ou seleção de itens em listas, de forma clara e intuitiva. Os elementos que um usuário pode selecionar estão presentes na Figura 5, são eles os dropbox, checkbox e radiobox, em cima ou ao lado das checkbox e radiobox deve ser informado com coerência o que representa cada opção a ser selecionada. Em relação ao dropbox, deve ser descrito o conteúdo geral daquele item, como por exemplo, em um dropbox de seleção de um dia, deveria ter acima ou ao lado dele uma label escrito dia, indicando o objetivo daquele elemento. 
+
+### Ativação
+
+&emsp;&emsp; Orienta a ativação de elementos interativos, como botões, links ou ícones, de maneira a fornecer feedback adequado ao usuário e garantir a execução da ação desejada. Os elementos que um usuário pode ativar são os ícones (Figura 3), os botões (Figura 5) e o menu suspenso (Figura 6). Os botões devem possuir seu objetivo escrito dentro deles, como um botão de confirmação escrito confirmar, garantindo uma correspondência com o objetivo da ativação. Há também ícones, onde cada um é produzido para representar o que deve ativar ao ser selecionado, como o ícone de contraste ao ser ativado deve mudar do modo claro para o modo escuro, por exemplo. O menu suspenso ao ser selecionado uma das opções de navegação deve ativar um dropdown com as possíveis escolhas do tema selecionado pelo usuário.
+
+
 
 &emsp;&emsp;Consulte o Figma 1 para visualizar os elementos de interface, interação e ação definidos no guia de estilo, com exemplos visuais e especificações detalhadas.
 
@@ -176,7 +200,6 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 <div align="center">
 <p> <b>Figma 1</b>: Guia de Estilo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
-
 
 ## Vocabulário e padrões
 
@@ -193,7 +216,7 @@ As telas desenvolvidas devem seguir os padrões especificados no guia de estilo.
 
 ### Sequências de diálogos
 
-As sequências de diálogos devem incluir feedbacks e confirmações após a finalização ou realização de uma operação. É importante fornecer ao usuário um retorno adequado sobre o status da operação e garantir que ele esteja ciente das ações realizadas.
+As sequências de diálogos devem incluir feedbacks e confirmações após a finalização ou realização de uma operação. É importante fornecer ao usuário um retorno adequado sobre o status da operação e garantir que ele esteja ciente das ações realizadas. Esse feedback de realização será fornecido por meio da realização da operação, pois todas devem possuir um resultado de qualquer operação feita. No caso de feedback de erro, deve aparecer escrito na tela o erro ocorrido, no caso de preenchimento de campos errados, esse feedback deve ser informado em vermelho acima ou abaixo do campo.
 
 
 </div>
@@ -233,7 +256,6 @@ Bringing Design to Soft ware. New York, NY: Addison-Wesley, pp. 171–184, 1996.
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 06/05/2023 | `1.0`  | Criação da introdução e escolha das tarefas | [Larissa Gomes](https://github.com/larigs) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 15/05/2023 | `1.1`  | Criação do figma | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
-| 03/07/2023 | `2.0`  | Correção do figma | [Giovanni Alvissus](https://github.com/giovanni1106) | 03/07/2023 | [Larissa Gomes](https://github.com/larigs) |
-| 15/05/2023 | `2.1`  | Correção dos textos | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 06/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 03/07/2023 | `2.0`  | Correção do figma e dos textos | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 03/07/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>
