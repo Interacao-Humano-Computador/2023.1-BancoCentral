@@ -120,11 +120,13 @@
 <div align="justify">
 <p>É importante realizar a documentação das informações essenciais sobre as pessoas responsáveis pela condução da análise e aquelas que participaram como usuários durante o estudo. Por exemplo, listar os nomes, papéis  e experiência com design dos avaliadores e desenvolvedores do protótipo de papel que estão conduzindo.</p>
 </div>
+<br>
 
 ### Apoio visual
 <div align="justify">
 <p>A importância de se ter um apoio visual está relacionada a compreensão e entendimento da atividade que de propõe realizar. Portanto se torna necessário apresentar o protótipo de papel e seu detalhamento, para que se possa entender a simualção proposta, motivações, objetivos, conformidade e dúvidas que serão sanadas.</p>
 </div>
+<br>
 
 ### Mão-de-obra necessária para conduzir a avaliação, orçamento disponíveis, os prazos e a preparação e o uso dos equipamentos necessários
 
@@ -148,13 +150,11 @@
 
 <li><b>Participantes</b>: Apresente seus nomes e papéis no desenvolvimento da atividade, seguido de sua experiência com design, caso tenham.
 <br>
-<br>
 
 <p><b>Observação</b>: Também apresente a quantidade de participantes durante a realização desta etapa.</p>
 <br>
 
 <b>Exemplo</b>:
-<br>
 <br>
 <b>Participantes</b>:
     <ul>
@@ -168,25 +168,21 @@
 <div align="justify">
 <p>Deve ser apresentado informações quanto ao orçamento para realização do protótipo de papel, o orçamental deve incluir, os gastos necessários com materiais, ferramentas, contratação de avaliadores e acordos de pagamento com os participantes, se aplicável.</p>
 </div>
-<br>
 
 #### Prazo
 <div align="justify">
 <p>O relato dos resultados deve ser realizado até 12/06/2023 para a realização da entrega do relato dentro da matéria. </p>
 </div>
-<br>
 
 #### Equipamentos e Ferramentas
 <div align="justify">
 <p>Todas os equipamentos e ferramentas utilizados no desenvolvimento, incluindo as necessárias para realizar a gravação, prototipação, colate e análise dos resultados devem ser documentadas corretamente.</p>
 </div>
-<br>
 
 ### Aspectos éticos
 <div align="justify">
 <p>Lançar mão de um termo de consentimento para realização das atividades que envolvam um usuário, como a pototipação em papel, é de extrema importância para evitar atrito com os usuários do protótipo. Por meio desta abordagem pode-se garantir que a pesquisa se mantem dentro de lei vigente, portanto, o termo de consentimento apresentado aos participantes, deve conter espaço para sua assinatura e informações que o resguarde quanto ao uso de sua imagem e sigilo dos dados coletados.</p>
 </div>
-<br>
 
 ### Perguntas que devem ser exploradas
 <div align="justify">
