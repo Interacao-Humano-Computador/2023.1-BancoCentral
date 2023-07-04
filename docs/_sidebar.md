@@ -28,6 +28,7 @@
     - [Cenários](analise_requisitos/cenarios.md)
     - [Aspectos éticos](analise_requisitos/aspectos_eticos.md)
     - [Análise de Tarefas](analise_requisitos/analise_tarefas.md)
+    - [Termo de Consentimento](analise_requisitos/termo-consentimento-entrevista.md)
 - [Análise de Requisitos II](analise_requisitos/principios_gerais.md)
     - [Princípios Gerais do Projeto](analise_requisitos/principios_gerais.md)
     - [Metas de Usabilidade](analise_requisitos/metas_usabilidade.md)
