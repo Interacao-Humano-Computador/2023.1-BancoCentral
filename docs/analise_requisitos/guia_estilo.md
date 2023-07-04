@@ -168,7 +168,7 @@ Para a criação do guia de estilo, foi adotada uma abordagem que envolveu a an�
 
 Ao seguir o guia de estilo, os desenvolvedores, designers e equipes envolvidas no projeto poderão criar interfaces consistentes e intuitivas, alinhadas com as expectativas e necessidades dos usuários. O guia também serve como referência para a manutenção contínua do projeto, garantindo que as alterações futuras estejam em conformidade com as diretrizes estabelecidas.
 
-Com base nos resultados obtidos nos testes e protótipos ([baixa fidelidade]() e [alta fidelidade]()), o guia de estilo será atualizado regularmente para atender às [metas de usabilidade]() estabelecidas. A manutenção do guia será fundamental para garantir a padronização e a consistência na interface do projeto.
+Com base nos resultados obtidos nos testes e protótipos ([baixa fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados) e [alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao)), o guia de estilo será atualizado regularmente para atender às [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade) estabelecidas. A manutenção do guia será fundamental para garantir a padronização e a consistência na interface do projeto.
 
 ## Referência Bibliográfica
 
