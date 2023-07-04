@@ -63,6 +63,84 @@
 
 &emsp;&emsp;Este documento deve ser consultado sempre que houver uma decisão de design ou desenvolvimento que afete o projeto. Ele também deve ser utilizado como referência para manutenção e atualização do site. Tendo como propósito ser utilizado unicamente para o desenvolvimento do projeto de IHC.
 
+### Como manter o guia
+
+&emsp;&emsp;O guia de estilo é um recurso dinâmico que requer manutenção contínua para garantir sua relevância e eficácia ao longo do tempo. É fundamental que o guia seja mantido atualizado e alinhado com as evoluções do projeto, bem como com as novas descobertas e insights obtidos durante o desenvolvimento e a interação com os usuários.
+
+Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes práticas:
+
+1. **Atualizações regulares**: Sempre que ocorrerem decisões de design ou desenvolvimento que afetem o site, o guia de estilo deverá ser atualizado para refletir essas mudanças. Isso inclui adicionar novos elementos de interface, atualizar diretrizes existentes e ajustar as recomendações com base em feedbacks e aprendizados obtidos durante o processo de desenvolvimento.
+
+2. **Colaboração contínua**: Manter o guia de estilo é uma tarefa colaborativa. Encorajamos a participação ativa da equipe de desenvolvimento, designers e outros stakeholders para fornecer feedback, sugestões e contribuições para o aprimoramento do guia. Além disso, novos membros da equipe devem ser orientados sobre a importância do guia de estilo e como utilizá-lo corretamente.
+
+3. **Versionamento e controle de alterações**: É recomendado utilizar um sistema de controle de versão para o guia de estilo, permitindo rastrear e revisar as alterações feitas ao longo do tempo. Isso facilita a colaboração, a revisão de alterações anteriores e a identificação de possíveis regressões.
+
+4. **Avaliação e feedback dos usuários**: Devemos buscar constantemente o feedback dos usuários sobre a usabilidade da interface. As percepções e necessidades dos usuários podem mudar ao longo do tempo, portanto, é importante estar aberto a sugestões e críticas construtivas para aprimorar o guia de estilo e a experiência do usuário.
+
+&emsp;&emsp;Ao seguir essas práticas, estaremos comprometidos em manter o guia de estilo atualizado e relevante, garantindo que as diretrizes de design sejam aplicadas de forma consistente em todo o projeto e oferecendo aos usuários uma experiência de qualidade e coerência.
+
+## Resultados de análise
+
+&emsp;&emsp;Ao analisar o ambiente de trabalho do usuário para o site do Banco Central do Brasil, levando em consideração as respostas obtidas no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01), foram identificadas as seguintes características:
+
+1. **Monitor e Resolução**: A maioria dos usuários acessa o site por meio de monitores de desktop, com resoluções variando de 1366x768 pixels a resoluções maiores, como 1920x1080 pixels. Portanto, é importante otimizar o design para essas resoluções comuns, garantindo que o conteúdo seja legível e bem organizado.
+
+2. **Navegadores**: Os usuários do site do Banco Central do Brasil utilizam diferentes navegadores populares, como Google Chrome, Mozilla Firefox, Microsoft Edge e Safari. É essencial que o site seja compatível com esses navegadores e seja testado em diferentes versões para garantir uma experiência consistente.
+
+3. **Sistema Operacional**: Considerando que a maioria dos acessos é realizada por meio do desktop, é importante levar em conta os diferentes sistemas operacionais utilizados pelos usuários, como Windows, macOS e Linux. O design e a funcionalidade do site devem ser compatíveis com esses sistemas operacionais, garantindo uma experiência adequada.
+
+4. **Periféricos**: Os usuários do site podem utilizar periféricos comuns, como mouse, teclado e touchpad para interagir com a interface. É importante projetar a interação levando em consideração a utilização desses periféricos, garantindo que todas as funcionalidades sejam acessíveis e fáceis de usar.
+
+5. **Conectividade**: Embora a maioria dos acessos ao site seja por meio do desktop, é importante considerar que os usuários podem ter diferentes tipos de conexão à internet. Portanto, o design do site deve ser otimizado para carregamento rápido e responsivo, levando em conta conexões mais lentas ou instáveis.
+
+6. **Contexto de Uso**: Os usuários podem acessar o site do Banco Central do Brasil em diferentes contextos de uso, como em casa, no trabalho ou em locais públicos. É importante considerar a privacidade, a segurança e a confidencialidade dos dados dos usuários, garantindo que a interface seja projetada levando em conta essas preocupações.
+
+&emsp;&emsp;Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
+
+
+## Elementos de interface, interação e ação
+
+&emsp;&emsp;O guia de estilo define os elementos de interface, interação e ação a serem seguidos neste projeto. Eles são organizados em três grupos principais:
+
+### 1 Elementos de interface
+
+&emsp;&emsp;Os elementos de interface são responsáveis pela organização visual e estrutural da aplicação. Eles incluem:
+
+1. Disposição espacial e grid: Define as diretrizes para a organização dos elementos na tela, incluindo a estrutura de grade (grid) a ser utilizada para garantir alinhamento e consistência visual.
+
+2. Janelas: Estabelece os estilos e comportamentos das janelas, como posicionamento, tamanho, bordas e interações de abertura e fechamento.
+
+3. Tipografia: Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência.
+
+4. Cores: Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos.
+
+### 2 Elementos de interação
+
+&emsp;&emsp;Os elementos de interação são responsáveis por fornecer feedback ao usuário e permitir a manipulação da interface. Eles incluem:
+
+1. Estilos de interação: Define os diferentes estilos de interação, como botões, links, menus suspensos, campos de entrada, entre outros, e fornece diretrizes para o uso adequado de cada estilo.
+
+2. Seleção de um estilo: Orienta a seleção do estilo de interação mais apropriado para cada tipo de elemento na interface, considerando sua finalidade e contexto de uso.
+
+3. Aceleradores (teclas de atalho): Define a utilização de teclas de atalho para ações comuns, visando a agilidade e a eficiência na interação do usuário com a aplicação.
+
+### 3 Elementos de ação
+
+&emsp;&emsp;Os elementos de ação estão relacionados às ações que o usuário pode executar na interface. Eles incluem:
+
+1. Preenchimento de campos: Estabelece as diretrizes para o preenchimento de campos, como formulários e caixas de diálogo, garantindo a consistência na entrada de informações.
+
+2. Seleção: Define como o usuário pode selecionar elementos, como caixas de seleção, botões de rádio ou seleção de itens em listas, de forma clara e intuitiva.
+
+3. Ativação: Orienta a ativação de elementos interativos, como botões, links ou ícones, de maneira a fornecer feedback adequado ao usuário e garantir a execução da ação desejada.
+
+&emsp;&emsp;Consulte o Figma 1 para visualizar os elementos de interface, interação e ação definidos no guia de estilo, com exemplos visuais e especificações detalhadas.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1" allowfullscreen></iframe>
+
+<div align="center">
+<p> <b>Figma 1</b>: Guia de Estilo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
 
 
 ## Vocabulário e padrões
