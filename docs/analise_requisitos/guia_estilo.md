@@ -68,11 +68,11 @@
 ### Como manter o Guia
 
 Reconhecemos que a criação do guia de estilo é um processo contínuo e dinâmico. Portanto, além das melhorias iniciais, planejamos fornecer manutenção regular ao guia de estilo à medida que o projeto evolui e novos insights são obtidos. Essa abordagem nos permitirá adaptar e aprimorar constantemente a interface, mantendo-a alinhada com as necessidades e expectativas dos usuários.
-&emsp;&emsp;Sempre que houver uma decisão de design ou desenvolvimento que afete o site, o Guia de Estilo deve ser atualizado para estar de acordo com essas alterações. Sendo importante ressaltar a necessidade de ser atualizado regularmente para garantir que a padronização seja mantida em todo o site.
+&emsp;&emsp; Sempre que houver uma decisão de design ou desenvolvimento que afete o site, o Guia de Estilo deve ser atualizado para estar de acordo com essas alterações. Sendo importante ressaltar a necessidade de ser atualizado regularmente para garantir que a padronização seja mantida em todo o site.
 
 ## Resultados de análise
 
-&emsp;&emsp;Ao analisar o ambiente de trabalho do usuário para o site do Banco Central do Brasil, levando em consideração as respostas obtidas no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01), foram identificadas as seguintes características:
+&emsp;&emsp; Ao analisar o ambiente de trabalho do usuário para o site do Banco Central do Brasil, levando em consideração as respostas obtidas no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01), foram identificadas as seguintes características:
 
 1. **Monitor e Resolução**: A maioria dos usuários acessa o site por meio de monitores de desktop, com resoluções variando de 1366x768 pixels a resoluções maiores, como 1920x1080 pixels. Portanto, é importante otimizar o design para essas resoluções comuns, garantindo que o conteúdo seja legível e bem organizado.
 
@@ -86,7 +86,7 @@ Reconhecemos que a criação do guia de estilo é um processo contínuo e dinâm
 
 6. **Contexto de Uso**: Os usuários podem acessar o site do Banco Central do Brasil em diferentes contextos de uso, como em casa, no trabalho ou em locais públicos. É importante considerar a privacidade, a segurança e a confidencialidade dos dados dos usuários, garantindo que a interface seja projetada levando em conta essas preocupações.
 
-Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
+&emsp;&emsp; Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
 
 
 ## Elementos de interface, interação e ação
