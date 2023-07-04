@@ -20,7 +20,7 @@
     - [Site Selecionado](planejamento/site_selecionado.md)
     - [Projeto de Design](planejamento/processo_de_design.md)
 - [Análise de Requisitos I](analise_requisitos/perfil_usuario.md)
-    - [Termo de Consentimento](questionarios/termo-de-consentimento.md)
+    - [Termo de Consentimento](questionarios/termo-de-consentimento-.md)
     - [Perfil de Usuário](analise_requisitos/perfil_usuario.md)
 
         - [Questionário 1 - Perfil do Usuário](questionarios/questionario_01.md)
@@ -28,6 +28,7 @@
     - [Cenários](analise_requisitos/cenarios.md)
     - [Aspectos éticos](analise_requisitos/aspectos_eticos.md)
     - [Análise de Tarefas](analise_requisitos/analise_tarefas.md)
+    - [Termo de Consentimento Entrevista](analise_requisitos/termo-consentimento-entrevista.md)
 - [Análise de Requisitos II](analise_requisitos/principios_gerais.md)
     - [Princípios Gerais do Projeto](analise_requisitos/principios_gerais.md)
     - [Metas de Usabilidade](analise_requisitos/metas_usabilidade.md)

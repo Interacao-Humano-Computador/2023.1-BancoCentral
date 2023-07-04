@@ -23,9 +23,9 @@ Vídeo 1: Teste Piloto (Fonte: RIBEIRO, Bruno. 2023)
 ## Metodologia 
 <div align="justify">
 
-&emsp;&emsp;Assim como proposto no documento de <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/prototipo_alta_fidelidade/relato_resultado_alta.md">Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade</a>, foram realizadas entrevistas nas quais foram aplicados testes de usabilidade, onde um ou mais usuários realizam uma série de tarefas em ambiente controlado, tais tarefas propostas podem incluir, navegabilidade, registro, manipulação do deisgn entre outras correlatas.
+&emsp;&emsp;Assim como proposto no documento de <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/prototipo_alta_fidelidade/relato_resultado_alta">Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade</a>, foram realizadas entrevistas nas quais foram aplicados testes de usabilidade, onde um ou mais usuários realizam uma série de tarefas em ambiente controlado, tais tarefas propostas podem incluir, navegabilidade, registro, manipulação do deisgn entre outras correlatas.
 
-&emsp;&emsp;Importante lembrar que no começo de todas as entrevistas os entrevistadores leram o <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/termo-de-consentimento.md">Termo de Consentimento</a> aos entrevistados, além de orienta-los de que os locais que pedissem informações seriam autocompletados ao clicar no espaço onde os dados deveriam ser digitados. Também foi pedido para que os participantes retornassem a home do protótipo após finalizarem cada tarefa, para assim, poderem começar outro fluxo.
+&emsp;&emsp;Importante lembrar que no começo de todas as entrevistas os entrevistadores leram o <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/termo-de-consentimento">Termo de Consentimento</a> aos entrevistados, além de orienta-los de que os locais que pedissem informações seriam autocompletados ao clicar no espaço onde os dados deveriam ser digitados. Também foi pedido para que os participantes retornassem a home do protótipo após finalizarem cada tarefa, para assim, poderem começar outro fluxo.
 
 &emsp;&emsp;Vale lembrar também que os participantes foram orientados a falarem em voz alta o que estavam pensando e fazendo durante toda a interação com o sistema. Além disso, na parte final das entrevistas foi dado um espaço para os participantes darem a própria opinião sobre o que acharam da interface e da navegabilidade do sistema. 
 </div>
@@ -54,7 +54,7 @@ Vídeo 1: Teste Piloto (Fonte: RIBEIRO, Bruno. 2023)
 <li> <b>Comparar taxas pré-fixadas de diferentes bancos para aquisição de veículos:</b> Para desenvolver essa tarefa com êxito, o particpante deve realizar algumas operações referentes a cáculo de taxa de juros disponível no protótipo de alta fidelidade sem muitas dificuldades.
 </ol>
 
-&emsp;&emsp;Os objetivos, motivações tal como o fluxo de tarefas foram detalhados individualmente no artefato <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/prototipo_alta_fidelidade/planejamento_avaliacao.md">Planejamento da Avaliação</a>[3], a partir disso as metas de cada um dos fluxos foi traçada de antemão a fim de obtermos um comparativo do esperado com o realizado pelos participantes nas entrevistas.
+&emsp;&emsp;Os objetivos, motivações tal como o fluxo de tarefas foram detalhados individualmente no artefato <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/prototipo_alta_fidelidade/planejamento_avaliacao">Planejamento da Avaliação</a>[3], a partir disso as metas de cada um dos fluxos foi traçada de antemão a fim de obtermos um comparativo do esperado com o realizado pelos participantes nas entrevistas.
 
 &emsp;&emsp;Na <b>Tabela 1</b> do próximo tópico, na coluna de fluxos efetuados, foram utilizados os índices acima para representar que tarefas os participantes realizaram durante as entrevistas.
 </div>
@@ -91,7 +91,7 @@ Vídeo 1: Teste Piloto (Fonte: RIBEIRO, Bruno. 2023)
 ## Protótipo de Alta Fidelidade
 <div align="justify">
 
-&emsp;&emsp;O protótipo de Alta Fidelidade utilizado durante os testes de usabilidade foi elaborado na plataforma Figma[2] e encontra-se mais detalhado no artefato <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/prototipo_alta_fidelidade/prototipacao.md">Prototipação</a>. Nele é possível encontrar um apoio visual 
+&emsp;&emsp;O protótipo de Alta Fidelidade utilizado durante os testes de usabilidade foi elaborado na plataforma Figma[2] e encontra-se mais detalhado no artefato <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/prototipo_alta_fidelidade/prototipacao">Prototipação</a>. Nele é possível encontrar um apoio visual 
 
 </div>
 

@@ -6,7 +6,7 @@
 
 ## Título da Pesquisa: Termo de consentimento questionário
 
-Pesquisador Responsável: [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Giovanni Alvissus]
+Pesquisador Responsável: [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Giovanni Alvissus](https://github.com/giovanni1106)
 
 Instituição: Universidade de Brasília
 
