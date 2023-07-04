@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-&emsp;&emsp; De acordo com Simone Barbosa e Bruno Diniz [1], um <b>Guia de Estilo</b> reune os princípios e as diretrizes adotados em um projeto. Tratando-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, sendo assim efetivamente incorporadas no produto final. O guia de estilo seguirá a estrutura proposta por Marcus e Mayhew [2].
+&emsp;&emsp; De acordo com Simone Barbosa e Bruno Diniz [1], um <b>Guia de Estilo</b> reune os princípios e as diretrizes adotados em um projeto. Tratando-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, sendo assim efetivamente incorporadas no produto final. 
 
 &emsp;&emsp; Para a realização do guia de estilo, foi adotada uma abordagem baseada nos pontos negativos identificadas durante a [Avaliação Heurística]() do site. Para desenvolver as melhorias foi seguido os princípios definidos no [Princípios Gerais do Projeto](), priorizando a simplicidade nas estruturas das tarefas, consistência e padronização, promoção da eficiência do usuário na realização da tarefa. Entretanto, mesmo priorizando esses princípios, os demais disponíveis no documento de [Princípios Gerais do Projeto]() também serão seguidos. O objetivo é aprimorar a experiência do usuário, proporcionando uma interface intuitiva, eficiente e agradável.
 
@@ -38,9 +38,12 @@
 
  - <b>Design de telas e elementos de interface (widgets)</b>
  
+ 
 </dl>
 
-&emsp;&emsp;Esses elemento serão utilizados para cumprir o objetivo deste guia de estilo, fornecendo orientações sobre os elementos de interface, interação e ação utilizados no site do <b>Banco Central do Brasil</b>. O objetivo final deste artefato é padronizar a aparência e a interação do site, garantindo uma experiência do usuário consistente e de alta qualidade.
+&emsp;&emsp; Esses elemento serão utilizados para cumprir o objetivo deste guia de estilo, fornecendo orientações sobre os elementos de interface, interação e ação utilizados no site do <b>Banco Central do Brasil</b>. 
+
+&emsp;&emsp; O guia de estilo seguirá a estrutura proposta por Marcus [3] e Mayhew [2], onde é dividada em tópicos e subtópicos, os tópicos a serem seguidos são: Introdução, Resultados de análise, Elementos de interface, Elementos de interação, Elementos de ação e Vocabulário e padrões. Os subtópicos seguem os elementos descritos de um guia de estilo. O objetivo final deste artefato é padronizar a aparência e a interação do site, garantindo uma experiência do usuário consistente e de alta qualidade.
 
 ### Público Alvo
 
