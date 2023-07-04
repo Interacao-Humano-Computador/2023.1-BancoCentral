@@ -63,10 +63,21 @@
 
 &emsp;&emsp;Este documento deve ser consultado sempre que houver uma decisão de design ou desenvolvimento que afete o projeto. Ele também deve ser utilizado como referência para manutenção e atualização do site. Tendo como propósito ser utilizado unicamente para o desenvolvimento do projeto de IHC.
 
-### Como manter o Guia
+### Como manter o guia
 
-Reconhecemos que a criação do guia de estilo é um processo contínuo e dinâmico. Portanto, além das melhorias iniciais, planejamos fornecer manutenção regular ao guia de estilo à medida que o projeto evolui e novos insights são obtidos. Essa abordagem nos permitirá adaptar e aprimorar constantemente a interface, mantendo-a alinhada com as necessidades e expectativas dos usuários.
-&emsp;&emsp;Sempre que houver uma decisão de design ou desenvolvimento que afete o site, o Guia de Estilo deve ser atualizado para estar de acordo com essas alterações. Sendo importante ressaltar a necessidade de ser atualizado regularmente para garantir que a padronização seja mantida em todo o site.
+&emsp;&emsp;O guia de estilo é um recurso dinâmico que requer manutenção contínua para garantir sua relevância e eficácia ao longo do tempo. É fundamental que o guia seja mantido atualizado e alinhado com as evoluções do projeto, bem como com as novas descobertas e insights obtidos durante o desenvolvimento e a interação com os usuários.
+
+Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes práticas:
+
+1. **Atualizações regulares**: Sempre que ocorrerem decisões de design ou desenvolvimento que afetem o site, o guia de estilo deverá ser atualizado para refletir essas mudanças. Isso inclui adicionar novos elementos de interface, atualizar diretrizes existentes e ajustar as recomendações com base em feedbacks e aprendizados obtidos durante o processo de desenvolvimento.
+
+2. **Colaboração contínua**: Manter o guia de estilo é uma tarefa colaborativa. Encorajamos a participação ativa da equipe de desenvolvimento, designers e outros stakeholders para fornecer feedback, sugestões e contribuições para o aprimoramento do guia. Além disso, novos membros da equipe devem ser orientados sobre a importância do guia de estilo e como utilizá-lo corretamente.
+
+3. **Versionamento e controle de alterações**: É recomendado utilizar um sistema de controle de versão para o guia de estilo, permitindo rastrear e revisar as alterações feitas ao longo do tempo. Isso facilita a colaboração, a revisão de alterações anteriores e a identificação de possíveis regressões.
+
+4. **Avaliação e feedback dos usuários**: Devemos buscar constantemente o feedback dos usuários sobre a usabilidade da interface. As percepções e necessidades dos usuários podem mudar ao longo do tempo, portanto, é importante estar aberto a sugestões e críticas construtivas para aprimorar o guia de estilo e a experiência do usuário.
+
+&emsp;&emsp;Ao seguir essas práticas, estaremos comprometidos em manter o guia de estilo atualizado e relevante, garantindo que as diretrizes de design sejam aplicadas de forma consistente em todo o projeto e oferecendo aos usuários uma experiência de qualidade e coerência.
 
 ## Resultados de análise
 
@@ -125,7 +136,6 @@ Levando em consideração esses aspectos do ambiente de trabalho do usuário, o 
 </div>
 
 ## Conclusão
-
 
 Além disso, estamos utilizando protótipos de [baixa]() e [alta]() fidelidade para validar as soluções propostas. Esses protótipos nos permitem testar e interar o design, considerando diferentes fluxos de interação, layouts e elementos visuais. Com base nos resultados obtidos, faremos ajustes e refinamentos no guia de estilo, garantindo que as [Metas de Usabilidade]() sejam alcançadas.
 
