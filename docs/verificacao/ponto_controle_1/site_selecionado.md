@@ -116,6 +116,30 @@ Para corrigir com qualidade o artefato analisado, separamos os seguintes pontos:
 
 </div>
 
+## Correções Realizadas
+
+<div align="justify">
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+| id | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | O artefato possui o objetivo do documento? | Sim | Excelente |  |
+| 2 | O artefato possui a metodologia utilizada e sua respectiva descrição?  | Sim | Excelente |  |
+| 3 | O artefato apresenta critérios nos quais foram baseados na hora da escolha do site? | Sim | Excelente |  |
+| 4 | O artefato justifica a escolha do site? | Sim | Excelente |  |
+| 5 | O artefato apresenta um preâmbulo do site escolhido? | Sim | Excelente  |  |
+| 6 | O site já foi trabalhado na disciplina anteriormente? | Não | Excelente |  |
+| 7 | O site apresenta termos de uso disponíveis para serem utilizados na disciplina? sendo ou um site do governo ou de software livre. | Sim | Excelente |  |
+| 8 | O site apresenta relevância para o contexto do projeto ou da disciplina? | Sim | Excelente |  |
+| 9 | O site apresenta disponibilidade de documentação e informações detalhadas? | Sim | Excelente |
+<p><b>Tabela 2</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. 2023)</p>
+
+</div>
+
 ## Bibliografia
 
 - SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 17 jun. 2023.
@@ -130,6 +154,7 @@ Para corrigir com qualidade o artefato analisado, separamos os seguintes pontos:
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 18/06/2023 | `1.0` | Criação do artefato |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 19/06/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 04/07/2023 | `2.0` | Atualização para entrega final |  [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz)| 04/07/2023 | [Rafael Bosi](https://github.com/strangeunit28) |
 
 
 </div>

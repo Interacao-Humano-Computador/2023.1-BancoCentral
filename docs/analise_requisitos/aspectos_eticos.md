@@ -53,15 +53,15 @@ Prezado participante,
 
 <div align="justify">
 
-Convidamos você a participar da pesquisa universitária da matéria de Interação Humano Computador da Universidade de Brasília. O objetivo desta pesquisa é nos aproximarmos mais das pessoas que utilizam ou não o site do Banco Central do Brasil. Para isso, precisamos coletar informações contidas no questionário em questão.
+Convidamos você a participar da pesquisa universitária da matéria de Interação Humano Computador da Universidade de Brasília. O objetivo desta pesquisa é nos aproximarmos mais das pessoas que utilizam ou não o site do Banco Central do Brasil.
 
-Sua participação é voluntária e os resultados obtidos serão utilizados para fins de pesquisa e poderão ser publicados em artigos ou apresentações, mas sem a identificação dos participantes.
+Sua participação é voluntária e os resultados obtidos serão utilizados para fins de pesquisa e poderão ser publicados em artigos ou apresentações, podendo o participante ser identificado com nome, voz e imagem, a depender da atividade realizada.
 
-Ao concordar em participar desta pesquisa, você estará dando o seu consentimento para a utilização das suas respostas para fins acadêmicos.
+Ao concordar em participar desta pesquisa, você estará dando o seu consentimento para a utilização das suas respostas para fins acadêmicos. Os dados coletados serão analisados e tratados em prol de conclusões para melhorias do projeto de nosso grupo.
 
 Se você decidir participar, por favor, leia e concorde com este termo de consentimento, indicando que você está ciente dos procedimentos da pesquisa e concorda em participar.
 
-Ao participar da pesquisa, você estará indicando que leu e compreendeu as informações acima e concorda em participar do questionário. Entende que sua participação é voluntária e que pode desistir a qualquer momento, sem qualquer penalidade. Também entende que as informações coletadas serão anônimas e serão usadas apenas para fins acadêmicos.
+Ao participar da pesquisa, você estará indicando que leu e compreendeu as informações acima e concorda em participar do questionário. Entende que sua participação é voluntária e que pode desistir a qualquer momento, sem qualquer penalidade. Também entende que as informações coletadas serão usadas apenas para fins acadêmicos.
 
 Agradecemos a sua colaboração!
 
@@ -78,5 +78,6 @@ Agradecemos a sua colaboração!
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | ---------- | --------- | -------------------- | ----------------- | --------------- | ---------- |
 | 07/05/2023 | `1.0`     | Criação do documento | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 08/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+| 04/07/2023 | `2.0`     | Atualização do artefato para a entrega final | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 04/07/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 
 </div>

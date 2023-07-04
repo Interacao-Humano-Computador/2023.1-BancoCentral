@@ -114,6 +114,31 @@
 
 </div>
 
+## Correções Realizadas
+
+<div align="justify">
+
+&emsp;&emsp;Para a entrega do projeto final, as seguintes correções foram realizadas:
+- Descreveu acessibilidade do site;
+- Descreveu versão mobile do site;
+- Descreveu metodologia do artefato.
+
+Dessa forma, apenas as correções de conteúdo foram realizadas. A nova tabela dessas correções foi representada na tabela 2:
+
+| ID | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | É mostrado que o site possui ou não acessibilidade ? | Sim | Excelente | - |
+| 2 | É falado sobre a responsividade da página ? | Sim | Excelente |  |
+| 3 | Existe a identificação de pontos negativos do sistema? | Sim | Excelente |  |
+| 4 | São analisadas as limitações da página ? | Sim | Excelente |  |
+| 5 | É verificado se o site oferece ou não um aplicativo mobile ? | Sim | Excelente | - |
+| 6 | O artefato apresenta a metodologia utilizada ? | Sim | Excelente | - |
+
+<b>Tabela 2</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. 2023).
+
+</div>
+
+
 ## Bibliografia
 
 - BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
