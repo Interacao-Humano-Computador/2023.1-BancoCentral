@@ -35,8 +35,8 @@ Ao participar da pesquisa, você estará indicando que leu, compreendeu e está 
 
 Agradecemos a sua colaboração!
 
-Concorda em participar da pesquisa?
-[ ] Sim
+Concorda em participar da pesquisa? </br>
+[ ] Sim  </br>
 [ ] Não
 
 Ao concordar em participar, eu afirmo que:
