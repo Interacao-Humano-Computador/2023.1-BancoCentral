@@ -103,14 +103,23 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 &emsp;&emsp; Os elementos de interface são responsáveis pela organização visual e estrutural da aplicação. Eles incluem:
 
-1. Disposição espacial e grid: Define as diretrizes para a organização dos elementos na tela, incluindo a estrutura de grade (grid) a ser utilizada para garantir alinhamento e consistência visual. O guia de estilo 
+### Disposição espacial, grid e Janelas
 
-2. Janelas: Estabelece os estilos e comportamentos das janelas, como posicionamento, tamanho, bordas e interações de abertura e fechamento.
+&emsp;&emsp; Define as diretrizes para a organização dos elementos na tela, incluindo a estrutura de grade (grid) a ser utilizada para garantir alinhamento e consistência visual, além de estabelecer os estilos e comportamentos das janelas, como posicionamento, tamanho, bordas e interações de abertura e fechamento. Foram desenvolvidas quatro padrões de janelas, uma para a Home, outra para as telas de informação e uma para as telas de operações(tarefas. As seções das janelas foram feitas considerando o grid, ja com suas medidas e espaçamentos. As seções e medidas do grid são apresentadas na Figura 1.
 
-3. Tipografia: Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência.
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Grid.png" width="100%">
 
-4. Cores: Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos.
+### Tipografia
 
+&emsp;&emsp; Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência. O guia dispões de duas fontes diferentes, como a Cormorant Garamond para títulos ou textos que precisem de destaque e a Ubuntu para os demais textos. Na Figura 2 é representado como seriam essas fontes, além de especificado o tamanho e weight de acordo com cada opção.
+
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Fonts.png" width="100%">
+
+### Cores
+
+&emsp;&emsp; Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos. As cores escolhidas foram baseadas na paleta já utilizada pelo Banco Central. Com excessão dos links, todos os tipos possuem pelo menos duas cores, a primária e a secundária, em alguns casos apenas a primária e a cor de destaque.
+
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Cores.png" width="100%">
 
 ## Elementos de interação
 
@@ -162,7 +171,7 @@ As sequências de diálogos devem incluir feedbacks e confirmações após a fin
 
 ## Conclusão
 
-Neste projeto, foi desenvolvido um guia de estilo para orientar o design e a interação de um projeto de Interação Humano-Computador (IHC). O guia foi elaborado com o objetivo de melhorar os erros identificados na Avaliação Heurística do site e nos princípios gerais do projeto, visando aprimorar a usabilidade e a experiência do usuário.
+Neste projeto, foi desenvolvido um guia de estilo para orientar o design e a interação de um projeto de Interação Humano-Computador(IHC). O guia foi elaborado com o objetivo de melhorar os erros identificados na Avaliação Heurística do site e nos princípios gerais do projeto, visando aprimorar a usabilidade e a experiência do usuário.
 
 Para a criação do guia de estilo, foi adotada uma abordagem que envolveu a análise do ambiente de trabalho do usuário, identificando suas necessidades e demandas específicas. Além disso, foram realizados testes com protótipos de baixa e alta fidelidade, permitindo validar as soluções propostas e obter insights para ajustes e refinamentos no guia.
 
