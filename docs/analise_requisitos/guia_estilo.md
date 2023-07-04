@@ -143,19 +143,32 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 ## Vocabulário e padrões
 
-<b>Terminologia:</b> Cabe ao designer decidir o quanto as semelhanças e diferenças na terminologia utilizada pelos usuários devem se refletir em consistência ou quebra de consistência na interação e, posteriormente, na interface com o usuário [1]. Tendo isso em vista, durante esse projeto deve ser ponderado o uso de termos técnicos, utilizando apenas em casos extremamente necessários, priorizando o uso de termos mais comuns aos usuários, visando tornar o sistema mais intuitivo.
+O guia de estilo estabelece diretrizes para o vocabulário e padrões a serem seguidos neste projeto:
 
-<b>Tipos de tela (para tarefas comuns):</b> As telas devem seguir os padrões especificados, se atentando ao tipo de conteúdo da página a ser criada para a seleção da interface, havendo 4 opções de tela. Também deve ser seguido o padrão dos elementos de interface, interação e ação criados no Figma 1.
+### Terminologia
 
-<b>Sequências de diálogos:</b> Em uma sequência de diálogos devem ser gerados feedbacks e confirmações após uma operação ser finalizada ou realizada.
+A decisão sobre a consistência ou variação na terminologia utilizada pelos usuários é responsabilidade do designer. Recomenda-se que o designer avalie cuidadosamente as semelhanças e diferenças na terminologia, considerando a necessidade de consistência na interação e, posteriormente, na interface com o usuário [1]. Durante este projeto, é importante ponderar o uso de termos técnicos, priorizando o uso de termos mais comuns aos usuários, a fim de tornar o sistema mais intuitivo.
+
+### Tipos de tela (para tarefas comuns)
+
+As telas desenvolvidas devem seguir os padrões especificados no guia de estilo. É necessário considerar o tipo de conteúdo da página a ser criada para selecionar a interface adequada. O guia de estilo define quatro opções de tela a serem utilizadas. Além disso, é essencial seguir os padrões estabelecidos para os elementos de interface, interação e ação presentes no [Figma 1](https://www.figma.com/file/qfTjVMd6eqIsLqmj7Ru9gF/Guia-de-estilo---BCB?type=design&node-id=0%3A1&t=hnymK0IpI8aUFX9Q-1).
+
+### Sequências de diálogos
+
+As sequências de diálogos devem incluir feedbacks e confirmações após a finalização ou realização de uma operação. É importante fornecer ao usuário um retorno adequado sobre o status da operação e garantir que ele esteja ciente das ações realizadas.
+
 
 </div>
 
 ## Conclusão
 
+Neste projeto, foi desenvolvido um guia de estilo para orientar o design e a interação de um projeto de Interação Humano-Computador (IHC). O guia foi elaborado com o objetivo de melhorar os erros identificados na Avaliação Heurística do site e nos princípios gerais do projeto, visando aprimorar a usabilidade e a experiência do usuário.
 
-Além disso, estamos utilizando protótipos de [baixa]() e [alta]() fidelidade para validar as soluções propostas. Esses protótipos nos permitem testar e interar o design, considerando diferentes fluxos de interação, layouts e elementos visuais. Com base nos resultados obtidos, faremos ajustes e refinamentos no guia de estilo, garantindo que as [Metas de Usabilidade]() sejam alcançadas.
+Para a criação do guia de estilo, foi adotada uma abordagem que envolveu a análise do ambiente de trabalho do usuário, identificando suas necessidades e demandas específicas. Além disso, foram realizados testes com protótipos de baixa e alta fidelidade, permitindo validar as soluções propostas e obter insights para ajustes e refinamentos no guia.
 
+Ao seguir o guia de estilo, os desenvolvedores, designers e equipes envolvidas no projeto poderão criar interfaces consistentes e intuitivas, alinhadas com as expectativas e necessidades dos usuários. O guia também serve como referência para a manutenção contínua do projeto, garantindo que as alterações futuras estejam em conformidade com as diretrizes estabelecidas.
+
+Com base nos resultados obtidos nos testes e protótipos ([baixa fidelidade]() e [alta fidelidade]()), o guia de estilo será atualizado regularmente para atender às [metas de usabilidade]() estabelecidas. A manutenção do guia será fundamental para garantir a padronização e a consistência na interface do projeto.
 
 ## Referência Bibliográfica
 
