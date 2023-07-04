@@ -5,6 +5,9 @@
 ## Introdução
 <p align="justify">Os cenários são descrições extremamente detalhadas do ambiente e da interação do usuário com a aplicação. Sob essa ótica, essa técnica é utilizada para descrever situações de uso, que permitem elicitar comportamentos e cenários onde os usuários passarão. Dessa forma, é uma estratégia que elicita a parte comportamental do software.</p>
 
+## Metodologia
+A metodologia utilizada neste artefato é a de Cenários, em que é basicamente uma história sobre pessoas realizando uma atividade (Rosson e Carroll, 2002). A modelagem realizada abaixo tomou como base os [slides do capítulo 6](https://aprender3.unb.br/pluginfile.php/2523447/mod_resource/content/4/Apresentacao%20cap06.pdf) do livro "Interação Humano Computado " de Simone Barbosa, disponibilizados pelo professor André Barros.
+
 ## Modelo de Cenário
 Para a descrição dos cenários, existem 5 formas diferentes:
 
@@ -52,7 +55,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 <p> Tabela 2: Cenário 01 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
-### C02: Consultar Taxas e Conversão de Câmbio
+### C02: Converter Moedas
 
 <div style="text-align: center">
 
@@ -159,6 +162,57 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 <p> Tabela 8: Cenário 07 (Fonte: GOBBI, Lucas. 2023).</p>
 </div>
 
+### C08: Calcular Financiamento
+
+<div style="text-align: center">
+
+| Elemento   | Descrição      |
+| ---------- | ----------- |
+| Objetivo   | Calcular financiamento com prestações fixas    |
+| Contexto   | Local: Em Casa <br> Tempo: Durante a noite <br> Pré-condições: Acesso à Internet   |
+| Recursos   | Internet, computador, site do Banco Central   |
+| Ator       | Entusiasta de economia   |
+| Episódios  | - O usuário acessa o site <br> - O usuário acessa, na página inicial, o item "Meu BC" de "Serviços" <br> - O usuário seleciona, dentro de "Meu BC", o item "Calculadora do Cidadão" <br> - O usuário seleciona, dentro de "Calculadora do Cidadão", o item "Financiamento com prestações fixas" <br> - O usuário preenche as lacunas com os dados desejados |
+| Restrições | Fluxo de navegação intuitivo     |
+| Exceção    | Falta de internet ou de energia  |
+
+<p> Tabela 9: Cenário 08 (Fonte: GOBBI, Lucas. 2023).</p>
+</div>
+
+### C09: Calcular Valor Futuro de Capital
+
+<div style="text-align: center">
+
+| Elemento   | Descrição      |
+| ---------- | ----------- |
+| Objetivo   | Calcular valor futuro de um capital    |
+| Contexto   | Local: Em Casa <br> Tempo: Durante a noite <br> Pré-condições: Acesso à Internet   |
+| Recursos   | Internet, computador, site do Banco Central   |
+| Ator       | Entusiasta de economia   |
+| Episódios  | - O usuário acessa o site <br> - O usuário acessa, na página inicial, o item "Meu BC" de "Serviços" <br> - O usuário seleciona, dentro de "Meu BC", o item "Calculadora do Cidadão" <br> - O usuário seleciona, dentro de "Calculadora do Cidadão", o item "Valor futuro de um capital" <br> - O usuário preenche as lacunas com os dados desejados |
+| Restrições | Fluxo de navegação intuitivo     |
+| Exceção    | Falta de internet ou de energia  |
+
+<p> Tabela 10: Cenário 09 (Fonte: GOBBI, Lucas. 2023).</p>
+</div>
+
+### C10: Reclamar Contra um Banco
+
+<div style="text-align: center">
+
+| Elemento   | Descrição      |
+| ---------- | ----------- |
+| Objetivo   | Prestar reclamação contra algum banco    |
+| Contexto   | Local: No shopping <br> Tempo: Durante o dia <br> Pré-condições: Acesso à Internet   |
+| Recursos   | Internet, telefone, site do Banco Central   |
+| Ator       |  Um consumidor qualquer  |
+| Episódios  | - O usuário acessa o site <br> - O usuário acessa, na página inicial, o item "Meu BC" de "Serviços" <br> - O usuário seleciona, dentro de "Meu BC", o item "Reclamação contra bancos" <br> - O usuário seleciona, dentro de "Reclamação contra bancos", o item "Registrar reclamação" <br> - O usuário escolhe a instituição financeira a ser reclamada, e descreve seu problema |
+| Restrições | Fluxo de navegação intuitivo     |
+| Exceção    | Falta de internet ou de energia  |
+
+<p> Tabela 11: Cenário 10 (Fonte: GOBBI, Lucas. 2023).</p>
+</div>
+
 ## Bibliografia
 
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 07/05/2023.
@@ -169,5 +223,6 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 |:------:|:--------:|-----------|-------|:---------:|-----------|
 | 07/05/2023 | `1.0` | Criação do artefato | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 08/05/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 08/05/2023 | `1.1` | Correção de alguns textos | [Larissa Gomes](https://github.com/larigs) | 08/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 04/07/2023 | `2.0` | Correção de alguns textos | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 04/07/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 
 </div>
