@@ -63,18 +63,14 @@ Sendo assim, foi elaborado 2 tabelas a tabela 1 diretamenta da avaliação elabo
 | 8 | O artefato apresenta quais objetivos devem ser alcançados ou estebelecidos de se realizar uma avaliação? | Sim | Excelente | --- |
 | 9 | A respeito dos participantes, foi descrito que devem apresentar uma quantidade definida de participantes para as atividades proposta? | Sim | Excelente | --- |
 | 10 | A respeito dos participantes, foi descrito que devem apresentar um motivo da  escolha da quantidade definida de participantes para as atividades propostas? | Sim | Excelente | --- |
-| 11 | A respeito dos participantes, foi descrito que será documentado a experiência dos participantes quanto a design? | Não | --- | Não foi dito que especialidade dos participantes será documentada. |
-| 12 | A respeito das atividades de coleta porposta foi descrito que elas devem possuir uma rastreabilidade? | Não | --- | Não foi descrito que as perguntas na avaliação devem ter rastreabilidade. |
-| 13 | A respeito das atividades de coleta porposta, foi dito que ela deve possuir o objetivo de sua escolha? | Não | --- | Não foi descrito que deve possuir um motivo da escolha da atividade proposta. |
-| 14 | A respeito do registro das atividades de coleta porposta, foi dito que o mesmo deve possuir um? | Sim | Excelente | --- |
-| 15 | Sobre os termos éticos, foi descrito que deve possuir um termo de consentimento? | Sim | Excelente | --- |
-| 16 | Sobre os termos éticos, foi descrito que deve possuir um resguardo a respeito dos dados coletados? | Sim | Excelente | --- |
-| 17 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Não | --- | Não foi dito nada sobre assinatura do participante. |
-| 18 | Sobre a organização da realização das atividades propostas, foi descrito que ela deve conter um teste piloto antes da sua realização? | Não | --- | Não foi dito que as atividades devem conter um teste piloto. |
-| 19 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente | --- |
-| 20 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente | --- |
-| 21 | A respeito do orçamento, apresenta como será executado essa tarefa? | Não | --- | Não apresenta como será realizado o orçamento das atividades. |
-| 22 | O artefato explicita que será necessário realizar a apresentação dos storyboards na fase de planejamento da avaliação? | Não | --- | Não foi informado se deve conter os storyboards realizados. |
+| 11 | A respeito do registro das atividades de coleta porposta, foi dito que o mesmo deve possuir um? | Sim | Excelente | --- |
+| 12 | Sobre os termos éticos, foi descrito que deve possuir um termo de consentimento? | Sim | Excelente | --- |
+| 13 | Sobre os termos éticos, foi descrito que deve possuir um resguardo a respeito dos dados coletados? | Sim | Excelente | --- |
+| 14 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Não | --- | Não foi dito nada sobre assinatura do participante. |
+| 15 | Sobre a organização da realização das atividades propostas, foi descrito que ela deve conter um teste piloto antes da sua realização? | Não | --- | Não foi dito que as atividades devem conter um teste piloto. |
+| 16 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente | --- |
+| 17 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente | --- |
+| 18 | A respeito do orçamento, apresenta como será executado essa tarefa? | Não | --- | Não apresenta como será realizado o orçamento das atividades. |
 
 <b>Tabela 2</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: SANTOS, MIZAEL. 2023).
 
@@ -185,6 +181,8 @@ Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato
 | 9 | Sobre a organização da realização das atividades propostas, foi descrito que ela deve conter um teste piloto antes da sua realização? | Sim | Excelente |  |
 | 10 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente |  |
 | 11 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente |  |
+
+<b>Tabela 3</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: PENHA, Igor. 2023).
 
 </div>
 
