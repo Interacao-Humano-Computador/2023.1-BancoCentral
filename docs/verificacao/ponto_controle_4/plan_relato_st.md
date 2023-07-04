@@ -166,7 +166,7 @@ Algumas correções sugeridas são:
 Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
 - Adicionou-se um objetivo ao artefato
 
-Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 3):
 
 | ID | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - | - |
