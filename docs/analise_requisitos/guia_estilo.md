@@ -45,9 +45,19 @@
 
 &emsp;&emsp; O guia de estilo seguirá a estrutura proposta por Marcus [3] e Mayhew [2], onde é dividada em tópicos e subtópicos, os tópicos a serem seguidos são: Introdução, Resultados de análise, Elementos de interface, Elementos de interação, Elementos de ação e Vocabulário e padrões. Os subtópicos seguem os elementos descritos de um guia de estilo. O objetivo final deste artefato é padronizar a aparência e a interação do site, garantindo uma experiência do usuário consistente e de alta qualidade.
 
-### Público Alvo
+### Público-alvo
 
-&emsp;&emsp;Um guia de estilo destina-se a todos os desenvolvedores, designers e equipes envolvidas no projeto de desenvolvimento de uma aplicação. No contexto atual, este guia será utilizado pelos estudantes de Interação Humano Computador(IHC) da UnB-FGA, visando cumprir com a análise e re-design propostos pela matéria.
+&emsp;&emsp; O público-alvo deste guia de estilo são os desenvolvedores, designers e equipes envolvidas no projeto de desenvolvimento de uma aplicação. No contexto atual, este guia será utilizado pelos estudantes de Interação Humano Computador (IHC) da UnB-FGA, com o objetivo de cumprir a análise e o redesign propostos pela disciplina.
+
+&emsp;&emsp; O público-alvo do guia de estilo inclui:
+
+- Desenvolvedores: responsáveis por implementar o design da interface de acordo com as diretrizes estabelecidas no guia.
+- Designers: envolvidos na criação e prototipagem da interface, garantindo que os princípios de design sejam aplicados corretamente.
+- Equipe de suporte: encarregada de fornecer assistência técnica e manter a consistência do design durante o desenvolvimento e a manutenção da aplicação.
+
+&emsp;&emsp; Este guia de estilo é especialmente direcionado aos estudantes de IHC da UnB-FGA, fornecendo orientações e referências para a realização da análise e do redesign propostos pela disciplina. Ele servirá como um recurso valioso para garantir a coerência e a qualidade da interface, bem como promover a aprendizagem e a aplicação dos princípios de IHC.
+
+&emsp;&emsp; Os estudantes devem consultar este guia de estilo durante o processo de desenvolvimento da aplicação, seguindo as diretrizes estabelecidas para garantir uma interface usável, acessível e eficiente. Além disso, eles podem contribuir para a evolução do guia, fornecendo feedback, sugestões e atualizações com base em suas experiências e aprendizados.
 
 ### Como utilizar o Guia
 
