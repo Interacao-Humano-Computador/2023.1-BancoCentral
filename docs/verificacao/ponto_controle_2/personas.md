@@ -154,6 +154,8 @@ Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 08/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 09/06/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 04/07/2023 | `2.0` | Acompanhando os artefatos |  [Igor Penha](https://github.com/igorpenhaa) | 04/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+
 
 
 </div>
