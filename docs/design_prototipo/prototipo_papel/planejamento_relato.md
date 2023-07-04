@@ -140,7 +140,6 @@
 <br>
 <b>Exemplo</b>:
 <br>
-<br>
 <b>Avaliadores</b>:
     <ul>
     <li>Maria da Silva: Especialista em usabilidade com 3 anos de experiência em teste de usabilidade.
@@ -152,8 +151,6 @@
 <br>
 
 <p><b>Observação</b>: Também apresente a quantidade de participantes durante a realização desta etapa.</p>
-<br>
-
 <b>Exemplo</b>:
 <br>
 <b>Participantes</b>:
@@ -162,7 +159,6 @@
     <li>Lucas dos Santos: Usuário do banco central e o utiliza para suas atividades em seu trabalho, fez um curso de UX Design anos atrás.
     </ul>
 </div>
-<br>
 
 #### Orçamento
 <div align="justify">
