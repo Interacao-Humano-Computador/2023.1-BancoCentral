@@ -109,25 +109,53 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 <img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Grid.png" width="100%">
 
+<div align="center">
+<p> <b>Figura 1</b>: Sistema de grids e janelas (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
+
 ### Tipografia
 
 &emsp;&emsp; Define as diretrizes para o uso de diferentes tipos de fonte, tamanhos, estilos e hierarquia de texto para garantir legibilidade e consistência. O guia dispões de duas fontes diferentes, como a Cormorant Garamond para títulos ou textos que precisem de destaque e a Ubuntu para os demais textos. Na Figura 2 é representado como seriam essas fontes, além de especificado o tamanho e weight de acordo com cada opção.
 
 <img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Fonts.png" width="100%">
 
+<div align="center">
+<p> <b>Figura 2</b>: Tipografia (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
+
+### Símbolos não tipográficos
+
+&emsp;&emsp; São elementos gráficos que são usados para representar informações ou conceitos específicos e não são parte do conjunto de caracteres alfanuméricos tradicionais. Esses elementos são representados como ícones (Figura 3), possuindo funcionalidades como pesquisa, contraste, troca de idioma, entre outros.
+
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/icons.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 3</b>: Símbolos não tipográficos (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
+
 ### Cores
 
-&emsp;&emsp; Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos. As cores escolhidas foram baseadas na paleta já utilizada pelo Banco Central. Com excessão dos links, todos os tipos possuem pelo menos duas cores, a primária e a secundária, em alguns casos apenas a primária e a cor de destaque.
+&emsp;&emsp; Estabelece a paleta de cores a ser utilizada na interface, incluindo cores primárias, secundárias e de destaque, bem como a indicação de cores para diferentes estados e elementos interativos. As cores escolhidas (Figura 4) foram baseadas na paleta já utilizada pelo Banco Central. Com excessão dos links, todos os tipos possuem pelo menos duas cores, a primária e a secundária, em alguns casos apenas a primária e a cor de destaque.
 
 <img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Cores.png" width="100%">
 
+<div align="center">
+<p> <b>Figura 4</b>: Cores (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
+
 ## Elementos de interação
 
-&emsp;&emsp;Os elementos de interação são responsáveis por fornecer feedback ao usuário e permitir a manipulação da interface. Eles incluem:
+&emsp;&emsp; Os elementos de interação são responsáveis por fornecer feedback ao usuário e permitir a manipulação da interface. Eles incluem:
 
-1. Estilos de interação: Define os diferentes estilos de interação, como botões, links, menus suspensos, campos de entrada, entre outros, e fornece diretrizes para o uso adequado de cada estilo.
+### Estilos de interação, Seleção de um estilo
 
-2. Seleção de um estilo: Orienta a seleção do estilo de interação mais apropriado para cada tipo de elemento na interface, considerando sua finalidade e contexto de uso.
+&emsp;&emsp; É definido os diferentes estilos de interação, como botões, links, menus suspensos, campos de entrada, entre outros, e fornece diretrizes para o uso adequado de cada estilo. Além disso é importante definir a seleção do estilo de interação mais apropriado para cada tipo de elemento na interface, considerando sua finalidade e contexto de uso. A Figura 5 contém todos os elementos possíveis de se interagir, com uma diretriz de sua funcionalidade e em qual contexto de interface usar (baseado no constraste)
+
+<img title="a title" alt="janelas e Grid" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/guia_estilo/Cores.png" width="100%">
+
+<div align="center">
+<p> <b>Figura 5</b>: Elementos de interação (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
 
 3. Aceleradores (teclas de atalho): Define a utilização de teclas de atalho para ações comuns, visando a agilidade e a eficiência na interação do usuário com a aplicação.
 
@@ -160,7 +188,8 @@ A decisão sobre a consistência ou variação na terminologia utilizada pelos u
 
 ### Tipos de tela (para tarefas comuns)
 
-As telas desenvolvidas devem seguir os padrões especificados no guia de estilo. É necessário considerar o tipo de conteúdo da página a ser criada para selecionar a interface adequada. O guia de estilo define quatro opções de tela a serem utilizadas. Além disso, é essencial seguir os padrões estabelecidos para os elementos de interface, interação e ação presentes no [Figma 1](https://www.figma.com/file/qfTjVMd6eqIsLqmj7Ru9gF/Guia-de-estilo---BCB?type=design&node-id=0%3A1&t=hnymK0IpI8aUFX9Q-1).
+As telas desenvolvidas devem seguir os padrões especificados no guia de estilo. É necessário considerar o tipo de conteúdo da página a ser criada para selecionar a interface adequada. O guia de estilo define três opções de tela a serem utilizadas, a tela inicial (home), a tela de informações (telas comuns que não). Além disso, é essencial seguir os padrões estabelecidos para os elementos de interface, interação e ação presentes no [Figma 1](https://www.figma.com/file/qfTjVMd6eqIsLqmj7Ru9gF/Guia-de-estilo---BCB?type=design&node-id=0%3A1&t=hnymK0IpI8aUFX9Q-1).
+
 
 ### Sequências de diálogos
 
