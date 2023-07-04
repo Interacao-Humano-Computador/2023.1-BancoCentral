@@ -104,6 +104,25 @@ Algumas correções sugeridas são:
 - Incluir uma variedade maior de cenários, os quais não sejam de consultar;
 - Incluir uma conclusão ao artefato.
 
+
+## Correções Realizadas
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+  
+| id | Conteúdo | Possue | Qualidade | Observação |
+| -- | -------- | :----: | :-------: | ---------- |
+| 1 | O artefato possui a metodologia utilizada e sua respectiva descrição? | Sim | Excelente |  |
+| 2 | Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção? | Sim | Excelente |  |
+| 3 | Os cenários são descritos de forma clara e concisa, fornecendo informações suficientes para entender o contexto, a ação realizada e o resultado esperado? | Sim | Excelente |  |
+| 4 | A modelagem de cenários abrange uma variedade de situações, permitindo explorar diferentes fluxos de eventos e possíveis exceções, incluindo casos de sucesso, casos de erro, cenários alternativos e cenários excepcionais? | Sim | Excelente |  |
+| 5 | A modelagem de cenários cobre adequadamente as principais funcionalidades e interações do sistema? | Sim | Excelente |  |
+
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. 2023).
+
 </div>
   
 ## Bibliografia
@@ -121,5 +140,7 @@ Algumas correções sugeridas são:
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 14/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 15/06/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 04/07/2023 | `2.0` | Acompanhando os artefatos |  [Igor Penha](https://github.com/igorpenhaa) | 04/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+
   
 </div>
