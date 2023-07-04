@@ -60,7 +60,22 @@ Reconhecemos que a criação do guia de estilo é um processo contínuo e dinâm
 
 ## Resultados de análise
 
-&emsp;&emsp;Pelo [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) foi possivel identificar que o principal ambiente de trabalho do usuário é um computador desktop ou um notebook. 
+&emsp;&emsp;Ao analisar o ambiente de trabalho do usuário para o site do Banco Central do Brasil, levando em consideração as respostas obtidas no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01), foram identificadas as seguintes características:
+
+1. **Monitor e Resolução**: A maioria dos usuários acessa o site por meio de monitores de desktop, com resoluções variando de 1366x768 pixels a resoluções maiores, como 1920x1080 pixels. Portanto, é importante otimizar o design para essas resoluções comuns, garantindo que o conteúdo seja legível e bem organizado.
+
+2. **Navegadores**: Os usuários do site do Banco Central do Brasil utilizam diferentes navegadores populares, como Google Chrome, Mozilla Firefox, Microsoft Edge e Safari. É essencial que o site seja compatível com esses navegadores e seja testado em diferentes versões para garantir uma experiência consistente.
+
+3. **Sistema Operacional**: Considerando que a maioria dos acessos é realizada por meio do desktop, é importante levar em conta os diferentes sistemas operacionais utilizados pelos usuários, como Windows, macOS e Linux. O design e a funcionalidade do site devem ser compatíveis com esses sistemas operacionais, garantindo uma experiência adequada.
+
+4. **Periféricos**: Os usuários do site podem utilizar periféricos comuns, como mouse, teclado e touchpad para interagir com a interface. É importante projetar a interação levando em consideração a utilização desses periféricos, garantindo que todas as funcionalidades sejam acessíveis e fáceis de usar.
+
+5. **Conectividade**: Embora a maioria dos acessos ao site seja por meio do desktop, é importante considerar que os usuários podem ter diferentes tipos de conexão à internet. Portanto, o design do site deve ser otimizado para carregamento rápido e responsivo, levando em conta conexões mais lentas ou instáveis.
+
+6. **Contexto de Uso**: Os usuários podem acessar o site do Banco Central do Brasil em diferentes contextos de uso, como em casa, no trabalho ou em locais públicos. É importante considerar a privacidade, a segurança e a confidencialidade dos dados dos usuários, garantindo que a interface seja projetada levando em conta essas preocupações.
+
+Levando em consideração esses aspectos do ambiente de trabalho do usuário, o guia de estilo deve fornecer diretrizes de design que garantam uma experiência de usuário consistente, intuitiva e adequada ao uso do desktop.
+
 
 ## Elementos de interface, interação e ação
 
