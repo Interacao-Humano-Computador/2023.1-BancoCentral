@@ -191,9 +191,9 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 &emsp;&emsp; Orienta a ativação de elementos interativos, como botões, links ou ícones, de maneira a fornecer feedback adequado ao usuário e garantir a execução da ação desejada. Os elementos que um usuário pode ativar são os ícones (Figura 3), os botões (Figura 5) e o menu suspenso (Figura 6). Os botões devem possuir seu objetivo escrito dentro deles, como um botão de confirmação escrito confirmar, garantindo uma correspondência com o objetivo da ativação. Há também ícones, onde cada um é produzido para representar o que deve ativar ao ser selecionado, como o ícone de contraste ao ser ativado deve mudar do modo claro para o modo escuro, por exemplo. O menu suspenso ao ser selecionado uma das opções de navegação deve ativar um dropdown com as possíveis escolhas do tema selecionado pelo usuário.
 
+## Figma
 
-
-&emsp;&emsp;Consulte o Figma 1 para visualizar os elementos de interface, interação e ação definidos no guia de estilo, com exemplos visuais e especificações detalhadas.
+&emsp;&emsp;Consulte o Figma 1 para visualizar os elementos de interface, interação e ação definidos no guia de estilo, com exemplos visuais e especificações detalhadas. Qualquer alteração irá ser atualizada imediatamento no Figma 1.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DhnymK0IpI8aUFX9Q-1" allowfullscreen></iframe>
 
@@ -203,33 +203,33 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 ## Vocabulário e padrões
 
-O guia de estilo estabelece diretrizes para o vocabulário e padrões a serem seguidos neste projeto:
+&emsp;&emsp; O guia de estilo estabelece diretrizes para o vocabulário e padrões a serem seguidos neste projeto:
 
 ### Terminologia
 
-A decisão sobre a consistência ou variação na terminologia utilizada pelos usuários é responsabilidade do designer. Recomenda-se que o designer avalie cuidadosamente as semelhanças e diferenças na terminologia, considerando a necessidade de consistência na interação e, posteriormente, na interface com o usuário [1]. Durante este projeto, é importante ponderar o uso de termos técnicos, priorizando o uso de termos mais comuns aos usuários, a fim de tornar o sistema mais intuitivo.
+&emsp;&emsp; A decisão sobre a consistência ou variação na terminologia utilizada pelos usuários é responsabilidade do designer. Recomenda-se que o designer avalie cuidadosamente as semelhanças e diferenças na terminologia, considerando a necessidade de consistência na interação e, posteriormente, na interface com o usuário [1]. Durante este projeto, é importante ponderar o uso de termos técnicos, priorizando o uso de termos mais comuns aos usuários, a fim de tornar o sistema mais intuitivo.
 
 ### Tipos de tela (para tarefas comuns)
 
-As telas desenvolvidas devem seguir os padrões especificados no guia de estilo. É necessário considerar o tipo de conteúdo da página a ser criada para selecionar a interface adequada. O guia de estilo define três opções de tela a serem utilizadas, a tela inicial (home), a tela de informações (telas comuns que não). Além disso, é essencial seguir os padrões estabelecidos para os elementos de interface, interação e ação presentes no [Figma 1](https://www.figma.com/file/qfTjVMd6eqIsLqmj7Ru9gF/Guia-de-estilo---BCB?type=design&node-id=0%3A1&t=hnymK0IpI8aUFX9Q-1).
+&emsp;&emsp; As telas desenvolvidas devem seguir os padrões especificados no guia de estilo. É necessário considerar o tipo de conteúdo da página a ser criada para selecionar a interface adequada. O guia de estilo define três opções de tela a serem utilizadas, a tela inicial (home), a tela de informações (telas comuns que não). Além disso, é essencial seguir os padrões estabelecidos para os elementos de interface, interação e ação presentes no [Figma 1](https://www.figma.com/file/qfTjVMd6eqIsLqmj7Ru9gF/Guia-de-estilo---BCB?type=design&node-id=0%3A1&t=hnymK0IpI8aUFX9Q-1).
 
 
 ### Sequências de diálogos
 
-As sequências de diálogos devem incluir feedbacks e confirmações após a finalização ou realização de uma operação. É importante fornecer ao usuário um retorno adequado sobre o status da operação e garantir que ele esteja ciente das ações realizadas. Esse feedback de realização será fornecido por meio da realização da operação, pois todas devem possuir um resultado de qualquer operação feita. No caso de feedback de erro, deve aparecer escrito na tela o erro ocorrido, no caso de preenchimento de campos errados, esse feedback deve ser informado em vermelho acima ou abaixo do campo.
+&emsp;&emsp; As sequências de diálogos devem incluir feedbacks e confirmações após a finalização ou realização de uma operação. É importante fornecer ao usuário um retorno adequado sobre o status da operação e garantir que ele esteja ciente das ações realizadas. Esse feedback de realização será fornecido por meio da realização da operação, pois todas devem possuir um resultado de qualquer operação feita. No caso de feedback de erro, deve aparecer escrito na tela o erro ocorrido, no caso de preenchimento de campos errados, esse feedback deve ser informado em vermelho acima ou abaixo do campo.
 
 
 </div>
 
 ## Conclusão
 
-Neste projeto, foi desenvolvido um guia de estilo para orientar o design e a interação de um projeto de Interação Humano-Computador(IHC). O guia foi elaborado com o objetivo de melhorar os erros identificados na Avaliação Heurística do site e nos princípios gerais do projeto, visando aprimorar a usabilidade e a experiência do usuário.
+&emsp;&emsp; Neste projeto, foi desenvolvido um guia de estilo para orientar o design e a interação de um projeto de Interação Humano-Computador(IHC). O guia foi elaborado com o objetivo de melhorar os erros identificados na Avaliação Heurística do site e nos princípios gerais do projeto, visando aprimorar a usabilidade e a experiência do usuário.
 
-Para a criação do guia de estilo, foi adotada uma abordagem que envolveu a análise do ambiente de trabalho do usuário, identificando suas necessidades e demandas específicas. Além disso, foram realizados testes com protótipos de baixa e alta fidelidade, permitindo validar as soluções propostas e obter insights para ajustes e refinamentos no guia.
+&emsp;&emsp; Para a criação do guia de estilo, foi adotada uma abordagem que envolveu a análise do ambiente de trabalho do usuário, identificando suas necessidades e demandas específicas. Além disso, foram realizados testes com protótipos de baixa e alta fidelidade, permitindo validar as soluções propostas e obter insights para ajustes e refinamentos no guia.
 
-Ao seguir o guia de estilo, os desenvolvedores, designers e equipes envolvidas no projeto poderão criar interfaces consistentes e intuitivas, alinhadas com as expectativas e necessidades dos usuários. O guia também serve como referência para a manutenção contínua do projeto, garantindo que as alterações futuras estejam em conformidade com as diretrizes estabelecidas.
+&emsp;&emsp; Ao seguir o guia de estilo, os desenvolvedores, designers e equipes envolvidas no projeto poderão criar interfaces consistentes e intuitivas, alinhadas com as expectativas e necessidades dos usuários. O guia também serve como referência para a manutenção contínua do projeto, garantindo que as alterações futuras estejam em conformidade com as diretrizes estabelecidas.
 
-Com base nos resultados obtidos nos testes e protótipos ([baixa fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados) e [alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao)), o guia de estilo será atualizado regularmente para atender às [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade) estabelecidas. A manutenção do guia será fundamental para garantir a padronização e a consistência na interface do projeto.
+&emsp;&emsp; Com base nos resultados obtidos nos testes e protótipos ([baixa fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados) e [alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao)), o guia de estilo será atualizado regularmente para atender às [metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade) estabelecidas. A manutenção do guia será fundamental para garantir a padronização e a consistência na interface do projeto.
 
 ## Referência Bibliográfica
 
