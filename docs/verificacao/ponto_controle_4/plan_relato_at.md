@@ -163,7 +163,7 @@ Algumas correções sugeridas são:
 Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
 - Adicionou-se um objetivo ao artefato
 
-Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 3):
 
 | ID | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - | - |
@@ -178,6 +178,11 @@ Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato
 | 9 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Sim | Excelente |  |
 | 10 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente |  |
 | 11 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente |  |
+
+
+<b>Tabela 3</b>: Relação das perguntas quanto ao conteúdo do artefato (Fonte: PENHA, Igor. 2023).
+
+</div>
 
 ## Bibliografia
 
