@@ -23,7 +23,7 @@ A metodologia utilizada para a realização avaliação foi pela entrevista, mé
 <br>
 Antes da realização das entrevista foi feito o teste piloto para certificar que o ambiente estivesse adequado e preparado para a realização das entrevistas.
 <br>
-Antes das entrevistas foi apresentado os [Termos de Consentimento](/docs/questionarios/termo-de-consentimento.md) para o entrevistado, o qual concordando e assinando o termo, assim como, os entrevistadores, a entrevista prosseguia.
+Antes das entrevistas foi apresentado os [Termos de Consentimento](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/termo-consentimento-entrevista.md) para o entrevistado, o qual concordando e assinando o termo, assim como, os entrevistadores, a entrevista prosseguia.
 <br>
 Durante a entrevista, foram feitas perguntas conceituais que tivessem relação com o sistema em questão, logo após, foi explicado e apresentado os storyboard.
 
