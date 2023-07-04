@@ -102,6 +102,7 @@ Para garantir a manutenção adequada do guia de estilo, adotaremos as seguintes
 
 &emsp;&emsp;O guia de estilo define os elementos de interface, interação e ação a serem seguidos neste projeto. Eles são organizados em três grupos principais:
 
+
 ### 1 Elementos de interface
 
 &emsp;&emsp;Os elementos de interface são responsáveis pela organização visual e estrutural da aplicação. Eles incluem:
