@@ -174,17 +174,17 @@ Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato
 
 | ID | Conteúdo | Possue | Qualidade | Observação |
 | - | - | - | - | - |
-| 7 | O artefato faz referência ao uso do framework DECIDE, ou outra metodologia de planeamento de avaliação de artefato? | Sim | Excelente |  |
-| 8 | O artefato apresenta quais objetivos devem ser alcançados ou estebelecidos de se realizar uma avaliação? | Sim | Excelente |  |
-| 9 | A respeito dos participantes, foi descrito que devem apresentar uma quantidade definida de participantes para as atividades proposta? | Sim | Excelente |  |
-| 10 | A respeito dos participantes, foi descrito que devem apresentar um motivo da  escolha da quantidade definida de participantes para as atividades propostas? | Sim | Excelente |  |
-| 11 | A respeito do registro das atividades de coleta porposta, foi dito que o mesmo deve possuir um? | Sim | Excelente |  |
-| 12 | Sobre os termos éticos, foi descrito que deve possuir um termo de consentimento? | Sim | Excelente |  |
-| 13 | Sobre os termos éticos, foi descrito que deve possuir um resguardo a respeito dos dados coletados? | Sim | Excelente |  |
-| 14 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Sim | Excelente |  |
-| 15 | Sobre a organização da realização das atividades propostas, foi descrito que ela deve conter um teste piloto antes da sua realização? | Sim | Excelente |  |
-| 16 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente |  |
-| 17 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente |  |
+| 1 | O artefato faz referência ao uso do framework DECIDE, ou outra metodologia de planeamento de avaliação de artefato? | Sim | Excelente |  |
+| 2 | O artefato apresenta quais objetivos devem ser alcançados ou estebelecidos de se realizar uma avaliação? | Sim | Excelente |  |
+| 3 | A respeito dos participantes, foi descrito que devem apresentar uma quantidade definida de participantes para as atividades proposta? | Sim | Excelente |  |
+| 4 | A respeito dos participantes, foi descrito que devem apresentar um motivo da  escolha da quantidade definida de participantes para as atividades propostas? | Sim | Excelente |  |
+| 5 | A respeito do registro das atividades de coleta porposta, foi dito que o mesmo deve possuir um? | Sim | Excelente |  |
+| 6 | Sobre os termos éticos, foi descrito que deve possuir um termo de consentimento? | Sim | Excelente |  |
+| 7 | Sobre os termos éticos, foi descrito que deve possuir um resguardo a respeito dos dados coletados? | Sim | Excelente |  |
+| 8 | A respeito do termo de consentimento, foi descrito que o participante deve assinar ele para realizar as atividades? | Sim | Excelente |  |
+| 9 | Sobre a organização da realização das atividades propostas, foi descrito que ela deve conter um teste piloto antes da sua realização? | Sim | Excelente |  |
+| 10 | Sobre a organização da realização das atividades propostas, foi dado um template de tabela para organizar as datas de realiazação? | Sim | Excelente |  |
+| 11 | A respeito da coleta de dados, apresenta como os dados devem ser coletados, ordenados, qualificados e quantificados? | Sim | Excelente |  |
 
 </div>
 
