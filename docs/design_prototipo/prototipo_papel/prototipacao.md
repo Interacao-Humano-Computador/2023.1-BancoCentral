@@ -1,16 +1,15 @@
-<div class="body">
+<div class="body" align="justify">
 
 # Protótipo de Baixa Fidelidade
 
 ## Introdução
 
-<div align="justify">
+O protótipo de baixa fidelidade é uma ferramenta fundamental no processo de design de interação humano-computador. Segundo Barbosa e Silva (2010), em seu livro "Interação Humano-Computador" [1], o uso de protótipos de papel possibilita a exploração rápida e econômica de ideias de design, permitindo identificar problemas e realizar melhorias antes de investir recursos significativos no desenvolvimento de soluções mais complexas.
 
-O objetivo deste documento é apresentar o desenvolvimento do protótipo de alta fidelidade para o projeto do Banco Central do Brasil. O protótipo de alta fidelidade é uma representação visual e interativa do design proposto, que busca simular a experiência final do usuário com o sistema. 
+Este documento tem como objetivo descrever o desenvolvimento dos protótipos de papel para o Banco Central do Brasil, como parte do processo de interação humano-computador. Nele, serão apresentados detalhes sobre a metodologia utilizada na criação dos protótipos, os fluxos de tarefa prototipados e os objetivos de cada tarefa. Além disso, serão fornecidos os fluxos esperados para cada tarefa, delineando as etapas e interações previstas para a interação entre o usuário e o sistema.
 
-Este documento descreve a metodologia utilizada, os fluxos de tarefa prototipados e os objetivos de cada tarefa. Além disso, são apresentados os fluxos esperados para cada uma delas. 
+O documento servirá como uma valiosa referência para a equipe de desenvolvimento, proporcionando uma visão clara do escopo e dos requisitos do protótipo de baixa fidelidade, facilitando a comunicação e colaboração efetiva ao longo de todo o processo de design e desenvolvimento.
 
-</div>
 
 ## Metodologia
 
@@ -44,17 +43,90 @@ O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/
 | Valores a receber | 10/06 - 12/06 | Larissa Gomes | 12/06 | Giovanni Alvissus | 
 
 <div align="center">
-<p> <b>Tabela 2</b>: Tarefas realizadas para a criação do protótipo (Fonte: ALVISSUS, Giovanni. 2023). </p>
+<p> <b>Tabela 2</b>: Tarefas realizadas para a criação do protótipo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
 
-## Prototipação
-<div align="justify">
-<p>O protótipo de baixa fidelidade completo pode ser executado no frame Figma 1</p>
+<details>
+<summary>Imagens dos protótipos</summary>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+## Protótipo
+
+Os protótipos desenvolvidos seguiram os princípios do [Guia de estilo](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo) e foram inspirados em sites de concorrentes para a elaboração de um menu principal mais simples e amigavel, além de tarefas mais interativas e significativas para o público alvo. Onde pôde ser observado nas figuras de 1 a 10.
+
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/tela_principal.jpg" alt="Tela principal" style="max-width: 100%; max-height: 100%;">
+
+
 <div align="center">
-<p> <b>Figma 1</b>: Prototipação alta fidelidade (Fonte: ALVISSUS, Giovanni; GOMES, Larissa; GOBBI, Lucas. 2023).</p>
+<p> Figura 1: Tela principal (Fonte: GOMES, Larissa. 2023).</p>
 </div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros.jpg" alt="Taxas de Juros" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 2: Taxas de Juros (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros_01.jpg" alt="Taxas de Juros" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 3: Taxas de juros (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros_02.jpg" alt="Taxas de Juros" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 4: Taxas de juros (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/registrato.jpg" alt="Registrato" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 5: Registrato (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/curso_01.jpg" alt="Cursos" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 6: Cursos (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/curso_02.jpg" alt="Cursos" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 7: Cursos (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/calculadora.jpg" alt="Calculadora" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 8: Calculadora (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/valores_receber.jpg" alt="Valores a receber" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 9: Valores a receber (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/interacoes.jpg" alt="Interações" style="max-width: 100%; max-height: 100%;">
+
+
+<div align="center">
+<p> Figura 10: Interações (Fonte: GOMES, Larissa. 2023).</p>
+</div>
+
+</details>
+
+
 
 ## Fluxos de tarefa
 
@@ -144,88 +216,6 @@ Nesta tela, a principal mudança foi a simplificação dos tipos de juros em um 
 <p> <b>Figma 13</b>: Valores a receber do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
-## Imagens dos protótipos
-
-<details>
-
-## Protótipo
-
-Essa tela possui o mesmo design da tela do registrato e possui a mesma forma de interação, mudando apenas as opções da coluna da esquerda e o formato da tabela da coluna direita, projetada para apresentar os dados dos valores a receber.
-
-Os protótipos desenvolvidos seguiram os princípios do [Guia de estilo](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo) e foram inspirados em sites de concorrentes para a elaboração de um menu principal mais simples e amigavel, além de tarefas mais interativas e significativas para o público alvo. Onde pôde ser observado nas figuras de 1 a 10.
-
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/tela_principal.jpg" alt="Tela principal" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 1: Tela principal (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros.jpg" alt="Taxas de Juros" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 2: Taxas de Juros (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros_01.jpg" alt="Taxas de Juros" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 3: Taxas de juros (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/taxas_juros_02.jpg" alt="Taxas de Juros" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 4: Taxas de juros (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/registrato.jpg" alt="Registrato" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 5: Registrato (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/curso_01.jpg" alt="Cursos" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 6: Cursos (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/curso_02.jpg" alt="Cursos" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 7: Cursos (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/calculadora.jpg" alt="Calculadora" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 8: Calculadora (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/valores_receber.jpg" alt="Valores a receber" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 9: Valores a receber (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/interacoes.jpg" alt="Interações" style="max-width: 100%; max-height: 100%;">
-
-
-<div align="center">
-<p> Figura 10: Interações (Fonte: GOMES, Larissa. 2023).</p>
-</div>
-
-</details>
 
 ## Conclusão
 
