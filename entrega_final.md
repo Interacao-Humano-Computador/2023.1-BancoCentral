@@ -78,12 +78,22 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 
 <div align="justify">
 
-&emsp;&emsp;A verificação foi realizada por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 10 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
+&emsp;&emsp;A verificação foi realizada por meio da inspeção, com base na proposta de Fagan [2], utilizando um checklist em que os itens eram conteúdos que se esperavam encontrar em cada artefato. Para desenvolcer cada um desses itens tomamos como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/34/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf), a bibliografia da disciplina [2] e os feedbacks dos monitores. 
+
+&emsp;&emsp;Como dividimos as verificações em Pontos de Controle, a Tabela abaixo sintetiza os responsáveis tanto pela execução quanto pela revisão de cada uma das verificações realizadas por entrega. 
+
+&emsp;&emsp;Importante ressaltar também que, como acordado entre a equipe, o membro que corrigiu um determinado ponto de controle feito pelo nosso grupo, é o mesmo integrante que realizou a verificação do mesmo ponto de controle do grupo 4, por isso, não se faz necessária a confecção de uma nova tabela para os diferentes grupos verificados.
 
 </div>
 
 | Artefato | Autor(es) | Revisor(es) |
 | :----------------: | :-------: | :------: |
+| [Verificação Ponto de Controle 1](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_1/cronograma) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| [Verificação Ponto de Controle 2](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_2/perfil_usuario) |[Igor Penha](https://github.com/igorpenhaa) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| [Verificação Ponto de Controle 3](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_3/caracteristicas_plataforma) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Rafael Bosi](https://github.com/StrangeUnit28) | [Giovanni Alvissus](https://github.com/giovanni1106) e [Rafael Bosi](https://github.com/StrangeUnit28) |
+| [Verificação Ponto de Controle 4](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_4/plan_aval_at) | [Mizael Santos](https://github.com/frmiza) | [Larissa Gomes](https://github.com/larigs) |
+| [Verificação Ponto de Controle 5](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_5/resultados_at) | [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/LucasBergholz) | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| [Verificação Ponto de Controle 7](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_7/resultados_pp) | [Larissa Gomes](https://github.com/larigs) | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 <div align="center">
 <p><b>Tabela :</b> Síntese dos artefatos de Verificação (Fonte: BOSI, Rafael, 2023).</p>
@@ -92,6 +102,8 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 ## Referência Bibliográfica
 
 [1] Mayhew, D. J. (1999). The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann.
+
+[2] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versões 
 
