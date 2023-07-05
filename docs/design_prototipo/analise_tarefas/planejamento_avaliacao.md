@@ -128,10 +128,24 @@
 
 |   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistadores |  Entrevistado  | 
 | :--------: | :--------: | :---------------------: | -------- | --------------- | ---------------- |
-| Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Plataforma Microsoft Teams (online) | Nome do(s) entrevistador(es) | Nome do entrevistado |
+| Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
 
 <div align="center">
 <p> Tabela 4: Modelo de ficha de entrevistas (Fonte: BOSI, Rafael. 2023).</p>
+</div>
+
+Os 5 participantes selecionados responderam que gostariam de participar de pesquisas futuras relacionadas ao projeto no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) realizado para identificação do perfil do usuário. A Tabela 5 apresenta de maneira meramente ilustrativa, ou seja, um exemplo para realização das entrevistas, com data, horário, entrevistadores e entrevistados.
+
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    | 
+| :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |
+|     1°     | 24/05/2023 | 18:00 - 18:15 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+|     2°     | 24/05/2023 | 18:20 - 18:35 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+|     3°     | 24/05/2023 | 18:40 - 18:55 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+|     4°     | 24/05/2023 | 19:00 - 19:15 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+|     5°     | 24/05/2023 | 19:20 - 19:35 | Plataforma Microsoft Teams (Online) | Larissa Gomes e Rafael Bosi | --- |
+
+<div align="center">
+<p> Tabela 5: Planejamento para realização das entrevistas (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 &emsp;&emsp;Os 5 participantes selecionados responderam que gostariam de participar de pesquisas futuras relacionadas ao projeto no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) realizado para identificação do perfil do usuário. 
