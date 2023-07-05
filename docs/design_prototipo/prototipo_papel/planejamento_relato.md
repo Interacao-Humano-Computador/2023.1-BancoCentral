@@ -3,15 +3,15 @@
 # Planejamento do relato do protótipo de papel
 # Introdução
 <div align="justify">
-<p>O propósito deste documento é oferecer uma estrutura para realização de um protótipo voltado para o design conceitual, assim como uma estrutura organizada para a coleta de dados durante a fase de avaliação do protótipo de papel.</p>
-<p>Um design permite a avaliação de ideias que surgem ao longo do desenvolvimento de um projeto, uma vez que o objetivo deste é responder questões acerca do design estabelecido[1].</p>
+<p>O propósito deste documento é oferecer uma estrutura para realização de um protótipo voltado para o design conceitual, assim como uma estrutura organizada para a coleta de dados durante a fase de <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao">Planejamento da Avaliação do Protótipo de Papel<a>. </p>
+<p>Um design permite a avaliação de ideias que surgem ao longo do desenvolvimento de um projeto, uma vez que o objetivo deste é responder questões acerca do design estabelecido [1].</p>
 <p>A prototipação de um design conceitual permite ao usuário ver com seus próprios olhos como o projeto atende as tarefas que ele irá realizar, para então avaliá-lo posteriormente e então fornecer um feedback aos designs[1].</p>
 <p>Existem diversos tipos de protótipos de design conceitual diferentes, o abordado neste artefato em questão trata do protótipo de papel, que é um tipo de prototipação de baixa fidelidade.</p>
 </div>
 
 # Metodologia
 <div align="justify">
-<p>A escolha da metodologia a ser utilizada no documento de planejamento do relato do protótipo de papel depende dos objetivos da análise, segundo a literatura Interação Humano-Computador[1], existem 3 abordagens,<b>investigação</b>, <b>inspeção</b> e <b>observações</b>, cada abordagem apresenta metodologias únicas. Para este artefato em questão as únicas metodologias elencavéis fazem parte da observação ou investigação, pois estas tratam de realizar com um usuário. A escolha da metodologia varia da disponibilidade de recursos e das necessidades específicas do projeto. As metodologias elencavéis podem ser:</p>
+<p>A escolha da metodologia a ser utilizada no documento de planejamento do relato do protótipo de papel depende dos objetivos da análise, segundo a literatura, Interação Humano-Computador[1], existem 3 abordagens,<b>investigação</b>, <b>inspeção</b> e <b>observações</b>, cada abordagem apresenta metodologias únicas. Para este artefato em questão as únicas metodologias elencavéis fazem parte da observação ou investigação, pois estas tratam de realizar com um usuário. A escolha da metodologia varia da disponibilidade de recursos e das necessidades específicas do projeto. As metodologias elencavéis podem ser:</p>
 
 <ul>
 <li><b>Entrevistas</b>: Realizar entrevistas individuais ou em grupo com os usuários, permitindo obter informações detalhadas sobre suas percepções, experiências e desafios ao executar as tarefas. As entrevistas podem ser estruturadas, semiestruturadas ou não estruturadas, dependendo das necessidades do estudo.
@@ -258,6 +258,6 @@ tion, 2a edição. New York, NY: John Wiley & Sons, 2007.
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 21/05/2023 | `1.0`  | Criação da documento de planejamento do relato da análise de tarefas | [Mizael Santos](https://github.com/frmiza)  | 22/05/2023 | [Larissa Gomes](https://github.com/larigs) |
-| 04/06/2023 | `1.1`  | Correção do artefato, adicionado, Perguntas exploradas, Coleta dos dados e Orçamento | [Mizael Santos](https://github.com/frmiza)  | 04/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
+| 04/07/2023 | `1.1`  | Correção do artefato, adicionado, Perguntas exploradas, Coleta dos dados e Orçamento | [Mizael Santos](https://github.com/frmiza)  | 05/07/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 	
 </div>
