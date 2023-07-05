@@ -15,6 +15,10 @@
 <div align ="center"><b>Tabela 1:</b> Modelo de apresentação dos membros presentes nas gravações. (Fonte: BOSI, Rafael. 2023)
 </div>
 
+<br>
+
+&emsp;&emsp;Importante lembrar que as gravações de apresentações de entregas não possuem atas, estas foram utilizadas exclusivamente para resumir as reuniões em que foram discutidos e definidos temas relevantes para o desenvolvimento do projeto.
+
 </div>
 
 ## Direcionamento
@@ -46,16 +50,42 @@
 
 <div align="justify>
 
-&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega 1, representada pelo Vídeo 1 e 2, junto com os membros que estavam presentes, representado pelas Tabela 3 e 4, respectivamente. Para acessar a ata da reunião contida no vídeo 1, [reunião 1](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao01). Para acessar a ata da reunião do vídeo 2, [renião 2](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao02).
+&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega 1, representada pelo Vídeo 1, 2 e 3, que contém, respectivamente, a gravação da apresentação da primeira entrega, a gravação da primeira reunião e da segunda reunião. Seguindo as gravações, estão as tabelas com membros que estavam presentes, representados pelas Tabela 3, 4 e 5, respectivamente. Além disso, seguindo as gravações de reuniões estão as atas desenvolvidas para cada uma das reuniões.
 
 </div>
 
-<iframe  align="center" width="1000vw" height="650vh" src="https://www.youtube.com/embed/awlEPQoEpKE" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+### Apresentação 1
 
-<div align ="center"><b>Vídeo 1:</b> Gravação da primeira reunião do grupo 3. (Fonte: AUTOR. 2023)
+- <b>Gravação:</b>
+
+<iframe align="center" width="800vw" height="400vh" src="https://www.youtube.com/embed/ZxD0aDZ2OSg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 1:</b> Gravação da primeira entrega do grupo 3. (Fonte: AUTOR. 2023)
 </div>
 
-<br>
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 3:</b> Membros presentes na gravação da primeira entrega. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+### Reunião 1
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/awlEPQoEpKE" title="Reunião 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 2:</b> Gravação da primeira reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- Ata da [reunião 1](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao01).
+
+
+- <b>Presença dos membros:</b>
 
 <div align ="center">
 
@@ -65,16 +95,33 @@
 
 </div>
 
-<div align ="center"><b>Tabela 3:</b> Membros presentes na gravação da primeira reunião. (Fonte: BOSI, Rafael. 2023)
+<div align ="center"><b>Tabela 4:</b> Membros presentes na gravação da primeira reunião. (Fonte: BOSI, Rafael. 2023)
+</div>
+
+### Reunião 2
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/zn0LgXSwnpc" title="Reunião 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 3:</b> Gravação da segunda reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- Ata da [renião 2](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao02).
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 19/04/2023 | 20:53 - 21:01 | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 5:</b> Membros presentes na gravação da segunda reunião. (Fonte: BOSI, Rafael. 2023) </p>
 </div>
 
 ## <a id="bb" href="#b">2 - Usuários</a>
 
-<div align="justify>
 
-&emsp;&emsp;Nesse tópico esta disposta a gravação referente a entrega 2, representada pelo Vídeo 2, junto com os membros que estavam presentes, representado pela Tabela 4. Para acessar a ata da reunião que esta contina na gravação abaixo, basta clicar [aqui](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao01).
-
-</div>
 
 ## <a id="cc" href="#c">3 - Análise</a>
 
@@ -113,8 +160,5 @@
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |:------:|:--------:|-----------|-------|:---------:|-----------|
 | 04/07/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
-
-[Bruno Ribeiro](https://github.com/BrunoRiibeiro)   
-[Igor Penha](https://github.com/igorpenhaa)
 
 </div>
