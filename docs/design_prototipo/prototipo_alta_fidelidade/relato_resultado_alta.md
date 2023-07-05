@@ -257,6 +257,16 @@ Vídeo 6: Teste de usabilidade com João Pedro (Fonte: RIBEIRO, Bruno. 2023)
 
 &emsp;&emsp;No geral os dados coletados foram satisfatórios para a equipe, pois não foi encotrado problemas critícos de usabilidade, apenas foi possível encontrar problemas na interface no que diz respeito a nomeclatura dos menus que contem as funcionalidades, dessa forma temos as respostas de algumas perguntas baseandas nos teste de usabilidade realizado.
 
+<h3><b>Os usuários apresentaram alguma queixa a respeito da padronização do protótipo com o sistema operacional utilizado?</b></h3>
+&emsp;&emsp;Não, os usuários não relataram nenhuma queixa a respeito de uma despadronização da protótipo em relação ao sistema operacional.
+
+<br>
+
+h3><b>Houve variação nos erros cometidos pelos usuários na utilização do protótipo?</b></h3>
+&emsp;&emsp;Não, os usuários costumavam errar uma ou duas vezes para acessar determinadas funcionalidades e concluir seus objetivos.
+
+<br>
+
 <h3><b>Houve problemas a respeito do fluxo de tarefas?</b></h3>
 &emsp;&emsp;Não, não foi alegado nenhum problema referente ao fluxo das tarefas, os usuários gostaram sa simplicidade de cliques para realizar as atividades.
 
@@ -280,6 +290,7 @@ Vídeo 6: Teste de usabilidade com João Pedro (Fonte: RIBEIRO, Bruno. 2023)
 ## Conclusão 
 <div align="justify">
 &emsp;&emsp;Os resultados encontrados foram bem satisfatórios para a equipe, pois permitiu identificar problemas que serão corrigidos em futuros re-designs da interface. Vale ressaltas o agrado dos usuários com a interface de maneira geral, pois todos constataram uma boa usabilidade, simplicidade e intuividade, e tudo isso foi atingido sem prejudicar o funcionamento da tarefa final.
+&emsp;&emsp;É importante ressaltar que ao término desta etapa foi possível verificar que as <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade">metas de usabilidade</a> propostas para realização do trabalho, estão de acordo com o realizado, pois foi possível atingi-las, visto a avaliação do protítipo com os usuários.
 </div>
 
 ## Bibliografia 
@@ -295,5 +306,6 @@ Vídeo 6: Teste de usabilidade com João Pedro (Fonte: RIBEIRO, Bruno. 2023)
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 25/06/2023 | `1.0` | Criação do documento | [Rafael Bosi](https://github.com/StrangeUnit28) | 25/06/2023 | [Mizael Santos](https://github.com/frmiza) |
+| 05/07/2023 | `1.1` | Correção, adicionado perguntas e conclusão meodificada | [Mizael Santos](https://github.com/frmiza) | 05/07/2023 | [Larissa Gomes](https://github.com/larigs) |
 
 </div>
