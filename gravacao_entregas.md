@@ -121,7 +121,49 @@
 
 ## <a id="bb" href="#b">2 - Usuários</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega 2, representada pelo Vídeo 4 e 5, que contém, respectivamente, a gravação da apresentação da segunda entrega e a gravação da terceira reunião. Seguindo as gravações, estão as tabelas com membros que estavam presentes, representados pelas Tabela 6 e 7, respectivamente. Além disso, seguindo a gravação da reunião esta a ata desenvolvida para resumir a reunião em questão.
+
+</div>
+
+### Apresentação 2
+
+- <b>Gravação:</b>
+
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/5BaOTaGgbGA" title="Ponto de controle 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 4:</b> Gravação da segunda entrega do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 6:</b> Membros presentes na gravação da segunda entrega. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+### Reunião 3
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/oEAV1PjpIh8" title="Reunião 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 5:</b> Gravação da terceira reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 7:</b> Membros presentes na gravação da terceira reunião. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
 
 ## <a id="cc" href="#c">3 - Análise</a>
 
