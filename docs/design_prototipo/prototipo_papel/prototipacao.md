@@ -144,8 +144,9 @@ Nesta tela, a principal mudança foi a simplificação dos tipos de juros em um 
 <p> <b>Figma 13</b>: Valores a receber do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
 </div>
 
+## Imagens dos protótipos
+
 <details>
-<summary>Imagens dos protótipos</summary>
 
 ## Protótipo
 
