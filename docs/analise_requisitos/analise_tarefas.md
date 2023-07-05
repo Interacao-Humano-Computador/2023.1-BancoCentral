@@ -110,9 +110,9 @@ Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto obje
 
 ### Análise da Tarefa HTA 2: Calculadora do Cidadão - Aplicação com depósitos regulares, Financiamento com prestações fixas e Valor futuro de um capital
 
-<p align="justify">
+<p align="justify"> 
 
-&emsp;&emsp;TEXTO DESCREVENDO A TAREFA 
+A calculadora do cidadão pode ser dividada em duas partes, sendo a de Aplicação com depósitos regulares, Financiamento com prestações fixas e Valor futuro de um capital com mesmo fluxo de passos para sua realização, como pode ser observado na Tabela 3 e Figura 3
 
 </p>
 
@@ -144,14 +144,11 @@ Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto obje
 
 ### Análise da Tarefa HTA 2.1: Calculadora do Cidadão - Correção de Valores
 
-<p align="justify">
+<p align="justify"> 
 
-&emsp;&emsp;TEXTO DESCREVENDO A TAREFA
+A segunda parte da calculadora, a opção de correção de valores, possue um fluxo de passos diferente da primeira parte. Essa opção possue várias subopções dentro da tarefa, dentro delas está a parte de informação de dados para correção, possuindo cada uma passos que as diferem das outras opções. A análise dessa tarefa pode ser vista na Tabela 4 e Figura 4.
 
 </p>
-
-```
-"Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Mizael"
 
 |<p align="center">objetivos / operações</p> | <p align="center">Relações</p> | <p align="center">problemas e recomendações</p> |
 | --                                         | :----: |  ---- | 
@@ -163,8 +160,6 @@ Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto obje
 | 2.1. Selecionar Cheques sem Fundos	 |    |  |
 | 2.2. Empréstimos e Financiamento |  1>2  | **Plano**: selecionar Empréstimos e Financiamentos, **em seguida** definir informações. |
 | 2.2.1. Selecionar Empréstimos e Financiamento	 |    |  |
-```
-
 
 <div align="center">
 <p> <b>Tabela 4</b>: Tabela da representação HTA da tarefa "Calculadora do Cidadão, parte 2" (Fonte: SANTOS, Mizael. 2023). </p>
