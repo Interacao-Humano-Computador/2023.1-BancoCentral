@@ -305,12 +305,12 @@ Todas as entrevistas foram gravadas e estão disponíveis para visualização ab
 <p> <b>Vídeo 2</b>: gravação entrevista 1 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/C2uHTRxXY9Y" title="Entrevista Bruno Lazar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/1UYXSkPul68" title="Entrevista Murilo Marques" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 3</b>: gravação entrevista 2 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/t8GF5t_WxUA" title="Entrevista Cícero Barrozo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/hMbdoIgIdfA" title="Entrevista Luís Roberto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 4</b>: gravação entrevista 3 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
