@@ -230,7 +230,6 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 <p> Tabela 12: Cenário 11 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
-
 ## Bibliografia
 
 [1] CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acesso em: 07/05/2023.

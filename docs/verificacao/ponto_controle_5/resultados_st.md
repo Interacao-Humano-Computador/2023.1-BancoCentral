@@ -108,19 +108,18 @@ O artefato respeita todos os pontos analisados.
 </div>
 
 ## Correções Realizadas
+Para a entrega final do projeto, foram realizadas as seguintes correções:
+- Termo de consentimento correto para as entrevistas;
+- Adicionou-se um objetivo ao artefato;
+- Adição de gráficos para a análise de dados quantitativa.
 
-<div align="justify">
-
-Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
-- Adicionou-se um objetivo ao artefato
-
-Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+Dessa forma, foram realizadas correções acerca do conteúdo do artefato. Assim, a tabela 1 foi atualizada para a tabela 2:
 
 | id | Conteúdo | Possui | Qualidade | Observação |
 | - | - | - | - | - |
 | 1 | O artefato segue o planejamento proposto? | Sim | Excelente | - |
 | 2 | Foi realizado teste piloto anteriormente à realização das entrevistas? | Sim | Excelente | - |
-| 3 | O participante da entrevista leu e concordou com o termo de consentimento proposto? | Sim | Excelente | O termo foi trocado |
+| 3 | O participante da entrevista leu e concordou com o termo de consentimento proposto? | Sim | Excelente | - |
 | 4 | As entrevistas foram gravadas e publicadas no artefato? | Sim | Excelente | - |
 | 5 | Os storyboards foram apresentados ao usuário? | Sim | Excelente | - |
 | 6 | Os storyboards estão consistentes com as tarefas da aplicação analisada pelo grupo? | Sim | Excelente | - |
@@ -128,7 +127,6 @@ Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato
 | 8 | Os problemas encontrados nos storyboards foram relatados? | Sim | Excelente | - |
 | 9 | Foram feitas análises com os resultados da entrevista? | Sim | Excelente | - |
 | 10 | O artefato utiliza de gráficos para auxílio da compreensão dos dados obtidos? | Sim | Excelente | - |
-
 
 ## Bibliografia
 

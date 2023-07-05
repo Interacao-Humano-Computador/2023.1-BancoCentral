@@ -36,12 +36,12 @@ O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/
 | <p align="center">Tarefas realizadas</p> | <p align="center">Período de desenvolvimento</p> | <p align="center">Desenvolvedor</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor</p> | 
 | :--------------: | :----: | :-------: | :---: | :-------------: | 
 | Homepage | 21/06 - 22/06 | Larissa Gomes | 23/06 | Giovanni Alvissus |
-| Calculadora do cidadão | 22/06 - 23/06 | Larissa Gomes | 23/06 | Giovanni Alvissus | 
-| Consultar taxas de juros | 22/06 - 23/06 | Giovanni Alvissus | 23/06 | Larissa Gomes | 
+| Calculadora do cidadão | 22/06 - 23/06 | Larissa Gomes e Lucas Gobbi | 23/06 | Giovanni Alvissus | 
+| Consultar taxas de juros | 22/06 - 23/06 | Giovanni Alvissus e Lucas Gobbi | 23/06 | Larissa Gomes | 
 | Cursos | 22/06 - 23/06 | Giovanni Alvissus | 23/06 | Larissa Gomes | 
 | Interação entre as telas | 23/06 - 24/06 | Giovanni Alvissus e Lucas Gobbi | 25/06 | Larissa Gomes | 
-| Registrato | 22/06 - 23/06 | Larissa Gomes | 23/06 | Giovanni Alvissus | 
-| Valores a receber | 22/06 - 23/06 | Larissa Gomes | 23/06 | Giovanni Alvissus | 
+| Registrato | 22/06 - 23/06 | Larissa Gomes | 23/06 | Giovanni Alvissus e Lucas Gobbi | 
+| Valores a receber | 22/06 - 23/06 | Larissa Gomes | 23/06 | Giovanni Alvissus e Lucas Gobbi | 
 
 <div align="center">
 <p> <b>Tabela 2</b>: Tarefas realizadas para a criação do protótipo (Fonte: GOMES, Larissa. 2023). </p>
@@ -170,6 +170,6 @@ As telas foram desenvolvidas visando diminuir o tempo de execução das tarefas,
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 25/06/2023 | `1.0` | Criação do artefato inicial | [Mizael Santos](https://github.com/frmiza) | 25/06/2023 | [Larissa Gomes](https://github.com/larigs) |
 | 26/06/2023 | `1.1` | Reformulação do documento | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 26/06/2023 | [Mizael Santos](https://github.com/frmiza) |
-| 26/06/2023 | `1.2` | Adição dos protótipos e explicação | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 26/06/2023 | [Mizael Santos](https://github.com/frmiza) |
+| 26/06/2023 | `1.2` | Adição dos protótipos e explicação | [Larissa Gomes](https://github.com/larigs), [Giovanni Alvissus](https://github.com/giovanni1106) e [Lucas Gobbi](https://github.com/lucasbergholz) | 26/06/2023 | [Mizael Santos](https://github.com/frmiza) |
 
 </div>
