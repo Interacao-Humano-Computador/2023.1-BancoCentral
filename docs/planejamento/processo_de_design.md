@@ -79,5 +79,5 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 23/04/2023 | `1.0` | Criação do Processo de design | [Mizael Santos](https://github.com/frmiza) | 23/04/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 | 24/04/2023 | `1.1` | Atualização das imagens | [Larissa Gomes](https://github.com/larigs) | 23/04/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 05/07/2023 | `1.2` | Correções no markdown e referencia | [Mizael Santos](https://github.com/larigs) | 05/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro)) |
+| 05/07/2023 | `1.2` | Correções no markdown e referencia | [Mizael Santos](https://github.com/larigs) | 05/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 </div>

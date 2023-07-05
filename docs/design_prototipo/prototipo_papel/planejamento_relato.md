@@ -3,7 +3,7 @@
 # Planejamento do relato do protótipo de papel
 # Introdução
 <div align="justify">
-<p>O propósito deste documento é oferecer uma estrutura para realização de um protótipo voltado para o design conceitual, assim como uma estrutura organizada para a coleta de dados durante a fase de <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao">Planejamento da Avaliação do Protótipo de Papel<a>. </p>
+<p>O propósito deste documento é oferecer uma estrutura para realização de um protótipo voltado para o design conceitual, assim como uma estrutura organizada para a coleta de dados durante a fase de <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao">Planejamento da Avaliação do Protótipo de Papel<a> e oferecer um guia para elaboração do <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados">Relato dos Resultados</a> obtidos. </p>
 <p>Um design permite a avaliação de ideias que surgem ao longo do desenvolvimento de um projeto, uma vez que o objetivo deste é responder questões acerca do design estabelecido [1].</p>
 <p>A prototipação de um design conceitual permite ao usuário ver com seus próprios olhos como o projeto atende as tarefas que ele irá realizar, para então avaliá-lo posteriormente e então fornecer um feedback aos designs[1].</p>
 <p>Existem diversos tipos de protótipos de design conceitual diferentes, o abordado neste artefato em questão trata do protótipo de papel, que é um tipo de prototipação de baixa fidelidade.</p>
@@ -27,8 +27,8 @@
 <ul>
 
 <li><b>D</b>: Determinar os objetivos da avaliação: Definir os objetivos gerais da avaliação e identificar sua importância para as partes interessadas.
-
 <li><b>E</b>: Explorar perguntas a serem respondidas: Elaborar perguntas específicas que orientem a investigação e a análise durante a avaliação.
+
 
 <li><b>C</b>: Escolher(Choice) os métodos de avaliação: Selecionar os métodos mais adequados para responder às perguntas e atingir os objetivos, levando em consideração recursos disponíveis e conhecimento dos avaliadores.
 

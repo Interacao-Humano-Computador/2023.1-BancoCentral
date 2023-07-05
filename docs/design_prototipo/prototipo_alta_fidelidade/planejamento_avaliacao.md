@@ -4,7 +4,7 @@
 
 ## Introdução
 <div align="justify"> 
-<p>A avaliação é uma etapa preciosa para o desenvolvimento de uma interface de um sistema de boa qualidade. O artefato em questão tem como objetivo planejar a avaliação do protótipo de alta fidelidade.
+<p>A avaliação é uma etapa preciosa para o desenvolvimento de uma interface de um sistema de boa qualidade. O artefato em questão tem como objetivo planejar a avaliação do protótipo de alta fidelidade e tem como base o artefato <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_relato">Planejamento do relato do protótipo de alta fidelidade</a>.
 Em um protótipo de alta fidelidade um design realiza a construção de uma interface fidedigna com a esperada pelas partes interessadas, nessa etapa é crucial a participação do usuário a fim deste realizar uma avaliação sobre o design final elaborado pela equipe[1].</p>
 </div>
 
