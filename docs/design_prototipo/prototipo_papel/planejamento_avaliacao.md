@@ -135,8 +135,8 @@ A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de d
 </br>
 
 |   Ordem    |    Data    | Horário de início e fim | Local    | Entrevistadores |  Entrevistado  |  Tarefas |
-| :--------: | :--------: | :---------------------: | -------- | --------------- | ---------------- |
-| Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
+| :--------: | :--------: | :---------------------: | -------- | --------------- | -------------- | -------- |
+| Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado | Tarefas que serão executadas |
 
 <div align="center">
 <p> Tabela 4: Modelo de ficha de entrevistas (Fonte: GOMES, Larissa. 2023).</p>
