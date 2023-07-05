@@ -31,16 +31,16 @@
 
 | Entrega | Título | Breve descrição |
 | :-----------: | :------------------: | ------------------ |
-| 1 | <a id="a" href="#aa">Desenvolvimento do Projeto</a> | Artefatos de planejamento do projeto |
+| 1 | <a id="a" href="#aa">Desenvolvimento do Projeto</a> | Artefatos de planejamento inicial do projeto |
 | 2 | <a id="b" href="#bb">Usuários</a>  | Artefatos referentes aos usuário do Banco Central |
-| 3 | <a id="c" href="#cc">Análise</a>  |  |
-| 4 | <a id="d" href="#dd">Desenvolvimento do Projeto</a> |  |
-| 5 | <a id="e" href="#ee">Relatório e planejamento</a> |  | 
+| 3 | <a id="c" href="#cc">Análise</a>  | Artefatos de análise do site selecionado |
+| 4 | <a id="d" href="#dd">Desenvolvimento do Projeto</a> | Artefatos de planejamento de Storyboarding e Análise de tarefas |
+| 5 | <a id="e" href="#ee">Relatório e planejamento</a> | Artefatos de relato do Storyboardinge Análise de tarefas | 
 | 6.1 | <a id="f" href="#ff">Verificar</a>  | Verificação dos artefatos do grupo 4 | 
-| 7 | <a id="g" href="#gg">Relatar</a> |  |
+| 7 | <a id="g" href="#gg">Relatar</a> | Artefatos de relato do Protótipo de papel |
 | 6.2 | <a id="h" href="#hh">Verificar</a>  | Verificação dos artefatos do nosso grupo | 
 | 8 | <a id="j" href="#jj">Avaliar Protótipo</a> | Artefatos relativos a avaliação do protótipo de alta fidelidade | 
-| 9 | <a id="k" href="#kk">Entrega Final</a> |  |
+| 9 | <a id="k" href="#kk">Entrega Final</a> | Artefatos da entrega final |
 
 <div style="text-align: center"><b>Tabela 2</b>: Direcionamento para cada uma das gravações de entregas (Fonte: BOSI, Rafael. 2023).
 </div>
@@ -160,6 +160,8 @@
 <div align ="center"><b>Vídeo 5:</b> Gravação da terceira reunião do grupo 3. (Fonte: AUTOR. 2023)
 </div>
 
+- Ata da [reunião 3](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao03)
+
 - <b>Presença dos membros:</b>
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
@@ -209,6 +211,8 @@
 <div align ="center"><b>Vídeo 7:</b> Gravação da quarta reunião do grupo 3. (Fonte: AUTOR. 2023)
 </div>
 
+- Ata da [reunião 4](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao04)
+
 - <b>Presença dos membros:</b>
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
@@ -256,6 +260,8 @@
 
 <div align ="center"><b>Vídeo 7:</b> Gravação da quinta reunião do grupo 3. (Fonte: AUTOR. 2023)
 </div>
+
+- Ata da [reunião 5](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao05)
 
 - <b>Presença dos membros:</b>
 
@@ -305,6 +311,8 @@
 <div align ="center"><b>Vídeo 11:</b> Gravação da sexta reunião do grupo 3. (Fonte: AUTOR. 2023)
 </div>
 
+- Ata da [reunião 6](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao06)
+
 - <b>Presença dos membros:</b>
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
@@ -321,7 +329,7 @@
 
 <div align="justify>
 
-&emsp;&emsp;Nesse tópico esta disposta a gravação referente a entrega 6.1, representada pelo Vídeo 12, que contém a gravação da apresentação da sexta entrega. Seguindo a gravação, está a tabela com membros que estavam presente, representado pela Tabela 14. 
+&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega 6.1, representada pelo Vídeo 12 e 13, que contém, respectivamente, a gravação da apresentação da sexta entrega e a gravação da sétima reunião. Seguindo as gravações, estão as tabelas com membros que estavam presentes, representados pelas Tabela 14 e 15, respectivamente. Além disso, seguindo a gravação da reunião esta a ata desenvolvida para resumir a reunião em questão.
 
 </div>
 
@@ -344,36 +352,186 @@
 <p> <b>Tabela 14:</b> Membros presentes na gravação da sexta entrega. (Fonte: BOSI, Rafael. 2023) </p>
 </div>
 
+### Reunião 7
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/s1sds18d0Ms" title="Reunião 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 13:</b> Gravação da sétima reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- Ata da [reunião 7](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao07)
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 15:</b> Membros presentes na gravação da sétima reunião. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
 <br><br>
 
 ## <a id="gg" href="#g">7 - Relatar</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico esta disposta a gravação referente a entrega 7, representada pelo Vídeo 14, que contém a gravação da apresentação da sétima entrega. Seguindo a gravação, está a tabela com membros que estavam presente, representados pela Tabela 16. 
+
+</div>
+
+### Apresentação 7
+
+- <b>Gravação:</b>
+
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/VLpQavZ8dKE" title="Ponto de controle 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 14:</b> Gravação da sétima entrega do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 16:</b> Membros presentes na gravação da sétima entrega. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
 
 <br><br>
 
 ## <a id="hh" href="#h">6.2 - Verificar</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico esta disposta a gravação referente a entrega 6.2, representada pelo Vídeo 15, que contém a gravação da apresentação da entrega 6.2 . Seguindo a gravação, está a tabela com membros que estavam presente, representados pela Tabela 17. 
+
+</div>
+
+### Apresentação 6.2
+
+- <b>Gravação:</b>
+
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/n57UeyLkTEg" title="Ponto de controle 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 15:</b> Gravação da entrega 6.2 do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 17:</b> Membros presentes na gravação da entrega 6.2. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
 
 <br><br>
 
 ## <a id="jj" href="#j">8 - Avaliar Protótipo</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega 8, representada pelo Vídeo 16 e 17, que contém, respectivamente, a gravação da apresentação da oitava entrega e a gravação da oitava reunião. Seguindo as gravações, estão as tabelas com membros que estavam presentes, representados pelas Tabela 18 e 19, respectivamente. Além disso, seguindo a gravação da reunião esta a ata desenvolvida para resumir a reunião em questão.
+
+</div>
+
+### Apresentação 8
+
+- <b>Gravação:</b>
+
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/Al9GeyG8bng" title="Ponto de controle 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 16:</b> Gravação da oitava entrega do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 18:</b> Membros presentes na gravação da oitava entrega. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+### Reunião 8
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/4I8ZYJZA_no" title="Reunião 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 17:</b> Gravação da sétima reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- Ata da [reunião 8](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao08)
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 19:</b> Membros presentes na gravação da oitava reunião. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
 
 <br><br>
 
 ## <a id="kk" href="#k">9 - Entrega Final</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega final, representada pelo Vídeo 18 e 19, que contém, respectivamente, a gravação da apresentação da entrega final e a gravação da nona reunião. Seguindo as gravações, estão as tabelas com membros que estavam presentes, representados pelas Tabela 20 e 21, respectivamente. Além disso, seguindo a gravação da reunião esta a ata desenvolvida para resumir a reunião em questão.
+
+</div>
+
+### Apresentação Final
+
+- <b>Gravação:</b>
+
+
+
+<div align ="center"><b>Vídeo 18:</b> Gravação da entrega final do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 20:</b> Membros presentes na gravação da entrega final. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+### Reunião 9
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/h6XtV0F1kgs" title="Reunião 9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 19:</b> Gravação da sétima reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- Ata da [reunião 9](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/atas/reuniao09)
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 21:</b> Membros presentes na gravação da nona reunião. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
 
 <br><br>
-
-
-## Referência Bibliográfica
-
-
 
 ## Histórico de Versões
 
