@@ -4,7 +4,7 @@
 
 <div align="justify">
 
-_**nota**: Este documento vem promover e propor uma versão corrigida do artefato de [relato dos resultados da análise de tarefas](/docs/design_prototipo/analise_tarefas/relato_resultados.md) apresentados pelo grupo em sala. Haja vista que o primeiro artefato apresentado pelo grupo foi baseado em um planejamento incorreto e mal elaborado, no qual todas as perguntas tinham como objetivo avaliação da interface do site do Banco Central do Brasil, e em momento algum analisava os diagramas de análise de tarefas._
+_**nota**: Este documento vem promover e propor uma versão corrigida do artefato de [relato dos resultados da análise de tarefas](/docs/design_prototipo/analise_tarefas/relato_resultados.md) `v 1.0` apresentados pelo grupo em sala. Haja vista que o primeiro artefato apresentado pelo grupo foi baseado em um planejamento incorreto e mal elaborado, no qual todas as perguntas tinham como objetivo avaliação da interface do site do Banco Central do Brasil, e em momento algum analisava os diagramas de análise de tarefas._
 
 ## Introdução
 
