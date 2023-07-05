@@ -28,7 +28,7 @@
 &emsp;&emsp;Este tópico fez-se necessário, uma vez que o artefato tomou uma forma muito extensa, que dificultaria a navegação do leitor por ele. Com isso, foi desenvolvida a Tabela 2, que ao clicar em cada etapa, o leitor é guiado até o tópico relacionado a ela, no qual estarão contidas todas as gravações de reuniões referentes aquela entrega.
 
 | Entrega | Título | Breve descrição |
-| :-----------: | :------------------: | ------------------ |
+| :-----------: | ------------------ | ------------------ |
 | 1 | <a id="a" href="#aa">Desenvolvimento do Projeto</a> | Artefatos de planejamento inicial do projeto |
 | 2 | <a id="b" href="#bb">Usuários</a>  | Artefatos referentes aos usuário do Banco Central |
 | 3 | <a id="c" href="#cc">Análise</a>  | Artefatos de análise do site selecionado |
