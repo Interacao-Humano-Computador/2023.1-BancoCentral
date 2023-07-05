@@ -32,7 +32,7 @@ Para a descrição dos cenários, existem 5 formas diferentes:
 | Exceção    | Possíveis casos e eventos que fujam do comum nos episódios   |
 
 
-<p> Tabela 1: Molde dos cenários (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 1: Molde dos cenários (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ## Cenários Identificados
@@ -52,7 +52,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia   |
 
-<p> Tabela 2: Cenário 01 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 2: Cenário 01 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C02: Converter Moedas
@@ -70,7 +70,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Exceção    | Falta de internet ou de energia   |
 
 
-<p> Tabela 3: Cenário 02 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 3: Cenário 02 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C03: Consultar Informações Econômicas do País
@@ -88,7 +88,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Exceção    | Falta de internet ou de energia   |
 
 
-<p> Tabela 4: Cenário 03 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 4: Cenário 03 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C04: Aprender Sobre Economia
@@ -106,7 +106,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Exceção    | Falta de internet ou de energia, falta de horários para o curso   |
 
 
-<p> Tabela 5: Cenário 04 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 5: Cenário 04 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C05: Consultar Dados da Poupança
@@ -124,7 +124,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Exceção    | Falta de internet, de energia ou de editor de planilhas  |
 
 
-<p> Tabela 6: Cenário 05 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 6: Cenário 05 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C06: Consultar Valores a Receber
@@ -142,7 +142,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Exceção    | Falta de internet ou de energia  |
 
 
-<p> Tabela 7: Cenário 06 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 7: Cenário 06 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C07: Consulta de Moedas Comemorativas
@@ -159,7 +159,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia  |
 
-<p> Tabela 8: Cenário 07 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 8: Cenário 07 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C08: Calcular Financiamento
@@ -176,7 +176,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia  |
 
-<p> Tabela 9: Cenário 08 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 9: Cenário 08 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C09: Calcular Valor Futuro de Capital
@@ -193,7 +193,7 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia  |
 
-<p> Tabela 10: Cenário 09 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 10: Cenário 09 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ### C10: Reclamar Contra um Banco
@@ -210,7 +210,24 @@ Os cenários identificados, tendo como base as [Personas](analise_requisitos/per
 | Restrições | Fluxo de navegação intuitivo     |
 | Exceção    | Falta de internet ou de energia  |
 
-<p> Tabela 11: Cenário 10 (Fonte: GOBBI, Lucas. 2023).</p>
+<p> Tabela 11: Cenário 10 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
+</div>
+
+### C11: Acompanhar a Reclamação Contra um Banco
+
+<div style="text-align: center">
+
+| Elemento   | Descrição      |
+| ---------- | ----------- |
+| Objetivo   | Acompanhar a reclamação contra algum banco    |
+| Contexto   | Local: Em casa <br> Tempo: Durante a noite <br> Pré-condições: Acesso à Internet   |
+| Recursos   | Internet, telefone, site do Banco Central   |
+| Ator       |  Um consumidor que registrou uma reclamação  |
+| Episódios  | - O usuário acessa o site <br> - O usuário acessa, na página inicial, o item "Meu BC" de "Serviços" <br> - O usuário seleciona, dentro de "Meu BC", o item "Reclamação contra bancos" <br> - O usuário seleciona, dentro de "Reclamação contra bancos", o item "Acompanhar sua reclamação" <br> - O usuário digita seu cpf ou cnpj vinculado à reclamação e digita o numero de registro |
+| Restrições | Fluxo de navegação intuitivo     |
+| Exceção    | Falta de internet ou de energia  |
+
+<p> Tabela 12: Cenário 11 (Fonte: GOBBI, Lucas; PENHA, Igor; RIBEIRO, Bruno. 2023).</p>
 </div>
 
 ## Bibliografia
