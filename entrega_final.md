@@ -12,6 +12,9 @@
 
 ## Site Selecionado
 
+
+
+=======
 &emsp;&emsp;A princípio, o site selecionado pelo grupo era o [VideoLAN](https://www.videolan.org), porém, ao realizarmos que essa aplicação possuia poucas funcionalidades, escolheu-se mudar para o [Banco Central do Brasil](https://www.bcb.gov.br), site do governo o qual possui diversas funcionalidades, além de termos liberdade para trabalhar-mos com essa aplicação.
 
 &emsp;&emsp;O Banco Central do Brasil (Imagem 1) é um site com intuito de auxiliar os seus usuários em questões financeiras. Ele tem como funcionalidades, por exemplo, consultar valores a receber, onde você tem dívidas, converter moedas, analisar panoramas econômicos, etc. O site se destaca pelo grande suporte ao cidadão brasileiro em informações e cálculos financeiros.
@@ -51,10 +54,24 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 <p> Figura 1: Ciclo de vida de um software (Fonte: MAYHEW, D. 2023).</p>
 </div>
 
+## Verificação dos Artefatos
+
+<div align="justify">
+
+&emsp;&emsp;A verificação foi realizada por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 10 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
+
+</div>
+
+| Artefato | Autor(es) | Revisor(es) |
+| :----------------: | :-------: | :------: |
+
+<div align="center">
+<p><b>Tabela :</b> Síntese dos artefatos de Verificação (Fonte: BOSI, Rafael, 2023).</p>
+</div>
+
 ## Referência Bibliográfica
 
 [1] Mayhew, D. J. (1999). The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann.
-
 
 ## Histórico de Versões 
 
