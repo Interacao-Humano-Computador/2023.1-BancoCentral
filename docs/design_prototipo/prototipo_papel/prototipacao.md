@@ -4,20 +4,22 @@
 
 ## Introdução
 
-O protótipo de baixa fidelidade é uma ferramenta fundamental no processo de design de interação humano-computador. Segundo Barbosa e Silva (2010), em seu livro "Interação Humano-Computador" [1], o uso de protótipos de papel possibilita a exploração rápida e econômica de ideias de design, permitindo identificar problemas e realizar melhorias antes de investir recursos significativos no desenvolvimento de soluções mais complexas.
+&emsp;&emsp; O protótipo de baixa fidelidade é uma ferramenta fundamental no processo de design de interação humano-computador. Segundo Barbosa e Silva (2010), em seu livro "Interação Humano-Computador" [1], o uso de protótipos de papel possibilita a exploração rápida e econômica de ideias de design, permitindo identificar problemas e realizar melhorias antes de investir recursos significativos no desenvolvimento de soluções mais complexas.
 
-Este documento tem como objetivo descrever o desenvolvimento dos protótipos de papel para o Banco Central do Brasil, como parte do processo de interação humano-computador. Nele, serão apresentados detalhes sobre a metodologia utilizada na criação dos protótipos, os fluxos de tarefa prototipados e os objetivos de cada tarefa. Além disso, serão fornecidos os fluxos esperados para cada tarefa, delineando as etapas e interações previstas para a interação entre o usuário e o sistema.
+&emsp;&emsp; Este documento tem como objetivo descrever o desenvolvimento dos protótipos de papel para o Banco Central do Brasil, como parte do processo de interação humano-computador. Nele, serão apresentados detalhes sobre a metodologia utilizada na criação dos protótipos, os fluxos de tarefa prototipados e os objetivos de cada tarefa. Além disso, serão fornecidos os fluxos esperados para cada tarefa, delineando as etapas e interações previstas para a interação entre o usuário e o sistema.
 
-O documento servirá como uma valiosa referência para a equipe de desenvolvimento, proporcionando uma visão clara do escopo e dos requisitos do protótipo de baixa fidelidade, facilitando a comunicação e colaboração efetiva ao longo de todo o processo de design e desenvolvimento.
+&emsp;&emsp; O documento servirá como uma valiosa referência para a equipe de desenvolvimento, proporcionando uma visão clara do escopo e dos requisitos do protótipo de baixa fidelidade, facilitando a comunicação e colaboração efetiva ao longo de todo o processo de design e desenvolvimento.
 
 
 ## Metodologia
 
-<div align="justify">
+&emsp;&emsp; O desenvolvimento do protótipo de baixa fidelidade seguiu uma metodologia baseada no relato das [Análises de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas), conforme descrito no [Guia de Estilo](https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md). O objetivo principal foi atender às necessidades dos usuários e alcançar as [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade).
 
-O desenvolvimento do protótipo de baixa fidelidade foi baseado no relato das [Análises de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas), seguindo os princípios do [Guia de Estilo](https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md), conforme sugerido por Simone Barbosa e Bruno Diniz [1]. O protótipo foi criado de acordo com as necessidades dos usuários, afim de alcançar as [Metas de Usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade). 
+&emsp;&emsp; Para a elaboração do protótipo de papel, foram utilizados materiais simples e acessíveis, permitindo uma rápida iteração e modificações durante o processo de design. Foram empregados papéis, canetas, lápis e borrachas, que facilitaram a representação das interfaces e interações do sistema.
 
-O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/">Figma</a>, ferramenta que tem como objetivo auxiliar no desenvolvimento de telas, ideal para prototipação de alta fidelidade. O projeto de design realizado conta com 5 fluxos de tarefas e 10 telas ao todo, onde cada fluxo de tarefa segue as tarefas identificadas no artefato de <a href="https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/analise_tarefas.md">Análise de Tarefas</a>. Os fluxos de tarefas prototipadas da Tabela 1 e a relação da produção do protótipo está descrita na Tabela 2.
+&emsp;&emsp; O desenvolvimento do protótipo seguiu as seguintes etapas:
+
+1. Identificação e análise das tarefas do sistema: Com base nas análises de tarefas realizadas, foram identificadas as principais interações que os usuários teriam com o sistema do Banco Central do Brasil. Essas tarefas serviram como base para a criação dos fluxos de tarefa prototipados, como pode ser visto na Tabela 1.
 
 | <p align="center">Fluxo de tarefas</p> | 
 | :--:                       | 
@@ -31,6 +33,8 @@ O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/
 <div align="center">
 <p> <b>Tabela 1</b>: Fluxos de tarefas prototipadas (Fonte: GOMES, Larissa. 2023). </p>
 </div>
+
+2. Criação dos fluxos de tarefa prototipados: Utilizando os materiais mencionados, foram desenhados os fluxos de tarefa em papel, representando as telas, campos de entrada, botões e demais elementos de interação. Foram exploradas diferentes abordagens e iterações para cada tarefa, buscando encontrar a melhor solução em termos de usabilidade e experiência do usuário, como pode ser observado na Tabela 2 e nas figuras de 1 a 10 no tópico "Imagens dos protótipos".
 
 | <p align="center">Tarefas realizadas</p> | <p align="center">Período de desenvolvimento</p> | <p align="center">Desenvolvedor</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor</p> | 
 | :--------------: | :----: | :-------: | :---: | :-------------: | 
@@ -48,11 +52,6 @@ O desenvolvimento do protótipo foi realizado no <a href="https://www.figma.com/
 
 <details>
 <summary>Imagens dos protótipos</summary>
-
-## Protótipo
-
-Os protótipos desenvolvidos seguiram os princípios do [Guia de estilo](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo) e foram inspirados em sites de concorrentes para a elaboração de um menu principal mais simples e amigavel, além de tarefas mais interativas e significativas para o público alvo. Onde pôde ser observado nas figuras de 1 a 10.
-
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/prototipo_papel/antes/tela_principal.jpg" alt="Tela principal" style="max-width: 100%; max-height: 100%;">
 
@@ -126,104 +125,85 @@ Os protótipos desenvolvidos seguiram os princípios do [Guia de estilo](https:/
 
 </details>
 
+<br/>
+
+3. Validação e iteração: Os protótipos de papel foram submetidos a sessões de avaliação com usuários, onde foram observadas suas interações e coletados feedbacks e sugestões de melhorias. Com base nesses resultados, foram realizadas iterações no design dos protótipos, aprimorando a usabilidade e corrigindo problemas identificados, como pode ser observado no [Relato dos resultados](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados).
+
+&emsp;&emsp; Essa metodologia permitiu uma abordagem ágil e iterativa no desenvolvimento dos protótipos de papel, possibilitando a rápida exploração de ideias, a identificação de problemas e a validação de soluções com os usuários. Esses protótipos de baixa fidelidade serviram como uma representação tangível do sistema em estágios iniciais do design, auxiliando na comunicação e no refinamento das interfaces e interações antes do desenvolvimento de soluções mais complexas.
 
 
 ## Fluxos de tarefa
 
-<div align="justify">
-
-Todos os protótipos disponíveis no Figma, tanto o de alta fidelidade desenvolvido pelo grupo (Figmas 2, 4, 6, 8, 10, 12) como o do Banco Central (Figmas 3, 5, 7, 9, 11, 13) podem ser visualizados e interagidos, no protótipo criado é possivel seguir o fluxo das tarefas, enquanto o do BCB conta com os prints do site para comparação das mudanças realizadas. 
+&emsp;&emsp; Todos os protótipos produzidos foram importados para o Figma, permitindo exemplificar os fluxos de tarefa de forma mais intuitiva e facilitando a compreensão das etapas esperadas para a realização de cada fluxo. Os Figmas de 1 a 6 apresentam os protótipos desenvolvidos.
 
 ### Homepage
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 2</b>: Protótipo da Homepage (Fonte: GOMES, Larissa. 2023).</p>
+<p> <b>Figma 1</b>: Protótipo da Homepage (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D180-2%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign"allowfullscreen></iframe>
-<div align="center">
-<p> <b>Figma 3</b>: Homepage do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
-</div>
-
-A primeira tela desenvolvida foi a da Homepage, onde foi reformulada a barra de navegação superior para menos opções, abrangendo melhor as informações do site em categorias, além da área de visualizações passar de três colunas para dois, dessa forma diminuindo a quantidade de elementos visuais na principal página do site. Também foi reformulada as opções de acessibilidade de forma a ficar mais visível e mais simples de ser entendidas. 
+&emsp;&emsp; A primeira tela desenvolvida foi a da Homepage. Nessa tela, foi reformulada a barra de navegação superior, reduzindo o número de opções e categorizando melhor as informações do site. Além disso, a área de visualizações foi alterada para duas colunas, reduzindo a quantidade de elementos visuais na página principal. Também foram feitas melhorias nas opções de acessibilidade, tornando-as mais visíveis e compreensíveis.
 
 ### Acessar cursos
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D20-717%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
-<p> <b>Figma 4</b>: Protótipo da tarefa de acessar cursos (Fonte: ALVISSUS, Giovanni. 2023).</p>
+<p> <b>Figma 2</b>: Protótipo da tarefa de acessar cursos (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-635%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
-<div align="center">
-<p> <b>Figma 5</b>: Cursos do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
-</div>
-
-Não houve muitas mudanças nessa tarefa na tela inicial, apenas no acesso ao curso que foi desenvolvido de acordo com o modelo desenvolvido para as tarefas do site, onde há uma barra lateral para a navegação entre as aulas do curso e as informações do curso no centro. A incrição no curso foi padronizada pelo acesso e validação do gov.br.
+&emsp;&emsp; Na tela de acesso aos cursos, não houve muitas mudanças em relação à tela inicial. A diferença principal foi na organização do acesso aos cursos, que foi desenvolvido de acordo com o modelo definido para as tarefas do site. Agora, há uma barra lateral para a navegação entre as aulas do curso e as informações do curso são apresentadas no centro da tela. A inscrição nos cursos foi padronizada pelo acesso e validação do [gov.br](https://www.gov.br/pt-br).
 
 ### Acessar registrato
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 6</b>: Protótipo do Registrato (Fonte: GOMES, Larissa. 2023).</p>
+<p> <b>Figma 3</b>: Protótipo do Registrato (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-634%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
-<div align="center">
-<p> <b>Figma 7</b>: Registrato do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
-</div>
+&emsp;&emsp; O fluxo para acessar o Registrato possui uma estrutura semelhante em quase todas as opções de escolha. Com isso em mente, a tela foi simplificada, unificando o que antes eram 6 telas em uma única tela. Foi adicionada uma barra lateral que permite visualizar os dados do usuário. A tela de informações foi dividida em duas colunas. Na coluna da esquerda, estão todas as opções de relatórios. Se uma opção que requer dados adicionais for selecionada, os campos correspondentes a esses dados são exibidos. Também há um checkbox para os termos de ciência e um botão para gerar o relatório. A coluna da direita exibe todos os relatórios gerados pelo usuário, com um campo indicando o tipo de serviço para diferenciá-los.
 
-O Registrato possuia uma estrutura similar, senão igual em quase todas as opções de escolha são iguais. Tendo isso em vista, a tela foi sintetizada em uma tela o que antes eram 6 (sendo 4 iguais). Foi adicionada uma barra lateral onde é possível visualizar os dados do usuário. A tela de informações foi dividida em duas colunas, a coluna da esquerda contém todas as opções de relatórios, se fosse selecionada uma opção que precisava de dados a mais (como datas de inicio e fim), a tela era atualizada de forma a aparecer os campos equivalente a eles, além do checkbox dos termos de ciência e o botão de gerar relatório. A coluna direita disponiviliza todos os relatórios gerados pelo usuário, com um campo do tipo de serviço para diferenciá-los.
 
 ### Calculadora do cidadão
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 8</b>: Protótipo da Calculadora do cidadão (Fonte: GOMES, Larissa. 2023).</p>
+<p> <b>Figma 4</b>: Protótipo da Calculadora do cidadão (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D143-616%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
-<div align="center">
-<p> <b>Figma 9</b>: Calculadora do cidadão do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
-</div>
-
-De forma similar ao registrato, as telas da calculadora era quase todas iguais, mudando um ou dois campos de dados. Portanto, os campos de dados iguais a todos foram adicionados a esquerda, junto a uma opção de definir qual tipo de calculadora gostaria. Após escolher o tipo de calculadora, os campos de dados específicos dessa calculadora são adicionados. A parte de visualização das informações é dividida em duas colunas, seguindo o padrão de telas de tarefas. A coluna da esquerda apresenta uma tabela, onde contém o resultado do cálculo realizado pelo usuário, além de comparações com os valores e taxas de acordo com os meses anteriores. Na coluna da direita contém exemplos dos cálculos que aquela calculadora realiza.
+&emsp;&emsp; Assim como no caso do Registrato, as telas da calculadora são praticamente iguais, diferindo apenas em um ou dois campos de dados. Portanto, os campos de dados comuns a todas as calculadoras foram adicionados à esquerda, juntamente com uma opção para selecionar o tipo de calculadora desejado. Após escolher o tipo de calculadora, os campos de dados específicos para aquela calculadora são exibidos. A visualização das informações é dividida em duas colunas, seguindo o padrão das telas de tarefa. Na coluna da esquerda, há uma tabela que exibe o resultado do cálculo feito pelo usuário, além de comparações com valores e taxas de meses anteriores. Na coluna da direita, há exemplos de cálculos que a calculadora realiza.
 
 ### Consultar taxas de juros
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 10</b>: Protótipo da Taxa de juros (Fonte: ALVISSUS, Giovanni. 2023).</p>
+<p> <b>Figma 5</b>: Protótipo da Taxa de juros (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-632%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
-<div align="center">
-<p> <b>Figma 11</b>: Taxas de juros do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
-</div>
-
-Nesta tela, a principal mudança foi a simplificação dos tipos de juros em um dropdown, facilitando a consulta em uma única tela, além de também adicionar gráficos para análisar o histórico das taxas e poder comparar com outros bancos, também sendo possivel levar os dados direto para a calculadora do cidadão para realizar devidos cálculos.
+&emsp;&emsp; Nessa tela, a principal mudança foi a simplificação dos tipos de juros em um menu suspenso, facilitando a consulta em uma única tela. Também foram adicionados gráficos para analisar o histórico das taxas e compará-las com outros bancos..
 
 ### Consultar valores a receber
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
-<p> <b>Figma 12</b>: Protótipo da Valores a receber (Fonte: GOMES, Larissa. 2023).</p>
+<p> <b>Figma 6</b>: Protótipo da Valores a receber (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D144-636%26scaling%3Dmin-zoom%26page-id%3D143%253A614%26starting-point-node-id%3D143%253A616%26mode%3Ddesign" allowfullscreen></iframe>
-<div align="center">
-<p> <b>Figma 13</b>: Valores a receber do Banco Central (Fonte: Banco Central do Brasil. 2023).</p>
-</div>
+&emsp;&emsp; A tela de consulta de valores a receber possui uma estrutura semelhante ao Registrato, com uma barra lateral para navegação e exibição dos dados do usuário. Na coluna da esquerda, há uma lista suspensa com opções para selecionar o tipo de valor a receber (por exemplo, benefícios, restituição de impostos, entre outros). Ao selecionar uma opção, os campos de dados relevantes para aquela opção são exibidos.
 
+&emsp;&emsp; Na coluna da direita, há uma tabela que apresenta os valores a receber com detalhes, como data de recebimento, valor e descrição. A tabela permite ao usuário ordenar os valores a receber por colunas específicas, como data ou valor, para facilitar a visualização e a pesquisa. Além disso, há uma opção para exportar os dados da tabela para outros formatos, como CSV ou PDF.
 
 ## Conclusão
 
-<div align="justify">
+&emsp;&emsp; O desenvolvimento das telas do protótipo de baixa fidelidade teve como objetivo principal reduzir o tempo necessário para a execução das tarefas no site do Banco Central do Brasil. Ao analisar o site original, verificou-se que muitas telas e etapas eram necessárias para concluir uma tarefa, o que tornava o processo mais demorado para os usuários.
 
-As telas foram desenvolvidas visando diminuir o tempo de execução das tarefas, visto que no site do BCB é necessário passar por muitas telas e muitos passos para conseguir realizar a tarefa. As telas das tarefas foram projetadas para manter um padrão de interação, mantendo em uma barra lateral a parte principal de interação e nas colunas centrais as informações geradas, com excessão das telas do registrato e valores a receber, visto que com a sintese se tornaram simples, além de não precisarem de dado a serem informados na maioria das opções, sendo realizadas em cima do CPF do usuário.
+&emsp;&emsp; Com base nessa análise, as telas das tarefas foram projetadas seguindo um padrão de interação consistente. Cada tela apresenta uma barra lateral que concentra as opções principais de interação, enquanto as colunas centrais exibem as informações geradas ou solicitadas pelo usuário. Essa abordagem padronizada torna as tarefas mais intuitivas e eficientes de serem realizadas.
 
-</div>
+&emsp;&emsp; Com a utilização desses protótipos de papel, espera-se obter insights valiosos sobre a usabilidade e eficácia das tarefas propostas. Esses insights poderão orientar o refinamento e aprimoramento das telas do Banco Central do Brasil, proporcionando aos usuários uma experiência mais eficiente e satisfatória ao utilizar o site.
+
+&emsp;&emsp; Ao considerar as melhorias implementadas nos protótipos de baixa fidelidade, acredita-se que a simplificação das tarefas e o design coerente das telas contribuirão para uma experiência mais fluída e eficaz no site, tornando-o mais amigável e acessível aos usuários.
+
+&emsp;&emsp; Espera-se que este documento forneça uma visão abrangente da metodologia utilizada, dos fluxos de tarefas prototipados e dos objetivos de cada tarefa. Os protótipos de papel desenvolvidos servem como uma representação inicial e tangível das melhorias propostas, proporcionando uma base sólida para futuras iterações e refinamentos no design das telas do Banco Central.
+
 
 ## Referência Bibliográfica
 
@@ -239,8 +219,6 @@ As telas foram desenvolvidas visando diminuir o tempo de execução das tarefas,
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:                       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 25/06/2023 | `1.0` | Criação do artefato inicial | [Mizael Santos](https://github.com/frmiza) | 25/06/2023 | [Larissa Gomes](https://github.com/larigs) |
-| 26/06/2023 | `1.1` | Reformulação do documento | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 26/06/2023 | [Mizael Santos](https://github.com/frmiza) |
-| 26/06/2023 | `1.2` | Adição dos protótipos e explicação | [Larissa Gomes](https://github.com/larigs) e [Giovanni Alvissus](https://github.com/giovanni1106) | 26/06/2023 | [Mizael Santos](https://github.com/frmiza) |
+| 05/07/2023 | `1.0` | Repassando do artefato de relato para um específico do protótipo | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 05/07/2023 | [Mizael Santos](https://github.com/frmizas) |
 
 </div>
