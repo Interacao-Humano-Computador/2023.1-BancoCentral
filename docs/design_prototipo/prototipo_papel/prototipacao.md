@@ -1,6 +1,6 @@
 <div class="body">
 
-# Desenvolvimento do Protótipo de Baixa Fidelidade
+# Protótipo de Baixa Fidelidade
 
 ## Introdução
 
