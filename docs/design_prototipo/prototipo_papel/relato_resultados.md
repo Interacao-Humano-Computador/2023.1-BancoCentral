@@ -1,10 +1,8 @@
-<div class="body">
+<div class="body" align="justify">
 
 # Relato dos resultados da avaliação do protótipo de papel
 
 ## Introdução
-
-<div align="justify">
 
 Os protótipos de papel desempenham um papel fundamental no desenvolvimento de sites, permitindo que designers e desenvolvedores testem e refinem suas ideias antes de investir tempo e recursos na implementação completa. Eles fornecem uma representação visual e interativa do produto final, permitindo que os usuários experimentem sua funcionalidade e forneçam feedback valioso.
 
@@ -14,7 +12,21 @@ Além disso, obter feedback dos usuários sobre os protótipos de papel é uma e
 
 Essa tecnica permite que os designers testem suas ideias rapidamente, iterem o design com base no feedback dos usuários e economizem tempo e recursos no longo prazo. Além disso, protótipos de papel também podem ajudar a comunicar e alinhar as expectativas entre as equipes de design, desenvolvimento e stakeholders [1].
 
-</div>
+## Metodologia
+
+A metodologia utilizada para relatar os resultados coletados durante a avaliação do protótipo de papel foi baseada no documento de [Planejamento do Relato da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_relato), fornecendo uma estrutura organizada para a apresentação dos dados e insights obtidos.
+
+Durante a avaliação, foram realizadas observações e entrevistas com os usuários, permitindo identificar problemas de usabilidade, dificuldades encontradas e sugestões de melhorias. Os pesquisadores registraram cuidadosamente todas as informações relevantes, incluindo as interações dos usuários com o protótipo de papel, suas opiniões e feedback.
+
+A metodologia adotada para o relato dos resultados seguiu as seguintes etapas:
+
+1. **Organização dos dados**: Os registros das observações e entrevistas foram organizados de forma sistemática, facilitando a análise e interpretação dos resultados. Os dados foram agrupados por tarefa, permitindo uma visão abrangente dos problemas e feedbacks específicos de cada fluxo.
+
+2. **Análise dos resultados**: Os dados coletados foram analisados cuidadosamente, identificando padrões, tendências e insights relevantes. Foram considerados tanto os pontos positivos quanto os pontos de melhoria, buscando compreender a experiência do usuário em relação ao protótipo de papel.
+
+3. **Elaboração do relato**: Com base na análise dos resultados, foi elaborado um relato detalhado contendo os principais achados da avaliação. O relato incluiu a descrição dos problemas de usabilidade identificados, sugestões de melhorias e feedback dos usuários. Além disso, foram apresentadas conclusões e recomendações para aprimorar o design e a experiência do usuário do site do Banco Central do Brasil.
+
+A metodologia adotada para o relato dos resultados buscou garantir a clareza, objetividade e relevância das informações apresentadas. O documento de [Planejamento do Relato da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_relato) serviu como referência e guia para a estruturação e formatação do relato final.
 
 ## Protótipos desenvolvidos
 
@@ -41,7 +53,7 @@ Antes de apresentar o protótipo de papel para os usuários, é altamente recome
 
 <div align="justify">
 
-As sessões seguiram a metodologia do [planejamento](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao), portanto foram realizadas 3 simulações de uso, cada uma com 2 entrevistadores. Antes de cada gravação e entrevista foi lido o [termo de consentimento](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/termo-de-consentimento) com o participante e perguntado se o usuário concordava. As Tabelas 2, 4 e 6 apresentam os: entrevistados, entrevistadores, o local, horário e tarefas simuladas. As simulações de uso estão documentadas nos Vídeos 1, 2 e 3. Durante as sessões um dos entrevistadores ficou responsável por fazer considerações sobre a simulação ou dita pelo participante. Algumas das considerações foram ajustadas e corrigidas durante ou entre as entrevistas, os ajustes que não puderam ser feitos também foram considerados. Ao fim da simulação, foram realizadas algumas perguntas aos usuários referentes a experiência da sessão, as respostas estão disponíveis nas Tabelas 3, 5 e 7.
+As sessões seguiram a metodologia do [planejamento da avaliação](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao), portanto foram realizadas 3 simulações de uso, cada uma com 2 entrevistadores. Antes de cada gravação e entrevista foi lido o [termo de consentimento](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/termo-de-consentimento) com o participante e perguntado se o usuário concordava. As Tabelas 2, 4 e 6 apresentam os: entrevistados, entrevistadores, o local, horário e tarefas simuladas. As simulações de uso estão documentadas nos Vídeos 1, 2 e 3. Durante as sessões um dos entrevistadores ficou responsável por fazer considerações sobre a simulação ou dita pelo participante. Algumas das considerações foram ajustadas e corrigidas durante ou entre as entrevistas, os ajustes que não puderam ser feitos também foram considerados. Ao fim da simulação, foram realizadas algumas perguntas aos usuários referentes a experiência da sessão, as respostas estão disponíveis nas Tabelas 3, 5 e 7.
 
 </div>
 
