@@ -35,9 +35,6 @@
 
 ## Site Selecionado
 
-
-
-=======
 &emsp;&emsp;A princípio, o site selecionado pelo grupo era o [VideoLAN](https://www.videolan.org), porém, ao realizarmos que essa aplicação possuia poucas funcionalidades, escolheu-se mudar para o [Banco Central do Brasil](https://www.bcb.gov.br), site do governo o qual possui diversas funcionalidades, além de termos liberdade para trabalhar-mos com essa aplicação.
 
 &emsp;&emsp;O Banco Central do Brasil (Imagem 1) é um site com intuito de auxiliar os seus usuários em questões financeiras. Ele tem como funcionalidades, por exemplo, consultar valores a receber, onde você tem dívidas, converter moedas, analisar panoramas econômicos, etc. O site se destaca pelo grande suporte ao cidadão brasileiro em informações e cálculos financeiros.
