@@ -128,7 +128,6 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 <li>Checar o registrato e obter o relatório referente a atividade de emprestimo e financiamento.
 <br>
 <p>Nesta tarefa, o usuário tem como objetivo, realizar atividades referentes ao registrato, para realizar esta tarefa o usuário deve estar logado no sistema, dentre as atividades no registrato ele pode realizar as seguintes, "Cheuqe sem fundo", "Empréstimos e Financiamentos", "Contas e Relacionamentos", "Cadin Federal", "Chaves Pix" ou "Câmbio", onde ao preencher os valores corretos referente a uma das atividades selecionadas, ele pode obter os resultados que espera.</p>
-<li>Realiza a tarefa de conversão monetária com valores arbitrários.
 
 <li>Checar as taxas de juros dos bancos.
 <br>
@@ -178,11 +177,11 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 </div>
 <p>A <b>Tabela 4</b> apresenta um modelo que foi utilizado para criar as tabelas de documentação das entrevistas realizadas.</p>
 
-|   Ordem	|	Data	| Horário de início e fim | Local	| Entrevistadores |  Entrevistado  |
-| :--------: | :--------: | :---------------------: | -------- | --------------- | ---------------- |
-| Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Local onde a entrevista foi realizada (Plataforma) | Nome do(s) entrevistador(es) | Nome do entrevistado |
+|   Ordem	|	Data	| Horário de início e fim | Entrevistadores |  Entrevistado  |
+| :--------: | :--------: | :---------------------: | :---------------: | :----------------: |
+| Ordem da entrevista | Data de realização da entrevista | Duração da entrevista | Nome do(s) entrevistador(es) | Nome do entrevistado |
 
-<p>A <b>Tabela 4</b> modelo utilizado para criar as tabelas de documentação das entrevistas realizadas.  (Fonte: SANTOS, Mizael. 2023).</p>
+<p>A <b>Tabela 4</b> modelo utilizado para criar as tabelas de documentação das entrevistas realizadas.  (Fonte: BOSSI, Rafael. 2023).</p>
 
 #### Orçamento
 
@@ -197,7 +196,7 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 
 ### D - Decidir as questões éticas
 <div align="justify">
-<p>Para realização das metodologias que envolvam terceiros, como neste caso a avaliação com  usuário, é necessário que o mesmo esteja ciente dos <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos">Aspectos Éticos</a> que os resguardam, dessa forma devem assinar um  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao?id=usuários">Termo de Consentimento</a>  referente à entrevista para a realização do processo. </p>
+<p>Para realização das metodologias que envolvam terceiros, como neste caso a avaliação com  usuário, é necessário que o mesmo esteja ciente dos <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos">Aspectos Éticos</a> que os resguardam, dessa forma devem assinar um  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/termo-de-consentimento">Termo de Consentimento</a>  referente à entrevista para a realização do processo. </p>
 </div>
 
 
