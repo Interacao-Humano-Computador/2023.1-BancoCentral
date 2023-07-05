@@ -48,6 +48,7 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 <li>Fazer protótipos.
 <li>Realizar testes empíricos.
 <li>Praticar design iterativo (correção de problemas durante as iterações de design e avaliação).
+</ul>
 
 ## Ciclo de vida de Mayhew
 <p align="justify">Mayhew definiu que esse ciclo de vida (Figura 3) para engenharia de usabilidade, como uma visão holística, reúne diferentes propostas da área de IHC em um só ciclo de vida. Nessa fase a análise de quesitos é dirigida pelo perfil do usuário, análise de tarefas, possibilidades e limitações da plataforma, ja na fase de design e avaliação tem como objetivo conceber uma solução de IHC, e por fim na fase final de instalação deve-se obter opinioes de usuarios depois de um tempo de uso para possíveis futuras melhorias do sistema. </p>
