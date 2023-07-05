@@ -137,7 +137,7 @@ Entrevistador: Bruno Ribeiro e Rafael Bosi;
     <p> <b>Tabela 2: </b> Perguntas realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
-### Entrevista 3 - USUÁRIO 3
+### Entrevista 3 - Luís Roberto Borges Pedrosa
 Entrevistador: Bruno Ribeiro e Rafael Bosi;
 
 | id | Pergunta | Resposta |
@@ -164,29 +164,29 @@ Entrevistador: Bruno Ribeiro e Rafael Bosi;
     <p> <b>Tabela 3: </b> Perguntas a serem realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
-### Entrevista 4 - USUÁRIO 4
+### Entrevista 4 - Pedro Lucas Dourado Santos
 Entrevistador: Bruno Ribeiro e Rafael Bosi;
 
 | id | Pergunta | Resposta |
 | :-: | - | :- |
-| 1 | Qual o seu nome completo? |  |
-| 2 | Qual sua idade? |  |
-| 3 | Qual sua ocupação? |  |
-| 4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |
-| 5 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |
-| 6 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |
-| 7 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |   |
-| 8 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |
-| 9 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 10 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |
-| 11 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 12 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |
-| 13 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 14 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |
-| 15 | Ao observar a tarefa de consulta de taxas de juros, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 16 | Como você faria para consultar diferentes taxas de juros, tanto para pessoa física quanto para jurídica? |  |
-| 17 | Ao observar a tarefa de consultar instituição associada, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 18 | Como você faria para visualizar dados financeiros de uma empresa vinculada a um Banco? |  |
+| 1 | Qual o seu nome completo? | Pedro Lucas Dourado Santos |
+| 2 | Qual sua idade? | 21 |
+| 3 | Qual sua ocupação? | Estudante |
+| 4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Muito boa |
+| 5 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? | Ruim |
+| 6 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? | Sim |
+| 7 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 8 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? | Seguiria o mesmo fluxo. |
+| 9 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 10 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? | Seguiria o mesmo fluxo, porém adicionaria um detalhamento nos dados a serem inseridos. |
+| 11 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 12 | Como você faria para cadastrar-se em um curso sobre finanças online? | Seguiria o mesmo fluxo, porém adicionaria uma etapa de verificação de segurança, algum tipo de login por exemplo. |
+| 13 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 14 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? | Seguiria o fluxo, porém, adicionaria uma verificação em duas etapas por questões de segurança, e a tarefa de aceitar os termos acredita acontecer apenas na primeira vez.  |
+| 15 | Ao observar a tarefa de consulta de taxas de juros, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 16 | Como você faria para consultar diferentes taxas de juros, tanto para pessoa física quanto para jurídica? | Seguiria o mesmo fluxo. |
+| 17 | Ao observar a tarefa de consultar instituição associada, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 18 | Como você faria para visualizar dados financeiros de uma empresa vinculada a um Banco? | Seguiria o mesmo fluxo. |
 <div style="text-align: center">
     <p> <b>Tabela 4: </b> Perguntas realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
@@ -228,27 +228,33 @@ Problemas:
     - A falta de uma etapa para informar o prazo de emprestimo e idade inicial do tomador, por conta de risco de inadimplência, no fluxo de tarefas de consulta de taxas de juros.
 
 Sugestões:
-- USUÁRIO 4: 
+- **Pedro Dourado**:
+    - Adicionar um detalhamento nos dados a serem inseridos no fluxo da calculadora do cidadão.
+    - Adicionar uma etapa de verificação de segurança, algum tipo de login por exemplo, no fluxo cadastrar-se em um curso.
+    - Adicionar uma verificação em duas etapas por questões de segurança, no fluxo do registrato, e a tarefa de aceitar os termos acredita acontecer apenas na primeira vez.
 
 ## Análise dos dados
 
 ### Organização dos dados
 Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de auxiliar na análise dos dados obtidos nas entrevistas.
 
-| id | Pergunta | [Quantidade] Resposta | Objetivo |
-| :-: | - | :- | - |
-| 4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |  |
-| 5 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |  |
-| 6 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |  |
-| 7 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |  |
-| 8 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | |  |
-| 9 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |  |
-| 10 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
-| 11 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |  |
-| 12 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
-| 13 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |  |
-| 14 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |  |
-| 15 | Qual sugestão de melhoria você gostaria de compartilhar? |  | |
+| id | Pergunta | [Quantidade] Resposta |
+| :-: | - | :- |
+| 4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |
+| 5 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |
+| 6 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |
+| 7 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |   |
+| 8 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |
+| 9 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
+| 10 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |
+| 11 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
+| 12 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |
+| 13 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
+| 14 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |
+| 15 | Ao observar a tarefa de consulta de taxas de juros, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
+| 16 | Como você faria para consultar diferentes taxas de juros, tanto para pessoa física quanto para jurídica? |  |
+| 17 | Ao observar a tarefa de consultar instituição associada, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
+| 18 | Como você faria para visualizar dados financeiros de uma empresa vinculada a um Banco? |  |
 <div style="text-align: center">
     <p> <b>Tabela 6: </b> Dados organizados (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
@@ -313,7 +319,7 @@ Todas as entrevistas foram gravadas e estão disponíveis para visualização ab
 <p> <b>Vídeo 4</b>: gravação entrevista 3 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/7Ld3uM5kcfs" title="Entrevista Samuel Alves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/ZUt6FkJTGnk" title="Entrevista Pedro Dourado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 5</b>: gravação entrevista 4 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
