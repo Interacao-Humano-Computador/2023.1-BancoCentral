@@ -10,6 +10,29 @@
 
 </div>
 
+## Ferramentas utilizadas
+
+&emsp;&emsp;As ferramentas listadas na Tabela 1 representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o desenvolvimento do projeto, que foi realizado em volta do site do [Banco Central do Brasil](https://www.bcb.gov.br/).
+
+| Ferramentas | Etapa que foi utilizado | Finalidade |
+| :-: | :-: | :-: | 
+| GitHub | Durante todas as etapas | Repositório utilizado, versionamento do projeto, criação da documentação, utilização do VSCode online.|
+| Figma | Usado a partir da etapa 3 | Criação do guia de estilo, protótipo de baixa fidelidade e alta fidelidade. |
+| Whatsapp | Durante todas as etapas | Aplicativo de mensagens escolhido para manter uma comunicação contínua entre os membros do grupo. | 
+| Google planilhas | Usado na etapa 2 | Utilizado para criar gráficos e organizar os dados obtidos nos questionários. |
+| Microsoft Teams | Durante todas as etapas | Local onde foram salvos os vídeos de reunião, apresentações de ponto de controle e entrevistas com usuários. |
+| Youtube | Durante todas as etapas | Local armazenado os vídeos gravados das reuniões, apresentações e entrevistas. |
+| GoogleDrive | Durante todas as etapas | Local armazenado os vídeos gravados de algumas reuniões. |
+| Visual Studio Code | Durante todas as etapas | Editor de texto gratuito usado para a construção dos artefatos. |
+| This Person Doesn't Exist | Usado na etapa 2 | Utilizado para coletar imagens das personas. |
+| Canva | Usado na etapa 2 | Criação dos storyboards. |
+| LucidChart | Usado na etapa 2 | Criação dos diagramas. |
+| Google forms | Usado na etapa 2 | Usado para criar o formulário responsável para caracterizar o perfil de usuário. |
+
+<div align="center">
+<p> Tabela 1: Relação das ferramentas utilizadas no projeto. (Fonte: ALVISSUS, Giovanni. 2023).</p>
+</div>
+
 ## Site Selecionado
 
 
