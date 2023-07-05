@@ -191,36 +191,36 @@ Entrevistador: Bruno Ribeiro e Rafael Bosi;
     <p> <b>Tabela 4: </b> Perguntas realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
-### Entrevista 5 - USUÁRIO 5
+### Entrevista 5 - Eric Gomes
 Entrevistador: Bruno Ribeiro e Rafael Bosi;
 
 | id | Pergunta | Resposta |
 | :-: | - | :- |
-| 1 | Qual o seu nome completo? |  |
-| 2 | Qual sua idade? |  |
-| 3 | Qual sua ocupação? |  |
-| 4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |
-| 5 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |
-| 6 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |
-| 7 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |   |
-| 8 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |
-| 9 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 10 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |
-| 11 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 12 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |
-| 13 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 14 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |
-| 15 | Ao observar a tarefa de consulta de taxas de juros, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 16 | Como você faria para consultar diferentes taxas de juros, tanto para pessoa física quanto para jurídica? |  |
-| 17 | Ao observar a tarefa de consultar instituição associada, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 18 | Como você faria para visualizar dados financeiros de uma empresa vinculada a um Banco? |  |
+| 1 | Qual o seu nome completo? | Eric Silveira Gomes |
+| 2 | Qual sua idade? | 19 |
+| 3 | Qual sua ocupação? | Estudante |
+| 4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Muito boa |
+| 5 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? | Média |
+| 6 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? | Sim |
+| 7 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Não, pela falta de senha e verificações de seguranças  |
+| 8 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? | Seguiria o mesmo fluxo, porém adicionaria etapas de verificação de segurança. |
+| 9 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 10 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? | Seguiria o mesmo fluxo. |
+| 11 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 12 | Como você faria para cadastrar-se em um curso sobre finanças online? | Seguiria o mesmo fluxo. |
+| 13 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 14 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? | Seguiria o mesmo fluxo. |
+| 15 | Ao observar a tarefa de consulta de taxas de juros, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 16 | Como você faria para consultar diferentes taxas de juros, tanto para pessoa física quanto para jurídica? | Seguiria o mesmo fluxo. |
+| 17 | Ao observar a tarefa de consultar instituição associada, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | Sim |
+| 18 | Como você faria para visualizar dados financeiros de uma empresa vinculada a um Banco? | Seguiria o mesmo fluxo. |
 <div style="text-align: center">
     <p> <b>Tabela 5: </b> Perguntas realizadas (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
 
 ## Sugestões e Problemas Encontrados
-A seguir, seguem alguns dos problemas e sugestões obtidos a partir da pergunta 13 do questionário passado ao entrevistado:
+A seguir, seguem alguns dos problemas e sugestões obtidos a partir das perguntas do questionário passado ao entrevistado:
 
 Problemas:
 - **Luís Roberto**:
@@ -232,6 +232,8 @@ Sugestões:
     - Adicionar um detalhamento nos dados a serem inseridos no fluxo da calculadora do cidadão.
     - Adicionar uma etapa de verificação de segurança, algum tipo de login por exemplo, no fluxo cadastrar-se em um curso.
     - Adicionar uma verificação em duas etapas por questões de segurança, no fluxo do registrato, e a tarefa de aceitar os termos acredita acontecer apenas na primeira vez.
+- **Eric Gomes**:
+    - Adicionar etapas de verificação de segurança no fluxo de valores a receber.
 
 ## Análise dos dados
 
@@ -240,65 +242,45 @@ Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de 
 
 | id | Pergunta | [Quantidade] Resposta |
 | :-: | - | :- |
-| 4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? |  |
-| 5 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? |  |
-| 6 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? |  |
-| 7 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |   |
-| 8 | Como você consultaria, valores a receber, como por exemplo, valores de herança, valores de reembolso de impostos, entre outros? |  |
-| 9 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 10 | Como você faria para fazer simulações sobre taxas de juros, aplicações, financiamentos, entre outros? |  |
-| 11 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 12 | Como você faria para cadastrar-se em um curso sobre finanças online? |  |
-| 13 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 14 | Como você faria para visualizar informações como empréstimos tomados, chaves pix, entre outros, visto que são informações pessoais e essas precisariam de uma checagem por uma conta do governo para serem acessadas? |  |
-| 15 | Ao observar a tarefa de consulta de taxas de juros, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 16 | Como você faria para consultar diferentes taxas de juros, tanto para pessoa física quanto para jurídica? |  |
-| 17 | Ao observar a tarefa de consultar instituição associada, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? |  |
-| 18 | Como você faria para visualizar dados financeiros de uma empresa vinculada a um Banco? |  |
+| 4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | [1] Boa</br> [4] Muito Boa |
+| 5 | Como você descreveria seu grau de experiência e conhecimento acerca de economia e do mercado financeiro? | [2] Boa</br> [2] Média</br> [1] Ruim |
+| 6 | Você já utilizou algum site bancário, dentre esses, principalmente sites governamentais? | [5] Sim |
+| 7 | Ao observar a tarefa de consulta de valores a receber, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | [4] Sim</br> [1] Não  |
+| 9 | Ao observar a tarefa da calculadora do cidadão, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | [5] Sim |
+| 11 | Ao observar a tarefa de cadastro em cursos de finanças online, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | [5] Sim |
+| 13 | Ao observar a tarefa do registrato, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | [5] Sim |
+| 15 | Ao observar a tarefa de consulta de taxas de juros, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | [5] Sim |
+| 17 | Ao observar a tarefa de consultar instituição associada, a sequência de processos é coerente com o mundo real? Se não poderia descrever o porquê? | [5] Sim |
 <div style="text-align: center">
     <p> <b>Tabela 6: </b> Dados organizados (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
-A seguir, seguem os gráficos (figura 1 a 3) representativo das respostas dos usuários para auxiliar a análise quantitativa:
+A seguir, seguem os gráficos (figura 1 e 2) representativo das respostas dos usuários para auxiliar a análise quantitativa:
 
-Grafico das perguntas relacionadas se os storyboard condizem com a realidade, se são satisfatórios e se são compreensíveis:
+Grafico das perguntas relacionadas se ao diagrama de análise de tarefas valores a receber condizem com a realidade, se são satisfatórios e se são compreensíveis:
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_1.png" width="100%">
-<b>Figura 1</b>: Gráfico 1 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/analise_tarefas/GRAFICO_RELATO-valores-a-receber.png" width="100%">
+<b>Figura 1</b>: Gráfico 1 (Fonte: RIBEIRO, Bruno. 2023).
 
-Grafico se os o entrevistado teve dificuldade com as interações:
+Grafico das perguntas relacionadas aos diagramas de análise de tarefas de calculadora do cidadão, cursos de finanças, registrato, taxa de juros e consultar instituição associada condizem com a realidade, se são satisfatórios e se são compreensíveis:
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/analise_tarefas/GRAFICO_RELATO-outros.png" width="100%">
+<b>Figura 1</b>: Gráfico 2 (Fonte: RIBEIRO, Bruno. 2023).
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_2.png" width="100%">
-<b>Figura 1</b>: Gráfico 2 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).
-
-Grafico das perguntas relacionadas se os storyboard estavam bem feitos com todas as informações necessárias e se ele se adequa aos usuários do Banco Central:
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_3.png" width="100%">
-<b>Figura 1</b>: Gráfico 3 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).
 
 ### Análise Quantitativa
-Foram analisados, a partir dos dados obtidos na tabela 6, que os storyboards tiveram sucesso em sua interação com o entrevistado, pois, em perguntas chave como as de número 1, 5 e 10, a resposta majoritária foi "Sim". Tendo isso em vista, algumas perguntas podem melhorar sua clareza ao entrevistado, entre elas as de número 7 e 9, tendo em vista que houveram algumas respostas de "Não sei responder".
+Foram analisados, a partir dos dados obtidos na tabela 6, que os diagramas de análise de tarefas tiveram sucesso em sua interação com o entrevistado, pois, em perguntas chave como as de número 7, 9, 11, 13, 15 e 17, a resposta majoritária foi "Sim".
 
 ### Análise Qualitativa
-Quanto a análise qualitativa, as entrevistas poderiam fornecer mais frutos quanto a possíveis melhorias nos storyboards e no site, pois, devido às perguntas serem majoritariamente fechadas, diminuiu a eficácia da análise qualitativa deste processo. Todavia, a questão 13, a qual é aberta, permitiu-nos perceber algumas melhorias, entre elas:
+Quanto a análise qualitativa, as entrevistas poderiam fornecer mais frutos quanto a possíveis melhorias nos diagramas de análise de tarefas, pois as primeiras entrevistas seguiram um ordem de perguntas que dificultavam o entendimento do entrevistando:
 
-- Diminuir as funcionalidades do site que precisam de conta do governo em determinado nível;
-- Aumentar a qualidade de alguns storyboards;
-- Diminuir o redirecionamento do usuário para novas abas.
+- Mudar ordem das perguntas (feito a partir da entrevista 3).
 
 ### Interpretação dos resultados
-A partir de reflexões acerca do processo de avaliação dos storyboards, foi possível perceber que:
+A partir de reflexões acerca do processo de avaliação dos diagramas de análise de tarefas, foi possível perceber que:
 
 - Para uma análise quantitativa de maior acurácia, seria interessante um número maior de entrevistados;
 - Em relação ao tempo disposto pelo entrevistado, e para um melhor desempenho do processo, foi ideal a realização de poucas perguntas abertas;
-- Devido às entrevistas terem sido realizadas de forma virtual, o contato com o usuário diminuiu, e, portanto, não se pode analisar por completo seus comportamentos em relação aos storyboards e as perguntas.
-
-
-A partir da análise dos dados obtidos acima, foi possível perceber que:
-
-- Para uma análise qualitativa de maior acurácia, seria interessante um número maior de perguntas abertas;
-- Algumas perguntas (como a 7, a 9 e a 11) devem melhorar sua clareza, pois obtivemos um número acentuado de respostas "Não sei responder";
-- O processo de avaliação dos storyboards foi, em geral, um sucesso, pois nas perguntas chave do questionário, as quais envolviam perguntas sobre a clareza do storyboard em si (entre elas as perguntas 1, 2, 5, 6 e 10), e as tarefas representadas neles, obtivemos, em sua maioria, respostas positivas.
+- Devido às entrevistas terem sido realizadas de forma virtual, o contato com o usuário diminuiu, e, portanto, não se pode analisar por completo seus comportamentos em relação aos diagramas de análise de tarefas e as perguntas.
 
 
 ## Gravação das entrevistas
@@ -324,15 +306,13 @@ Todas as entrevistas foram gravadas e estão disponíveis para visualização ab
 <p> <b>Vídeo 5</b>: gravação entrevista 4 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
     
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/gevlPAQJhbU" title="Entrevista Victor Hugo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/AUV65C9c4PE" title="Entrevista Eric Gomes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 6</b>: gravação entrevista 5 (Fonte: RIBEIRO, Bruno; BOSI, Rafael. 2023).</p>
 </div>
 
 ## Conclusão
-A partir da realização das entrevistas, conseguimos ter um feedback dos usuários em relação aos storyboards produzidos pelo grupo, além de alguns insights em relação a aplicação estudada. Quanto à análise dos dados em si, foram realizadas dois tipos, a quantitativa e a qualitativa, permitindo uma avaliação do próprio grupo em relação às entrevistas realizadas, utilizando-se, por exemplo, tabelas de auxílio a essa atividade, como a tabela 6. Na análise interna do grupo, foi considerado um sucesso a realização das avaliações, pois foi possível obter pontos de vistas os quais não haviam passado anteriormente pelo grupo.
-
-
+A partir da realização das entrevistas, conseguimos ter um feedback dos usuários em relação aos diagramas de análise de tarefas produzidos pelo grupo, além de alguns insights em relação a aplicação estudada. Quanto à análise dos dados em si, foram realizadas dois tipos, a quantitativa e a qualitativa, permitindo uma avaliação do próprio grupo em relação às entrevistas realizadas, utilizando-se, por exemplo, tabelas de auxílio a essa atividade, como a tabela 6. Na análise interna do grupo, foi considerado um sucesso a realização das avaliações, pois foi possível obter pontos de vistas os quais não haviam passado anteriormente pelo grupo.
 
 ## Bibliografia
 
@@ -343,6 +323,6 @@ A partir da realização das entrevistas, conseguimos ter um feedback dos usuár
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
-| 01/07/2023 | `1.0`  | Criação do molde do documento de relato de análise de tarefas CORRIGIDO | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Rafael Bosi](https://github.com/StrangeUnit28) | 03/07/2023 | [Lucas Bergholz](https://github.com/LucasBergholz) |
+| 01/07/2023 | `1.0`  | Criação do molde do documento de relato de análise de tarefas CORRIGIDO | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Rafael Bosi](https://github.com/StrangeUnit28) | 03/07/2023 | [Lucas Bergholz](https://github.com/LucasBergholz) e [Igor Penha](https://github.com/igorpenhaa)|
 
 </div>
