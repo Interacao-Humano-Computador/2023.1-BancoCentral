@@ -146,24 +146,37 @@ Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto obje
 
 <p align="justify">
 
-&emsp;&emsp;TEXTO DESCREVENDO A TAREFA
+&emsp;&emsp; A tarefa de correção de valores, informa ao usuário os resultados de operações que ele deseja realizar de maneira facilitada e intuitiva em sua tela. 
 
 </p>
 
-```
-"Modelo da tabela a ser feita, apagar isso quando for adicionar sua parte Mizael"
-
 |<p align="center">objetivos / operações</p> | <p align="center">Relações</p> | <p align="center">problemas e recomendações</p> |
 | --                                         | :----: |  ---- | 
-| 0. acessar dados financeiros pessoais      |  1>2	 | **Input**: acesso ao registrato pelo gov.br, com cpf e senha, com a escolha do tipo de dado a ser acessado (em alguns casos a escolha das datas dos dados) e a concordância com os termos.</br> **Plano**: acessar registrato, **depois** escolher o tipo de dado a ser acessado, **em seguida** aceitar os termos e **por último** gerar relatório.</br> **Feedback**: Relatório de Serviços gerado.</br> **Problema**: o registrato apenas apresenta as informações para quem possui nível prata ou ouro em sua conta gov.br.</br> **Recomendação**: informar antes de acessar o registrato a necessidade de ter uma conta gov.br acima do nível prata. |
-| 1. acessar o registrato |  1>2  | **Plano**: informar o cpf e **depois** a senha do gov.br. </br> **Feedback**: tela menu de Serviços Registrato. |
-| 1.1.	Informar cpf  |    |  |
-| 1.2.	Informar senha do gov.br |    |  |
-| 2. Escolher tipo de dado a ser acessado |  1/2  | **Plano**: selecionar uma das opções, **entre** Cheques sem Fundos, Empréstimos e Financiamentos, Contas e Relacionamentos, Cadin Federal, Chaves Pix ou Câmbio. </br> **Feedback**: tela menu de solicitação de relatório. |
-| 2.1. Selecionar Cheques sem Fundos	 |    |  |
-| 2.2. Empréstimos e Financiamento |  1>2  | **Plano**: selecionar Empréstimos e Financiamentos, **em seguida** definir informações. |
-| 2.2.1. Selecionar Empréstimos e Financiamento	 |    |  |
-```
+| 0. Escolher tipo de dados a ser corrigido |  1>2	 | **Plano**: selecionar uma das tarefas **entre** indices de preços, taxa TR, poupança, taxa Selic e CDI |
+| 1. Indices de preços  |  1+2  | **Plano**: Preencher dados para simulação <br> **Feedback**: resultado da conta no canto superior direito de sua tela. |
+| 1.1.	Informar data de inicio  |    |  |
+| 1.2.	Informar valor a ser corrigido |  |  |
+| 1.3.	Informar data do fim |  |  |
+| 1.4.	Selecionar índice para correção |  |  |
+| 2. TR  |  1+2  | **Plano**: Preencher dados para simulação <br> **Feedback**: resultado da conta no canto superior direito de sua tela. |
+| 2.1.	Informar data de inicio  |    |  |
+| 2.2.	Informar valor a ser corrigido |  |  |
+| 2.3.	Informar data do fim |  |  |
+| 2.4.	Informar data efetiva do pagamento |  |  |
+| 3. Pupança  |  1+2  | **Plano**: Preencher dados para simulação <br> **Feedback**: resultado da conta no canto superior direito de sua tela. |
+| 3.1.	Informar data de inicio  |    |  |
+| 3.2.	Informar valor a ser corrigido |  |  |
+| 3.3.	Informar data do fim |  |  |
+| 3.4.	Selecionar regra de correção |  |  |
+| 4. Selic  |  1+2  | **Plano**: Preencher dados para simulação <br> **Feedback**: resultado da conta no canto superior direito de sua tela.  |
+| 4.1.	Informar data de inicio  |    |  |
+| 4.2.	Informar valor a ser corrigido |  |  |
+| 4.3.	Informar data do fim |  |  |
+| 5. CDI  |  1+2  | **Plano**: Preencher dados para simulação <br> **Feedback**: resultado da conta no canto superior direito de sua tela. |
+| 5.1.	Informar data de inicio  |    |  |
+| 5.2.	Informar valor a ser corrigido |  |  |
+| 5.3.	Informar data do fim |  |  |
+| 5.4.	Informar porcentagem do CDI |  |  |
 
 
 <div align="center">
@@ -172,7 +185,7 @@ Um dos primeiros passos numa análise de tarefas é a coleta de um conjunto obje
 
 <p align="justify">Com o resultado da análise descrita na Tabela 4, foi criado o diagrama HTA (Figura 4). A Tabela 1 e Figura 1 são fundamentais para o entendimento do diagrama, sendo uma legenda para ele.</p>
 
-<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/NOMEARQUIVO.png" width="100%">
+<img title="a title" alt="Diagrama HTA" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/analise_tarefas/DiagramaHTACoreecaoValores.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 4</b>: Diagrama da representação HTA da tarefa "Calculadora do Cidadão, parte 2" (Fonte: SANTOS, Mizael. 2023). </p>
