@@ -80,7 +80,7 @@ Previamente as entrevistas, foi realizado o teste piloto das entrevistas para te
 
 ## Dados obtidos
 
-Os dados obtidos nas entrevistas foram transcritos para as tabelas de 1 a 5.</p>
+Os dados obtidos nas entrevistas foram transcritos para as tabelas de 1 a 5, nota-se que a partir da terceira entrevista a ordem das perguntas foram alteradas para que assim o entrevistando posso entender melhor a análise de tarefas e qual o objetivo da pesquisa.</p>
 
 ### Entrevista 1 - João Pedro Nobrega Fernandes
 Entrevistador(es): Bruno Ribeiro e Rafael Bosi;
