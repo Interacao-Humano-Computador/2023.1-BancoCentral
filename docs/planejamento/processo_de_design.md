@@ -9,6 +9,8 @@
 A elaboração de uma Interação Humano Computador tem como principal objetivo atender e servir os usuários e os demais envolvidos interessados no projeto, por conseguinte, a maior parte dos processos de design são centrados no usuário, e seguem os princípios de foco no usuário, métricas observáveis e design interativo. Os processos de design de IHC da importancia a participação do usuário no processo, dessa forma quanto mais cedo o usuário estiver inserido no processo mais cedo se descobre as necessidades do mesmo baseando-se em dados fornecidos ao utilizar o sistema[1].</p>
 
 ## Ciclo de vida simples
+
+<p>O ciclo de vida simples, é o processo de design mais simples possível, ele não apresenta um detalhamento das etapas e poucas iterações no desenvolvimento, portanto ele é recomentadado para os designs mais experientes.</p>
 <img title="a title" alt="Imagem Ciclo de vida simples" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/ciclosimples.png" width="100%">
 <div style="text-align: center">
     <p> <b>Figura 1: </b> Ciclo de vida de simples (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010).</p>
@@ -25,12 +27,12 @@ A elaboração de uma Interação Humano Computador tem como principal objetivo 
 - Baixo detalhamento.
 
 ## Ciclo de vida estrela
+<p>O ciclo de vida estrela (Figura 2) se assemelha bastante ao ciclo de vida simples (Figura 1), no entanto possui maiores checagens entre etapas e maior detalhamento.</p>
 <img title="a title" alt="Imagem Ciclo de vida estrela" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/cicloestrela.png" width="100%">
 <div style="text-align: center">
     <p> <b>Figura 2: </b> Ciclo de vida de estrela (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010).</p>
 </div>
 <br>
-<p>O ciclo de vida estrela (Figura 2) se assemelha bastante ao ciclo de vida simples (Figura 1), no entanto possui maiores checagens entre etapas e maior detalhamento.</p>
 
 ## Ciclo de vida de Nilsen
 
