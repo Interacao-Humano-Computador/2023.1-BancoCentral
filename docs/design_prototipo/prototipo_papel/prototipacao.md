@@ -138,7 +138,7 @@
 
 ### Homepage
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D319-27%26t%3DwaeBi2XTZH5jlUbN-1%26scaling%3Dmin-zoom%26page-id%3D318%253A2%26starting-point-node-id%3D321%253A85%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 1</b>: Protótipo da Homepage (Fonte: GOMES, Larissa. 2023).</p>
 </div>
@@ -147,7 +147,7 @@
 
 ### Acessar cursos
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D20-717%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D319-39%26t%3DWsrz4FVUm0k4s60J-1%26scaling%3Dmin-zoom%26page-id%3D318%253A2%26starting-point-node-id%3D319%253A39%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 <p> <b>Figma 2</b>: Protótipo da tarefa de acessar cursos (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
@@ -155,7 +155,7 @@
 
 ### Acessar registrato
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D321-85%26t%3DWsrz4FVUm0k4s60J-1%26scaling%3Dmin-zoom%26page-id%3D318%253A2%26starting-point-node-id%3D321%253A85%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 3</b>: Protótipo do Registrato (Fonte: GOMES, Larissa. 2023).</p>
 </div>
@@ -165,7 +165,7 @@
 
 ### Calculadora do cidadão
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D321-77%26t%3DWsrz4FVUm0k4s60J-1%26scaling%3Dmin-zoom%26page-id%3D318%253A2%26starting-point-node-id%3D321%253A77%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 4</b>: Protótipo da Calculadora do cidadão (Fonte: GOMES, Larissa. 2023).</p>
 </div>
@@ -174,7 +174,7 @@
 
 ### Consultar taxas de juros
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D321-56%26t%3DWsrz4FVUm0k4s60J-1%26scaling%3Dmin-zoom%26page-id%3D318%253A2%26starting-point-node-id%3D321%253A56%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 5</b>: Protótipo da Taxa de juros (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
@@ -183,7 +183,7 @@
 
 ### Consultar valores a receber
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3rcAMPl41BO6GP2kxcAlIp%2FProt%25C3%25B3tipo-Alta-Fidelidade-IHC%3Ftype%3Ddesign%26node-id%3D15-274%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D15%253A274%26mode%3Ddesign" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FqfTjVMd6eqIsLqmj7Ru9gF%2FGuia-de-estilo---BCB%3Ftype%3Ddesign%26node-id%3D321-48%26t%3DWsrz4FVUm0k4s60J-1%26scaling%3Dmin-zoom%26page-id%3D318%253A2%26starting-point-node-id%3D321%253A48%26show-proto-sidebar%3D1%26mode%3Ddesign" allowfullscreen></iframe>
 <div align="center">
 <p> <b>Figma 6</b>: Protótipo da Valores a receber (Fonte: GOMES, Larissa. 2023).</p>
 </div>
