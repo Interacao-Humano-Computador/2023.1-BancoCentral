@@ -118,7 +118,7 @@
 
 &emsp;&emsp; Para selecionar os usuários que participarão da avaliação, iremos convidar usuários da plataforma que tenham perfis semelhantes aos identificados no [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario) e nas [Personas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas). Seguiremos a recomendação de Dumas e Redish [4], que afirmam que uma avaliação de IHC deve envolver de cinco a doze usuários, sendo que cinco já são suficientes para detectar a maioria dos problemas, como relata Nielsen [5]. 
 
-&emsp;&emsp; A simulação de uso será conduzida por dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso. Para a execução da avaliação, será necessário desenvolver os protótipos de papel, para isso será utilizado papel sufite e lápis, também um notebook para ser realizada a gravação, não possuindo custo por serem materiais dos avaliadores. O local da simulação será a sala 201 do LDTEA-FGA, devido ser uma sala de reuniões com um ambiente controla.
+&emsp;&emsp; A simulação de uso será conduzida por dois avaliadores: um responsável por simular o comportamento do sistema e outro por observar a experiência de uso. Para a execução da avaliação, será necessário desenvolver os protótipos de papel, para isso será utilizado papel sufite e lápis, também um notebook para ser realizada a gravação, não possuindo custo por serem materiais dos avaliadores. O local da simulação será a sala 201 do LDTEA-FGA, devido ser uma sala de reuniões com um ambiente controlado.
 
 &emsp;&emsp; Na preparação para a avaliação, é necessário desenvolver os protótipos de papel a serem utilizados na simulação, para isso serão utilizadas as tarefas da Tabela 1. A intenção é representar e destacar os elementos principais da interface com os quais o usuário vai interagir durante a simulação da interação. Além das telas estáticas, o avaliador também deve preparar outros pedaços de papel com partes da interface que se modificam durante a interação, como:
 
@@ -156,7 +156,7 @@ A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de d
 <p> Tabela 5: Planejamento para realização das entrevistas (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-&emsp;&emsp;Os 5 participantes selecionados responderam que gostariam de participar de pesquisas futuras relacionadas ao projeto no [questionário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/questionarios/questionario_01) realizado para identificação do perfil do usuário. 
+&emsp;&emsp;Os 5 participantes selecionados ja utilizaram algumas das funcionalidades oferecidas pelo Banco Central, fazendo com que tenham uma visão ampla das melhorias ou defeitos do protótipo.
 
 ## D - Decidir as questões éticas
 
@@ -211,9 +211,9 @@ A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de d
 
 &emsp;&emsp; Antes da realização da simulação real com os usuários, será conduzido um teste piloto por dois avaliadores. Esse teste tem como objetivo verificar o correto funcionamento de todas as ferramentas planejadas, verificar a eficácia do planejamento e analisar se a avaliação será capaz de fornecer os dados necessários para o estudo, além de garantir um ambiente controlado para as entrevistas. Além disso, o teste piloto também servirá para verificar a clareza e objetividade da linguagem utilizada na entrevista, garantindo que as perguntas sejam compreendidas de maneira adequada pelos participantes. Um planejamento para realização do teste piloto pode ser visto na Tabela 7.
 
-|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |   Entrevistado    |  Tarefas |
-| :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | ----------------- |--------- |
-|      0     | 02/05/2023 | 14:30 - 14:50 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes| --- | Todos os protótipos |
+|    Ordem   |    Data    | Horário de início e fim | Local            |     Entrevistadores    |  Tarefas |
+| :--------: | :--------: | :---------------------: | ---------------- | ---------------------- | --------- |
+|      0     | 02/05/2023 | 14:30 - 14:50 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes| Todos os protótipos |
  
 <div align="center">
 <p> Tabela 7: Planejamento do teste piloto (Fonte: ALVISSUS, Giovanni. 2023).</p>
