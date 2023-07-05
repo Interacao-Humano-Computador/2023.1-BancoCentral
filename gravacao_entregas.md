@@ -2,13 +2,11 @@
 
 # Gravação das Entregas
 
-# Data errada em todas as entregas e reuniões de 3 em diante
-
 ## Introdução
 
 <div align="justify">
 
-&emsp;&emsp;O presente documento tem como objetivo apresentar todas as gravações feitas pelo grupo 3 do [Banco Central do Brasil](https://www.bcb.gov.br/), de forma organizada e sintetizada, para que o leitor consiga navegar pelas gravações sem prejuizos. Além disso, junto das gravações dispostas no artefato estará a respectiva ata de cada uma, para que o leitor, se for do interrsse, tenha um resumo do que foi discutido na reunião. Também junto das gravações estará uma tabela, no formato da Tabela 1, apresentando quais membros estavam presentes em cada uma das gravações, a data e o horário em que foi realizada e a plataforma onde foi gravada.
+&emsp;&emsp;O presente documento tem como objetivo apresentar todas as gravações feitas pelo grupo 3 do [Banco Central do Brasil](https://www.bcb.gov.br/), de forma organizada e sintetizada, para que o leitor consiga navegar pelas gravações sem prejuizos. Além disso, junto das gravações dispostas no artefato estará a respectiva ata de cada uma, para que o leitor, se for do interesse, tenha um resumo do que foi discutido na reunião. Também junto das gravações estará uma tabela, no formato da Tabela 1, apresentando quais membros estavam presentes em cada uma das gravações, a data e o horário em que foi realizada e a plataforma onde foi gravada.
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :-------------------: | :--------: | :---------------------: | :--------------: |
@@ -61,7 +59,7 @@
 
 - <b>Gravação:</b>
 
-<iframe align="center" width="800vw" height="400vh" src="https://www.youtube.com/embed/ZxD0aDZ2OSg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/ZxD0aDZ2OSg" title="Ponto de controle 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <div align ="center"><b>Vídeo 1:</b> Gravação da primeira entrega do grupo 3. (Fonte: AUTOR. 2023)
 </div>
@@ -70,7 +68,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 24/04/2023 | 19:44 - 19:57 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 3:</b> Membros presentes na gravação da primeira entrega. (Fonte: BOSI, Rafael. 2023) </p>
@@ -145,7 +143,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 08/05/2023 | 22:24 - 22:49 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 6:</b> Membros presentes na gravação da segunda entrega. (Fonte: BOSI, Rafael. 2023) </p>
@@ -195,7 +193,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 15/05/2023 | 21:40 - 21:56 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 8:</b> Membros presentes na gravação da terceira entrega. (Fonte: BOSI, Rafael. 2023) </p>
@@ -206,7 +204,6 @@
 - <b>Gravação:</b>
 
 <iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/66V5ZOcsOCw" title="Reunião 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<div align="center">
 
 <div align ="center"><b>Vídeo 7:</b> Gravação da quarta reunião do grupo 3. (Fonte: AUTOR. 2023)
 </div>
@@ -217,7 +214,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 10/05/2023 | 18:58 - 19:06 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 9:</b> Membros presentes na gravação da quarta reunião. (Fonte: BOSI, Rafael. 2023) </p>
@@ -246,7 +243,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 21/05/2023 | 19:45 - 20:03 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 10:</b> Membros presentes na gravação da quarta entrega. (Fonte: BOSI, Rafael. 2023) </p>
@@ -267,7 +264,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 17/05/2023 | 21:11 - 21:19 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 11:</b> Membros presentes na gravação da quinta reunião. (Fonte: BOSI, Rafael. 2023) </p>
@@ -296,7 +293,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 29/05/2023 | 19:37 - 19:59 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 12:</b> Membros presentes na gravação da quinta entrega. (Fonte: BOSI, Rafael. 2023) </p>
@@ -317,7 +314,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 17/05/2023 | 19:25 - 19:32 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 13:</b> Membros presentes na gravação da sexta reunião. (Fonte: BOSI, Rafael. 2023) </p>
@@ -346,7 +343,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 05/06/2023 | 19:16 - 19:47 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 14:</b> Membros presentes na gravação da sexta entrega. (Fonte: BOSI, Rafael. 2023) </p>
@@ -367,7 +364,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 31/05/2023 | 21:00 - 21:16 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 15:</b> Membros presentes na gravação da sétima reunião. (Fonte: BOSI, Rafael. 2023) </p>
@@ -396,7 +393,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 12/06/2023 | 22:11 - 22:35 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 16:</b> Membros presentes na gravação da sétima entrega. (Fonte: BOSI, Rafael. 2023) </p>
@@ -425,7 +422,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 19/06/2023 | 21:32 - 22:11 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 17:</b> Membros presentes na gravação da entrega 6.2. (Fonte: BOSI, Rafael. 2023) </p>
@@ -454,7 +451,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 26/06/2023 | 22:34 - 23:03 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 18:</b> Membros presentes na gravação da oitava entrega. (Fonte: BOSI, Rafael. 2023) </p>
@@ -475,7 +472,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 20/06/2023 | 21:07 - 21:19 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 19:</b> Membros presentes na gravação da oitava reunião. (Fonte: BOSI, Rafael. 2023) </p>
@@ -504,7 +501,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) | 05/07/2023 |  | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 20:</b> Membros presentes na gravação da entrega final. (Fonte: BOSI, Rafael. 2023) </p>
@@ -525,7 +522,7 @@
 
 | <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
 | :--------: | :--------: | :--------: | :--------: |
-| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 29/06/2023 | 20:40 - 20:58 | Plataforma Teams |
 
 <div style="text-align: center">
 <p> <b>Tabela 21:</b> Membros presentes na gravação da nona reunião. (Fonte: BOSI, Rafael. 2023) </p>
@@ -538,5 +535,6 @@
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |:------:|:--------:|-----------|-------|:---------:|-----------|
 | 04/07/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 05/07/2023 | `1.1` | Adição das gravações das entregas e das reuniões | [Rafael Bosi](https://github.com/StrangeUnit28) | 05/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
 </div>
