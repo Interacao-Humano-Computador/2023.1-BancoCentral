@@ -223,11 +223,9 @@ Entrevistador: Bruno Ribeiro e Rafael Bosi;
 A seguir, seguem alguns dos problemas e sugestões obtidos a partir da pergunta 13 do questionário passado ao entrevistado:
 
 Problemas:
-- USUÁRIO 1: 
-
-- USUÁRIO 2: 
-
-- USUÁRIO 3: 
+- **Luís Roberto**:
+    - A falta de uma etapa de verificação de segunraça no fluxo de tarefas de valores a receber.
+    - A falta de uma etapa para informar o prazo de emprestimo e idade inicial do tomador, por conta de risco de inadimplência, no fluxo de tarefas de consulta de taxas de juros.
 
 Sugestões:
 - USUÁRIO 4: 
