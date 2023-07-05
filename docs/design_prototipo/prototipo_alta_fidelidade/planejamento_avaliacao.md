@@ -22,7 +22,7 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 | I | Identificar e administrar as questões práticas da avaliação |
 | D | Decidir como lidar com as questões éticas |
 | E | (Evaluate) Avaliar, interpretar e apresentar os dados |
-<p> <b>Tabela 1</b>: Significado da sigla DECIDE(Fonte: SANTOS, Mizael. 2023). </p>
+<p> <b>Tabela 1</b>: Significado da sigla DECIDE(Fonte: BARBOSA Simone e SILVA Bruno 2023). </p>
 
 </div>
 
@@ -30,7 +30,7 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 
 ### Objetivos Gerais (D)
 <div style="text-align: justify">
-<p>O objetivo de realizar uma avaliação de um protótipo de alta fidelidade é avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo[1] para então obter um feedback do mesmo, seja por observações de um avaliador ou diretamente do usuário, sobre o sistema planejado. Tendo em mente que esse protótipo tem o objetivo de ser fidedigno ao proposto pelas partes interessadas, a avaliação visa identificar problemas, avaliar a eficácia do design e ajustar, caso necessário, antes da implementação de uma versão final.</p>
+<p>O objetivo de realizar uma avaliação de um protótipo de alta fidelidade é avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo [1] para então obter um feedback do mesmo, seja por observações de um avaliador ou diretamente do usuário, sobre o sistema planejado. Tendo em mente que esse protótipo tem o objetivo de ser fidedigno ao proposto pelas partes interessadas, a avaliação visa identificar problemas, avaliar a eficácia do design e ajustar, caso necessário, antes da implementação de uma versão final.</p>
 </div>
 
 ### Roteiro de Entrevista (E)
@@ -42,7 +42,7 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 #### Usuários
 
 <div style="text-align: justify">
-<p>O perfil dos usuários escolhidos para participarem da avaliação foram selecionados com base no protótipo de papel realizado. Foi decidido com base no livro[2] que usaremos 5 usuários para essa etapa, tanto pela quantidade de participantes disponíveis quanto pela demanda de trabalho.</p>
+<p>O perfil dos usuários escolhidos para participarem da avaliação foram selecionados com base no protótipo de papel realizado. Foi decidido com base no livro [2] que usaremos 5 usuários para essa etapa, tanto pela quantidade de participantes disponíveis quanto pela demanda de trabalho.</p>
 
 </div>
 
@@ -63,27 +63,27 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 
 <p><b>Quanto a utilização</b><p>
 <ul>
-<li>De que maneira os usuários utilizam o sistema[1]?
-<li>Qual foi a diferença entre o realizado e o planejado[1]?
-<li>Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema[1]?
+<li>De que maneira os usuários utilizam o sistema [1]?
+<li>Qual foi a diferença entre o realizado e o planejado [1]?
+<li>Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema [1]?
 <li>Quanto tempo que levou para atingirem seus objetivos?
-<li>Os objetivos dos usuários podem ser alcançados através do sistema[1]?
-<li>Após cometer quantos erros ele atinge seu objetivo[1]?
-<li>Quais necessidades e desejos foram ou não atendidos[1]?
-<li>Foi realizada de maneira eficiente[1]?
-<li>O usuário consegue operar o sistema[1]?
-<li>Ele entende o que signiﬁca e para que serve cada elemento de interface[1]?
-<li>Ele consegue entender o que deve fazer em seguida[1]?
-<li>O erros tendem a se repetir para outros usuários[1]?
-<li>Com qual frequência a repetição dos erros ocorreram[1]?
+<li>Os objetivos dos usuários podem ser alcançados através do sistema [1]?
+<li>Após cometer quantos erros ele atinge seu objetivo [1]?
+<li>Quais necessidades e desejos foram ou não atendidos [1]?
+<li>Foi realizada de maneira eficiente [1]?
+<li>O usuário consegue operar o sistema [1]?
+<li>Ele entende o que signiﬁca e para que serve cada elemento de interface [1]?
+<li>Ele consegue entender o que deve fazer em seguida [1]?
+<li>O erros tendem a se repetir para outros usuários [1]?
+<li>Com qual frequência a repetição dos erros ocorreram [1]?
 </ul>
 <br>
 
 <p><b>Quanto a conformidade padão</b><p>
 <ul>
-<li>O sistema está de acordo com os padrões de acessibilidade do W3C[1]?
-<li>A interface segue o padrão do sistema operacional[1]?
-<li>Os termos na interface seguem convenções estabelecidas no domínio[1]?
+<li>O sistema está de acordo com os padrões de acessibilidade do W3C [1]?
+<li>A interface segue o padrão do sistema operacional [1]?
+<li>Os termos na interface seguem convenções estabelecidas no domínio [1]?
 </ul>
 <br>
 
@@ -173,7 +173,7 @@ Em um protótipo de alta fidelidade um design realiza a construção de uma inte
 ### I - Identificar questões práticas
 
 <div align="justify">
-<p>Para selecionar os usuários que dá avaliarem o sistema, será escolhido e recrutado usuários da plataforma que tenham perfis semelhantes aos identificados no <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">Perfil de Usuário</a> como descrito na literatura[1]. A avaliação será conduzida, quando possível, por dois membros do grupo de IHC: um será responsável por conduzir e orientar o usuário alvo em seu uso do sistema, enquanto o outro registrará as informações relevantes, caso apenas um membro esteja disponível, esse deve realizar os dois papéis.</p>
+<p>Para selecionar os usuários que dá avaliarem o sistema, será escolhido e recrutado usuários da plataforma que tenham perfis semelhantes aos identificados no <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">Perfil de Usuário</a> como descrito na literatura [1]. A avaliação será conduzida, quando possível, por dois membros do grupo de IHC: um será responsável por conduzir e orientar o usuário alvo em seu uso do sistema, enquanto o outro registrará as informações relevantes, caso apenas um membro esteja disponível, esse deve realizar os dois papéis.</p>
 </div>
 <p>A <b>Tabela 4</b> apresenta um modelo que foi utilizado para criar as tabelas de documentação das entrevistas realizadas.</p>
 
