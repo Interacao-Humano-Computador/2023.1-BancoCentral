@@ -2,6 +2,8 @@
 
 # Gravação das Entregas
 
+# Data errada em todas as entregas e reuniões de 3 em diante
+
 ## Introdução
 
 <div align="justify">
@@ -44,7 +46,8 @@
 </div>
 
 </div>
-<br>
+
+<br><br>
 
 ## <a id="aa" href="#a">1 - Desenvolvimento do Projeto</a>
 
@@ -119,6 +122,8 @@
 <p> <b>Tabela 5:</b> Membros presentes na gravação da segunda reunião. (Fonte: BOSI, Rafael. 2023) </p>
 </div>
 
+<br><br>
+
 ## <a id="bb" href="#b">2 - Usuários</a>
 
 <div align="justify>
@@ -165,35 +170,208 @@
 <p> <b>Tabela 7:</b> Membros presentes na gravação da terceira reunião. (Fonte: BOSI, Rafael. 2023) </p>
 </div>
 
+<br>
+
 ## <a id="cc" href="#c">3 - Análise</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega 3, representada pelo Vídeo 6 e 7, que contém, respectivamente, a gravação da apresentação da terceira entrega e a gravação da quarta reunião. Seguindo as gravações, estão as tabelas com membros que estavam presentes, representados pelas Tabela 8 e 9, respectivamente. Além disso, seguindo a gravação da reunião esta a ata desenvolvida para resumir a reunião em questão.
+
+</div>
+
+### Apresentação 3
+
+- <b>Gravação:</b>
+
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/Va_PIroIAyk" title="Ponto de controle 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 6:</b> Gravação da terceira entrega do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 8:</b> Membros presentes na gravação da terceira entrega. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+### Reunião 4
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/66V5ZOcsOCw" title="Reunião 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+
+<div align ="center"><b>Vídeo 7:</b> Gravação da quarta reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 9:</b> Membros presentes na gravação da quarta reunião. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+<br><br>
 
 ## <a id="dd" href="#d">4 - Desenvolvimento do Projeto</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega 4, representada pelo Vídeo 8 e 9, que contém, respectivamente, a gravação da apresentação da quarta entrega e a gravação da quinta reunião. Seguindo as gravações, estão as tabelas com membros que estavam presentes, representados pelas Tabela 10 e 11, respectivamente. Além disso, seguindo a gravação da reunião esta a ata desenvolvida para resumir a reunião em questão.
+
+</div>
+
+### Apresentação 4
+
+- <b>Gravação:</b>
+
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/8VGPiBEnoXY" title="Ponto de controle 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 8:</b> Gravação da quarta entrega do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 10:</b> Membros presentes na gravação da quarta entrega. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+### Reunião 5
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/GREFwurDSZM" title="Reunião 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 7:</b> Gravação da quinta reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 11:</b> Membros presentes na gravação da quinta reunião. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+<br><br>
 
 ## <a id="ee" href="#e">5 - Relatório e planejamento</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico estam dispostas as gravações referentes a entrega 5, representada pelo Vídeo 10 e 11, que contém, respectivamente, a gravação da apresentação da quinta entrega e a gravação da sexta reunião. Seguindo as gravações, estão as tabelas com membros que estavam presentes, representados pelas Tabela 12 e 13, respectivamente. Além disso, seguindo a gravação da reunião esta a ata desenvolvida para resumir a reunião em questão.
+
+</div>
+
+### Apresentação 5
+
+- <b>Gravação:</b>
+
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/UT_FoqY9TWg" title="Ponto de controle 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 10:</b> Gravação da quinta entrega do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 12:</b> Membros presentes na gravação da quinta entrega. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+### Reunião 6
+
+- <b>Gravação:</b>
+
+<iframe width="600vw" height="300vh" src="https://www.youtube.com/embed/wEisualQwRg" title="Reunião 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 11:</b> Gravação da sexta reunião do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz) e [Larissa Gomes](https://github.com/larigs)  | 01/05/2023 | 22:13 - 22:22 | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 13:</b> Membros presentes na gravação da sexta reunião. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+<br><br>
 
 ## <a id="ff" href="#f">6.1 - Verificar</a>
 
+<div align="justify>
 
+&emsp;&emsp;Nesse tópico esta disposta a gravação referente a entrega 6.1, representada pelo Vídeo 12, que contém a gravação da apresentação da sexta entrega. Seguindo a gravação, está a tabela com membros que estavam presente, representado pela Tabela 14. 
+
+</div>
+
+### Apresentação 6.1
+
+- <b>Gravação:</b>
+
+<iframe width="800vw" height="400vh" src="https://www.youtube.com/embed/Ais7PgkO5D4" title="Ponto de controle 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<div align ="center"><b>Vídeo 12:</b> Gravação da sexta entrega do grupo 3. (Fonte: AUTOR. 2023)
+</div>
+
+- <b>Presença dos membros:</b>
+
+| <p align="center">Membros presentes</p> | <p align="center">Data</p> | <p align="center">Horário de inicio e fim</p> | <p align="center">Local</p> |
+| :--------: | :--------: | :--------: | :--------: |
+| [Bruno Ribeiro](https://github.com/BrunoRiibeiro), [Mizael Santos](https://github.com/frmiza), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor Penha](https://github.com/igorpenhaa), [Lucas Gobbi](https://github.com/LucasBergholz), [Larissa Gomes](https://github.com/larigs) e [Rafael Bosi](https://github.com/StrangeUnit28) |  |  | Plataforma Teams |
+
+<div style="text-align: center">
+<p> <b>Tabela 14:</b> Membros presentes na gravação da sexta entrega. (Fonte: BOSI, Rafael. 2023) </p>
+</div>
+
+<br><br>
 
 ## <a id="gg" href="#g">7 - Relatar</a>
 
 
 
+<br><br>
+
 ## <a id="hh" href="#h">6.2 - Verificar</a>
 
 
+
+<br><br>
 
 ## <a id="jj" href="#j">8 - Avaliar Protótipo</a>
 
 
 
+<br><br>
+
 ## <a id="kk" href="#k">9 - Entrega Final</a>
+
+
+
+<br><br>
+
+
+## Referência Bibliográfica
 
 
 
