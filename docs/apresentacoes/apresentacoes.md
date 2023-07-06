@@ -82,7 +82,7 @@ A apresentação da nona etapa, do ponto de controle 8, pode ser vista no [Víde
 
 A apresentação do projeto final pode ser vista no [Vídeo 10](https://youtu.be/Al9GeyG8bng).
 
-<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Al9GeyG8bng" title="Ponto de controle 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/coXB_9KgL8U" title="Ponto de controle 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 10</b>: Apresentação final (Fonte: Grupo 3. 2023). </p>
 </div>
