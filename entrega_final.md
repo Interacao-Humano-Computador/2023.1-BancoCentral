@@ -10,6 +10,37 @@
 
 </div>
 
+## Entregas realizadas das etapas
+
+A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
+
+<div align="center">para desenvolvimento
+
+| Atividade | Período Planejado | Autores Planejados | Revisores Planejados | Autores | Revisores |
+| - | :-: | :-: | :-: | :-: | :-: |
+| [1. Cronograma](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma) | 13/04 - 22/04 | Giovanni Alvissus, Larissa Gomes, Mizael Santos, Rafael Bosi | Bruno Ribeiro, Igor Penha, Lucas Gobbi | Giovanni Alvissus, Larissa Gomes, Mizael Santos, Rafael Bosi | Bruno Ribeiro, Igor Penha, Lucas Gobbi |
+| [2. Sites avaliados](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/lista_de_sites) | 15/04 - 22/04 | Bruno Ribeiro e Lucas Gobbi | Mizael Santos | Bruno Ribeiro e Lucas Gobbi | Rafael Bosi e Larissa Gomes |
+| [3. Site selecionado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/site_selecionado) | 15/04 - 22/04 | Bruno Ribeiro e Lucas Gobbi | Giovanni Alvissus | Bruno Ribeiro, Lucas Gobbi, Giovanni Alvissus e Larissa Gomes | Rafael Bosi e Larissa Gomes |
+| [4. Metodologia](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/metodologias) | 15/04 - 22/04 | Igor Penha | Rafael Bosi | Igor Penha | Bruno Ribeiro, Lucas Gobbi e Larissa Gomes |
+| [5. Ferramentas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/ferramentas) | 16/04 - 22/04 | Giovanni Alvissus | Bruno Ribeiro | Giovanni Alvissus | Bruno Ribeiro | 
+| [6. Processos de Design](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/processo_de_design) | 16/04 - 22/04 | Mizael Santos | Igor Penha | Bruno Ribeiro, Lucas Gobbi e Larissa Gomes |
+| [7. Criação do GitPage](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#) | 17/04 - 23/04 | Larissa Gomes | Lucas Gobbi | Larissa Gomes | Lucas Gobbi |
+| [8. Manutenção da Gitpage](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#) | 17/04 - 23/04 | Larissa Gomes | Giovanni Alvissus | Larissa Gomes | Giovanni Alvissus | 
+| [9. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-1) | 23/04 | Larissa Gomes | Giovanni Alvissus | Larissa Gomes, Rafael Bosi e Bruno Ribeiro | Larissa Gomes e Giovanni Alvissus |
+| [10. Criação do perfil do Usuário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario) | 25/05 - 06/05| Mizael Santos e Giovanni Alvissus | Larissa Gomes | Mizael Santos e Giovanni Alvissus | Larissa Gomes e Lucas Gobbi |
+| [11.  Desenvolvimento das personas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas) | 25/05 - 06/05 | Bruno Ribeiro e Igor Penha | Lucas Gobbi | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
+| [12. Análise das tarefas do usuário (técnicas HTA e CTT)](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas) | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | Giovanni Alvissus | Larissa Gomes e Rafael Bosi | Lucas Gobbi |
+| [13. Aspectos éticos de pesquisa envolvendo pessoas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos) | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | Igor Penha | Bruno Ribeiro e Lucas Gobbi | Igor Penha |
+| [14. Criação dos cenário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios) | 25/04 - 06/05 | Larissa Gomes | Giovanni Alvissus | 	Bruno Ribeiro, Igor Penha, Lucas Gobbi e Larissa Gomes | Rafael Bosi, Larissa Gomes, Lucas Gobbi |
+| [15. Definir os princípios gerais do projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais) | 09/05 - 13/05  | Rafael Bosi | Bruno Ribeiro | Mizael Santos e Giovanni Alvissus | Igor Penha e Lucas Gobbi |
+| [16. Determinar as metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade) | 09/05 - 13/05 | Bruno Ribeiro e Igor Penha | Giovanni Alvissus e Mizael Santos | Igor Penha e Bruno Ribeiro | Lucas Gobbi e Bruno Ribeiro |
+| [9. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-1) | 23/04 | Larissa Gomes | Giovanni Alvissus | Larissa Gomes, Rafael Bosi e Bruno Ribeiro | Larissa Gomes e Giovanni Alvissus |
+| [9. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-1) | 23/04 | Larissa Gomes | Giovanni Alvissus | Larissa Gomes, Rafael Bosi e Bruno Ribeiro | Larissa Gomes e Giovanni Alvissus |
+
+
+
+</div>
+
 ## Ferramentas utilizadas
 
 &emsp;&emsp;As ferramentas listadas na Tabela 1 representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o desenvolvimento do projeto, que foi realizado em volta do site do [Banco Central do Brasil](https://www.bcb.gov.br/).
