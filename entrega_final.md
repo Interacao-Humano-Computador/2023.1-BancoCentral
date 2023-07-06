@@ -43,15 +43,15 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 | [23. Relatar os resultados do Story Board](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados) | 23/05 - 27/05 | Bruno Ribeiro e Igor Penha  | Giovanni Alvissus | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
 | [24. Relatar a análise de tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados) | 23/05 - 27/05| Lucas Gobbi e Rafael Bosi | Bruno Ribeiro e Mizael Santos | Rafael Bosi e Bruno Ribeiro | Bruno Ribeiro e Rafael Bosi |
 | [25. Planejar a avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao) | 23/04 | Giovanni Alvissus e Larissa Gomes | Igor Penha | Giovanni Alvissus e Larissa Gomes | Rafael Bosi |
-| [5. Planejar o relato dos resultados da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_relato) | 26/05 - 28/05 | Larissa Gomes | Giovanni Alvissus | Larissa Gomes, Rafael Bosi e Bruno Ribeiro | Larissa Gomes e Giovanni Alvissus |
-| [9. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-1) | 23/04 | Larissa Gomes | Giovanni Alvissus | Larissa Gomes, Rafael Bosi e Bruno Ribeiro | Larissa Gomes e Giovanni Alvissus |
-| [9. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-1) | 23/04 | Larissa Gomes | Giovanni Alvissus | Larissa Gomes, Rafael Bosi e Bruno Ribeiro | Larissa Gomes e Giovanni Alvissus |
+| [26. Planejar o relato dos resultados da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_relato) | 26/05 - 28/05 | Mizael Santos | Larissa Gomes | Mizael Santos | Larissa Gomes e Giovanni Alvissus |
+| [27. Relato dos resultados e desenvolvimento do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados) | 05/06 - 08/06 | Giovanni Alvissus e Larissa Gomes | Lucas Gobbi | Giovanni Alvissus e Larissa Gomes | Rafael Bosi |
+| [28. Planejamento da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao) | 05/06 - 08/06 | Bruno Ribeiro e Mizael Santos | Rafael Bosi | Mizael Santos | Larissa Gomes e Bruno Ribeiro |
+| [29. Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_relato) | 07/06 - 09/06  | Igor Penha e Rafael Bosi | Larissa Gomes | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Larissa Gomes e Rafael Bosi |
+| [30. Desenvolvimento das telas do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao) | 21/06 - 23/06 | Giovanni Alvissus e Larissa Gomes | Lucas Gobbi | Giovanni Alvissus e Larissa Gomes | Lucas Gobbi |
+| [31. Adição de interação entre as telas do protótipo](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao) | 20/06 - 23/06 | Lucas Gobbi | Giovanni Alvissus | Lucas Gobbi e Giovanni Alvissus | Larissa Gomes |
+| [32. Entrevista de avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta) | 23/06 - 24/06 | Bruno Ribeiro e Igor Penha | Rafael Bosi e Mizael Santos | Bruno Ribeiro e Igor Penha | Mizael Santos |
+| [33. Relato dos resultados da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta) | 24/06 - 26/06 | Rafael Bosi e Mizael Santos | Bruno Ribeiro e Igor Penha | Rafael Bosi, Igor Penha e Bruno Ribeiro | Mizael Santos |
 
-
-
-
-
-</div>
 
 ## Ferramentas utilizadas
 
