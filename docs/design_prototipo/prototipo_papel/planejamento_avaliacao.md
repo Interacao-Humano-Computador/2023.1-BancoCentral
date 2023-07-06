@@ -19,9 +19,8 @@
 |    1   | Consultar dados financeiros pessoais através do Registrato |
 |    2   | Acessar cursos
 |    3   | Consultar taxas de juros |
-|    4   | Consultar empresas vinculadas ao BCB e seus dados |
-|    5   | Consultar valores a receber do governo | 
-|    6   | Calculadora do cidadão |
+|    4   | Consultar valores a receber do governo | 
+|    5   | Calculadora do cidadão |
 
 <b>Tabela 1</b>: Tarefas do BCB (Fonte: GOMES, Larissa. 2023).
 
@@ -149,8 +148,8 @@ A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de d
 |     1°     | 02/06/2023 | 15:00 - 15:30 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | João Nóbrega | Consultar dados financeiros pessoais através do Registrato, Consultar taxas de juros e Calculadora do cidadão |
 |     2°     | 02/06/2023 | 15:50 - 16:20 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | Aline Oliveira | Acessar cursos, Consultar taxas de juros e Calculadora do cidadão |
 |     3°     | 02/06/2023 | 16:30 - 17:00 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | Esther Silva | Acessar cursos, Consultar valores a receber do governo e Calculadora do cidadão |
-|     4°     | 02/06/2023 | 17:15 - 17:45 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | --- |
-|     5°     | 02/06/2023 | 18:00 - 18:30 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | --- |
+|     4°     | 02/06/2023 | 17:15 - 17:45 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | Eric Rabelo | Consultar dados financeiros pessoais através do Registrato, Consultar taxas de juros e Calculadora do cidadão |
+|     5°     | 02/06/2023 | 18:00 - 18:30 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | Gabriela Alves | Consultar valores a receber do governo, Calculadora do cidadão e Consultar taxas de juros |
 
 <div align="center">
 <p> Tabela 5: Planejamento para realização das entrevistas (Fonte: ALVISSUS, Giovanni. 2023).</p>
@@ -188,8 +187,8 @@ A Tabela 4 apresenta uma ficha modelo que foi seguida para criar as tabelas de d
 |     1°     | 02/06/2023 | 15:35 - 15:54 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | João Nóbrega | Consultar dados financeiros pessoais através do Registrato, Consultar taxas de juros e Calculadora do cidadão |
 |     2°     | 02/06/2023 | 16:25 - 16:30 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | Aline Oliveira | Acessar cursos, Consultar taxas de juros e Calculadora do cidadão |
 |     3°     | 02/06/2023 | 17:05 - 17:15 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | Esther Silva | Acessar cursos, Consultar valores a receber do governo e Calculadora do cidadão |
-|     4°     | 02/06/2023 | 17:50 - 18:00 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | --- |
-|     5°     | 02/06/2023 | 18:35 - 18:50 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | --- |
+|     4°     | 05/07/2023 | 17:50 - 18:00 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | Eric Rabelo | Consultar dados financeiros pessoais através do Registrato, Consultar taxas de juros e Calculadora do cidadão |
+|     5°     | 05/07/2023 | 18:35 - 18:50 | FGA - LDTEA, sala 201 | Giovanni Alvissus e Larissa Gomes | Gabriela Alves | Consultar valores a receber do governo, Consultar taxas de juros e Calculadora do cidadão |
 
 <div align="center">
 <p> Tabela 6: Planejamento para realização da interpretação dos dados (Fonte: ALVISSUS, Giovanni. 2023).</p>
