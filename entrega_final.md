@@ -64,6 +64,93 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 <p> Tabela 1: Relação das ferramentas utilizadas no projeto. (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
+## Ciclo de vida
+<div align="justify">
+&emsp;&emsp;A complexidade de um design de interfaces em software reunindo a experiência de usuário tornou necessária a área de Interação Humano Computador. Com a proposta de criar metodologias para o desenvolvimento de um design que satisfaça o usuário, foram elaboradas diversas abordagens iterativas para esse desenvolvimento, denominadas ciclos de vida. A Engenharia de Usabilidade de Mayhew (Figura 1) apresenta uma síntese bem elaborada para organização e elaboração das atividades referente a construção da interface. Visto o contato com o usuário no desenvolvimnto destas atividades, é possível desenvolver um projeto fidedigno as expectativas das partes interessadas.
+
+&emsp;&emsp;A definição desse ciclo de vida despertou o desejo por sua utilização nos desenvolvedores do projeto, visto que a inexperiência com design, requer uma longa e bem elaborada metodologia de desenvolvimento. Portanto o ciclo de vida de Mayhew foi utilizado para elaboração do <a href=”https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma”>cronograma</a> visando atender as atividades propostas de <b>análise de requisitos e design, avaliação e desenvolvimento</b>. Vale ressaltar que a etapa de <b>instalação</b> não foi executada precisa, pois o projeto já foi concluído.
+
+<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/ciclodemayhew.png">Ciclo de vida Mayhew</a>
+
+<div text-align: center>
+<p>Figura 1: Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010).<p>
+</div>
+
+## Análise de Requisitos
+<div align="justify">
+&emsp;&emsp;Na primeira etapa de desenvolvimento, denominada análise de requisitos, são decididas as <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade">metas de usabilidade</a>, a qual é muito importante para o design final da interface de forma a servir como parametro de usabilidade, também apartir do <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">perfil dos usuários</a>, <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas">análise de tarefas</a>, <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/caracteristicas_da_plataforma">possibilidades e limitações da plataforma</a> em que o sistema será executado e <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais">princípios gerais</a>. frequentemente as metas de usabilidade costumam ser apresentadas em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo">guias de estilos</a> para auxiliar sua verificação durante as demais atividades do processo [1].
+
+<p>A tabela 3 apresenta como foi elaborada esta etapa.</p>
+
+|   Artefato      |    Autor(es)     |   Revisor(es)  |
+| :--------: | :--------------: | :--------------: |
+|       <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">Perfil dos Usuários</a>       |       Mizael Santos e Giovanni Alvissus       | Igor Penha |
+|       <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas">Análise de Tarefas</a>      |    Larissa Gomes     | Rafael Bosi  |
+|        <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos">Aspectos Éticos</a>        |        Bruno Ribeiro e Lucas Gobbi        |  Igor Penha   |
+|               <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios">Cenários</a>               |        Bruno Ribeiro, Igor Penha e Lucas Gobbi         | Larissa Gomes |
+|               <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas">Personas</a>                 |      Bruno Ribeiro e Igor Penha       | Lucas Gobbi  |
+|         <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo">Guias de Estilos</a>          | Larissa Gomes | Rafael Bosi |
+|     <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade">Metas de Usabilidade</a>     |       Igor Penha e Bruno Ribeiro      | Lucas Gobbi |
+| <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais">Princípios Gerais</a> |          Rafael Bosi          | Mizael Santos  |
+| <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/caracteristicas_da_plataforma">Características da plataforma</a> | Lucas Gobbi | Igor penha |
+
+div text-align: center>
+<p>Tabela 3: Síntese dos artefatos realizados.<p>
+</div>
+
+## Design, Avaliação e Desenvolvimento
+<div align="justify">
+&emsp;&emsp;Nesta etapa é apresentado três níveis de abstração e detalhamento dos designs, e protoiáção e visa obter informações importantes advinda da experiência do usuário com o design proposto, onde o objetivo final da etapa é de avaliar os resultados coletados para realizar um re-design da interface e funcionalidades que foram estabelecidas na etapa de Análise de Requisitos.
+</div>
+
+### Nível 1
+&emsp;&emsp;Neste nível é apresentado o maior grau de abstração, onde existem apenas planos e conceitos que serão analisados para construção de um design menos abastado. É apresentado atividades focadas no usuário tal como sua motivação para realizar essas tarefas propostas e como ele vai realizar elas. Evidenciadas em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados">Análise de Tarefas</a> e nos <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados">Storyboards</a> 
+
+<p>A Tabela 4 apresenta o nível 1 realizado no projeto a respeito do Design, Avaliação e Desenvolvimento </p>
+
+|   Artefato      |    Autor(es)     |   Revisor(es)  |
+| :--------: | :--------------: | :--------------: |
+|                           <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/planejamento_avaliacao">Planejamento da avaliação da análise de tarefas</a>                            |     Larissa Gomes e Rafael Bosi    |  Giovanni Alvissus   |
+|                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/planejamento_relato">Planejamento do relato da análise de tarefas</a>                 |  Bruno Ribeiro e Igor Penha    |  Lucas Gobbi   |
+|                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados">Relato dos resultados da análise de tarefas</a>                          |  Rafael Bosi    | Bruno Ribeiro |
+|                           <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_avaliacao">Planejamento da avaliação do storyboard</a>                            |     Lucas Gobbi, Giovanni Alvissus e Mizael Santos      |  Bruno Ribeiro   |
+|                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_relato">Planejamento do relato do storyboard</a>                 |  Bruno Ribeiro e Igor Penha     |  Larrisa Gomes  |
+|                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados">Relato dos resultados do storyboard</a>                          |  Igor Penha, Lucas Gobbi    | Larissa Gomes e Bruno Ribeiro |
+<div text-align: center>
+<p>Tabela 4: Síntese dos artefatos realizados no nível 1.<p>
+</div>
+
+### Nível 2
+&emsp;&emsp;Neste nível é apresentado um grau intermediário de abstração, onde pode ser visto o planejamento e desenvolvimento de um protótipo de baixa fidelidade cujo a função é verificar problemas de usabilidade em fases prematura de design, onde o usuário participa ativamente da simulação dinâmica. Evidenciados em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados">Protótipo de papel</a>
+
+<p>A Tabela 5 apresenta o nível 2 realizado no projeto a respeito do Design, Avaliação e Desenvolvimento. </p>
+
+|   Artefato      |    Autor(es)     |   Revisor(es)  |
+| :--------: | :--------------: | :--------------: |
+|   <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao">Planejamento da avaliação do protótipo de papel</a>  |     Larissa Gomes e Giovanni Alvissus    |  Rafael Bosi   |
+|  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_relato">Planejamento do relato do protótipo de papel</a>                 |  Mizael Santos    |  Larissa Gomes   |
+|                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados">Relato dos resultados do protótipo de papal</a>                          |  Giovanni Alvissus e Larissa Gomes   | Rafael Bosi |
+<div text-align: center>
+<p>Tabela 5: Síntese dos artefatos realizados no nível 2.<p>
+
+### Nível 3
+&emsp;&emsp;Neste nível é apresentado uma protipação que tem como objtivo ser fidedigna ao design inspirado, apresentando mais detalhamentos e é baseada na <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados">Protótipo de papel</a>, cujo a função é verificar problemas de usabilidade em fases avançadas do desenvolvimento juntamente ao usuário que participa ativamente dos testes de usabilidade desenvolvidos. Evidenciados em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta">Protótipo de alta fidelidade</a>
+
+<p>A Tabela 6 apresenta o nível 3 realizado no projeto a respeito do Design, Avaliação e Desenvolvimento. </p>
+
+|   Artefato      |    Autor(es)     |   Revisor(es)  |
+| :--------: | :--------------: | :--------------: |
+|     <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao">Planejamento da avaliação do protótipo de alta fidelidade</a>                            |     Mizael Santos    |  Rafael Bosi   |
+|                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_relato">Planejamento do relato do protótipo de alta fidelidade</a>                 |  Bruno Ribeiro, Igor Penha e Lucas Gobbi    |  Larissa Gomes   |
+|                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta">Relato dos resultados do protótipo de alta fidelidade</a>                          |  Mizael Santos, Rafael Bosi,  Bruno Ribeiro e Igor Penha | Larissa Gomes |
+<div text-align: center>
+<p>Tabela 6: Síntese dos artefatos realizados no nível 2.<p>
+</div>
+
+</div>
+
+
+
 ## Site Selecionado
 
 &emsp;&emsp;A princípio, o site selecionado pelo grupo era o [VideoLAN](https://www.videolan.org), porém, ao realizarmos que essa aplicação possuia poucas funcionalidades, escolheu-se mudar para o [Banco Central do Brasil](https://www.bcb.gov.br), site do governo o qual possui diversas funcionalidades, além de termos liberdade para trabalhar-mos com essa aplicação.
