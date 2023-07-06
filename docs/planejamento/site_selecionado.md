@@ -9,6 +9,11 @@
 <p> Para escolher o site a ser trabalhado no projeto, analisamos alguns pontos nos quais serão dissertados logo abaixo, justificando a escolha do site selecionado.</p> 
 </div>
 
+## Objetivo
+<div style="text-align: justify;"> 
+<p> Este artefato possui como objetivo descrever o site selecionado e os motivos dessa escolha.</p> 
+</div>
+
 
 ## Critérios para a escolha
 
@@ -67,4 +72,5 @@ Para saber mais sobre os pontos negativos, a [análise heurística](avaliacoes/a
 | 24/04/2023   | `1.1`  | Separação e atualização do artefato | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 24/04/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 | 06/05/2023   | `1.2`  | Alteração do site | [Rafael Bosi](https://github.com/StrangeUnit28) e [Lucas Gobbi](https://github.com/LucasBergholz) | 07/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 27/05/2023   | `1.3`  | Add link BCB | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 27/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 04/07/2023   | `2.0`  | Atualização para a entrega final | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) e [Lucas Gobbi](https://github.com/LucasBergholz) | 04/07/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 </div>
