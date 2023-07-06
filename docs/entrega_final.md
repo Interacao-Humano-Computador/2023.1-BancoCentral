@@ -10,10 +10,6 @@
 
 ## Planejamento dos recursos e das entregas
 
-&emsp;&emsp; A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
-
-## Entregas realizadas de cada etapa
-
 &emsp;&emsp; A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados. É possível identificar na tabela a ocorrência de alguns autores estarem como revisores também, isso se deve ao fato de um sistema de pareamento, onde dois membros do grupo fazendo o mesmo artefato revisam o que o outro fez, mantendo assim ambos os executores informados sobre o artefato por completo.
 </div>
 
@@ -30,7 +26,7 @@
 | [9. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-1) | 23/04 | Larissa Gomes | Giovanni Alvissus | Larissa Gomes, Rafael Bosi e Bruno Ribeiro | Larissa Gomes e Giovanni Alvissus |
 | [10. Criação do perfil do Usuário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario) | 25/05 - 06/05| Mizael Santos e Giovanni Alvissus | Larissa Gomes | Mizael Santos e Giovanni Alvissus | Larissa Gomes e Lucas Gobbi |
 | [11.  Desenvolvimento das personas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas) | 25/05 - 06/05 | Bruno Ribeiro e Igor Penha | Lucas Gobbi | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
-| [12. Análise das tarefas do usuário (técnicas HTA e CTT)](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas) | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | Giovanni Alvissus | Larissa Gomes e Rafael Bosi | Lucas Gobbi |
+| [12. Análise das tarefas do usuário (técnicas HTA e CTT)](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas) | 25/05 - 06/05 | Larissa Gomes, Rafael Bosi, Igor Penha, Bruno Ribeiro, Lucas Gobbi | Giovanni Alvissus | Larissa Gomes e Rafael Bosi | Lucas Gobbi |
 | [13. Aspectos éticos de pesquisa envolvendo pessoas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos) | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | Igor Penha | Bruno Ribeiro e Lucas Gobbi | Igor Penha |
 | [14. Criação dos cenário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios) | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | Giovanni Alvissus | 	Bruno Ribeiro, Igor Penha, Lucas Gobbi e Larissa Gomes | Rafael Bosi, Larissa Gomes, Lucas Gobbi |
 | [15. Definir os princípios gerais do projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais) | 09/05 - 13/05  | Rafael Bosi | Bruno Ribeiro | Mizael Santos e Giovanni Alvissus | Igor Penha e Lucas Gobbi |
@@ -39,8 +35,8 @@
 | [18. Determinar as características da plataforma para o projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/caracteristicas_da_plataforma) | 09/05 - 13/05 | Lucas Gobbi e Mizael Santos | Larissa Gomes | Lucas Gobbi | Igor Penha |
 | [19. Planejar a avaliação do Story Board](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_avaliacao) | 16/05 - 21/05 | Giovanni Alvissus, Lucas Gobbi, Mizael Santos | Bruno Ribeiro | Giovanni Alvissus, Lucas Gobbi, Mizael Santos | Bruno Ribeiro e Rafael Bosi |
 | [20. Planejar a avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/planejamento_avaliacao) | 23/04 | Larissa Gomes e Rafael Bosi | Lucas Gobbi | Larissa Gomes e Rafael Bosi | Larissa Gomes e Rafael Bosi |
-| [21. Planejar o retato da avaliação do Story Board](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_relato) | 16/05 - 21/05 | Igor Penha | Larissa Gomes | Larissa Gomes e Rafael Bosi | Larissa Gomes e Rafael Bosi |
-| [22. Planejar o retato da avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/planejamento_relato) | 16/05 - 21/05 | 23/04 | Bruno Ribeiro | Igor Penha | Igor Penha, Rafael Bosi e Bruno Ribeiro | Igor Penha, Bruno Ribeiro e Lucas Gobbi |
+| [21. Planejar o retato da avaliação do Story Board](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_relato) | 16/05 - 21/05 | Igor Penha | Larissa Gomes | Igor Penha | Larissa Gomes e Rafael Bosi |
+| [22. Planejar o retato da avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/planejamento_relato) | 16/05 - 21/05 | 23/04 | Bruno Ribeiro e Igor Penha | Igor Penha | Igor Penha, Rafael Bosi e Bruno Ribeiro | Igor Penha, Bruno Ribeiro e Lucas Gobbi |
 | [23. Relatar os resultados do Story Board](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados) | 23/05 - 27/05 | Bruno Ribeiro e Igor Penha  | Giovanni Alvissus | Igor Penha e Lucas Gobbi | Bruno Ribeiro |
 | [24. Relatar a análise de tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados) | 23/05 - 27/05| Lucas Gobbi e Rafael Bosi | Bruno Ribeiro e Mizael Santos | Rafael Bosi e Bruno Ribeiro | Bruno Ribeiro e Rafael Bosi |
 | [25. Planejar a avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_avaliacao) | 23/04 | Giovanni Alvissus e Larissa Gomes | Igor Penha | Giovanni Alvissus e Larissa Gomes | Rafael Bosi |
@@ -48,7 +44,7 @@
 | [27. Relato dos resultados e desenvolvimento do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados) | 05/06 - 08/06 | Giovanni Alvissus e Larissa Gomes | Lucas Gobbi | Giovanni Alvissus e Larissa Gomes | Rafael Bosi |
 | [28. Planejamento da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao) | 05/06 - 08/06 | Bruno Ribeiro e Mizael Santos | Rafael Bosi | Mizael Santos | Larissa Gomes e Bruno Ribeiro |
 | [29. Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_relato) | 07/06 - 09/06  | Igor Penha e Rafael Bosi | Larissa Gomes | Bruno Ribeiro, Igor Penha e Lucas Gobbi | Larissa Gomes e Rafael Bosi |
-| [30. Desenvolvimento das telas do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao) | 21/06 - 23/06 | Giovanni Alvissus e Larissa Gomes | Lucas Gobbi | Giovanni Alvissus e Larissa Gomes | Lucas Gobbi |
+| [30. Desenvolvimento das telas do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao) | 21/06 - 23/06 | Giovanni Alvissus e Larissa Gomes | Lucas Gobbi | Giovanni Alvissus, Larissa Gomes e Lucas Gobbi | Lucas Gobbi |
 | [31. Adição de interação entre as telas do protótipo](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao) | 20/06 - 23/06 | Lucas Gobbi | Giovanni Alvissus | Lucas Gobbi e Giovanni Alvissus | Larissa Gomes |
 | [32. Entrevista de avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta) | 23/06 - 24/06 | Bruno Ribeiro e Igor Penha | Rafael Bosi e Mizael Santos | Bruno Ribeiro e Igor Penha | Mizael Santos |
 | [33. Relato dos resultados da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta) | 24/06 - 26/06 | Rafael Bosi e Mizael Santos | Bruno Ribeiro e Igor Penha | Rafael Bosi, Igor Penha e Bruno Ribeiro | Mizael Santos |
@@ -60,7 +56,9 @@
 ## Ferramentas utilizadas
 
 <div align="justify">
+
 &emsp;&emsp;As ferramentas listadas na Tabela 1 representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o desenvolvimento do projeto, que foi realizado em volta do site do [Banco Central do Brasil](https://www.bcb.gov.br/).
+
 </div>
 
 | Ferramentas | Etapa que foi utilizado | Finalidade |
@@ -82,20 +80,24 @@
 <p> Tabela 2: Relação das ferramentas utilizadas no projeto. (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-## Ciclo de vida
+## Ciclo de Vida do Desenvolvimento de Software
 
-<div align="justify">
+&emsp;&emsp;A Engenharia de Usabilidade de Mayhew propõe um ciclo de vida abrangente para o desenvolvimento de software, com foco na interação humano-computador. O ciclo de vida é composto por várias etapas que são cuidadosamente planejadas e executadas, visando garantir a usabilidade e a satisfação do usuário.
 
-&emsp;&emsp;A complexidade de um design de interfaces em software reunindo a experiência de usuário tornou necessária a área de Interação Humano Computador. Com a proposta de criar metodologias para o desenvolvimento de um design que satisfaça o usuário, foram elaboradas diversas abordagens iterativas para esse desenvolvimento, denominadas ciclos de vida. A Engenharia de Usabilidade de Mayhew (Figura 1) apresenta uma síntese bem elaborada para organização e elaboração das atividades referente a construção da interface. Visto o contato com o usuário no desenvolvimnto destas atividades, é possível desenvolver um projeto fidedigno as expectativas das partes interessadas.
+&emsp;&emsp;O ciclo de vida, ilustrado na Figura 1, orienta os designers através de atividades interativas, fornecendo uma direção clara para a criação de interfaces eficazes [1]. O processo começa com a compreensão aprofundada do perfil do usuário do software por meio de atividades detalhadas de análise. Essa etapa envolve a coleta de requisitos, a identificação de necessidades dos usuários e a definição de metas e objetivos.
 
-&emsp;&emsp;A definição desse ciclo de vida despertou o desejo por sua utilização nos desenvolvedores do projeto, visto que a inexperiência com design, requer uma longa e bem elaborada metodologia de desenvolvimento. Portanto o ciclo de vida de Mayhew foi utilizado para elaboração do <a href=”https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma”>cronograma</a> visando atender as atividades propostas de <b>análise de requisitos e design, avaliação e desenvolvimento</b>. Vale ressaltar que a etapa de <b>instalação</b> não foi executada precisa, pois o projeto já foi concluído.
+&emsp;&emsp;Em seguida, a fase de design é iniciada, utilizando as informações obtidas na etapa anterior. Os designers utilizam técnicas de prototipagem para criar e iterar soluções de design em diferentes níveis de fidelidade. A avaliação contínua é fundamental nessa fase, permitindo que os designers coletem feedback dos usuários e façam melhorias iterativas.
 
-</br>
+&emsp;&emsp;À medida que o ciclo progride, as fases de avaliação e desenvolvimento se complementam. A avaliação envolve a aplicação de métodos como testes de usabilidade, inspeções de interface e coleta de métricas de desempenho. Os resultados da avaliação são usados para aprimorar o design e garantir que as metas de usabilidade sejam atingidas.
 
-<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/ciclodemayhew.png">Ciclo de vida Mayhew</a>
+&emsp;&emsp;Finalmente, a fase de desenvolvimento entra em ação, utilizando as especificações de design refinadas. Durante essa etapa, o software é implementado de acordo com os requisitos e design definidos anteriormente. Além disso, as atividades de instalação são realizadas nesse momento, considerando que o produto já está finalizado.
 
-<div text-align: center>
-<p>Figura 1: Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010).<p>
+&emsp;&emsp;Ao longo de todo o ciclo de vida, a interação entre as fases do projeto é enfatizada, permitindo uma abordagem iterativa e colaborativa. Isso garante que o design evolua de acordo com as necessidades dos usuários e que o software final seja usável e eficiente.
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/entrega_final/ciclo-de-vida-mayhew.png" alt="Ciclo de vida do software" style="max-width: 100%; max-height: 100%;">
+
+<div align="center">
+<p> Figura 1: Ciclo de vida de um software (Fonte: MAYHEW, D. 2023).</p>
 </div>
 
 ## Análise de Requisitos
@@ -111,7 +113,7 @@
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
 |       <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">Perfil dos Usuários</a>       |       Mizael Santos e Giovanni Alvissus       | Igor Penha |
-|       <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas">Análise de Tarefas</a>      |    Larissa Gomes e Rafael Bosi    | Larissa Gomes e Rafael Bosi  |
+|       <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas">Análise de Tarefas</a>      |    Larissa Gomes, Rafael Bosi, Bruno Riberiro, Igor Penha e Lucas Gobbi   | Larissa Gomes e Rafael Bosi  |
 |        <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos">Aspectos Éticos</a>        |        Bruno Ribeiro e Lucas Gobbi        |  Igor Penha   |
 |               <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios">Cenários</a>               |        Bruno Ribeiro, Igor Penha e Lucas Gobbi         | Larissa Gomes |
 |               <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas">Personas</a>                 |      Bruno Ribeiro e Igor Penha       | Lucas Gobbi  |
@@ -142,9 +144,9 @@
 | :--------: | :--------------: | :--------------: |
 |                           <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/planejamento_avaliacao">Planejamento da avaliação da análise de tarefas</a>                            |     Larissa Gomes e Rafael Bosi    |  Giovanni Alvissus   |
 |                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/planejamento_relato">Planejamento do relato da análise de tarefas</a>                 |  Bruno Ribeiro e Igor Penha    |  Lucas Gobbi   |
-|                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados">Relato dos resultados da análise de tarefas</a>                          |  Rafael Bosi    | Bruno Ribeiro |
+|                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados">Relato dos resultados da análise de tarefas</a>                          |  Rafael Bosi e Bruno Ribeiro  | Igor Penha e Lucas Gobbi |
 |                           <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_avaliacao">Planejamento da avaliação do storyboard</a>                            |     Lucas Gobbi, Giovanni Alvissus e Mizael Santos      |  Bruno Ribeiro   |
-|                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_relato">Planejamento do relato do storyboard</a>                 |  Bruno Ribeiro e Igor Penha     |  Larrisa Gomes  |
+|                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_relato">Planejamento do relato do storyboard</a>                 |  Igor Penha     |  Larrisa Gomes  |
 |                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados">Relato dos resultados do storyboard</a>                          |  Igor Penha, Lucas Gobbi    | Larissa Gomes e Bruno Ribeiro |
 <div text-align: center>
 <p>Tabela 4: Síntese dos artefatos realizados no nível 1. (Fonte: SANTOS, Mizael. 2023)<p>
@@ -180,7 +182,7 @@
 
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
-|     <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao">Desenvolvimento do protótipo de alta fidelidade</a>                            |     Giovanni Alvissus e Larissa Gomes    |  Rafael Bosi   |
+|     <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao">Desenvolvimento do protótipo de alta fidelidade</a>                            |     Giovanni Alvissus, Larissa Gomes e Lucas Gobbi  |  Rafael Bosi   |
 |     <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao">Planejamento da avaliação do protótipo de alta fidelidade</a>                            |     Mizael Santos    |  Rafael Bosi   |
 |                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_relato">Planejamento do relato do protótipo de alta fidelidade</a>                 |  Bruno Ribeiro, Igor Penha e Lucas Gobbi    |  Larissa Gomes   |
 |                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta">Relato dos resultados do protótipo de alta fidelidade</a>                          |  Mizael Santos, Rafael Bosi,  Bruno Ribeiro e Igor Penha | Larissa Gomes |
@@ -202,7 +204,7 @@
 | :--------: | :--------------: | :--------------: |
 |   Análise de Requisitos     |    Aspectos Éticos, Princípios Gerais, Perfil do Usuário, Personas, Metas de Usabilidade e Análise Documental | Larissa Gomes, Mizael Santos, Giovanni Alvissus, Bruno Ribeiro, Igor Penha, Rafael Bosi e Lucas Gobbi | 
 |   Perfil do Usuário     |  Questionário e Análise Documental     |  Mizael Santos e Giovanni Alvissus    |
-|   Análise de Tarefas   |  Análise Hierárquica de Tarefas(HTA) e  Árvores de Tarefas Concorrentes(ConcurTaskTrees – CTT) | Larissa Gomes e Rafael Bosi |
+|   Análise de Tarefas   |  Análise Hierárquica de Tarefas(HTA) e  Árvores de Tarefas Concorrentes(ConcurTaskTrees – CTT) | Larissa Gomes, Rafael Bosi, Bruno Ribeiro, Igor Penha e Lucas Gobbi |
 | Avaliação da Análise de Tarefas     |    Entrevista        |  Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Rafael Bosi  | 
 |   Avaliação do StoryBoard     |     Entrevista       | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Rafael Bosi | 
 |   Avaliação do Protótipo de Papel     |   Entrevista         | Larrisa Gomes e Giovanni Alvisus |
@@ -238,26 +240,6 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
   - Documentação de difícil acesso.
 
 &emsp;&emsp;Para saber mais sobre os pontos negativos, a [análise heurística](avaliacoes/avaliacaoBCB.md) do site fornece uma visão mais detalhada acerca delas.
-
-## Ciclo de Vida do Desenvolvimento de Software
-
-&emsp;&emsp;A Engenharia de Usabilidade de Mayhew propõe um ciclo de vida abrangente para o desenvolvimento de software, com foco na interação humano-computador. O ciclo de vida é composto por várias etapas que são cuidadosamente planejadas e executadas, visando garantir a usabilidade e a satisfação do usuário.
-
-&emsp;&emsp;O ciclo de vida, ilustrado na Figura 1, orienta os designers através de atividades interativas, fornecendo uma direção clara para a criação de interfaces eficazes [1]. O processo começa com a compreensão aprofundada do perfil do usuário do software por meio de atividades detalhadas de análise. Essa etapa envolve a coleta de requisitos, a identificação de necessidades dos usuários e a definição de metas e objetivos.
-
-&emsp;&emsp;Em seguida, a fase de design é iniciada, utilizando as informações obtidas na etapa anterior. Os designers utilizam técnicas de prototipagem para criar e iterar soluções de design em diferentes níveis de fidelidade. A avaliação contínua é fundamental nessa fase, permitindo que os designers coletem feedback dos usuários e façam melhorias iterativas.
-
-&emsp;&emsp;À medida que o ciclo progride, as fases de avaliação e desenvolvimento se complementam. A avaliação envolve a aplicação de métodos como testes de usabilidade, inspeções de interface e coleta de métricas de desempenho. Os resultados da avaliação são usados para aprimorar o design e garantir que as metas de usabilidade sejam atingidas.
-
-&emsp;&emsp;Finalmente, a fase de desenvolvimento entra em ação, utilizando as especificações de design refinadas. Durante essa etapa, o software é implementado de acordo com os requisitos e design definidos anteriormente. Além disso, as atividades de instalação são realizadas nesse momento, considerando que o produto já está finalizado.
-
-&emsp;&emsp;Ao longo de todo o ciclo de vida, a interação entre as fases do projeto é enfatizada, permitindo uma abordagem iterativa e colaborativa. Isso garante que o design evolua de acordo com as necessidades dos usuários e que o software final seja usável e eficiente.
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/entrega_final/ciclo-de-vida-mayhew.png" alt="Ciclo de vida do software" style="max-width: 100%; max-height: 100%;">
-
-<div align="center">
-<p> Figura 1: Ciclo de vida de um software (Fonte: MAYHEW, D. 2023).</p>
-</div>
 
 
 ## Avaliações realizadas
@@ -304,11 +286,21 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 
 ## Agradecimentos
 
-<div align="justify>
+<div align="justify">
 
-&emsp;&emsp; Prezado Professor André Barros de Sales,
+Prezado Professor André Barros de Sales,
 
-&emsp;&emsp; Nós do grupo 3 (Banco Central do Brasil) gostaríamos de expressar nossa profunda gratidão por todo o conhecimento e orientação que nos foi compartilhado durante o período em que fomos seus alunos na disciplina de Interação Humano Computador (IHC) na Universidade de Brasília. Suas aulas foram uma fonte inestimável de aprendizado e inspiração. Sua abordagem apaixonada e dedicada em transmitir os conceitos complexos de IHC de maneira clara e envolvente foi verdadeiramente notável. Além disso, sua expertise e experiência no campo tornaram as discussões em sala de aula ainda mais enriquecedoras. Agradecemos especialmente pela maneira como você incentivou o pensamento crítico e a participação ativa dos alunos. Suas atividades práticas e estudos de caso nos permitiram aplicar os conceitos teóricos em situações do mundo real, o que ampliou nossa compreensão e nos preparou para enfrentar os desafios práticos da área. Sua disponibilidade em esclarecer dúvidas e fornecer feedbacks construtivos foram fundamental para nosso progresso acadêmico. Sempre que buscamos sua orientação, você demonstrou paciência e compreensão, incentivando-nos a explorar novas perspectivas e a aprimorar nossas habilidades. Além de ser um excelente professor, você também é um exemplo de profissional comprometido e apaixonado pelo que faz. Por tudo isso, queremos expressar nossa mais profunda gratidão. Seu impacto em nossa jornada acadêmica e pessoal é inegável. Obrigado por nos guiar, desafiando-nos a alcançar nosso potencial máximo e por tornar a disciplina de IHC uma experiência tão enriquecedora. Desejo a você saúde, felicidade e sucesso contínuo em todos os seus empreendimentos. Temos certeza de que muitos outros estudantes terão a sorte de cruzar seu caminho e se beneficiar de sua sabedoria e dedicação.
+Nós do grupo 3 (Banco Central do Brasil) gostaríamos de expressar nossa profunda gratidão por todo o conhecimento e orientação que nos foi compartilhado durante o período em que fomos seus alunos na disciplina de Interação Humano Computador (IHC) na Universidade de Brasília.
+
+Suas aulas foram uma fonte inestimável de aprendizado e inspiração. Sua abordagem apaixonada e dedicada em transmitir os conceitos complexos de IHC de maneira clara e elucidante foi verdadeiramente notável. Além disso, sua expertise e experiência no campo tornaram as discussões em sala de aula ainda mais enriquecedoras.
+
+Agradecemos especialmente pela maneira como você incentivou o pensamento crítico e a participação ativa dos alunos. Suas atividades práticas e estudos de caso nos permitiram aplicar os conceitos teóricos em situações do mundo real, o que ampliou nossa compreensão e nos preparou para enfrentar os desafios práticos da área.
+
+Sua disponibilidade em esclarecer dúvidas e fornecer feedbacks construtivos foram fundamental para nosso progresso acadêmico. Sempre que buscamos sua orientação, você demonstrou paciência e compreensão, incentivando-nos a explorar novas perspectivas e a aprimorar nossas habilidades. Além de ser um excelente professor, você também é um exemplo de profissional comprometido e apaixonado pelo que faz. 
+
+Por tudo isso, queremos expressar nossa mais profunda gratidão. Seu impacto em nossa jornada acadêmica e pessoal é inegável. Obrigado por nos guiar, desafiando-nos a alcançar nosso potencial máximo e por tornar a disciplina de IHC uma experiência tão enriquecedora.
+
+Desejo a você saúde, felicidade e sucesso contínuo em todos os seus empreendimentos. Temos certeza de que muitos outros estudantes terão a sorte de cruzar seu caminho e se beneficiar de sua sabedoria e dedicação.
 
 </div>
 
@@ -324,5 +316,7 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 |:------:|:--------:|-----------|-------|:---------:|-----------|
 | 04/07/2023 | `1.0` | Criação do artefato | [Rafael Bosi](https://github.com/StrangeUnit28) | 04/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 05/07/2023 | `1.1` | Adicionando tópicos da entrega final | [Giovanni Alvissus](https://github.com/giovanni1106) e [Larissa Gomes](https://github.com/larigs) | 05/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 05/07/2023 | `2.0` | Finalização da entrega final | [Bruno Ribeiro](https://github.com/brunoriibeiro), [Giovanni Alvissus](https://github.com/giovanni1106), [Igor penha](https://github.com/igorpenhaa), [Larissa Gomes](https://github.com/larigs), [Lucas Gobbi](https://github.com/lucasbergholz) e [Rafael Bosi](https://github.com/strangeunit28) | 05/07/2023 | [Mizal](https://github.com/frmiza) |
+
 
 </div>
