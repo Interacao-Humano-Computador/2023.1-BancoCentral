@@ -212,6 +212,7 @@
 
 
 ## Histórico de Versões
+
 | Data | Versão | Descrição | Autor | Data de revisão | Revisor |
 |:------:|:--------:|-----------|-------|:---------:|-----------|
 | 14/04/2023 | `1.0` | Criação do cronograma e ponto de controle 1 | [Mizael Santos](https://github.com/frmiza) | 15/04/2023 | [Larissa Gomes](https://github.com/larigs) |
