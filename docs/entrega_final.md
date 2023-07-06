@@ -10,10 +10,6 @@
 
 ## Planejamento dos recursos e das entregas
 
-&emsp;&emsp; A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
-
-## Entregas realizadas de cada etapa
-
 &emsp;&emsp; A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados. É possível identificar na tabela a ocorrência de alguns autores estarem como revisores também, isso se deve ao fato de um sistema de pareamento, onde dois membros do grupo fazendo o mesmo artefato revisam o que o outro fez, mantendo assim ambos os executores informados sobre o artefato por completo.
 </div>
 
@@ -82,20 +78,24 @@
 <p> Tabela 2: Relação das ferramentas utilizadas no projeto. (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
-## Ciclo de vida
+## Ciclo de Vida do Desenvolvimento de Software
 
-<div align="justify">
+&emsp;&emsp;A Engenharia de Usabilidade de Mayhew propõe um ciclo de vida abrangente para o desenvolvimento de software, com foco na interação humano-computador. O ciclo de vida é composto por várias etapas que são cuidadosamente planejadas e executadas, visando garantir a usabilidade e a satisfação do usuário.
 
-&emsp;&emsp;A complexidade de um design de interfaces em software reunindo a experiência de usuário tornou necessária a área de Interação Humano Computador. Com a proposta de criar metodologias para o desenvolvimento de um design que satisfaça o usuário, foram elaboradas diversas abordagens iterativas para esse desenvolvimento, denominadas ciclos de vida. A Engenharia de Usabilidade de Mayhew (Figura 1) apresenta uma síntese bem elaborada para organização e elaboração das atividades referente a construção da interface. Visto o contato com o usuário no desenvolvimnto destas atividades, é possível desenvolver um projeto fidedigno as expectativas das partes interessadas.
+&emsp;&emsp;O ciclo de vida, ilustrado na Figura 1, orienta os designers através de atividades interativas, fornecendo uma direção clara para a criação de interfaces eficazes [1]. O processo começa com a compreensão aprofundada do perfil do usuário do software por meio de atividades detalhadas de análise. Essa etapa envolve a coleta de requisitos, a identificação de necessidades dos usuários e a definição de metas e objetivos.
 
-&emsp;&emsp;A definição desse ciclo de vida despertou o desejo por sua utilização nos desenvolvedores do projeto, visto que a inexperiência com design, requer uma longa e bem elaborada metodologia de desenvolvimento. Portanto o ciclo de vida de Mayhew foi utilizado para elaboração do <a href=”https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma”>cronograma</a> visando atender as atividades propostas de <b>análise de requisitos e design, avaliação e desenvolvimento</b>. Vale ressaltar que a etapa de <b>instalação</b> não foi executada precisa, pois o projeto já foi concluído.
+&emsp;&emsp;Em seguida, a fase de design é iniciada, utilizando as informações obtidas na etapa anterior. Os designers utilizam técnicas de prototipagem para criar e iterar soluções de design em diferentes níveis de fidelidade. A avaliação contínua é fundamental nessa fase, permitindo que os designers coletem feedback dos usuários e façam melhorias iterativas.
 
-</br>
+&emsp;&emsp;À medida que o ciclo progride, as fases de avaliação e desenvolvimento se complementam. A avaliação envolve a aplicação de métodos como testes de usabilidade, inspeções de interface e coleta de métricas de desempenho. Os resultados da avaliação são usados para aprimorar o design e garantir que as metas de usabilidade sejam atingidas.
 
-<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/ciclodemayhew.png">Ciclo de vida Mayhew</a>
+&emsp;&emsp;Finalmente, a fase de desenvolvimento entra em ação, utilizando as especificações de design refinadas. Durante essa etapa, o software é implementado de acordo com os requisitos e design definidos anteriormente. Além disso, as atividades de instalação são realizadas nesse momento, considerando que o produto já está finalizado.
 
-<div text-align: center>
-<p>Figura 1: Ciclo de vida de Mayhew (Fonte: BARBOSA, Simone; DINIZ, Bruno. 2010).<p>
+&emsp;&emsp;Ao longo de todo o ciclo de vida, a interação entre as fases do projeto é enfatizada, permitindo uma abordagem iterativa e colaborativa. Isso garante que o design evolua de acordo com as necessidades dos usuários e que o software final seja usável e eficiente.
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/entrega_final/ciclo-de-vida-mayhew.png" alt="Ciclo de vida do software" style="max-width: 100%; max-height: 100%;">
+
+<div align="center">
+<p> Figura 1: Ciclo de vida de um software (Fonte: MAYHEW, D. 2023).</p>
 </div>
 
 ## Análise de Requisitos
@@ -238,26 +238,6 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
   - Documentação de difícil acesso.
 
 &emsp;&emsp;Para saber mais sobre os pontos negativos, a [análise heurística](avaliacoes/avaliacaoBCB.md) do site fornece uma visão mais detalhada acerca delas.
-
-## Ciclo de Vida do Desenvolvimento de Software
-
-&emsp;&emsp;A Engenharia de Usabilidade de Mayhew propõe um ciclo de vida abrangente para o desenvolvimento de software, com foco na interação humano-computador. O ciclo de vida é composto por várias etapas que são cuidadosamente planejadas e executadas, visando garantir a usabilidade e a satisfação do usuário.
-
-&emsp;&emsp;O ciclo de vida, ilustrado na Figura 1, orienta os designers através de atividades interativas, fornecendo uma direção clara para a criação de interfaces eficazes [1]. O processo começa com a compreensão aprofundada do perfil do usuário do software por meio de atividades detalhadas de análise. Essa etapa envolve a coleta de requisitos, a identificação de necessidades dos usuários e a definição de metas e objetivos.
-
-&emsp;&emsp;Em seguida, a fase de design é iniciada, utilizando as informações obtidas na etapa anterior. Os designers utilizam técnicas de prototipagem para criar e iterar soluções de design em diferentes níveis de fidelidade. A avaliação contínua é fundamental nessa fase, permitindo que os designers coletem feedback dos usuários e façam melhorias iterativas.
-
-&emsp;&emsp;À medida que o ciclo progride, as fases de avaliação e desenvolvimento se complementam. A avaliação envolve a aplicação de métodos como testes de usabilidade, inspeções de interface e coleta de métricas de desempenho. Os resultados da avaliação são usados para aprimorar o design e garantir que as metas de usabilidade sejam atingidas.
-
-&emsp;&emsp;Finalmente, a fase de desenvolvimento entra em ação, utilizando as especificações de design refinadas. Durante essa etapa, o software é implementado de acordo com os requisitos e design definidos anteriormente. Além disso, as atividades de instalação são realizadas nesse momento, considerando que o produto já está finalizado.
-
-&emsp;&emsp;Ao longo de todo o ciclo de vida, a interação entre as fases do projeto é enfatizada, permitindo uma abordagem iterativa e colaborativa. Isso garante que o design evolua de acordo com as necessidades dos usuários e que o software final seja usável e eficiente.
-
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/entrega_final/ciclo-de-vida-mayhew.png" alt="Ciclo de vida do software" style="max-width: 100%; max-height: 100%;">
-
-<div align="center">
-<p> Figura 1: Ciclo de vida de um software (Fonte: MAYHEW, D. 2023).</p>
-</div>
 
 
 ## Avaliações realizadas
