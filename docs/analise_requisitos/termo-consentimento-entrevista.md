@@ -35,7 +35,11 @@ Ao participar da pesquisa, você estará indicando que leu, compreendeu e está 
 
 Agradecemos a sua colaboração!
 
-Ao assinar abaixo, eu afirmo que:
+Concorda em participar da pesquisa?
+[ ] Sim
+[ ] Não
+
+Ao concordar em participar, eu afirmo que:
 
   - Recebi informações suficientes sobre o estudo e entendi seus objetivos, procedimentos, riscos e benefícios.
   - Tive a oportunidade de fazer perguntas e todas as minhas dúvidas foram respondidas satisfatoriamente.
@@ -46,7 +50,8 @@ Nome do Participante: ______________________
 
 Data: ______________________
 
-Assinatura do Participante: ______________________
+</div>
+
 
 </div>
 
@@ -56,5 +61,6 @@ Assinatura do Participante: ______________________
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 02/05/2023 | `1.0`  | Criação do termo de consentimento para pesquisas | [Giovanni Alvissus](https://github.com/giovanni1106)  |    02/05/2023    | [Larissa Gomes](https://github.com/larigs) |
 | 24/06/2023 | `2.0`  | Atualizacao do termo para pesquisa | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 24/06/203 | [Lucas Gobbi](https://github.com/LucasBergholz) e [Igor Penha](https://github.com/igorpenhaa) |
+| 01/07/2023 | `2.1`  | Correção do termo de consentimento para entrevistas | [Igor Penha](https://github.com/igorpenhaa) | 03/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 
 </div>

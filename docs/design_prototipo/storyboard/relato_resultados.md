@@ -11,7 +11,7 @@ Este documento tem como finalidade documentar os relatos dos usuários do Banco 
 O documento contém a realização do teste piloto, realização das entrevista, ambas realizadas e gravadas na plataforma Teams, coleta de dados e análise dos dados. Para a realização deste documento utilizamos como base os artefatos de [planejamento de avaliação](/docs/design_prototipo/storyboard/planejamento_avaliacao.md), que guiou na realização da preparação e na realização das entrevistas e o de [planejamento do relato](/docs/design_prototipo/storyboard/planejamento_relato.md) em que foi utilizado como um instrutor do que deveria está contido no relato.  
 
 
-## Objetivo
+## Foco do Artefato
 
 Este artefato tem como principal objetivo relatar a forma que a avaliação do storyboard foi executada. Além de demonstrar organizadamente todos os dados e resultados obtidos por intermédio das entrevistas com usuários.
 
@@ -23,7 +23,7 @@ A metodologia utilizada para a realização avaliação foi pela entrevista, mé
 <br>
 Antes da realização das entrevista foi feito o teste piloto para certificar que o ambiente estivesse adequado e preparado para a realização das entrevistas.
 <br>
-Antes das entrevistas foi apresentado os [Termos de Consentimento](/docs/questionarios/termo-de-consentimento.md) para o entrevistado, o qual concordando e assinando o termo, assim como, os entrevistadores, a entrevista prosseguia.
+Antes das entrevistas foi apresentado os [Termos de Consentimento](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/termo-consentimento-entrevista.md) para o entrevistado, o qual concordando e assinando o termo, assim como, os entrevistadores, a entrevista prosseguia.
 <br>
 Durante a entrevista, foram feitas perguntas conceituais que tivessem relação com o sistema em questão, logo após, foi explicado e apresentado os storyboard.
 
@@ -242,7 +242,7 @@ Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de 
 | 5 | As informações apresentadas no storyboard são compreensíveis? | [5] Sim | Verificar o entendimento |
 | 6 | Houve dificuldade ao realizar a interação com o storyboard? | [5] Não | Verificar usabilidade |
 | 7 | O storyboard fornece informações necessárias para realização das tarefas desejadas? | [4] Sim <br> [1] Não sei responder | Verificar usabilidade |
-| 8 | O ator principal completou seu objetivo na interação com o storyboard?? | [5] Sim | Verificar usabilidade |
+| 8 | O ator principal completou seu objetivo na interação com o storyboard? | [5] Sim | Verificar usabilidade |
 | 9 | O storyboard é consistente com o estilo e a identidade visual do produto? | [3] Sim <br> [2] Não sei responder | Verificar a coerência |
 | 10 | O storyboard mostra como o produto resolve o problema ou a necessidade do usuário? | [5] Sim | Verificar coerência |
 | 11 | O storyboard é adequado ao público-alvo do produto? | [4] Sim <br> [1] Não sei responder | Verificar a adequação |
@@ -252,8 +252,31 @@ Na tabela 6 a seguir, foram somadas as respostas de todas as questões, afim de 
     <p> <b>Tabela 6: </b> Dados organizados (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).</p>
 </div>
 
+A seguir, seguem os gráficos (figura 1 a 3) representativo das respostas dos usuários para auxiliar a análise quantitativa:
+
+Grafico das perguntas relacionadas se os storyboard condizem com a realidade, se são satisfatórios e se são compreensíveis:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_1.png" width="100%">
+<b>Figura 1</b>: Gráfico 1 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
+Grafico se os o entrevistado teve dificuldade com as interações:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_2.png" width="100%">
+<b>Figura 2</b>: Gráfico 2 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
+Grafico das perguntas relacionadas se os storyboard estavam bem feitos com todas as informações necessárias e se ele se adequa aos usuários do Banco Central:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/relato_sb_3.png" width="100%">
+<b>Figura 3</b>: Gráfico 3 (Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
 ### Análise Quantitativa
-Foram analisados, a partir dos dados obtidos na tabela 6, que os storyboards tiveram sucesso em sua interação com o entrevistado, pois, em perguntas chave como as de número 1, 5 e 10, a resposta majoritária foi "Sim". Tendo isso em vista, algumas perguntas podem melhorar sua clareza ao entrevistado, entre elas as de número 7 e 9, tendo em vista que houveram algumas respostas de "Não sei responder".
+Foram analisados, a partir dos dados obtidos na tabela 6, que os storyboards tiveram sucesso em sua interação com o entrevistado, pois, em perguntas chave como as de número 1, 5 e 10, a resposta majoritária foi "Sim". Tendo isso em vista, algumas perguntas podem melhorar sua clareza ao entrevistado, entre elas as de número 7 e 9, tendo em vista que houveram algumas respostas de "Não sei responder". Foram feitos dois gráficos, 4 e 5, para as questões 7 e 9, respectivamente:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/quest7.png" width="100%">
+<b>Figura 4</b>: Gráfico 4 da questão 7(Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-BancoCentral/main/docs/img/relato_sb/quest9.png" width="100%">
+<b>Figura 5</b>: Gráfico 5 da questão 9(Fonte: PENHA, Igor; GOBBI, Lucas. 2023).
 
 ### Análise Qualitativa
 Quanto a análise qualitativa, as entrevistas poderiam fornecer mais frutos quanto a possíveis melhorias nos storyboards e no site, pois, devido às perguntas serem majoritariamente fechadas, diminuiu a eficácia da análise qualitativa deste processo. Todavia, a questão 13, a qual é aberta, permitiu-nos perceber algumas melhorias, entre elas:
@@ -320,5 +343,7 @@ A partir da realização das entrevistas, conseguimos ter um feedback dos usuár
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :--:       | :----: | :-------: | :---: | :-------------: | :-----: |
 | 26/05/2023 | `1.0`  | Criação do molde do documento de relato de storyboard | [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 27/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 26/06/2023 | `2.0`  | Correções do artefato após verificação | [Igor Penha](https://github.com/igorpenhaa)  | 28/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 04/07/2023 | `2.1`  | Correções do artefato após verificação | [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 04/07/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 </div>

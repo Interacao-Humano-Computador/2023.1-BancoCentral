@@ -25,7 +25,7 @@ Este artefato tem como propósito definir as metas de usabilidade, que, por sua 
 
 ## Metas a serem almejadas pelo nosso projeto
 
-Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o site e escolhemos as metas, as quais eram mais críticas em comparação as outras e em caso de termos mais tempos poderiamos focar em outras, mas para se iniciar o projeto discutimos e definimos, as seguintes questões relacionadas as metas e as metas aplicadas:
+Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o site e indentificamos as metas definidas por Nilsen sobre o Banco Central do Brasil, dessa forma, decidimos por trabalhar em cima das mais críticas em comparação as outras e em caso de termos mais tempos poderiamos focar em outras, mas para se iniciar o projeto começamos pelas mais críticas, portanto, a seguir iremos analisar as metas de usabilidade do site do [Banco Central](https://www.bcb.gov.br/), com a intenção de prosseguir a análise realizamos e respondemos algumas perguntas sobre as determinadas metas:
 
 
 ### **Eficácia**: 
@@ -83,7 +83,8 @@ Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o 
 
 ## Conclusão
 
- Portanto, neste artefato, foi abordado as definições das metas de usabilidade e também as observamos, avaliamos e decidimos por intermédio de perguntas que direcionaram todo o processo para definirmos da melhor manira possível as nossas metas. E por fim, ficou decidido que as metas de usabilidade almejadas dentro do nosso projeto serão: 
+ Portanto, neste artefato, foi abordado as definições das metas de usabilidade e também as observamos, avaliamos e decidimos por intermédio de perguntas que direcionaram todo o processo para definirmos da melhor maneira possível as nossas metas. E por fim, após a análise de todas as metas de usablidade definidas por Nielsen,ficou decidido que as metas de usabilidade mais críticas dentro no site e, portanto, as que seriam almejadas dentro do escopo do nosso projeto serão as metas: 
+ 
  - Segurança: Voltar as páginas anteriores de forma clara e que não tenha que recorrer a medidas extremas, como saida de emergência.
  - Aprendizagem: Deixar os comandos e o acesso as informações de maneira mais intuitivas e deixar o site menos poluidos visuamente.
  - Memorização: Tornar as funcionalidades e locais de informações mais intuitivas e memoráveis.
@@ -112,5 +113,6 @@ Com a intenção de definir as metas almeijadas no nosso projeto,  analisamos o 
 | :----: | :--: | :-------: | :---: | :-----: | :----------: |
 | 09/05/2023 | `1.0` | Documentação inicial | [Igor Penha](https://github.com/igorpenhaa) e [Bruno Ribeiro](https://github.com/brunoriibeiro) | 11/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
 | 16/05/2023 | `1.1` | Atualização do documento | [Igor Penha](https://github.com/igorpenhaa) | 16/05/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 01/07/2023 | `2.0` | Ajuste do motivo da escolha das metas | [Igor Penha](https://github.com/igorpenhaa) | 02/07/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 </div>

@@ -97,6 +97,7 @@ Para verificação dos critérios gerais foi elaborada a lista abaixo com os tó
    - [x] As tabelas possuem legenda.
    - [x] As tabelas são chamadas no texto. Porém não são todas.
 
+
 ### Conclusão
 
 <div align="justify">
@@ -116,6 +117,29 @@ Para que o documento ficasse perfeitamente executado de acordo com essa verifica
 
 </div>
 
+
+## Correções Realizadas
+
+<div align="justify">
+
+Para a entrega do projeto final da disciplina, foram realizadas as seguintes alterações:
+- Adicionou-se um objetivo ao artefato
+
+Dessa forma, foram feitas apenas correções referentes ao conteúdo do artefato. A tabela 1, atualizada, ficou da seguinte forma (tabela 2):
+
+| id | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | As personas definidas a partir dos dados do perfil do usuário | sim | Excelente | As personas foram criadas a partir do perfil de usuário definido pelo grupo |
+| 2 | As personas possuem os elementos caracerístico(Identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativa)? | Sim | Excelente | |
+| 3 | As personas apresentam as situações em que seram utilizadas? | Sim | Excelente | Foi identificado que as personas foram utilizadas nos storyboards |
+| 4 | O elenco de personas tem entre 3 a 12 personas? | sim | Excelente |  |
+| 5 | O elenco de personas e a razão da quantidade de personas é justificada? | Sim | Excelente |  |
+| 6 | O projeto contém a anti-persona e persona primária | sim | Excelente |  |
+
+<b>Tabela 1</b>: Relação do conteúdo (Fonte: PENHA, Igor. 2023).
+
+</div>
+
 ## Bibliografia
 
 - Apresentação do Capítulo 06 Organização do espaço de problema do Livro IHC:Barbosa e Silva. Disponível em: https://aprender3.unb.br/pluginfile.php/2523447/mod_resource/content/4/Apresentacao%20cap06.pdf. Acesso em: 06 jun. 2023.
@@ -130,6 +154,8 @@ Para que o documento ficasse perfeitamente executado de acordo com essa verifica
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 08/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 09/06/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 04/07/2023 | `2.0` | Acompanhando os artefatos |  [Igor Penha](https://github.com/igorpenhaa) | 04/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+
 
 
 </div>

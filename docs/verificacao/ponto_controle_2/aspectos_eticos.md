@@ -102,6 +102,23 @@ Algumas correções sugeridas são:
 - Ajustar o artefato para abrangir e se relacionar com os dados coletados;
 - Adicionar uma conclusão.
 
+## Correções Realizadas
+
+Para a entrega do projeto final, foram realizadas as seguintes correções:
+- Descrição dos usos de voz e imagem da pessoa que aceitar o termo de consentimento;
+- Descrição da análise de dados coletados.
+
+Dessa forma, foram realizadas apenas alterações de questões do conteúdo do artefato, portanto, a tabela 1 é atualizada para a seguinte tabela 2:
+
+| id | Conteúdo | Possue | Qualidade | Observação |
+| -- | -------- | :----: | :-------: | ---------- |
+| 1 | É descrito como os aspectos serão utilizados no projeto? | Sim | Excelente |  |
+| 2 | Há termo de consentimento? | Sim | Excelente |  |
+| 3 | E descrito que será solicitada a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? | Sim | Excelente |  |
+| 4 | É seguido os 4 princípios: autonomia, beneficência, maleficência e justiça e equidade? | Sim | Excelente |  |
+| 5 | É considerado os aspéctos éticos relacionado aos dados coletados?| Sim | Excelente |  |
+<p> <b>Tabela 2</b>: Relação do conteúdo (Fonte: GOBBI, Lucas. 2023). </p>
+
 </div>
   
 ## Bibliografia
@@ -119,5 +136,6 @@ Algumas correções sugeridas são:
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 14/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) | 15/06/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 04/07/2023 | `2.0` | Atualização do artefato para entrega final | [Lucas Gobbi](https://github.com/lucasbergholz) e [Bruno Ribeiro](https://github.com/BrunoRiibeiro) | 04/07/2023 | [Igor Penha](https://github.com/igorpenhaa) |
   
 </div>

@@ -41,13 +41,15 @@ Deve-se tomar cuidado para evitar as armadilhas de projetar para usuários aned�
 
 <div align="justify">
 
-Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. E nesse projeto, foram criadas '4' personas.
+Como já foi comentado nesse documento anteriormente, segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas.
 
 O nosso grupo decidiu por optar 4 personas depois de debater em grupo sobre os perfis de usuários obtidos por intermédio de questionários. Nesse cenário, obtvemos 2 personas primárias, uma persona secundária e uma anti-persona.
 
 As imagens presentes na elaboração das personas foram criadas pelo site [This Person Doest Not Exist](https://this-person-does-not-exist.com/en), o qual a partir de inteligencia artificial cria uma pessoas fictícia sem copyright.
 
 ### Aplicando ao projeto
+
+Segundo Courage e Baxter (2005), devemos criar pelo menos uma persona por papel de usuário. Cada projeto possuiseu próprio elenco de personas, que consiste de três a 12 personas distintas. Dessa forma, ao analisar o perfil de usuário obtido para os usuários do Banco Central do Brasil, foi optado por utilizar 4 personas, em que utilizamos 3 personas para abranger todos os papeis de usuários coloetados e 1 persona que representaria o papel de um usuário que não se encaixa no perfil dos usuários, assim, chegamos a formulação das 4 personas do projeto.
   
 Neste projeto, estaremos utilizando personas como uma ferramenta fundamental para a construção dos storyboards. As personas são representações fictícias de usuários reais que nos ajudam a entender melhor as necessidades, comportamentos e objetivos dos nossos usuários-alvo.
   
@@ -174,5 +176,7 @@ No geral, a utilização de personas na construção dos storyboards é uma abor
 | 25/04/2023 | `1.0` | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 25/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 25/04/2023 | `1.1` | Criação do documento de personas | [Bruno Ribeiro](https://github.com/BrunoRibeiro) e [Igor Penha](https://github.com/igorpenhaa) | 25/04/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
 | 28/05/2023 | `1.2` | Add utilidade das personas no projeto | [Bruno Ribeiro](https://github.com/BrunoRibeiro) | 28/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
+| 01/07/2023 | `2.0` | Adicionando as informações faltantes em personas | [Igor Penha](https://github.com/igorpenhaa) | 02/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRibeiro) |
+
 
 </div>

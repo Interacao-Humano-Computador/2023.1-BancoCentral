@@ -18,42 +18,64 @@ A escolha da metodologia a ser utilizada no documento de planejamento do relato 
 4. **Testes de usabilidade**: Realizar testes práticos nos quais os usuários são convidados a realizar uma série de tarefas específicas enquanto são observados. Isso permite identificar dificuldades, problemas e pontos de melhoria na usabilidade do sistema.
 5. **Análise de dados existentes**: Caso haja dados pré-existentes, como registros de uso, feedback dos usuários ou métricas de desempenho, é possível analisá-los para identificar padrões e tendências relevantes para a análise de tarefas.
 
-É importante adaptar a metodologia de acordo com as características do projeto e as necessidades específicas da análise de tarefas. A combinação de diferentes abordagens pode fornecer uma compreensão mais completa do desempenho e das experiências dos usuários.
+É importante adaptar a metodologia de acordo com as características do projeto e as necessidades específicas da análise de tarefas. A combinação de diferentes abordagens pode fornecer uma compreensão mais completa do desempenho e das experiências dos usuários, nesta parte do projeto para o relato da análise de tarefas foi realizado entrevistas, de forma, a ter um feedback dos usuários sobre as análise de tarefas realizadas.
 
-Nesta fase do projeto utilizaremos o método de entrevistas, com os seguintes tópicos de avaliação:
+Nesta fase do projeto utilizaremos o método de entrevistas auxiliado do framework DECIDE , O framework DECIDE é uma abordagem proposta por Sharp, Rogers e Preece [2] para orientar o planejamento, execução e análise de avaliações de Interação Humano-Computador (IHC). Ele consiste em uma série de atividades interligadas, incluindo:
+ 
+ -   D: Determinar os objetivos da avaliação: Definir os objetivos gerais da avaliação e identificar sua importância para as partes interessadas.
 
-- Objetivo e escopo da avaliação;
-- A forma como a avaliação foi realizada;
-- O número e o perfil de usuários e avaliadores que participaram da avaliação;
-- Resumo dos dados coletados;
-- Análise e interpretação dos dados coletados;
-- Listagem de problemas encontrados;
-- Sugestões de reprojeto do sistema;
+ -   E: Explorar perguntas a serem respondidas: Elaborar perguntas específicas que orientem a investigação e a análise durante a avaliação.
+
+ -   C: Escolher(Choice) os métodos de avaliação: Selecionar os métodos mais adequados para responder às perguntas e atingir os objetivos, levando em consideração recursos disponíveis e conhecimento dos avaliadores.
+
+ -   I: Identificar e lidar com questões práticas: Abordar questões práticas envolvidas na avaliação, como recrutamento de usuários, preparação de equipamentos e gestão de prazos e orçamento.
+
+ -   D: Decidir sobre questões éticas: Considerar os cuidados éticos necessários ao envolver usuários na avaliação e garantir seu respeito e não prejudicá-los durante o processo.
+
+ -   E: Avaliar(Evaluate), interpretar e apresentar os dados: Avaliar os dados coletados, interpretá-los de forma apropriada e apresentar os resultados, levando em conta a confiabilidade, validade interna, validade externa e validade ecológica do estudo.
 
 ## Tópicos
 
 O relato dos resultados da avaliação da Análise de tarefas deverá ter documentado os seguintes tópicos:
 
-### Objetivo e escopo da avaliação
+## Foco do Artefato
 
-O objetivo e o escopo da avaliação referem-se aos elementos que definem o propósito e a abrangência da análise de tarefas a ser realizada. Essas informações são importantes para estabelecer diretrizes claras e garantir que a avaliação seja conduzida de forma eficiente e focada nos resultados desejados.
+O artefato tem como foco realizar um planejamento do relato de como foi realizada a avaliação é com a finalidade de quais perguntas, qual a ferramenta utilizada para a realização da entrevista, documentar os dados coletados a partir da entrevista e mostrar os resultados obtidos.
 
-O objetivo da avaliação descreve o que se pretende alcançar com a análise de tarefas. Pode envolver identificar problemas de usabilidade, avaliar a eficácia de um sistema, obter feedback dos usuários ou propor melhorias no design de uma interface. O objetivo deve ser específico, mensurável e relevante para o contexto do projeto.
+O foco da avaliação descreve o que se pretende alcançar com a análise de tarefas. Pode envolver identificar problemas de usabilidade, avaliar a eficácia de um sistema, obter feedback dos usuários ou propor melhorias no design de uma interface. O objetivo deve ser específico, mensurável e relevante para o contexto do projeto.
 
-O escopo da avaliação define o âmbito e os limites da análise de tarefas. Ele determina quais tarefas e funcionalidades serão avaliadas, bem como quais usuários serão incluídos no estudo. O escopo também pode abordar aspectos como o ambiente de uso, o contexto de trabalho e quaisquer restrições ou restrições específicas que devem ser consideradas.
+Ao estabelecer o objetivo e o escopo da avaliação no planejamento do relato da análise de tarefas, é possível alinhar as expectativas, definir os critérios de sucesso e garantir que a coleta de dados. Isso contribui para a eficácia e relevância do relatório final, fornecendo informações úteis e acionáveis para o desenvolvimento do sistema ou interface em questão.
 
-Ao estabelecer o objetivo e o escopo da avaliação no planejamento do relato da análise de tarefas, é possível alinhar as expectativas, definir os critérios de sucesso e garantir que a coleta de dados e a análise sejam direcionadas aos objetivos estabelecidos. Isso contribui para a eficácia e relevância do relatório final, fornecendo informações úteis e acionáveis para o desenvolvimento do sistema ou interface em questão.
+Assim, de forma geral, é necessário que os avaliadores elaborarem um relatório a partir da análise dos resultados da análise de tarefas, da mesma maneira deve encontrar utilidades para serem melhoradas. Além de conter os objetivos da avaliação juntamente com uma verificação de se esses objetivos foram alcançados e documentar a experiência dos participantes com a análise de tarefas.
 
-### Método
+</br>
+
+## Método
+
+### Objetivos da avaliação
+
+Coletar os dados do feedback dos usuários relacionados às análises de tarefas apresentado à eles. </br>
+
+### Perguntas que deveriam ser respondidas com a avaliação
+
+- Apresenta os usuários que deram o Feedback?
+- É apresentados as análises de tarefas?
+- Apresenta os dados coletados?
+- Os dados foram organizados?
+- Há uma análise dos dados coletados?
+</br>
+
+### Métodos utilizados
 
 No planejamento do relato da análise de tarefas utilizando o método de entrevistas, é importante considerar os seguintes aspectos:
 
 1. **Definição dos participantes**: Determine o perfil dos participantes da entrevista com base nos critérios relevantes para a análise de tarefas, como conhecimento do sistema, experiência prévia e demografia. Isso ajudará a garantir uma amostra representativa dos usuários-alvo.
-2. **Roteiro de entrevista**: Crie um roteiro de entrevista estruturado que inclua uma série de perguntas específicas relacionadas às tarefas avaliadas. As perguntas devem ser claras, objetivas e direcionadas para obter informações relevantes para a análise.
+2. **Roteiro de entrevista**: Crie um roteiro de entrevista estruturado que inclua uma série de perguntas específicas relacionadas às tarefas avaliadas que devem ser apresentados e avaliados pelos entrevistados. As perguntas devem ser claras, objetivas e direcionadas para obter informações relevantes para a análise.
 3. **Abordagem da entrevista**: Decida se as entrevistas serão individuais ou em grupo, dependendo do contexto e dos recursos disponíveis. As entrevistas individuais podem permitir uma exploração mais aprofundada das percepções e experiências dos participantes, enquanto as entrevistas em grupo podem facilitar a discussão e o compartilhamento de ideias entre os participantes.
 4. **Protocolo de registro**: Determine a forma como as entrevistas serão registradas, seja por meio de gravações, anotações ou ambos. Certifique-se de obter consentimento dos participantes para gravar as entrevistas, se aplicável, e garanta a confidencialidade e anonimato dos dados coletados.
 5. **Análise dos dados**: Planeje como os dados das entrevistas serão analisados. Isso pode envolver a identificação de temas recorrentes, codificação das respostas dos participantes ou utilização de técnicas de análise qualitativa ou quantitativa, dependendo dos objetivos da análise de tarefas.
 6. **Considerações éticas**: Esteja atento às questões éticas relacionadas às entrevistas, como o consentimento informado dos participantes, a privacidade e a proteção dos dados pessoais. Cumpra com as regulamentações e políticas relevantes de proteção de dados.
+7. **Teste Piloto**: Antes da realização das entrevistas é de suma importância que seja feito um teste piloto pelos entrevistadores para ter certeza a todas as ferramentas que serão utilizadas, como, gravação, áudio, se consegue mostrar o termo de consentimento, se os storyboard já estão preparados para serem apresentados ao úsuario.
 
 Além disso, para fornecer mais detalhes sobre o andamento do projeto, será incluído o cronograma executado. Com o objetivo de padronizá-lo, apresentaremos na Tabela 1 um exemplo de um item de cronograma.
 
@@ -68,8 +90,12 @@ Além disso, para fornecer mais detalhes sobre o andamento do projeto, será inc
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Modelo de entrevista executada (Fonte: BOSI, Rafael. 2023).</p>
 </div>
+</br>
+</br>
 
-### Sumário de avaliadores e participantes
+### Mão-de-obra necessária para conduzir a avaliação, orçamento disponíveis, os prazos e a preparação e o uso dos equipamentos necessários.
+
+#### Mão-de-obra necessária
 
 No planejamento do relato da análise de tarefas, é importante incluir um sumário dos avaliadores e participantes envolvidos no processo. Esse sumário fornece informações essenciais sobre as pessoas responsáveis pela condução da análise e aquelas que participaram como usuários durante o estudo. Aqui estão alguns pontos que podem ser abordados no sumário:
 
@@ -91,8 +117,36 @@ Participantes:
 - 10 usuários do sistema do Banco Central do Brasil, com idades variando entre 25 e 45 anos.
 
 Ao incluir esse sumário no planejamento do relato da análise de tarefas, você fornece uma visão geral dos avaliadores e participantes envolvidos no estudo. Isso ajuda a contextualizar o processo de avaliação e fornece informações importantes para a compreensão dos resultados apresentados no relatório final.
+</br>
+</br>
 
-### Sumário de dados
+#### Orçamento
+
+Deve estar presente no artefato de relato, todo o orçamento que foi necessário para a realização da análise de tarefa, dos gasto com materiais que foram utilizados para acrescentar ao projeto ou dos gasto mais gerais que não envolviam materiais, porém que ocorreu gastos.
+</br>
+</br>
+
+#### Prazo 
+
+O relato deve ser realizado até 29/05/2023 para a realização da entrega do relato dentro da matéria.
+</br>
+</br>
+
+#### Equipamento
+
+Apresentar todos os equipamento utilizados para a realização com sucesso das entrevistas com os usuários.
+</br>
+</br>
+
+### Aspectos éticos
+
+Decidir e apresentar os aspectos éticos utilizados para que os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação.
+</br>
+</br>
+
+### Interpretar e apresentar os dados
+
+#### Sumário de dados
 
 No planejamento do relato da análise de tarefas, é importante incluir um sumário dos dados coletados durante o estudo. Esse sumário fornece uma visão geral dos tipos de dados que foram coletados, bem como a quantidade e a fonte desses dados. Aqui estão alguns elementos que podem ser abordados no sumário:
 
@@ -103,7 +157,7 @@ No planejamento do relato da análise de tarefas, é importante incluir um sumá
 
 Ao incluir esse sumário no planejamento do relato da análise de tarefas, você fornece uma visão geral dos dados coletados, o que ajuda a contextualizar a base de informações utilizada para as conclusões e recomendações apresentadas no relatório final. Isso permite uma compreensão mais completa e transparente dos resultados do estudo.
 
-### Análise dos dados coletados
+#### Análise dos dados coletados
 
 Na etapa de análise dos dados coletados no planejamento do relato da análise de tarefas, é fundamental examinar e interpretar os dados de forma sistemática e rigorosa. A análise dos dados tem como objetivo identificar padrões, tendências e insights relevantes que surgiram durante a avaliação das tarefas. Aqui estão alguns aspectos a considerar ao realizar a análise dos dados:
 
@@ -133,5 +187,7 @@ Finalmente, serão apresentadas sugestões de correção para cada um dos proble
 | :------------------------: | :--------------------------: | :-----------------------------: | :-----------------------------: | :-----------------------------------: | :-------------------------------: |
 | 21/05/2023 | `1.0`  | Criação da documento de planejamento do relato da análise de tarefas | [Bruno Ribeiro](https://github.com/BrunoRiibeiro)  | 22/05/2023 | [Igor Penha](https://github.com/igorpenhaa) |
 | 21/05/2023 | `1.1`  | Padronização da tabela de entrevista realizada | [Rafael Bosi](https://github.com/Strangeunit28)  | 21/05/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 26/06/2023 | `2.0`  | Correções do artefato após verificação | [Igor Penha](https://github.com/igorpenhaa)  | 28/06/2023 | [Lucas Gobbi](https://github.com/lucasbergholz) |
+| 02/07/2023 | `2.1`  | Adicionando o planejamento seguindo as etapas do framework DECIDE | [Igor Penha](https://github.com/igorpenhaa)  | 03/04/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
 
 </div>

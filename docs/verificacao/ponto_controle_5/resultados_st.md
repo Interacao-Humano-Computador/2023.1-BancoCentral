@@ -107,6 +107,27 @@ O artefato respeita todos os pontos analisados.
 
 </div>
 
+## Correções Realizadas
+Para a entrega final do projeto, foram realizadas as seguintes correções:
+- Termo de consentimento correto para as entrevistas;
+- Adicionou-se um objetivo ao artefato;
+- Adição de gráficos para a análise de dados quantitativa.
+
+Dessa forma, foram realizadas correções acerca do conteúdo do artefato. Assim, a tabela 1 foi atualizada para a tabela 2:
+
+| id | Conteúdo | Possui | Qualidade | Observação |
+| - | - | - | - | - |
+| 1 | O artefato segue o planejamento proposto? | Sim | Excelente | - |
+| 2 | Foi realizado teste piloto anteriormente à realização das entrevistas? | Sim | Excelente | - |
+| 3 | O participante da entrevista leu e concordou com o termo de consentimento proposto? | Sim | Excelente | - |
+| 4 | As entrevistas foram gravadas e publicadas no artefato? | Sim | Excelente | - |
+| 5 | Os storyboards foram apresentados ao usuário? | Sim | Excelente | - |
+| 6 | Os storyboards estão consistentes com as tarefas da aplicação analisada pelo grupo? | Sim | Excelente | - |
+| 7 | Os storyboards possuem qualidade adequada para a realização da pesquisa/entrevista? | Sim | Excelente | - |
+| 8 | Os problemas encontrados nos storyboards foram relatados? | Sim | Excelente | - |
+| 9 | Foram feitas análises com os resultados da entrevista? | Sim | Excelente | - |
+| 10 | O artefato utiliza de gráficos para auxílio da compreensão dos dados obtidos? | Sim | Excelente | - |
+
 ## Bibliografia
 
 - BARROS, André. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2523360/mod_resource/content/33/Plano_de_Ensino%20FIHC%20202301%20Turma%202.pdf>. Acesso em: 03 jun. 2023.
@@ -123,6 +144,7 @@ O artefato respeita todos os pontos analisados.
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> | <p align="center">Data de revisão</p> | <p align="center">Revisor(es)</p> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 18/06/2023 | `1.0` | Criação do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 18/06/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
+| 04/07/2023 | `2.0` | Acompanhamento do artefato |  [Igor Penha](https://github.com/igorpenhaa) e [Lucas Gobbi](https://github.com/lucasbergholz) | 04/07/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 
 
 </div>
