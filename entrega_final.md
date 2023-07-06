@@ -6,13 +6,9 @@
 
 &emsp;&emsp;Este relatório apresenta os resultados do projeto realizado pelo Grupo 3 na disciplina de Interação Humano-Computador, com foco no desenvolvimento e aprimoramento do Site do Banco Central do Brasil. Ao longo do documento, serão abordados os aspectos relacionados à seleção do site, o ciclo de vida utilizado no projeto, o planejamento dos recursos e entregas, a execução do projeto e os resultados alcançados.
 
-
-<<<<<<< HEAD
 ## Planejamento dos recursos e das entregas
 
 A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
-
-=======
 
 </div>
 
@@ -114,7 +110,11 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 | <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/caracteristicas_da_plataforma">Características da plataforma</a> | Lucas Gobbi | Igor penha |
 
 <div text-align: center>
+<<<<<<< HEAD
 <p>Tabela 3: Síntese dos artefatos realizados.<p>
+=======
+<p>Tabela 3: Síntese dos artefatos realizados. (Fonte: SANTOS, Mizael. 2023)<p>
+>>>>>>> 95178e5 (documento finalizado)
 </div>
 
 ## Design, Avaliação e Desenvolvimento
@@ -136,7 +136,7 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 |                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/planejamento_relato">Planejamento do relato do storyboard</a>                 |  Bruno Ribeiro e Igor Penha     |  Larrisa Gomes  |
 |                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados">Relato dos resultados do storyboard</a>                          |  Igor Penha, Lucas Gobbi    | Larissa Gomes e Bruno Ribeiro |
 <div text-align: center>
-<p>Tabela 4: Síntese dos artefatos realizados no nível 1.<p>
+<p>Tabela 4: Síntese dos artefatos realizados no nível 1. (Fonte: SANTOS, Mizael. 2023)<p>
 </div>
 
 ### Nível 2
@@ -150,7 +150,7 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 |  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/planejamento_relato">Planejamento do relato do protótipo de papel</a>                 |  Mizael Santos    |  Larissa Gomes   |
 |                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados">Relato dos resultados do protótipo de papal</a>                          |  Giovanni Alvissus e Larissa Gomes   | Rafael Bosi |
 <div text-align: center>
-<p>Tabela 5: Síntese dos artefatos realizados no nível 2.<p>
+<p>Tabela 5: Síntese dos artefatos realizados no nível 2. (Fonte: SANTOS, Mizael. 2023)<p>
 
 ### Nível 3
 &emsp;&emsp;Neste nível é apresentado uma protipação que tem como objtivo ser fidedigna ao design inspirado, apresentando mais detalhamentos e é baseada na <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados">Protótipo de papel</a>, cujo a função é verificar problemas de usabilidade em fases avançadas do desenvolvimento juntamente ao usuário que participa ativamente dos testes de usabilidade desenvolvidos. Evidenciados em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta">Protótipo de alta fidelidade</a>
@@ -163,7 +163,7 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 |                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_relato">Planejamento do relato do protótipo de alta fidelidade</a>                 |  Bruno Ribeiro, Igor Penha e Lucas Gobbi    |  Larissa Gomes   |
 |                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta">Relato dos resultados do protótipo de alta fidelidade</a>                          |  Mizael Santos, Rafael Bosi,  Bruno Ribeiro e Igor Penha | Larissa Gomes |
 <div text-align: center>
-<p>Tabela 6: Síntese dos artefatos realizados no nível 2.<p>
+<p>Tabela 6: Síntese dos artefatos realizados no nível 2. (Fonte: SANTOS, Mizael. 2023)<p>
 </div>
 
 </div>
@@ -233,7 +233,7 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 
 ## Avaliações realizadas
 
-&emsp;&emsp; Durante o desenvolver do projeto, foram realizadas diversas avaliações, utilizando diferentes tipos de métodos para executá-los. Foram executadas avaliações dos diagramas de Análise de Tarefas, do Storyboard, do Protótipo de Baixa e Alta Fidelidade. A relação dos participantes desse processo está representada na Tabela 3.
+&emsp;&emsp; Durante o desenvolver do projeto, foram realizadas diversas avaliações, utilizando diferentes tipos de métodos para executá-los. Foram executadas avaliações dos diagramas de Análise de Tarefas, do Storyboard, do Protótipo de Baixa e Alta Fidelidade. A relação dos participantes desse processo está representada na Tabela 8.
 
 | Avaliação          | Metodologia          | Avaliador(es)          | Número e nome dos participantes | Relato dos resultados  |
 | ------------------ | -------------------- | ---------------------- | ------------------------------- | ---------------------- |
@@ -243,7 +243,7 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 | Avaliação do Protótipo de Alta Fidelidade | Método de observação - Teste de Usabilidade | Bruno Ribeiro e Igor Penha | 5 </br> 1 - João Nobrega </br> 2 - Ana Beatriz </br> 3 - Virginia Rebehy </br> 4 - Liliane </br> 5 - Victor Hugo | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta)      |
 
 <div align="center">
-<p> Tabela 3: Relação das ferramentas utilizadas no projeto. (Fonte: GOMES, Larissa. 2023).</p>
+<p> Tabela 8: Relação das ferramentas utilizadas no projeto. (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Verificação dos Artefatos
