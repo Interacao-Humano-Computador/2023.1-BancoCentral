@@ -1,20 +1,21 @@
-<div class="body" align="justify">
+<div class="body">
 
 # Entrega Final 
 
 ## Introdução
 
-&emsp;&emsp;Este relatório apresenta os resultados do projeto realizado pelo Grupo 3 na disciplina de Interação Humano-Computador, com foco no desenvolvimento e aprimoramento do Site do Banco Central do Brasil. Ao longo do documento, serão abordados os aspectos relacionados à seleção do site, o ciclo de vida utilizado no projeto, o planejamento dos recursos e entregas, a execução do projeto e os resultados alcançados.
+<div align="justify">
+
+&emsp;&emsp; Este relatório apresenta os resultados do projeto realizado pelo Grupo 3 na disciplina de Interação Humano-Computador, com foco no desenvolvimento e aprimoramento do Site do Banco Central do Brasil. Ao longo do documento, serão abordados os aspectos relacionados à seleção do site, o ciclo de vida utilizado no projeto, o planejamento dos recursos e entregas, a execução do projeto e os resultados alcançados.
 
 ## Planejamento dos recursos e das entregas
 
-A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
-
-</div>
+&emsp;&emsp; A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
 
 ## Entregas realizadas de cada etapa
 
-A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados. É possível identificar na tabela a ocorrência de alguns autores estarem como revisores também, isso se deve ao fato de um sistema de pareamento, onde dois membros do grupo fazendo o mesmo artefato revisam o que o outro fez, mantendo assim ambos os executores informados sobre o artefato por completo.
+&emsp;&emsp; A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados. É possível identificar na tabela a ocorrência de alguns autores estarem como revisores também, isso se deve ao fato de um sistema de pareamento, onde dois membros do grupo fazendo o mesmo artefato revisam o que o outro fez, mantendo assim ambos os executores informados sobre o artefato por completo.
+</div>
 
 | Atividade | Período Planejado | Autores Planejados | Revisores Planejados | Autores | Revisores |
 | - | :-: | :-: | :-: | :-: | :-: |
@@ -31,7 +32,7 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 | [11.  Desenvolvimento das personas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas) | 25/05 - 06/05 | Bruno Ribeiro e Igor Penha | Lucas Gobbi | Bruno Ribeiro e Igor Penha | Lucas Gobbi |
 | [12. Análise das tarefas do usuário (técnicas HTA e CTT)](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas) | 25/05 - 06/05 | Larissa Gomes e Rafael Bosi | Giovanni Alvissus | Larissa Gomes e Rafael Bosi | Lucas Gobbi |
 | [13. Aspectos éticos de pesquisa envolvendo pessoas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos) | 25/05 - 06/05 | Lucas Gobbi e Bruno Ribeiro | Igor Penha | Bruno Ribeiro e Lucas Gobbi | Igor Penha |
-| [14. Criação dos cenário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios) | 25/04 - 06/05 | Larissa Gomes | Giovanni Alvissus | 	Bruno Ribeiro, Igor Penha, Lucas Gobbi e Larissa Gomes | Rafael Bosi, Larissa Gomes, Lucas Gobbi |
+| [14. Criação dos cenário](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios) | 25/04 - 06/05 | Bruno Ribeiro e Igor Penha | Giovanni Alvissus | 	Bruno Ribeiro, Igor Penha, Lucas Gobbi e Larissa Gomes | Rafael Bosi, Larissa Gomes, Lucas Gobbi |
 | [15. Definir os princípios gerais do projeto](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais) | 09/05 - 13/05  | Rafael Bosi | Bruno Ribeiro | Mizael Santos e Giovanni Alvissus | Igor Penha e Lucas Gobbi |
 | [16. Determinar as metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade) | 09/05 - 13/05 | Bruno Ribeiro e Igor Penha | Giovanni Alvissus e Mizael Santos | Igor Penha e Bruno Ribeiro | Lucas Gobbi e Bruno Ribeiro |
 | [17. Criar o guia de estilo](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo) | 09/05 - 13/05 | Giovanni Alvissus e Larissa Gomes | Igor Penha | Larissa Gomes e Giovanni Alvissus | Rafael Bosi |
@@ -58,7 +59,9 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 
 ## Ferramentas utilizadas
 
+<div align="justify">
 &emsp;&emsp;As ferramentas listadas na Tabela 1 representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o desenvolvimento do projeto, que foi realizado em volta do site do [Banco Central do Brasil](https://www.bcb.gov.br/).
+</div>
 
 | Ferramentas | Etapa que foi utilizado | Finalidade |
 | :-: | :-: | :-: | 
@@ -80,10 +83,14 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 </div>
 
 ## Ciclo de vida
+
 <div align="justify">
+
 &emsp;&emsp;A complexidade de um design de interfaces em software reunindo a experiência de usuário tornou necessária a área de Interação Humano Computador. Com a proposta de criar metodologias para o desenvolvimento de um design que satisfaça o usuário, foram elaboradas diversas abordagens iterativas para esse desenvolvimento, denominadas ciclos de vida. A Engenharia de Usabilidade de Mayhew (Figura 1) apresenta uma síntese bem elaborada para organização e elaboração das atividades referente a construção da interface. Visto o contato com o usuário no desenvolvimnto destas atividades, é possível desenvolver um projeto fidedigno as expectativas das partes interessadas.
 
 &emsp;&emsp;A definição desse ciclo de vida despertou o desejo por sua utilização nos desenvolvedores do projeto, visto que a inexperiência com design, requer uma longa e bem elaborada metodologia de desenvolvimento. Portanto o ciclo de vida de Mayhew foi utilizado para elaboração do <a href=”https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma”>cronograma</a> visando atender as atividades propostas de <b>análise de requisitos e design, avaliação e desenvolvimento</b>. Vale ressaltar que a etapa de <b>instalação</b> não foi executada precisa, pois o projeto já foi concluído.
+
+</br>
 
 <a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2023.1-VideoLAN/main/docs/img/processo-design/ciclodemayhew.png">Ciclo de vida Mayhew</a>
 
@@ -92,40 +99,44 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 </div>
 
 ## Análise de Requisitos
+
 <div align="justify">
+
 &emsp;&emsp;Na primeira etapa de desenvolvimento, denominada análise de requisitos, são decididas as <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade">metas de usabilidade</a>, a qual é muito importante para o design final da interface de forma a servir como parametro de usabilidade, também apartir do <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">perfil dos usuários</a>, <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas">análise de tarefas</a>, <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/caracteristicas_da_plataforma">possibilidades e limitações da plataforma</a> em que o sistema será executado e <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais">princípios gerais</a>. frequentemente as metas de usabilidade costumam ser apresentadas em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo">guias de estilos</a> para auxiliar sua verificação durante as demais atividades do processo [1].
 
 <p>A tabela 3 apresenta como foi elaborada esta etapa.</p>
 
+</div>
+
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
 |       <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/perfil_usuario">Perfil dos Usuários</a>       |       Mizael Santos e Giovanni Alvissus       | Igor Penha |
-|       <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas">Análise de Tarefas</a>      |    Larissa Gomes     | Rafael Bosi  |
+|       <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/analise_tarefas">Análise de Tarefas</a>      |    Larissa Gomes e Rafael Bosi    | Larissa Gomes e Rafael Bosi  |
 |        <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos">Aspectos Éticos</a>        |        Bruno Ribeiro e Lucas Gobbi        |  Igor Penha   |
 |               <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/cenarios">Cenários</a>               |        Bruno Ribeiro, Igor Penha e Lucas Gobbi         | Larissa Gomes |
 |               <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/personas">Personas</a>                 |      Bruno Ribeiro e Igor Penha       | Lucas Gobbi  |
-|         <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo">Guias de Estilos</a>          | Larissa Gomes | Rafael Bosi |
+|         <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/guia_estilo">Guias de Estilos</a>          | Giovanni Alvissus e Larissa Gomes | Rafael Bosi |
 |     <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/metas_usabilidade">Metas de Usabilidade</a>     |       Igor Penha e Bruno Ribeiro      | Lucas Gobbi |
 | <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais">Princípios Gerais</a> |          Rafael Bosi          | Mizael Santos  |
 | <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/caracteristicas_da_plataforma">Características da plataforma</a> | Lucas Gobbi | Igor penha |
 
 <div text-align: center>
-<<<<<<< HEAD
-<p>Tabela 3: Síntese dos artefatos realizados.<p>
-=======
 <p>Tabela 3: Síntese dos artefatos realizados. (Fonte: SANTOS, Mizael. 2023)<p>
->>>>>>> 95178e5 (documento finalizado)
 </div>
 
 ## Design, Avaliação e Desenvolvimento
+
 <div align="justify">
+
 &emsp;&emsp;Nesta etapa é apresentado três níveis de abstração e detalhamento dos designs, e protoiáção e visa obter informações importantes advinda da experiência do usuário com o design proposto, onde o objetivo final da etapa é de avaliar os resultados coletados para realizar um re-design da interface e funcionalidades que foram estabelecidas na etapa de Análise de Requisitos.
-</div>
 
 ### Nível 1
+
 &emsp;&emsp;Neste nível é apresentado o maior grau de abstração, onde existem apenas planos e conceitos que serão analisados para construção de um design menos abastado. É apresentado atividades focadas no usuário tal como sua motivação para realizar essas tarefas propostas e como ele vai realizar elas. Evidenciadas em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados">Análise de Tarefas</a> e nos <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados">Storyboards</a> 
 
 <p>A Tabela 4 apresenta o nível 1 realizado no projeto a respeito do Design, Avaliação e Desenvolvimento </p>
+
+</div>
 
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
@@ -140,9 +151,14 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 </div>
 
 ### Nível 2
+
+<div align="justify">
+
 &emsp;&emsp;Neste nível é apresentado um grau intermediário de abstração, onde pode ser visto o planejamento e desenvolvimento de um protótipo de baixa fidelidade cujo a função é verificar problemas de usabilidade em fases prematura de design, onde o usuário participa ativamente da simulação dinâmica. Evidenciados em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados">Protótipo de papel</a>
 
 <p>A Tabela 5 apresenta o nível 2 realizado no projeto a respeito do Design, Avaliação e Desenvolvimento. </p>
+
+</div>
 
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
@@ -153,12 +169,18 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 <p>Tabela 5: Síntese dos artefatos realizados no nível 2. (Fonte: SANTOS, Mizael. 2023)<p>
 
 ### Nível 3
+
+<div align="justify">
+
 &emsp;&emsp;Neste nível é apresentado uma protipação que tem como objtivo ser fidedigna ao design inspirado, apresentando mais detalhamentos e é baseada na <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados">Protótipo de papel</a>, cujo a função é verificar problemas de usabilidade em fases avançadas do desenvolvimento juntamente ao usuário que participa ativamente dos testes de usabilidade desenvolvidos. Evidenciados em <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta">Protótipo de alta fidelidade</a>
 
 <p>A Tabela 6 apresenta o nível 3 realizado no projeto a respeito do Design, Avaliação e Desenvolvimento. </p>
 
+</br>
+
 |   Artefato      |    Autor(es)     |   Revisor(es)  |
 | :--------: | :--------------: | :--------------: |
+|     <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao">Desenvolvimento do protótipo de alta fidelidade</a>                            |     Giovanni Alvissus e Larissa Gomes    |  Rafael Bosi   |
 |     <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_avaliacao">Planejamento da avaliação do protótipo de alta fidelidade</a>                            |     Mizael Santos    |  Rafael Bosi   |
 |                <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_relato">Planejamento do relato do protótipo de alta fidelidade</a>                 |  Bruno Ribeiro, Igor Penha e Lucas Gobbi    |  Larissa Gomes   |
 |                  <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta">Relato dos resultados do protótipo de alta fidelidade</a>                          |  Mizael Santos, Rafael Bosi,  Bruno Ribeiro e Igor Penha | Larissa Gomes |
@@ -170,7 +192,11 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 
 ## Técnicas Utilizadas
 
-A tabela a seguir mostra os artefatos, técnicas utilizadas, tal como seus autores respectivamente.
+<div align="justify">
+
+&emsp;&emsp; A tabela a seguir mostra os artefatos, técnicas utilizadas, tal como seus autores respectivamente.
+
+</div>
 
 |   Artefato      |   Técnica   |   Autor(es) |
 | :--------: | :--------------: | :--------------: |
@@ -191,6 +217,8 @@ Tabela 7: Sintese das técnicas utilizadas no projeto (Fonte: SANTOS, Mizael, 20
 </div>
 
 ## Site Selecionado
+
+<div align="justify">
 
 &emsp;&emsp;A princípio, o site selecionado pelo grupo era o [VideoLAN](https://www.videolan.org), porém, ao realizarmos que essa aplicação possuia poucas funcionalidades, escolheu-se mudar para o [Banco Central do Brasil](https://www.bcb.gov.br), site do governo o qual possui diversas funcionalidades, além de termos liberdade para trabalhar-mos com essa aplicação.
 
@@ -231,9 +259,12 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 <p> Figura 1: Ciclo de vida de um software (Fonte: MAYHEW, D. 2023).</p>
 </div>
 
+
 ## Avaliações realizadas
 
 &emsp;&emsp; Durante o desenvolver do projeto, foram realizadas diversas avaliações, utilizando diferentes tipos de métodos para executá-los. Foram executadas avaliações dos diagramas de Análise de Tarefas, do Storyboard, do Protótipo de Baixa e Alta Fidelidade. A relação dos participantes desse processo está representada na Tabela 8.
+
+</div>
 
 | Avaliação          | Metodologia          | Avaliador(es)          | Número e nome dos participantes | Relato dos resultados  |
 | ------------------ | -------------------- | ---------------------- | ------------------------------- | ---------------------- |
@@ -275,9 +306,9 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 
 <div align="justify>
 
-&emsp;&emsp;Prezado Professor André Barros de Sales,
+&emsp;&emsp; Prezado Professor André Barros de Sales,
 
-&emsp;&emsp;Nós do grupo 3 (Banco Central do Brasil) gostaríamos de expressar nossa profunda gratidão por todo o conhecimento e orientação que nos foi compartilhado durante o período em que fomos seus alunos na disciplina de Interação Humano Computador (IHC) na Universidade de Brasília. Suas aulas foram uma fonte inestimável de aprendizado e inspiração. Sua abordagem apaixonada e dedicada em transmitir os conceitos complexos de IHC de maneira clara e envolvente foi verdadeiramente notável. Além disso, sua expertise e experiência no campo tornaram as discussões em sala de aula ainda mais enriquecedoras. Agradecemos especialmente pela maneira como você incentivou o pensamento crítico e a participação ativa dos alunos. Suas atividades práticas e estudos de caso nos permitiram aplicar os conceitos teóricos em situações do mundo real, o que ampliou nossa compreensão e nos preparou para enfrentar os desafios práticos da área. Sua disponibilidade em esclarecer dúvidas e fornecer feedbacks construtivos foram fundamental para nosso progresso acadêmico. Sempre que buscamos sua orientação, você demonstrou paciência e compreensão, incentivando-nos a explorar novas perspectivas e a aprimorar nossas habilidades. Além de ser um excelente professor, você também é um exemplo de profissional comprometido e apaixonado pelo que faz. Por tudo isso, queremos expressar nossa mais profunda gratidão. Seu impacto em nossa jornada acadêmica e pessoal é inegável. Obrigado por nos guiar, desafiando-nos a alcançar nosso potencial máximo e por tornar a disciplina de IHC uma experiência tão enriquecedora. Desejo a você saúde, felicidade e sucesso contínuo em todos os seus empreendimentos. Temos certeza de que muitos outros estudantes terão a sorte de cruzar seu caminho e se beneficiar de sua sabedoria e dedicação.
+&emsp;&emsp; Nós do grupo 3 (Banco Central do Brasil) gostaríamos de expressar nossa profunda gratidão por todo o conhecimento e orientação que nos foi compartilhado durante o período em que fomos seus alunos na disciplina de Interação Humano Computador (IHC) na Universidade de Brasília. Suas aulas foram uma fonte inestimável de aprendizado e inspiração. Sua abordagem apaixonada e dedicada em transmitir os conceitos complexos de IHC de maneira clara e envolvente foi verdadeiramente notável. Além disso, sua expertise e experiência no campo tornaram as discussões em sala de aula ainda mais enriquecedoras. Agradecemos especialmente pela maneira como você incentivou o pensamento crítico e a participação ativa dos alunos. Suas atividades práticas e estudos de caso nos permitiram aplicar os conceitos teóricos em situações do mundo real, o que ampliou nossa compreensão e nos preparou para enfrentar os desafios práticos da área. Sua disponibilidade em esclarecer dúvidas e fornecer feedbacks construtivos foram fundamental para nosso progresso acadêmico. Sempre que buscamos sua orientação, você demonstrou paciência e compreensão, incentivando-nos a explorar novas perspectivas e a aprimorar nossas habilidades. Além de ser um excelente professor, você também é um exemplo de profissional comprometido e apaixonado pelo que faz. Por tudo isso, queremos expressar nossa mais profunda gratidão. Seu impacto em nossa jornada acadêmica e pessoal é inegável. Obrigado por nos guiar, desafiando-nos a alcançar nosso potencial máximo e por tornar a disciplina de IHC uma experiência tão enriquecedora. Desejo a você saúde, felicidade e sucesso contínuo em todos os seus empreendimentos. Temos certeza de que muitos outros estudantes terão a sorte de cruzar seu caminho e se beneficiar de sua sabedoria e dedicação.
 
 </div>
 
