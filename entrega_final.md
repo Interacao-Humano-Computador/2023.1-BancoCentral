@@ -10,7 +10,7 @@
 
 </div>
 
-## Entregas realizadas das etapas
+## Planejamento dos recursos e das entregas
 
 A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
 
