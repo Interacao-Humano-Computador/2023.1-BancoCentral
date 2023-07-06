@@ -4,11 +4,8 @@
 
 ## Introdução
 
-<div align="justify">
+&emsp;&emsp;Este relatório apresenta os resultados do projeto realizado pelo Grupo 3 na disciplina de Interação Humano-Computador, com foco no desenvolvimento e aprimoramento do Site do Banco Central do Brasil. Ao longo do documento, serão abordados os aspectos relacionados à seleção do site, o ciclo de vida utilizado no projeto, o planejamento dos recursos e entregas, a execução do projeto e os resultados alcançados.
 
-
-
-</div>
 
 ## Planejamento dos recursos e das entregas
 
