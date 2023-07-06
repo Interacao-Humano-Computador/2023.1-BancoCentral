@@ -56,7 +56,9 @@
 ## Ferramentas utilizadas
 
 <div align="justify">
+
 &emsp;&emsp;As ferramentas listadas na Tabela 1 representam softwares que foram selecionados pelo grupo para auxiliarem e facilitarem o desenvolvimento do projeto, que foi realizado em volta do site do [Banco Central do Brasil](https://www.bcb.gov.br/).
+
 </div>
 
 | Ferramentas | Etapa que foi utilizado | Finalidade |
