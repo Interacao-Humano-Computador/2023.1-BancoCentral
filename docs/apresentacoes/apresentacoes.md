@@ -71,11 +71,20 @@ A apresentação da oitava etapa, do ponto de controle 6.2, pode ser vista no [V
 </div>
 
 ## Apresentação 9
-A apresentação da nona etapa, do ponto de controle 8, pode ser vista no [Vídeo 8](https://youtu.be/Al9GeyG8bng).
+A apresentação da nona etapa, do ponto de controle 8, pode ser vista no [Vídeo 9](https://youtu.be/Al9GeyG8bng).
 
 <iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/Al9GeyG8bng" title="Ponto de controle 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <div align="center">
 <p> <b>Vídeo 9</b>: Nona apresentação (Fonte: Grupo 3. 2023). </p>
+</div>
+
+## Apresentação final
+
+A apresentação do projeto final pode ser vista no [Vídeo 10](https://youtu.be/Al9GeyG8bng).
+
+<iframe width="1000vw" height="650vh" src="https://www.youtube.com/embed/coXB_9KgL8U" title="Ponto de controle 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div align="center">
+<p> <b>Vídeo 10</b>: Apresentação final (Fonte: Grupo 3. 2023). </p>
 </div>
 
 ## Bibliografia
@@ -94,5 +103,6 @@ A apresentação da nona etapa, do ponto de controle 8, pode ser vista no [Víde
 | 12/06/2023 | `7.0`  | Adição da apresentação 7 | [Larissa Gomes](https://github.com/larigs) | 12/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 | 19/06/2023 | `8.0`  | Adição da apresentação 8 | [Larissa Gomes](https://github.com/larigs) | 19/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 | 26/06/2023 | `9.0`  | Adição da apresentação 9 | [Larissa Gomes](https://github.com/larigs) | 19/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
+| 05/07/2023 | `10.0`  | Adição da apresentação final | [Larissa Gomes](https://github.com/larigs) | 05/07/2023 | [Giovanni Alvissus](https://github.com/giovanni1106)|
 
 </div>

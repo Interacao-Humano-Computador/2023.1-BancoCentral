@@ -371,7 +371,6 @@ Algumas observações gerais foram realizadas pelos participante, são elas:
 - Disposição dos elementos bem intuitivos
 - Barra de navegação superior auxilia muito na navegação entre as tarefas
 
-
 ## Elaboração do relato
 
 ### Correções realizadas
@@ -458,15 +457,17 @@ Além dos ajustes já realizados durante e entre as simulações, abaixo será l
 
 - Adicionar dropdown para o perfil de usuário na parte superior da side-bar.
 
+- Adicionar opção de escolher a taxa de juros de um banco direto na calculadora, tendo a alternativa de escolher a própria taxa ou a de um banco em específico.
+
 ## Conclusão
 
 <div align="justify">
 
-De modo geral pudemos perceber que a interface da tela principal ajudou com a rapidez e simplicidade na hora de acessar as atividades, porém os usuários ainda se confundem na hora de achar as atividades que precisam diante as opções, logo melhoramos as escritas e colocamos as opções onde mais houveram cliques na primeira vez que fizeram a busca. 
+&emsp;&emsp; De modo geral pudemos perceber que a interface da tela principal ajudou com a rapidez e simplicidade na hora de acessar as atividades, porém os usuários ainda se confundem na hora de achar as atividades que precisam diante as opções, logo melhoramos as escritas e colocamos as opções onde mais houveram cliques na primeira vez que fizeram a busca. 
 
-Durante as atividades específicas os botões e layouts ajudaram significamente os usuários a se guiarem pelas páginas e deixaram a simulação de uso mais coeso e curto, muito elogiado pelos usuários.
+&emsp;&emsp; Durante as atividades específicas os botões e layouts ajudaram significamente os usuários a se guiarem pelas páginas e deixaram a simulação de uso mais coeso e curto, muito elogiado pelos usuários.
   
-A melhoria e correção do protótipo foi realizada entre a segunda e terceira entrevista, sendo possível observar uma mudança notável nos resultados das interações entre o terceiro entrevistado e o protótipo, dessa forma sendo capaz de moldar bem o protótipo de papel para o de alta fidelidade.
+&emsp;&emsp; A melhoria e correção do protótipo foi realizada entre a segunda e terceira entrevista, sendo possível observar uma mudança notável nos resultados das interações entre o terceiro entrevistado e o protótipo, dessa forma sendo capaz de moldar bem o protótipo de papel para o de alta fidelidade.
 
 </div>
 

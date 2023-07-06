@@ -18,7 +18,7 @@
     - [Metodologias](planejamento/metodologias.md)
     - [Sites Avaliados](planejamento/lista_de_sites.md)
     - [Site Selecionado](planejamento/site_selecionado.md)
-    - [Projeto de Design](planejamento/processo_de_design.md)
+    - [Processo de Design](planejamento/processo_de_design.md)
 - [Análise de Requisitos I](analise_requisitos/perfil_usuario.md)
     - [Termo de Consentimento](questionarios/termo-de-consentimento-.md)
     - [Perfil de Usuário](analise_requisitos/perfil_usuario.md)
