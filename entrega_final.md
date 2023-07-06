@@ -11,7 +11,6 @@
 
 A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
 
-<div align="center">para desenvolvimento
 
 | Atividade | Período Planejado | Autores Planejados | Revisores Planejados | Autores | Revisores |
 | - | :-: | :-: | :-: | :-: | :-: |
