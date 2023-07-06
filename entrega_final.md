@@ -161,7 +161,27 @@ div text-align: center>
 
 </div>
 
+## Técnicas Utilizadas
 
+A tabela a seguir mostra os artefatos, técnicas utilizadas, tal como seus autores respectivamente.
+
+|   Artefato      |   Técnica   |   Autor(es) |
+| :--------: | :--------------: | :--------------: |
+|   Análise de Requisitos     |    Aspectos Éticos, Princípios Gerais, Perfil do Usuário, Personas, Metas de Usabilidade e Análise Documental | Larissa Gomes, Mizael Santos, Giovanni Alvissus, Bruno Ribeiro, Igor Penha, Rafael Bosi e Lucas Gobbi | 
+|   Perfil do Usuário     |  Questionário e Análise Documental     |  Mizael Santos e Giovanni Alvissus    |
+|   Análise de Tarefas   |  Análise Hierárquica de Tarefas(HTA) e  Árvores de Tarefas Concorrentes(ConcurTaskTrees – CTT) | Larissa Gomes e Rafael Bosi |
+| Avaliação da Análise de Tarefas     |    Entrevista        |  Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Rafael Bosi  | 
+|   Avaliação do StoryBoard     |     Entrevista       | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Rafael Bosi | 
+|   Avaliação do Protótipo de Papel     |   Entrevista         | Larrisa Gomes e Giovanni Alvisus |
+|   Avaliação do Protótipo de Alta Fidelidade  |  Teste de Usabilidade          | Bruno Ribeiro, Igor Penha | 
+|   Verificações    |    Inspeção, Modelo de Fagan, Checklist        |  Larissa Gomes, Mizael Santos, Giovanni Alvissus, Bruno Ribeiro, Igor Penha e Rafael Bosi |
+|   Apresentações    |      Gravações          | Larissa Gomes, Mizael Santos, Giovanni Alvissus, Bruno Ribeiro, Igor Penha e Rafael Bosi |
+ 
+<div style="text-align: center">
+<p>
+Tabela 7: Sintese das técnicas utilizadas no projeto (Fonte: SANTOS, Mizael, 2023).
+</p>
+</div>
 
 ## Site Selecionado
 
