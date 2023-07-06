@@ -10,10 +10,9 @@
 
 &emsp;&emsp;Este documento tem como objetivo marcar e mostrar as reais datas e prazos utilizados para realização das atividades requeridas pelo trabalho. O projeto é divido em pontos de controle, cada tabela de ponto de controle a seguir traça metas para um ponto de entrega de artefatos, juntamente com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 
-
 ## Cronograma Executado Ponto de Controle 1
 
-&emsp;&emsp;A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 1. Segue abaixo: 
+&emsp;&emsp;A Tabela 1 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 1.
 
 </div>
 
@@ -38,7 +37,7 @@
 
 <div align="justify">
 
-&emsp;&emsp;A Tabela 2 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 2. Segue abaixo:
+&emsp;&emsp;A Tabela 2 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 2.
 
 </div>
 
@@ -88,7 +87,7 @@
 
 <div align="justify">
 
-&emsp;&emsp;A Tabela 4 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 4. P tópico 1 está com as datas vazias devido essa atividade não ter sido realizada. Segue abaixo:
+&emsp;&emsp;A Tabela 4 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 4. P tópico 1 está com as datas vazias devido essa atividade não ter sido realizada. 
 
 </div>
 
@@ -109,6 +108,8 @@
 
 ## Cronograma Executado Ponto de Controle 5
 
+&emsp;&emsp;A Tabela 5 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 5.
+
 | Atividade | Data de entrega | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Correção dos artefatos Ponto de Controle 4 | - | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | - | Giovanni Alvissus |
@@ -126,6 +127,8 @@
 </div>
 
 ## Cronograma Executado Ponto de Controle 6.1
+
+&emsp;&emsp;A Tabela 6.1 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 6.2.
 
 | Atividade | Data de entrega | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
@@ -146,6 +149,8 @@
     
 ## Cronograma Executado Ponto de Controle 7
 
+&emsp;&emsp;A Tabela 7 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 7.
+
 | Atividade | Data de entrega | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
 | 1. Correção dos artefatos Ponto de Controle 6.1 | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 09/06 | Giovanni Alvissus |
@@ -160,7 +165,9 @@
     <p> <b>Tabela 7</b>: Ponto de Controle Executado 7 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-## Cronograma Ponto de Controle 6.2
+## Cronograma Executado Ponto de Controle 6.2
+
+&emsp;&emsp;A Tabela 8 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 6.2.
 
 | Atividade | Data de entrega | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
@@ -180,7 +187,9 @@
     <p> <b>Tabela 8</b>: Ponto de Controle Executado 6.2 (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
-## Cronograma Ponto de Controle 8
+## Cronograma Executado Ponto de Controle 8
+
+&emsp;&emsp;A Tabela 9 fornece os dados das realizações, junto de suas datas, dos artefatos do Ponto de Controle 8.
 
 | Atividade | Data de entrega | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
@@ -217,6 +226,7 @@
 | 12/06/2023 | `7.0` | Adição ponto de controle executado 7.0 | [Larissa Gomes](https://github.com/larigs)| 12/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 19/06/2023 | `8.0` | Adição ponto de controle executado 6.2 | [Larissa Gomes](https://github.com/larigs)| 19/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 26/06/2023 | `9.0` | Adição ponto de controle executado 8 | [Larissa Gomes](https://github.com/larigs)| 26/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 01/07/2023 | `9.1` | Adição de links | [Rafael Bosi](https://github.com/StrangeUnit28) | 01/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 01/07/2023 | `10.0` | Adição de links | [Rafael Bosi](https://github.com/StrangeUnit28) | 01/07/2023 | [Bruno Ribeiro](https://github.com/BrunoRiibeiro) |
+| 04/07/2023 | `10.1` | Correção de texto e tarefas atribuidas errado | [Larissa Gomes](https://github.com/larigs) | 04/07/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>

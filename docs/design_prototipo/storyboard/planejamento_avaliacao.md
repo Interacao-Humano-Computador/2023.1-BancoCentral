@@ -138,6 +138,8 @@ O perfil dos usuários escolhidos para participarem da entrevista foram selecion
 
 Vale salientar que o entrevistador deve realizar anotações e deixar o entrevistado justificar sempre que possível, desenvolvendo seu ponto de vista. Também listar os problemas encontrados e priorizar a correção dos problemas não resolvidos.
 
+Outra pontuação importante é, todos os storyboards desenvolvidos pelo grupo estão presentes no artefato de [relato dos resultados](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados) dos storyboards.
+
 </div>
 
 
@@ -240,6 +242,7 @@ A realização de um teste piloto pode ajudá-lo a identificar quaisquer problem
 | 20/05/2023 | `1.1`  | Adicionando introdução aos temas | [Giovanni Alvissus](https://github.com/giovanni1106) | 20/05/2023 | [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 | 21/05/2023 | `1.2`  | Adicionando tabelas e textos | [Mizael Santos](https://github.com/frmiza) | 22/05/2023 |  [Bruno Ribeiro](https://github.com/brunoriibeiro) |
 | 22/05/2023 | `1.3`  | Completanto artefato | [Giovanni Alvissus](https://github.com/giovanni1106) | 23/05/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
+| 04/07/2023 | `1.4`  | Atualizando artefato com link pros storyboards | [Lucas Gobbi](https://github.com/lucasbergholz) | 04/07/2023 | [Rafael Bosi](https://github.com/StrangeUnit28) |
 </div>
 
 

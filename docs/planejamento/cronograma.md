@@ -16,27 +16,23 @@
 
 | Etapa | Título | Descrição | Entrega | Apresentação |
 |:-----------:|------------------|---------|:-----------:|:-----------:|
-| 1 | <a id="a" href="#aa">Desenvolvimento do Projeto</a> | Planejamento do Projeto e Processo de Design | 13/04/2023 | 25/04/2023 |
-| 2 | <a id="b" href="#bb">Usuários</a>  | Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas | 26/04/2023 | 08/05/2023 |
-| 3 | <a id="c" href="#cc">Análise</a>  | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e características da plataforma para o projeto (Fase: análise de requisitos) | 09/05/2023 | 16/05/2023 |
-| 4 | <a id="d" href="#dd">Desenvolvimento do Projeto</a> | Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas | 17/05/2023 | 23/05/2023 |
-| 5 | <a id="e" href="#ee">Relatorio e planejamento</a> | Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel | 24/04/2023 | 30/05/2023 |
-| 6.1 | <a id="f" href="#ff">Verificar</a>  | Verificação dos artefatos I | 01/06/2023 | 06/06/2023 |
-| 7 | <a id="g" href="#gg">Relatar</a> | Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo dealta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 07/06/2023 | 13/06/2023 |
-| 6.2 | <a id="h" href="#hh">Verificar</a>  | Verificação dos artefatos II | 14/06/2023 | 20/06/2023 |
-| 8 | <a id="j" href="#jj">Avaliar Protótipo</a> | Relato dos resultados da avaliação do protótipo de alta fidelidade | 21/06/2023 | 27/06/2023 |
-| 9 | <a id="k" href="#kk">Entrega Final</a> | Entrga final | 04/07/2023 | 05/07/2023 |
+| 1 | Desenvolvimento do Projeto | Planejamento do Projeto e Processo de Design | 13/04/2023 | 25/04/2023 |
+| 2 | Usuários | Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas | 26/04/2023 | 08/05/2023 |
+| 3 | Análise  | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e características da plataforma para o projeto (Fase: análise de requisitos) | 09/05/2023 | 16/05/2023 |
+| 4 | Desenvolvimento do Projeto | Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas | 17/05/2023 | 23/05/2023 |
+| 5 | Relatorio e planejamento | Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel | 24/04/2023 | 30/05/2023 |
+| 6.1 | Verificar  | Verificação dos artefatos do grupo 4 | 01/06/2023 | 06/06/2023 |
+| 7 | Relatar | Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo dealta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 07/06/2023 | 13/06/2023 |
+| 6.2 | Verificar  | Verificação dos artefatos | 14/06/2023 | 20/06/2023 |
+| 8 | Avaliar Protótipo | Relato dos resultados da avaliação do protótipo de alta fidelidade | 21/06/2023 | 27/06/2023 |
+| 9 | Entrega Final | Entrga final | 04/07/2023 | 05/07/2023 |
 
 <div style="text-align: center">
     <p> <b>Tabela 1</b>: Cronograma Geral (Fonte: SANTOS, Mizael. 2023).</p>
 </div>
 
-<a id="aaaa" href="#aaa">Voltar</a>
-
 
 ## Cronograma Ponto de Controle 1
-
-&emsp;&emsp;<a id="aa" href="#a">Tabela 2 destinada a detalhar as entregas da etapa 1 do projeto</a>
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
@@ -49,14 +45,12 @@
 | [7. Criação do GitPage](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#) | 17/04 - 23/04 | Larissa Gomes | 23/04  | Lucas Gobbi |
 | [8. Gravação da apresentação](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/apresentacoes/apresentacoes?id=apresenta%c3%a7%c3%a3o-1) | 23/04 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 23/04 | Rafael Bosi |
 | 9. Edição da apresentação | 23/04 - 24/04 | Mizael Santos | 23/04 - 24/04 | Giovanni Alvissus |
-| [10. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-1) | 23/04 | Larissa Gomes | 23/04 | Giovanni Alvissus |
+| [10. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-1) | 23/04 | Rafael Bosi | 23/04 | Giovanni Alvissus |
 <div style="text-align: center">
     <p> <b>Tabela 2</b>: Ponto de Controle 1 (Fonte: SANTOS, Mizael. 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 2
-
-&emsp;&emsp;<a id="bb" href="#b">Tabela 3 destinada a detalhar as entregas da etapa 2 do projeto</a>
 
 | Atividade | Período para desenvolvimento | Autores| Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
@@ -77,8 +71,6 @@
 
 ## Cronograma Ponto de Controle 3
 
-&emsp;&emsp;<a id="cc" href="#c">Tabela 4 destinada a detalhar as entregas da etapa 3 do projeto</a>
-
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Correção dos artefatos Ponto de Controle 2 | 09/05 - 11/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 11/05 - 12/05 | Larissa Gomes |
@@ -89,15 +81,13 @@
 | [6. Atualizar GitPage](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#) | 13/05 - 14/05 | Larissa Gomes | 14/05 | Lucas Gobbi |
 | [7. Gravação da apresentação](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/apresentacoes/apresentacoes?id=apresenta%c3%a7%c3%a3o-3) | 14/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi| 14/05 | Rafael Bosi |
 | 8. Edição da apresentação | 14/05 - 15/05 | Bruno Ribeiro | 14/05 - 15/05 | Rafael Bosi |
-| [9. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-3) | 14/04 | Larissa Gomes | 14/04 | Giovanni Alvissus |
+| [9. Cronograma Executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-3) | 14/04 | Bruno Ribeiro | 14/04 | Giovanni Alvissus |
 
 <div style="text-align: center">
     <p> <b>Tabela 4</b>: Ponto de Controle 3 (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 4
-
-&emsp;&emsp;<a id="dd" href="#d">Tabela 5 destinada a detalhar as entregas da etapa 4 do projeto</a>
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
@@ -117,8 +107,6 @@
 
 ## Cronograma Ponto de Controle 5
 
-&emsp;&emsp;<a id="ee" href="#e">Tabela 6 destinada a detalhar as entregas da etapa 5 do projeto</a>
-
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
 | 1. Correção dos artefatos Ponto de Controle 4 | 24/05 - 26/05 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 26/06 - 27/06 | Giovanni Alvissus |
@@ -136,8 +124,6 @@
 
 
 ## Cronograma Ponto de Controle 6.1
-
-&emsp;&emsp;<a id="ff" href="#f">Tabela 7 destinada a detalhar as entregas da etapa 6.1 do projeto</a>
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|:------------------:|---------|:-----------:|-----------|
@@ -158,8 +144,6 @@
 
 ## Cronograma Ponto de Controle 7
 
-&emsp;&emsp;<a id="gg" href="#g">Tabela 8 destinada a detalhar as entregas da etapa 7 do projeto</a>
-
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
 | 1. Correção dos artefatos Ponto de Controle 6.1 | 06/06 - 08/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 08/06 - 09/06 | Giovanni Alvissus |
@@ -168,15 +152,13 @@
 | [4. Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/planejamento_relato) | 07/06 - 09/06 | Igor Penha e Rafael Bosi | 10/06 - 11/06 | Larissa Gomes | 
 | [5. Gravação da apresentação](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/apresentacoes/apresentacoes?id=apresenta%c3%a7%c3%a3o-7) | 11/06 - 11/06 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 11/06 - 11/06 | Rafael Bosi | 
 | 6. Edição da apresentação | 12/06 - 12/06 | Bruno Ribeiro | 12/06 - 12/06 | Rafael Bosi | 
-| [7. Cronograma executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-61) | 12/06 - 12/06 | Lucas Gobbi | 12/06 - 12/06 | Igor Penha |
+| [7. Cronograma executado](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/planejamento/cronograma_realizado?id=cronograma-executado-ponto-de-controle-61) | 12/06 - 12/06 | Larissa Gomes | 12/06 - 12/06 | Igor Penha |
 
 <div style="text-align: center">
     <p> <b>Tabela 8</b>: Ponto de Controle 7 (Fonte: BOSI, Rafael. 2023).</p>
 </div>
 
 ## Cronograma Ponto de Controle 6.2
-
-&emsp;&emsp;<a id="hh" href="#h">Tabela 9 destinada a detalhar as entregas da etapa 6.2 do projeto</a>
 
 | Atividade | Período para desenvolvimento | Autores | Período de revisão | Revisores |
 |-----------|------------------|---------|-----------|-----------|
@@ -197,8 +179,6 @@
 
 ## Cronograma Ponto de Controle 8
 
-&emsp;&emsp;<a id="jj" href="#j">Tabela 10 destinada a detalhar as entregas da etapa 8 do projeto</a>
-
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
 | [1. Desenvolvimento das telas do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/prototipacao) | 21/06 - 23/06 | Giovanni Alvissus e Larissa Gomes | 21/06 - 23/06 | Lucas Gobbi |  
@@ -214,12 +194,10 @@
 
 ## Cronograma Entrega Final
 
-&emsp;&emsp;<a id="kk" href="#k">Tabela 11 destinada a detalhar as entregas da etapa final do projeto</a>
-
 | Atividade | Período de desenvolvimento | Autores | Período de revisão | Revisores |
 | ----------- | :---------: | --------- | :---------: | ----------- |
-| 1. Planejamento de verificação dos artefatos da Etapa 8 | 27/06/2023 - 230/06/2023 | Larissa Gomes e Lucas Gobbi | 01/07/2023 - 03/07/2023 | Igor Penha | 
-| 2. Relato da verificação da Etapa 8 e ajustes nos artefatos | 27/06/2023 - 30/06/2023 | Bruno Ribeiro e Mizael Santos | 01/07/2023 - 03/07/2023 | Giovanni Alvissus | 
+| 1. Correção dos artefatos | 27/06/2023 - 230/06/2023 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 01/07/2023 - 03/07/2023 | Igor Penha | 
+| 2. Criação do documento final | 27/06/2023 - 30/06/2023 | Giovanni Alvissus, Larissa Gomes, Mizael Santos e Rafael Bosi | 01/07/2023 - 03/07/2023 | Giovanni Alvissus | 
 | 3. Gravação da apresentação | 04/07/2023 - 04/07/2023 | Bruno Ribeiro, Igor Penha, Giovanni Alvissus, Larissa Gomes, Lucas Gobbi, Mizael Santos, Rafael Bosi | 04/07/2023 - 04/07/2023 | Rafael Bosi | 
 | 4. Edição da apresentação | 05/07/2023 - 05/07/2023 | Mizael Santos | 05/07/2023 - 05/07/2023 | Rafael Bosi |
 | 5. Cronograma executado | 05/07/2023 - 05/07/2023 | Rafael Bosi | 05/07/2023 - 05/07/2023 | Giovanni Alvissus |
@@ -247,6 +225,7 @@
 | 29/05/2023 | `3.0` | Correção do ponto de controle 5| [Larissa Gomes](https://github.com/larigs)| 29/05/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 05/06/2023 | `4.0` | Correção do ponto de controle 6.1| [Larissa Gomes](https://github.com/larigs)| 05/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 | 26/06/2023 | `5.0` | Correção dos pontos de controle 6.2, 7 e 8 | [Larissa Gomes](https://github.com/larigs)| 26/06/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
-| 01/07/2023 | `5.1` | Adicionando links | [Rafael Bosi](https://github.com/StrangeUnit28) | 01/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 01/07/2023 | `6.0` | Adicionando links | [Rafael Bosi](https://github.com/StrangeUnit28) | 01/07/2023 | [Lucas Gobbi](https://github.com/LucasBergholz) |
+| 04/07/2023 | `6.1` | Correção cronograma final, atividades e links quebrados | [Larissa Gomes](https://github.com/larigs) | 04/07/2023 | [Giovanni Alvissus](https://github.com/giovanni1106) |
 
 </div>
