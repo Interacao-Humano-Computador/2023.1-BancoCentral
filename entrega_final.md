@@ -7,10 +7,18 @@
 &emsp;&emsp;Este relatório apresenta os resultados do projeto realizado pelo Grupo 3 na disciplina de Interação Humano-Computador, com foco no desenvolvimento e aprimoramento do Site do Banco Central do Brasil. Ao longo do documento, serão abordados os aspectos relacionados à seleção do site, o ciclo de vida utilizado no projeto, o planejamento dos recursos e entregas, a execução do projeto e os resultados alcançados.
 
 
+<<<<<<< HEAD
 ## Planejamento dos recursos e das entregas
 
 A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados.
 
+=======
+
+</div>
+
+## Entregas realizadas de cada etapa
+
+A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores e seus revisores, tanto os planejados quanto os realizados. É possível identificar na tabela a ocorrência de alguns autores estarem como revisores também, isso se deve ao fato de um sistema de pareamento, onde dois membros do grupo fazendo o mesmo artefato revisam o que o outro fez, mantendo assim ambos os executores informados sobre o artefato por completo.
 
 | Atividade | Período Planejado | Autores Planejados | Revisores Planejados | Autores | Revisores |
 | - | :-: | :-: | :-: | :-: | :-: |
@@ -48,6 +56,9 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 | [32. Entrevista de avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta) | 23/06 - 24/06 | Bruno Ribeiro e Igor Penha | Rafael Bosi e Mizael Santos | Bruno Ribeiro e Igor Penha | Mizael Santos |
 | [33. Relato dos resultados da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta) | 24/06 - 26/06 | Rafael Bosi e Mizael Santos | Bruno Ribeiro e Igor Penha | Rafael Bosi, Igor Penha e Bruno Ribeiro | Mizael Santos |
 
+<div align="center">
+<p> Tabela 1: Relação das entregas realizadas de cada etapa. (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023).</p>
+</div>
 
 ## Ferramentas utilizadas
 
@@ -69,7 +80,7 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 | Google forms | Usado na etapa 2 | Usado para criar o formulário responsável para caracterizar o perfil de usuário. |
 
 <div align="center">
-<p> Tabela 1: Relação das ferramentas utilizadas no projeto. (Fonte: ALVISSUS, Giovanni. 2023).</p>
+<p> Tabela 2: Relação das ferramentas utilizadas no projeto. (Fonte: ALVISSUS, Giovanni. 2023).</p>
 </div>
 
 ## Ciclo de vida
@@ -218,6 +229,21 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 
 <div align="center">
 <p> Figura 1: Ciclo de vida de um software (Fonte: MAYHEW, D. 2023).</p>
+</div>
+
+## Avaliações realizadas
+
+&emsp;&emsp; Durante o desenvolver do projeto, foram realizadas diversas avaliações, utilizando diferentes tipos de métodos para executá-los. Foram executadas avaliações dos diagramas de Análise de Tarefas, do Storyboard, do Protótipo de Baixa e Alta Fidelidade. A relação dos participantes desse processo está representada na Tabela 3.
+
+| Avaliação          | Metodologia          | Avaliador(es)          | Número e nome dos participantes | Relato dos resultados  |
+| ------------------ | -------------------- | ---------------------- | ------------------------------- | ---------------------- |
+| Avaliação da Análise de Tarefas   | Método de investigação - Entrevista   | Bruno Ribeiro e Rafael Bosi  | 5 </br> 1 - João Pedro Nobrega Fernandes </br> 2 - Murilo Marques Rocha Borges </br> 3 - Luís Roberto Borges Pedrosa </br> 4 - Pedro Lucas Dourado Santos </br> 5 - Eric Gomes| [Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/analise_tarefas/relato_resultados) |
+| Avaliação do Storyboard   | Método de investigação - Entrevista | Igor Penha e Lucas Gobbi | 5 </br> 1 - João Nobrega </br> 2 - Bruno Lazar </br> 3 - Cícero Barrozo </br> 4 - Samuel Alves </br> 5 - Victor Hugo Borges | [Relato dos Resultados da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/storyboard/relato_resultados)                      |
+| Avaliação do Protótipo de Baixa Fidelidade | Método de observação - Prototipação em papel, por simulação de uso | Giovanni Alvissus e Larissa Gomes | 5 </br> 1 - João Nobrega </br> 2 - Aline Oliveira </br> 3 - Esther Silva </br> 4 - Eric Rabelo </br> 5 - Gabriela Alves | [Relato dos Resultados da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_papel/relato_resultados)         |
+| Avaliação do Protótipo de Alta Fidelidade | Método de observação - Teste de Usabilidade | Bruno Ribeiro e Igor Penha | 5 </br> 1 - João Nobrega </br> 2 - Ana Beatriz </br> 3 - Virginia Rebehy </br> 4 - Liliane </br> 5 - Victor Hugo | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/design_prototipo/prototipo_alta_fidelidade/relato_resultado_alta)      |
+
+<div align="center">
+<p> Tabela 3: Relação das ferramentas utilizadas no projeto. (Fonte: GOMES, Larissa. 2023).</p>
 </div>
 
 ## Verificação dos Artefatos
