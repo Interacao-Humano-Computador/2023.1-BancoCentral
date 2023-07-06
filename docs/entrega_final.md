@@ -284,6 +284,8 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 
 ## Agradecimentos
 
+<div align="justify">
+
 Prezado Professor André Barros de Sales,
 
 Nós do grupo 3 (Banco Central do Brasil) gostaríamos de expressar nossa profunda gratidão por todo o conhecimento e orientação que nos foi compartilhado durante o período em que fomos seus alunos na disciplina de Interação Humano Computador (IHC) na Universidade de Brasília.
