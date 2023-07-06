@@ -99,6 +99,16 @@ A partir, da mesma, foi possível elencar alguns pontos positivos e negativos ac
 <p><b>Tabela :</b> Síntese dos artefatos de Verificação (Fonte: BOSI, Rafael, 2023).</p>
 </div>
 
+## Agradecimentos
+
+<div align="justify>
+
+&emsp;&emsp;Prezado Professor André Barros de Sales,
+
+&emsp;&emsp;Nós do grupo 3 (Banco Central do Brasil) gostaríamos de expressar nossa profunda gratidão por todo o conhecimento e orientação que nos foi compartilhado durante o período em que fomos seus alunos na disciplina de Interação Humano Computador (IHC) na Universidade de Brasília. Suas aulas foram uma fonte inestimável de aprendizado e inspiração. Sua abordagem apaixonada e dedicada em transmitir os conceitos complexos de IHC de maneira clara e envolvente foi verdadeiramente notável. Além disso, sua expertise e experiência no campo tornaram as discussões em sala de aula ainda mais enriquecedoras. Agradecemos especialmente pela maneira como você incentivou o pensamento crítico e a participação ativa dos alunos. Suas atividades práticas e estudos de caso nos permitiram aplicar os conceitos teóricos em situações do mundo real, o que ampliou nossa compreensão e nos preparou para enfrentar os desafios práticos da área. Sua disponibilidade em esclarecer dúvidas e fornecer feedbacks construtivos foram fundamental para nosso progresso acadêmico. Sempre que buscamos sua orientação, você demonstrou paciência e compreensão, incentivando-nos a explorar novas perspectivas e a aprimorar nossas habilidades. Além de ser um excelente professor, você também é um exemplo de profissional comprometido e apaixonado pelo que faz. Por tudo isso, queremos expressar nossa mais profunda gratidão. Seu impacto em nossa jornada acadêmica e pessoal é inegável. Obrigado por nos guiar, desafiando-nos a alcançar nosso potencial máximo e por tornar a disciplina de IHC uma experiência tão enriquecedora. Desejo a você saúde, felicidade e sucesso contínuo em todos os seus empreendimentos. Temos certeza de que muitos outros estudantes terão a sorte de cruzar seu caminho e se beneficiar de sua sabedoria e dedicação.
+
+</div>
+
 ## Referência Bibliográfica
 
 [1] Mayhew, D. J. (1999). The Usability Engineering Lifecycle: A Practitioner's Handbook for User Interface Design. Morgan Kaufmann.
