@@ -102,7 +102,7 @@ A Tabela 1 mostra a relação entre os artefatos entregues, seus desenvolvedores
 | <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/principios_gerais">Princípios Gerais</a> |          Rafael Bosi          | Mizael Santos  |
 | <a href="https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/caracteristicas_da_plataforma">Características da plataforma</a> | Lucas Gobbi | Igor penha |
 
-div text-align: center>
+<div text-align: center>
 <p>Tabela 3: Síntese dos artefatos realizados.<p>
 </div>
 
