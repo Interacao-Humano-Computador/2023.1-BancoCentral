@@ -40,4 +40,7 @@
 - [Verificação](verificacao/ponto_controle_1/cronograma_g4.md)
     - [Banco Central do Brasil](verificacao/ponto_controle_1/cronograma.md)
     - [Open Street Map - Grupo 4](verificacao/open_street/docs/verificacao/_sidebar.md)
+- [Entrega Final](entrega_final.md)
+    - [Gravações das entregas](gravacao_entregas.md)
+    - [Resultados Alcançados](resultados_alcancados.md)
 - [Apresentações](apresentacoes/apresentacoes.md)
